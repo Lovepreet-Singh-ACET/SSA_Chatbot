@@ -1,2 +1,3 @@
 /models/
 *.csv
+.rasa/cache/*
