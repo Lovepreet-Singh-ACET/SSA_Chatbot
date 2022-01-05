@@ -2,7 +2,7 @@ version: '3.0'
 entities: []
 slots: {}
 intents:
-- faq-AGRICU_0_Wheat_Plant-Protection-b0
+- faq-agricu_cereals_wheat_plant-protection-b0
 - greet
 - goodbye
 responses:
@@ -10,28 +10,29 @@ responses:
   - text: Hey! How are you?
   utter_goodbye:
   - text: Bye
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/control-of-weeds-in-wheat:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/control-of-weeds-in-wheat:
   - text: no spray is recomended at 70 days crop however farmer can do hand hoeng
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/how-to-control-of-root-weevil-in-wheat-crop:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/how-to-control-of-root-weevil-in-wheat-crop:
   - text: I TOLD THE KISAN 1 LITRE OF THIODAN 35 EC  IN 2 LITRE OF WATER AND MIX 20
       KG OF SOIL AND BROADCAST IN PER ACRE
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/control-of-mangnese-defy-in-wheat:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/control-of-mangnese-defy-in-wheat:
   - text: SPRAY 1 KG MANGNESE SULPAHTE IN 200 LIT WATER PER ACRE
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/control-of-zinc-defy-in-wheat:
-  - text: SPRAY 1 KG ZINC SULPAHTE MONOHYDRATE PER ACRE IN 200 LIT WATER
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/information-regarding-control-of-aphid-in-wheat:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/control-of-zinc-defy-in-wheat:
+  - text: SPRAY 1 KG ZINC SULPAHTE IN 200 LIT WATER PER ACRE or SPRAY 1 KG ZINC SULPAHTE
+      MONOHYDRATE PER ACRE IN 200 LIT WATER
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/information-regarding-control-of-aphid-in-wheat:
   - text: I TOLD SPRAY MONOCROTOPHAS  150 ML IN 100 LITER  ACRE
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/control-of-broad-leaf-weeds-in-wheat:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/control-of-broad-leaf-weeds-in-wheat:
   - text: NO SPRAY IS RECOMENDED AT THIS STAGE
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/dose-of-zinc-in-wheat-for-spraying:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/dose-of-zinc-in-wheat-for-spraying:
   - text: SPRAY 1 KG ZINC SULPAHTE IN 200 LIT WATER  HALF LIT UNSLAKED LIME
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/control-of-yellow-rust-in-wheat:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/control-of-yellow-rust-in-wheat:
   - text: spray tilt 200 in 200  lit water per acre
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/information-regarding-zinc-diffiency-in-wheat:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/information-regarding-zinc-diffiency-in-wheat:
   - text: I TOLD SPRAY ZINC SULPHATE  1 KG IN 200 LTR WATER
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/control-of-sulphur-in-wheat:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/control-of-sulphur-in-wheat:
   - text: BROADCAST 100 KG GYPSUM PER ACRE IN WHEAT
-  utter_faq-AGRICU_0_Wheat_Plant-Protection-b0/control-of-yellow-stripe-rust-in-wheat:
+  utter_faq-agricu_cereals_wheat_plant-protection-b0/control-of-yellow-stripe-rust-in-wheat:
   - text: SPRAY TILT  200 ML IN 200 LIT WATER PER ACRE
 forms: {}
 e2e_actions: []

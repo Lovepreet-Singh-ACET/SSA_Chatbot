@@ -15,5 +15,5 @@ rules:
 
 - rule: for Plant-Protection
   steps:
-  - intent: faq-AGRICU_0_Wheat_Plant-Protection-b0
-  - action : utter_faq-AGRICU_0_Wheat_Plant-Protection-b0
+  - intent: faq-agricu_cereals_wheat_plant-protection-b0
+  - action : utter_faq-agricu_cereals_wheat_plant-protection-b0
