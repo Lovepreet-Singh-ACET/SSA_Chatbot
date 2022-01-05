@@ -16,6 +16,26 @@ nlu:
     - goodevening
     - good afternoon
 
+- intent: ok
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+    - perfectly said
+    - hey thanks
+    - Ok
+    - OK sure
+    - ok
+    - okay
+    - done
+    - its over form my side
+    - Done
+    - yes its' over
+    - okay its done
+
 - intent: goodbye
   examples: |
     - cu
@@ -89,7 +109,7 @@ nlu:
     - am I talking to a bot?
     - am I talking to a human?
 
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/control-of-weeds-in-wheat
+- intent: faq-agri-wheat-b0/control-of-weeds-in-wheat
   examples: |
     - control of weeds in wheat
     - how the weed can be controled in the wheat
@@ -98,7 +118,7 @@ nlu:
     - Weed management in wheat
     - weed control in wheat crop.
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/how-to-control-of-root-weevil-in-wheat-crop
+- intent: faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop
   examples: |
     - how to control of root weevil in wheat crop
     - Is there a way to control root weevil in wheat
@@ -107,7 +127,7 @@ nlu:
     - methods to manage root weevil in wheat crops
     - ways to manage root weevil in wheat crop
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/control-of-mangnese-defy-in-wheat
+- intent: faq-agri-wheat-b0/control-of-mangnese-defy-in-wheat
   examples: |
     - control of mangnese defy in wheat
     - Mangnese defy control in wheat
@@ -115,7 +135,7 @@ nlu:
     - control of maganese resisit in the wheat.
     - in wheat crop how to manage the maganese content.
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/control-of-zinc-defy-in-wheat
+- intent: faq-agri-wheat-b0/control-of-zinc-defy-in-wheat
   examples: |
     - control of zinc defy in wheat
     - zinc defy control in wheat
@@ -123,7 +143,7 @@ nlu:
     - control of zinc resisit in the wheat.
     - in wheat crop how to manage the zinc content.
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/information-regarding-control-of-aphid-in-wheat
+- intent: faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat
   examples: |
     - information regarding control of aphid in wheat
     - information about aphid control in wheat
@@ -133,7 +153,7 @@ nlu:
     - information on the management of aphids in wheat
     - info on the control of aphids in wheat
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/control-of-broad-leaf-weeds-in-wheat
+- intent: faq-agri-wheat-b0/control-of-broad-leaf-weeds-in-wheat
   examples: |
     - control of broad leaf weeds in wheat
     - Wheat broad leaf weed control
@@ -142,7 +162,7 @@ nlu:
     - in wheat crop how to control the broad leaf weeds
     - control of wide leaf weeds in wheat.
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/dose-of-zinc-in-wheat-for-spraying
+- intent: faq-agri-wheat-b0/dose-of-zinc-in-wheat-for-spraying
   examples: |
     - dose of zinc in wheat for spraying
     - zinc dose in wheat for spraying
@@ -150,7 +170,7 @@ nlu:
     - zinc dosage in wheat for spraying
     - in wheat crop zinc dosage for spraying
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/control-of-yellow-rust-in-wheat
+- intent: faq-agri-wheat-b0/control-of-yellow-rust-in-wheat
   examples: |
     - control of yellow rust in wheat
     - yellow rust control in wheat
@@ -159,7 +179,7 @@ nlu:
     - In wheat crop how to handle yellow rust.
     - how to tackle problem of yellow rust in wheat.
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/information-regarding-zinc-diffiency-in-wheat
+- intent: faq-agri-wheat-b0/information-regarding-zinc-diffiency-in-wheat
   examples: |
     - information regarding zinc diffiency in wheat
     - how to tackle zinc deficiency in wheat crop
@@ -168,7 +188,7 @@ nlu:
     - there is zinc deficiency in wheat land, how to handle this situation.
     - my wheat is having zinc deficiency how to overcome this. 
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/control-of-sulphur-in-wheat
+- intent: faq-agri-wheat-b0/control-of-sulphur-in-wheat
   examples: |
     - control of sulphur in wheat
     - how to control sulpher in whaeat crop
@@ -178,7 +198,7 @@ nlu:
     - ways to keep sulphur levels in wheat crops under control
     - methods to control sulphur level in wheat
     
-- intent: faq-agricu_cereals_wheat_plant-protection-b0/control-of-yellow-stripe-rust-in-wheat
+- intent: faq-agri-wheat-b0/control-of-yellow-stripe-rust-in-wheat
   examples: |
     - control of yellow stripe rust in wheat
     - how to control yellow stripe rust in whaeat crop

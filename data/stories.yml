@@ -5,7 +5,18 @@ stories:
 - story: happy path
   steps:
   - intent: greet
-  - action: utter_greet
+  - action: action_slot_setter
+
+
+
+# - story: happy_path-domain-specifc
+#   steps:
+#   - intent: greet
+#   - action: action_slot_setter
+#   - slot_was_set:
+#     - intent_button : "faq-Agriculture"
+#   - intent: faq-agri-wheat-b0
+#   - action : action_viz_faq
 
 # - story: sad path 1
 #   steps:

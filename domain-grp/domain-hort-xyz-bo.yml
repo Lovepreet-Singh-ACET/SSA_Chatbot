@@ -1,0 +1,22 @@
+version: "3.0"
+config:
+  store_entities_as_slots: true
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
+
+intents:
+  - faq-hort-dummycrop-b0
+
+responses:
+
+  utter_faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop:
+  - text: dummy answer for horticulture.
+
+  utter_faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop:
+  - text: dummy answer2 for horticulture.
+
+
+actions:
+  - action_slot_setter
+  - action_viz_faq

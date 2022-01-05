@@ -2,6 +2,11 @@ version: "3.0"
 
 rules:
 
+- rule : greet
+  steps:
+  - intent: greet
+  - action: action_slot_setter
+
 - rule: Say goodbye anytime the user says goodbye
   steps:
   - intent: goodbye
@@ -12,8 +17,18 @@ rules:
 #   - intent: bot_challenge
 #   - action: utter_iamabot
 
-
 - rule: for Plant-Protection
   steps:
-  - intent: faq-agricu_cereals_wheat_plant-protection-b0
-  - action : utter_faq-agricu_cereals_wheat_plant-protection-b0
+  - intent: faq-agri-wheat-b0
+  - action : action_viz_faq
+
+- rule: for dummycrop
+  steps:
+  - intent: faq-hort-dummycrop-b0
+  - action : action_viz_faq
+
+# - rule: for Plant-Protection
+#   steps:
+#   - intent: faq-agri-wheat-b0
+#   - action : utter_faq-agri-wheat-b0
+

@@ -28,7 +28,11 @@ pipeline:
 
   - name: ResponseSelector
     epochs: 100
-    retrieval_intent: faq-agricu_cereals_wheat_plant-protection-b0 # for faq-train-b0 specific questions
+    retrieval_intent: faq-agri-wheat-b0 # for faq-train-b0 specific questions
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-hort-dummycrop-b0
 
   - name: FallbackClassifier
     threshold: 0.75
