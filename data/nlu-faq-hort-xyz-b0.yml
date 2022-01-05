@@ -1,0 +1,19 @@
+version: "3.0"
+nlu:
+- intent: faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop
+  examples: |
+    - information regarding control of caterpillar in dummycrop
+    - information about caterpillar control in dummycrop
+    - facts on caterpillar control in dummycrop
+    - knowledge on caterpillar control in dummycrop
+    - dummycrop caterpillar management information
+    - information on the management of caterpillar in dummycrop
+    - info on the control of caterpillar in dummycrop
+
+- intent: faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop
+  examples: |
+    - control of mangnese defy in dummycrop
+    - Mangnese defy control in dummycrop
+    - Mangnese resist control in dummycrop
+    - control of maganese resisit in the dummycrop.
+    - in dummycrop crop how to manage the maganese content.
