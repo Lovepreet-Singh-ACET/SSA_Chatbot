@@ -39,7 +39,18 @@ Now you are ready with all the required dependencies. Let's now see how you can 
 you can train your model using below command
 > rasa train
 
-### To talk to bot in shell you need to run following 
-> rasa shell
+### To talk to bot in shell we need to run following two commands in parallel
+    > rasa shell
+    > rasa run actions
+rasa shell will provide us with a command line prompt using which we can have conversation with the bot.
 
-rasa shell will provide you a command line prompt using which you can have conversation with the bot.
+### To see bot working locally with UI
+we need first run the following to commands in parallel.
+    
+    > rasa run -m models --enable-api --cors "*" 
+    > rasa run actions
+After running the above commands. The next step is to open the <b>index.html</b> file in browser.(index.html file is present with the source code)
+
+### Note - If Got an error like "you must install a WebSocket server that is compatible with your async mode to enable it."
+    > pip install gevent-websocket
+    > pip install eventlet
