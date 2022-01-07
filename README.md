@@ -54,3 +54,8 @@ After running the above commands. The next step is to open the <b>index.html</b>
 ### Note - If Got an error like "you must install a WebSocket server that is compatible with your async mode to enable it."
     > pip install gevent-websocket
     > pip install eventlet
+
+### Note - If issue still persists
+    > pip install sanic==21.6.0
+    > pip install Sanic-Cors==1.0.0
+    > pip install sanic-routing==0.7.0
