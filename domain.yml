@@ -37,12 +37,55 @@ responses:
   - text: SPRAY 1 KG ZINC SULPAHTE IN 200 LIT WATER  HALF LIT UNSLAKED LIME
   utter_faq-agri-wheat-b0/control-of-yellow-rust-in-wheat:
   - text: spray tilt 200 in 200  lit water per acre
-  utter_faq-agri-wheat-b0/information-regarding-zinc-diffiency-in-wheat:
-  - text: I TOLD SPRAY ZINC SULPHATE  1 KG IN 200 LTR WATER
   utter_faq-agri-wheat-b0/control-of-sulphur-in-wheat:
   - text: BROADCAST 100 KG GYPSUM PER ACRE IN WHEAT
   utter_faq-agri-wheat-b0/control-of-yellow-stripe-rust-in-wheat:
   - text: SPRAY TILT  200 ML IN 200 LIT WATER PER ACRE
+  utter_faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop:
+  - text: spray monochrotophos  300 ml in 100 litres of water per acre
+  utter_faq-agri-wheat-b0/information-regarding-control-of-termite:
+  - text: dilute one litre of thiodan 35 ec in 2 litres of water and mix with 20 kg
+      soil broadcast one acre
+  utter_faq-agri-wheat-b0/information-regarding-control-of-army-worm-in-wheat-crop:
+  - text: spraynuvandichlovos85sl or 12kg sevin or 400ml ekalux 25ec in 100litres
+      of wateracre
+  utter_faq-agri-wheat-b0/information-regarding-brown-leaf-in-wheat-crop:
+  - text: spray to tilt 25 ec  200 ml in 200 litre of water per acre
+  utter_faq-agri-wheat-b0/control-of-kernel-smut-in-wheat-crop:
+  - text: spray tilt  200 ml in 200 litres of water per acre
+  utter_faq-agri-wheat-b0/control-of-black-hopper-in-crop:
+  - text: spray monocil  150 gm in 10 litres of water per acre
+  utter_faq-agri-wheat-b0/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat:
+  - text: spray tilt 25ec  200ml in 200litres of wateracre
+  utter_faq-agri-wheat-b0/how-to-control-of-powdery-mildew-in-wheat-crop:
+  - text: spray to tilt 25 ec  200 ml in 200 litre of water per acre
+  utter_faq-agri-wheat-b0/information-regarding-control-of-tella-in-wheat:
+  - text: i told spray monocrotophas  200 ml in 100 ltr water  acre
+  utter_faq-agri-wheat-b0/deficiency-of-iron-in-wheat-crop:
+  - text: spray to ferrous sulphate  1 kg in 200 litres of wateracer
+  utter_faq-agri-wheat-b0/nformation-regarding-control-of-karnal-bunt-in-wheat:
+  - text: spray tiltfolicur 25ec  200ml in 200litres of wateracre
+  utter_faq-agri-wheat-b0/control-of-caterpiller-in-wheat-crop:
+  - text: spray to ekalux  400 ml in 100 litres of wateracre
+  utter_faq-agri-wheat-b0/control-of-cutworm-in-wheat:
+  - text: spray ekalux  300 ml in 100 lit water per acre
+  utter_faq-agri-wheat-b0/control-of-green-hopper-in-wheat-crop:
+  - text: spray rogor  200 ml in 100 litres of water per acre
+  utter_faq-agri-wheat-b0/control-of-rats-in-wheat-field:
+  - text: place half tablet of zinc phosphide per hole and burry the hole with sand
+      for fumigation
+  utter_faq-agri-wheat-b0/control-of-tabacaoo-caterpillar-in-wheat:
+  - text: do not spray anything as the crop is rady to harvest within 10 days
+  utter_faq-agri-wheat-b0/control-of-leaf-folder-in-wheat-crop:
+  - text: spray to ekalux  400 ml in 100 litres of wateracre
+  utter_faq-agri-wheat-b0/information-regarding-control-of-leaf-curl-in-wheat:
+  - text: spray to tilt 25 ec  200 ml in 200 litre of water per acre
+  utter_faq-agri-wheat-b0/information-regarding-root-rot-of-wheat:
+  - text: i told spray tilt  200ml in 200ltr water acre
+  utter_faq-agri-wheat-b0/information-regarding-control-of-black-rust-in-wheat:
+  - text: i told spray tilt 25ec  200 ml in 200 ltr water  acre
+  utter_faq-agri-wheat-b0/farmer-asks-about-the-yellow-smut-in-wheat:
+  - text: spray the tilt  200gm in 200 t of wateracre
   utter_faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop:
   - text: dummy answer for horticulture.
   utter_faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop:

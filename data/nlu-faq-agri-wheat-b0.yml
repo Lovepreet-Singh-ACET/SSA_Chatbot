@@ -127,6 +127,14 @@ nlu:
     - How can we control root weevil in wheat?
     - methods to manage root weevil in wheat crops
     - ways to manage root weevil in wheat crop
+    - How can I control root weevil in wheat crop?
+    - How can I control root weevils in wheat crops?
+    - How do you control weevil root in wheat crop?
+    - How can you control the root weevil in wheat cropping?
+    - How do I control wheat roots weevil infestation in wheat plant?
+    - How do I control root weevils in wheat crop?
+    - What are the best ways to control root weevil in wheat?
+    - What are good ways to control wheat root weevil in wheat crop?
     
 - intent: faq-agri-wheat-b0/control-of-mangnese-defy-in-wheat
   examples: |
@@ -140,10 +148,20 @@ nlu:
   examples: |
     - control of zinc defy in wheat
     - zinc defy control in wheat
-    - zinc resist control in wheat
     - control of zinc resisit in the wheat.
     - in wheat crop how to manage the zinc content.
-    
+    - information regarding zinc diffiency in wheat
+    - how to tackle zinc deficiency in wheat crop
+    - how to deal with zinc deficiency in wheat
+    - how to deal with zinc deficit in wheat
+    - there is zinc deficiency in wheat land, how to handle this situation.
+    - my wheat is having zinc deficiency how to overcome this
+    - control of zinc defy in wheat
+    - control of zinc defy ibn wheat
+    - control of zinc dey in wheat
+    - control fo zinc defy in wheat
+    - information regarding zinc difficency in wheat crop
+
 - intent: faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat
   examples: |
     - information regarding control of aphid in wheat
@@ -153,7 +171,36 @@ nlu:
     - Wheat aphid management information
     - information on the management of aphids in wheat
     - info on the control of aphids in wheat
-    
+    - control of aphid in wheat crop
+    - control of aphid in wheat corp
+    - how to control of aphids in wheat
+    - how to control of aphid in wheat crop
+    - farmer asks about the aphid in wheat
+    - farmer asks about the aphid on wheat
+    - control of aphid in wheat
+    - control of aphid in wehat crop
+    - aphid of wheat
+    - contrl of aphid in wheat
+    - conreol of aphid in wheat
+    - how to control of aphids in wheat crops
+    - controlof aphid in wheat
+    - cntrol of aphid in wheat ready to harvest within 10 days
+    - contro of aphid in wheat crop
+    - information regarding control of aphids in wheat crop
+    - farmer asks about the aphid attack in wheat
+    - farmer asks about the aphid on wheat crop
+    - ow to control of aphid in wheat crop
+    - control fo aphid in wheat crop
+    - how to control of aphid in wheat crop
+    - informationabout control of aphid in wheat
+    - control in aphid in wheat
+    - contrl of aphid in wheat
+    - How can you control aphids in wheat?
+    - How do I control aphid in wheat crops?
+    - How to control aphids in wheat crop?
+    - How can I control aphids in wheat crops?
+    - How do you control aphid in wheat?
+
 - intent: faq-agri-wheat-b0/control-of-broad-leaf-weeds-in-wheat
   examples: |
     - control of broad leaf weeds in wheat
@@ -170,35 +217,75 @@ nlu:
     - zinc dose for spraying in wheat 
     - zinc dosage in wheat for spraying
     - in wheat crop zinc dosage for spraying
-    
+
 - intent: faq-agri-wheat-b0/control-of-yellow-rust-in-wheat
   examples: |
-    - control of yellow rust in wheat
-    - yellow rust control in wheat
-    - management of yellow rust in wheat crop
-    - how to get rid of yellow rust in wheat.
-    - In wheat crop how to handle yellow rust.
-    - how to tackle problem of yellow rust in wheat.
-    
-- intent: faq-agri-wheat-b0/information-regarding-zinc-diffiency-in-wheat
-  examples: |
-    - information regarding zinc diffiency in wheat
-    - how to tackle zinc deficiency in wheat crop
-    - how to deal with zinc deficiency in wheat
-    - how to deal with zinc deficit in wheat
-    - there is zinc deficiency in wheat land, how to handle this situation.
-    - my wheat is having zinc deficiency how to overcome this. 
-    
+    - how to control of yellow rust in wheat
+    - control of yellow rust in wheat crop
+    - farmer asks about the yellow rust in wheat
+    - information regarding control of yellow rusts in wheat
+    - how to cotrl of yellow rust in wheat
+    - information regarding conrol of yellow rust in wheat
+    - information regarding control of yellow rust in wheat crop
+    - information regarding control of yellow rust in wheat crop
+    - how to control of yellow rust in wheat crop
+    - farmer ask how to control of yellow rust in wheat crops
+    - control of yellow rest in wheat corp
+    - informatio regardig control of yellow rust in wheat
+    - informatio regarding control of yellow rust in wheat
+    - control of yellow rust in wehat
+    - control of yellow rest in wheat
+    - information regarding control of yellow rust in wheat
+    - how to control of yellow rust
+    - contrl of yellow rust in wheat cop
+    - control of yellow leaf in wheat crop
+    - control of yellow rest in wehat crop
+    - conatrol of yellow rust in wheat crop
+    - information regarding control of yellow rust wheat
+    - information regarding yellow rust in wheat
+    - contrl of yellow rust in wheat crop
+    - control of yellow stripe rust in wheat
+    - contrl of yellow rust in wheat
+    - information regarding control of yellow rustswheat rusts
+    - farmer asks about the yellow rust in wehat
+    - information regarding yellow rust control in wheat crops
+    - contrlol of yellow rust in wheat crop
+    - control in wheat yellow rust
+    - how to control of yellow rust in wehat
+    - informaton regarding yellow rust of wheat
+    - farmer asks about the yellow smut in wheat
+    - control of yellow rest wheat crop
+    - conrol of yellow rust in wheat
+    - information regarding control ofyellow rust in wheat
+    - control oif yellow rust in wheat
+    - What can be done to control yellow rust in wheat?
+    - How do I control Yellow Rust in Wheat?
+    - How to control yellow rust in wheat?
+    - How should I control yellow rust?
+    - How do you control yellow rust in wheat?
+    - Is there any control of yellow rust on wheat crop?
+    - What is the best way to control yellow rust on wheat crop?
+    - Control of yellow rust in wheat cropping.
+    - how to control of pili kungi in wheat 
+    - How to control pili kungi infection in wheat?
+    - How can I control pili kungi in wheat?
+    - How to control pili kungi in wheat?
+    - How do I control the pili kungi in wheat?
+    - How do we control pili kungi disease in wheat?
+
 - intent: faq-agri-wheat-b0/control-of-sulphur-in-wheat
   examples: |
     - control of sulphur in wheat
     - how to control sulpher in whaeat crop
     - sulphur control in wheat
-    - ways to keep sulphur out of wheat crops
-    - how to keep sulphur out of wheat crops
     - ways to keep sulphur levels in wheat crops under control
     - methods to control sulphur level in wheat
-    
+    - control of sulphur defy in wheat
+    - control of sulfhur defy in wheat
+    - control of sulpfhur defy in wheat
+    - control of sulphuar defy in wheat
+    - contro of sulphur defy in wheat
+
 - intent: faq-agri-wheat-b0/control-of-yellow-stripe-rust-in-wheat
   examples: |
     - control of yellow stripe rust in wheat
@@ -209,409 +296,202 @@ nlu:
     - ways to keep yellow stripe rust in wheat crops under control
     - methods to control yellow stripe rust in wheat
 
-#-----------------------------------------------------------------------------------------------------------------------------------------
-- intent: faq-agri-wheat-b0/control-of-stem-borer-in-wheat
+- intent: faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop
   examples: |
     - control of stem borer in wheat
-- intent: faq-agri-wheat-b0/control-of-aphid-in-wheat-crop
-  examples: |
-    - control of aphid in wheat crop
-- intent: faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop
-  examples: |
-    - how to control of root weevil in wheat crop
+    - Control of wheat stem borer in wheat field?
+    - Is there any disease control for wheat stem borer?
+    - Control of stem borer in wheat wheat, wheat flour, grassfed, and other cereals.
+    - how can i control stem borer in wheat
+
 - intent: faq-agri-wheat-b0/information-regarding-control-of-termite
   examples: |
     - information regarding control of termite
-- intent: faq-agri-wheat-b0/control-of-weeds-in-wheat
-  examples: |
-    - control of weeds in wheat
+    - What is the best insect control method for termite control?
+    - How do termites be treated?
+    - Is there any information regarding control of termite?
+    - Control of termites?
+    - control of termite in wheat corp 
+    - How do I get rid of temite in wheat crop?
+    - What is the best control strategy against temite in wheat crop?
+    - Can temite be removed from wheat?
+
 - intent: faq-agri-wheat-b0/information-regarding-control-of-army-worm-in-wheat-crop
   examples: |
     - information regarding control of army worm in wheat crop
-- intent: faq-agri-wheat-b0/how-to-control-of-yellow-rust-in-wheat
-  examples: |
-    - how to control of yellow rust in wheat
-- intent: faq-agri-wheat-b0/control-of-aphid-in-wheat-corp
-  examples: |
-    - control of aphid in wheat corp
+    - information regarding control of army worm in wheat
+    - farmer asks about the army worm in wheat
+    - control of army worm in wheat corp
+    - information regarding control ofarmy worm in wheat crop
+    - What is the best technique to control army worm in wheat?
+    - What should be done regarding control of army worm in wheat crop?
+  
 - intent: faq-agri-wheat-b0/information-regarding-brown-leaf-in-wheat-crop
   examples: |
     - information regarding brown leaf in wheat crop
-- intent: faq-agri-wheat-b0/information-regarding-control-of-yellow-or-stripe-rustbrown-or-leaf-rustwheat-rusts
-  examples: |
-    - information regarding control of yellow or stripe rustbrown or leaf rustwheat rusts
-- intent: faq-agri-wheat-b0/control-of-yellow-rust-in-wheat-crop
-  examples: |
-    - control of yellow rust in wheat crop
+    - information regarding control of brown leaf in wheat
+    - information regarding control of brown leaf rust in wheat
+    - information control of brown leaf rust in wheay
+    - information regarding control of brown or leaf rust in wheat
+    - information regarding control of brown leaf in wheat crop
+    - how to control of brown rust in wheat crop
+    - information regarding control of brown leaf curl in wheat
+    - control of broawn rust in wheat
+    - Is broawn rust in wheat a problem?
+    - How do I control broawn rust in wheat?
+    - How can I control broawn rust in wheat?
+    - How can broawn rust be controlled in wheat?
+    - how to control of brown rust in wheat crop
+    - How can brown rust be controlled in wheat crop?
+    - How can I control brown rust in a wheat crop?
+    - What is brown rust, and how do I control it?
+    - How to control brown rust in wheat crop?
+    - How do I control brown rust in wheat crop?
+    - How can I control brown rust in wheat crop?
+
 - intent: faq-agri-wheat-b0/control-of-kernel-smut-in-wheat-crop
   examples: |
     - control of kernel smut in wheat crop
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-yellow-rust-in-wheat
-  examples: |
-    - farmer asks about the yellow rust in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-of-yellow-rusts-in-wheat
-  examples: |
-    - information regarding control of yellow rusts in wheat
+    - Control of kernel smut in wheat crop to farmers.
+    - How can we control kernel smut in wheat crop?
+    - What is the control of kernel smut in wheat crop?
+    - Control of kernel smut in wheat crop field.
+
 - intent: faq-agri-wheat-b0/control-of-black-hopper-in-crop
   examples: |
     - control of black hopper in crop
-- intent: faq-agri-wheat-b0/how-to-control-of-pili-kungi-in-wheat
-  examples: |
-    - how to control of pili kungi in wheat
-- intent: faq-agri-wheat-b0/how-to-control-of-aphids-in-wheat
-  examples: |
-    - how to control of aphids in wheat
-- intent: faq-agri-wheat-b0/how-to-cotrl-of-yellow-rust-in-wheat
-  examples: |
-    - how to cotrl of yellow rust in wheat
+    - how to control black hopper in wheat
+    - tell me how can i control black hopper in wheat
+    - how to stop black hopper to grow in crop
+    - information regarding control of black hopper in wheat crop
+
 - intent: faq-agri-wheat-b0/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat
   examples: |
     - information regarding control of flag smut or leaf smut in wheat
-- intent: faq-agri-wheat-b0/8-how-to-control-of-aphid-in-wheat-crop
-  examples: |
-    - 8 how to control of aphid in wheat crop
+    - how can i control flag smut or leaf smut in wheat
+    - tell me how to stop flag smut to grow
+    - what can i do to control leaf smut in wheat crop
+    - let me know how can i control flag smut in crop
+
 - intent: faq-agri-wheat-b0/how-to-control-of-powdery-mildew-in-wheat-crop
   examples: |
     - how to control of powdery mildew in wheat crop
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-aphid-in-wheat
-  examples: |
-    - farmer asks about the aphid in wheat
-- intent: faq-agri-wheat-b0/information-regarding-conrol-of-yellow-rust-in-wheat
-  examples: |
-    - information regarding conrol of yellow rust in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-of-yellow-rust-in-wheat-crop
-  examples: |
-    - information regarding control of yellow rust in wheat crop
-- intent: faq-agri-wheat-b0/information-regarding-control-of-yellow-rust-in-wheat-crop
-  examples: |
-    - information regarding control of yellow rust in wheat crop
-- intent: faq-agri-wheat-b0/how-to-control-of-yellow-rust-in-wheat-crop
-  examples: |
-    - how to control of yellow rust in wheat crop
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-aphid-on-wheat
-  examples: |
-    - farmer asks about the aphid on wheat
-- intent: faq-agri-wheat-b0/control-of-zinc-defy-in-wheat
-  examples: |
-    - control of zinc defy in wheat
-- intent: faq-agri-wheat-b0/control-of-zinc-defy-ibn-wheat
-  examples: |
-    - control of zinc defy ibn wheat
-- intent: faq-agri-wheat-b0/control-of-sulphur-defy-in-wheat
-  examples: |
-    - control of sulphur defy in wheat
-- intent: faq-agri-wheat-b0/farmer-ask-how-to-control-of-yellow-rust-in-wheat-crops
-  examples: |
-    - farmer ask how to control of yellow rust in wheat crops
-- intent: faq-agri-wheat-b0/control-of-zinc-dey-in-wheat
-  examples: |
-    - control of zinc dey in wheat
+    - How can I control powdery mildew in wheat?
+    - How do we control powdery mildew on wheat?
+    - How do you control powdery mildew in a wheat crop?
+    - How do I control powdery mildew in wheat crop?
+    - How can I control powdery mildew in wheat crop?
+    - How do I control powdery mildew in wheat plantation?
+    - How can we control the Powdery mildew infection in wheat crop?
+    - How to control powdery mildew infestation with wheat cropping?
+    - How to control powdery mildew on wheat?
+
 - intent: faq-agri-wheat-b0/information-regarding-control-of-tella-in-wheat
   examples: |
     - information regarding control of tella in wheat
-- intent: faq-agri-wheat-b0/control-of-aphid-in-wheat
-  examples: |
-    - control of aphid in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-of-army-worm-in-wheat
-  examples: |
-    - information regarding control of army worm in wheat
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-army-worm-in-wheat
-  examples: |
-    - farmer asks about the army worm in wheat
+    - How can I control tella in wheat?
+    - How is tella control used in wheat?
+    - What is the information regarding control of tella in wheat grains?
+    - What is the best information to control tella in wheat?
+    - Information regarding control of tella in wheat.
+
 - intent: faq-agri-wheat-b0/deficiency-of-iron-in-wheat-crop
   examples: |
     - deficiency of iron in wheat crop
-- intent: faq-agri-wheat-b0/control-of-sulfhur-defy-in-wheat
-  examples: |
-    - control of sulfhur defy in wheat
-- intent: faq-agri-wheat-b0/control-of-temite-in-wheat-crop
-  examples: |
-    - control of temite in wheat crop
-- intent: faq-agri-wheat-b0/control-of-aphid-in-wehat-crop
-  examples: |
-    - control of aphid in wehat crop
-- intent: faq-agri-wheat-b0/control-of-termite-in-wheat-corp
-  examples: |
-    - control of termite in wheat corp
-- intent: faq-agri-wheat-b0/information-regarding-control-of-brown-leaf-in-wheat
-  examples: |
-    - information regarding control of brown leaf in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-of-brown-leaf-in-wheat
-  examples: |
-    - information regarding control of brown leaf in wheat
-- intent: faq-agri-wheat-b0/control-of-yellow-rest-in-wheat-corp
-  examples: |
-    - control of yellow rest in wheat corp
-- intent: faq-agri-wheat-b0/informatio-regardig-control-of-yellow-rust-in-wheat
-  examples: |
-    - informatio regardig control of yellow rust in wheat
-- intent: faq-agri-wheat-b0/informatio-regarding-control-of-yellow-rust-in-wheat
-  examples: |
-    - informatio regarding control of yellow rust in wheat
+    - Iron content is low in wheat
+    - Deficiency of iron in wheat crop in poor wheatlands.
+    - The wheat crop lack iron
+    - how to handle iron deficiency in wheat crop
+
+# check
 - intent: faq-agri-wheat-b0/nformation-regarding-control-of-karnal-bunt-in-wheat
   examples: |
-    - nformation regarding control of karnal bunt in wheat
-- intent: faq-agri-wheat-b0/control-of-yellow-rust-in-wehat
-  examples: |
-    - control of yellow rust in wehat
+    - information regarding control of karnal bunt in wheat
+    - control of karnal bult in wheat corp 
+    - What is the control of karnal bunt in wheat corp?
+    - how to control karnal bunt in wheat
+    - i need information regarding the control of kernel bunt in wheat
+
 - intent: faq-agri-wheat-b0/control-of-caterpiller-in-wheat-crop
   examples: |
     - control of caterpiller in wheat crop
-- intent: faq-agri-wheat-b0/aphid-of-wheat
-  examples: |
-    - aphid of wheat"
-- intent: faq-agri-wheat-b0/control-of-karnal-bult-in-wheat-corp
-  examples: |
-    - control of karnal bult in wheat corp
-- intent: faq-agri-wheat-b0/information-regarding-control-of-brown-leaf-rust-in-wheat
-  examples: |
-    - information regarding control of brown leaf rust in wheat
-- intent: faq-agri-wheat-b0/information-control-of-brown-leaf-rust-in-wheay
-  examples: |
-    - information control of brown leaf rust in wheay
-- intent: faq-agri-wheat-b0/control-of-army-worm-in-wheat-corp
-  examples: |
-    - control of army worm in wheat corp
-- intent: faq-agri-wheat-b0/contrl-of-aphid-in-wheat
-  examples: |
-    - contrl of aphid in wheat
-- intent: faq-agri-wheat-b0/conreol-of-aphid-in-wheat
-  examples: |
-    - conreol of aphid in wheat
-- intent: faq-agri-wheat-b0/control-of-black-hopper-in-wheat-crop
-  examples: |
-    - control of black hopper in wheat crop
+    - How to control caterpiller in wheat crop?
+    - how can i control catepiller in wheat crop.
+    - please tell me how can i control caterpiller in my crop fields
+    - how to handel caterpillers in wheat
+
 - intent: faq-agri-wheat-b0/control-of-cutworm-in-wheat
   examples: |
     - control of cutworm in wheat
-- intent: faq-agri-wheat-b0/dose-of-zinc-in-wheat-for-spraying
-  examples: |
-    - dose of zinc in wheat for spraying
-- intent: faq-agri-wheat-b0/control-of-yellow-rest-in-wheat
-  examples: |
-    - control of yellow rest in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-of-brown-or-leaf-rust-in-wheat
-  examples: |
-    - information regarding control of brown or leaf rust in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-of-yellow-rust-in-wheat
-  examples: |
-    - information regarding control of yellow rust in wheat
-- intent: faq-agri-wheat-b0/how-to-control-of-yellow-rust
-  examples: |
-    - how to control of yellow rust
+    - how to get rid of curworm in wheat
+    - In wheat crop how to deal with cutworm issue.
+    - Cutworm control in wheat
+    - treatment of cutworm in wheat crop.
+
 - intent: faq-agri-wheat-b0/control-of-green-hopper-in-wheat-crop
   examples: |
-    - control of green hopper in wheat crop
-- intent: faq-agri-wheat-b0/contrl-of-yellow-rust-in-wheat-cop
-  examples: |
-    - contrl of yellow rust in wheat cop
-- intent: faq-agri-wheat-b0/control-of-sulpfhur-defy-in-wheat
-  examples: |
-    - control of sulpfhur defy in wheat
-- intent: faq-agri-wheat-b0/control-of-yellow-leaf-in-wheat-crop
-  examples: |
-    - control of yellow leaf in wheat crop
-- intent: faq-agri-wheat-b0/how-to-control-of-aphids-in-wheat-crops
-  examples: |
-    - how to control of aphids in wheat crops
+    - control of green hopper in wheat crop.
+    - control of leaf folder in wheat crop
+    - leaf folder problem in wheat crop
+    - how to get rid of leaf folder issue of wheat
+    - In wheat how to eradicate the leaf folder issue.
+    - how to solve the wheat leaf folder problem.
+
 - intent: faq-agri-wheat-b0/control-of-rats-in-wheat-field
   examples: |
     - control of rats in wheat field
-- intent: faq-agri-wheat-b0/control-of-yellow-rest-in-wehat-crop
-  examples: |
-    - control of yellow rest in wehat crop
+    - What is good control for rats in wheat field?
+    - information regarding how to control rat in wheat crop 
+    - How do I control rats in wheat crop?
+    - What is the best method to control a rat in a wheat crop?
+    - How can we control rats in wheat crop?
+    - How do I control rat in wheat crop and vegetables?
+    - How do I control rat in wheat crop?
+    - How can I control rat activity in wheat crop?
+
 - intent: faq-agri-wheat-b0/control-of-tabacaoo-caterpillar-in-wheat
   examples: |
     - control of tabacaoo caterpillar in wheat
+    - Control of tabacaoo caterpillar in wheat grains
+    - How can I control tabacaoo caterpillar in wheat?
+    - How do I get rid of tabacaoo caterpillar in wheat?
+
 - intent: faq-agri-wheat-b0/control-of-leaf-folder-in-wheat-crop
   examples: |
     - control of leaf folder in wheat crop
-- intent: faq-agri-wheat-b0/control-of-yello-rest-in-wheat-corp
-  examples: |
-    - control of yello rest in wheat corp
-- intent: faq-agri-wheat-b0/controlof-aphid-in-wheat
-  examples: |
-    - controlof aphid in wheat
-- intent: faq-agri-wheat-b0/conatrol-of-yellow-rust-in-wheat-crop
-  examples: |
-    - conatrol of yellow rust in wheat crop
-- intent: faq-agri-wheat-b0/information-regarding-control-of-yellow-rust-wheat
-  examples: |
-    - information regarding control of yellow rust wheat
-- intent: faq-agri-wheat-b0/control-of-karnal-bant-in-wheat
-  examples: |
-    - control of karnal bant in wheat
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-weed-control-i-n-wheat
-  examples: |
-    - farmer asks about the weed control i n wheat
-- intent: faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop
-  examples: |
-    - control of stem borer in wheat crop
-- intent: faq-agri-wheat-b0/control-of-black-hopper-in-wehat-crop
-  examples: |
-    - control of black hopper in wehat crop
-- intent: faq-agri-wheat-b0/information-regarding-yellow-rust-in-wheat
-  examples: |
-    - information regarding yellow rust in wheat
-- intent: faq-agri-wheat-b0/information-regarding-how-to-control-rat-in-wheat-crop
-  examples: |
-    - information regarding how to control rat in wheat crop
+    - leaf folder problem in wheat crop
+    - how to get rid of leaf folder issue of wheat
+    - In wheat how to eradicate the leaf folder issue.
+    - how to solve the wheat leaf folder problem.
+    
+
 - intent: faq-agri-wheat-b0/information-regarding-control-of-leaf-curl-in-wheat
   examples: |
     - information regarding control of leaf curl in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-of-brown-leaf-in-wheat-crop
-  examples: |
-    - information regarding control of brown leaf in wheat crop
-- intent: faq-agri-wheat-b0/control-of-karnel-smut-in-wheat-crop
-  examples: |
-    - control of karnel smut in wheat crop
-- intent: faq-agri-wheat-b0/contrl-of-yellow-rust-in-wheat-crop
-  examples: |
-    - contrl of yellow rust in wheat crop
-- intent: faq-agri-wheat-b0/control-of-yellow-stripe-rust-in-wheat
-  examples: |
-    - control of yellow stripe rust in wheat
-- intent: faq-agri-wheat-b0/control-of-hopper-in-crop
-  examples: |
-    - control of hopper in crop
-- intent: faq-agri-wheat-b0/contrl-of-yellow-rust-in-wheat
-  examples: |
-    - contrl of yellow rust in wheat
-- intent: faq-agri-wheat-b0/control-fo-zinc-defy-in-wheat
-  examples: |
-    - control fo zinc defy in wheat
-- intent: faq-agri-wheat-b0/control-of-broawn-rust-in-wheat
-  examples: |
-    - control of broawn rust in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-of-yellow-rustswheat-rusts
-  examples: |
-    - information regarding control of yellow rustswheat rusts
-- intent: faq-agri-wheat-b0/control-of-aphis-in-wheat
-  examples: |
-    - control of aphis in wheat
-- intent: faq-agri-wheat-b0/cntrol-of-aphid-in-wheat-ready-to-harvest-within-10-days
-  examples: |
-    - cntrol of aphid in wheat ready to harvest within 10 days
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-yellow-rust-in-wehat
-  examples: |
-    - farmer asks about the yellow rust in wehat
-- intent: faq-agri-wheat-b0/contro-of-aphid-in-wheat-crop
-  examples: |
-    - contro of aphid in wheat crop
-- intent: faq-agri-wheat-b0/control-of-sulphuar-defy-in-wheat
-  examples: |
-    - control of sulphuar defy in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-of-aphids-in-wheat-crop
-  examples: |
-    - information regarding control of aphids in wheat crop
-- intent: faq-agri-wheat-b0/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat-crop
-  examples: |
-    - information regarding control of flag smut or leaf smut in wheat crop
-- intent: faq-agri-wheat-b0/control-of-kernel-smut-in-wheat-crop
-  examples: |
-    - control of kernel smut in wheat crop
-- intent: faq-agri-wheat-b0/contrl-of-kernel-smut-in-wheat-crop
-  examples: |
-    - contrl of kernel smut in wheat crop
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-aphid-attack-in-wheat
-  examples: |
-    - farmer asks about the aphid attack in wheat
-- intent: faq-agri-wheat-b0/contro-of-sulphur-defy-in-wheat
-  examples: |
-    - contro of sulphur defy in wheat
-- intent: faq-agri-wheat-b0/control-of-termire-in-wheat-crop
-  examples: |
-    - control of termire in wheat crop
-- intent: faq-agri-wheat-b0/information-regarding-control-of-tela-in-wheat
-  examples: |
-    - information regarding control of tela in wheat
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-aqphid-on-wheat
-  examples: |
-    - farmer asks about the aqphid on wheat
-- intent: faq-agri-wheat-b0/information-regarding-yellow-rust-control-in-wheat-crops
-  examples: |
-    - information regarding yellow rust control in wheat crops
-- intent: faq-agri-wheat-b0/information-regarding-zinc-difficency-in-wheat-crop
-  examples: |
-    - information regarding zinc difficency in wheat crop
-- intent: faq-agri-wheat-b0/how-to-control-of-brown-rust-in-wheat-crop
-  examples: |
-    - how to control of brown rust in wheat crop
-- intent: faq-agri-wheat-b0/information-regarding-control-of-brown-leaf-curl-in-wheat
-  examples: |
-    - information regarding control of brown leaf curl in wheat
+    - How can the leaf curl be control in wheat?
+    - What is the information regarding control of leaf curl in wheat plant?
+    - Control of leaf curl in wheat grass.
+
 - intent: faq-agri-wheat-b0/information-regarding-root-rot-of-wheat
   examples: |
     - information regarding root rot of wheat
-- intent: faq-agri-wheat-b0/contrlol-of-yellow-rust-in-wheat-crop
-  examples: |
-    - contrlol of yellow rust in wheat crop
-- intent: faq-agri-wheat-b0/control-in-wheat-yellow-rust
-  examples: |
-    - control in wheat yellow rust
-- intent: faq-agri-wheat-b0/information-regarding-zinc-diffiency-in-wheat
-  examples: |
-    - information regarding zinc diffiency in wheat
+    - root rot problem in wheat crop
+    - how to get rid of root rot issue of wheat
+    - In wheat how to eradicate the root rot issue.
+    - how to solve the wheat root rot problem
+
 - intent: faq-agri-wheat-b0/information-regarding-control-of-black-rust-in-wheat
   examples: |
-    - information regarding control of black rust in wheat
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-aphid-on-wheat-crop
-  examples: |
-    - farmer asks about the aphid on wheat crop
-- intent: faq-agri-wheat-b0/how-to-control-of-yellow-rust-in-wehat
-  examples: |
-    - how to control of yellow rust in wehat
-- intent: faq-agri-wheat-b0/control-of-sulphur-in-wheat
-  examples: |
-    - control of sulphur in wheat
-- intent: faq-agri-wheat-b0/informaton-regarding-yellow-rust-of-wheat
-  examples: |
-    - informaton regarding yellow rust of wheat
-- intent: faq-agri-wheat-b0/ow-to-control-of-aphid-in-wheat-crop
-  examples: |
-    - ow to control of aphid in wheat crop
-- intent: faq-agri-wheat-b0/information-regarding-control-ofarmy-worm-in-wheat-crop
-  examples: |
-    - information regarding control ofarmy worm in wheat crop
-- intent: faq-agri-wheat-b0/control-of-yelloe-rust-in-wheat
-  examples: |
-    - control of yelloe rust in wheat
-- intent: faq-agri-wheat-b0/control-of-karnal-bunt-in-wheat
-  examples: |
-    - control of karnal bunt in wheat
-- intent: faq-agri-wheat-b0/how-to-control-of-aphis-in-wheat
-  examples: |
-    - how to control of aphis in wheat
-- intent: faq-agri-wheat-b0/control-fo-aphid-in-wheat-crop
-  examples: |
-    - control fo aphid in wheat crop
-- intent: faq-agri-wheat-b0/how-to-control-of-aphid-in-wheat-crop
-  examples: |
-    - how to control of aphid in wheat crop
+    - information regarding control of black rust in wheat.
+    - info regarding black rust in wheat crop
+    - how to deal with blackrust problem in wheat
+    - how to get rid of black rust problem in wheat crop
+    - in wheat how to remove black rust.
+
 - intent: faq-agri-wheat-b0/farmer-asks-about-the-yellow-smut-in-wheat
   examples: |
     - farmer asks about the yellow smut in wheat
-- intent: faq-agri-wheat-b0/control-of-yellow-rest-wheat-crop
-  examples: |
-    - control of yellow rest wheat crop
-- intent: faq-agri-wheat-b0/conrol-of-yellow-rust-in-wheat
-  examples: |
-    - conrol of yellow rust in wheat
-- intent: faq-agri-wheat-b0/informationabout-control-of-aphid-in-wheat
-  examples: |
-    - informationabout control of aphid in wheat
-- intent: faq-agri-wheat-b0/control-in-aphid-in-wheat
-  examples: |
-    - control in aphid in wheat
-- intent: faq-agri-wheat-b0/farmer-asks-about-the-arny-worm-in-wheat
-  examples: |
-    - farmer asks about the arny worm in wheat
-- intent: faq-agri-wheat-b0/information-regarding-control-ofyellow-rust-in-wheat
-  examples: |
-    - information regarding control ofyellow rust in wheat
-- intent: faq-agri-wheat-b0/contrl-of-aphid-in-wheat
-  examples: |
-    - contrl of aphid in wheat
-- intent: faq-agri-wheat-b0/control-oif-yellow-rust-in-wheat
-  examples: |
-    - control oif yellow rust in wheat
+    - how to cntrol yellow smut in the wheat
+    - how to get rid of yellow smut in wheat.
+    - in wheat crop how to eradicate yellow smut
+    - how to deal with yellow smut in wheat crop.

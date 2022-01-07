@@ -28,7 +28,7 @@ pipeline:
 
   - name: ResponseSelector
     epochs: 100
-    retrieval_intent: faq-agri-wheat-b0 # for faq-train-b0 specific questions
+    retrieval_intent: faq-agri-wheat-b0 # for faq-agri-wheat-b0
 
   - name: ResponseSelector
     epochs: 100
