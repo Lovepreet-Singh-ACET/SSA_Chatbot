@@ -25,6 +25,7 @@ responses:
 
   utter_faq-agri-wheat-b0/control-of-weeds-in-wheat:
   - text: no spray is recomended at 70 days crop however farmer can do hand hoeng
+  - text: spray 10 g algrip in 150 ltr water
 
   utter_faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop:
   - text: I TOLD THE KISAN 1 LITRE OF THIODAN 35 EC  IN 2 LITRE OF WATER AND MIX 20 KG OF SOIL AND BROADCAST IN PER ACRE
@@ -36,31 +37,38 @@ responses:
   - text: SPRAY 1 KG ZINC SULPAHTE IN 200 LIT WATER PER ACRE or SPRAY 1 KG ZINC SULPAHTE MONOHYDRATE PER ACRE IN 200 LIT WATER
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat:
-  - text: I TOLD SPRAY MONOCROTOPHAS  150 ML IN 100 LITER  ACRE
+  - text: apply 150ml rogur or 20 gms aktara 100l of water per acre
+  - text: spray 150ml rougur or 20grms aktara or 40 ml confidor in 100 l of water per acre
 
   utter_faq-agri-wheat-b0/control-of-broad-leaf-weeds-in-wheat:
-  - text: NO SPRAY IS RECOMENDED AT THIS STAGE
+  - text: spray 250 gram of 24 d sodium salt80 or 250 ml of 24 d ethyl ester 36 at 35-45 days
 
   utter_faq-agri-wheat-b0/dose-of-zinc-in-wheat-for-spraying:
   - text: SPRAY 1 KG ZINC SULPAHTE IN 200 LIT WATER  HALF LIT UNSLAKED LIME
 
   utter_faq-agri-wheat-b0/control-of-yellow-rust-in-wheat:
   - text: spray tilt 200 in 200  lit water per acre
+  - text: spray tilt 25ecpropiconazole 200 ml or nativo 75wg trifloxystrobin  tebuconazole 120g in 200 litre per acre
 
   utter_faq-agri-wheat-b0/control-of-sulphur-in-wheat:
   - text: BROADCAST 100 KG GYPSUM PER ACRE IN WHEAT
+  - text: spread 3 kg bentonate sulphur per acre in the field
 
   utter_faq-agri-wheat-b0/control-of-yellow-stripe-rust-in-wheat:
   - text: SPRAY TILT  200 ML IN 200 LIT WATER PER ACRE
 
   utter_faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop:
   - text: spray monochrotophos  300 ml in 100 litres of water per acre
+  - text: spray ekaluxquinalphose 500 ml in 100 150 litre water to cure the disease
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-termite:
   - text: dilute one litre of thiodan 35 ec in 2 litres of water and mix with 20 kg soil broadcast one acre
+  - text: spray 1 litre chlorpyriphos 20ec in 1520kg per kg sand per acre
+  - text: 15 litre chloropyriphos after mixing in 15 kg sand before irrigation
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-army-worm-in-wheat-crop:
-  - text: spraynuvandichlovos85sl or 12kg sevin or 400ml ekalux 25ec in 100litres of wateracre
+  - text: spray nuvandichlovos85sl or 12kg sevin or 400ml ekalux 25ec in 100litres of wateracre
+  - text: spray ekalux 25ecquinalphos  400500ml in 100 litres of water per acre
 
   utter_faq-agri-wheat-b0/information-regarding-brown-leaf-in-wheat-crop:
   - text: spray to tilt 25 ec  200 ml in 200 litre of water per acre
@@ -115,6 +123,71 @@ responses:
 
   utter_faq-agri-wheat-b0/farmer-asks-about-the-yellow-smut-in-wheat:
   - text: spray the tilt  200gm in 200 t of wateracre
+
+  utter_faq-agri-wheat-b0/information-regarding-yellowing-of-wheat:
+  - text: spray to npk  19 19 19   1 kg in 100 liter of water  acre
+
+#--------------------- Jan 10 2022--------------------------
+  utter_faq-agri-wheat-b0/information-regarding-for-the-pre-emergence-control-of-weeds-in-wheat-crop:
+  - text: for the control of weeds in wheat crop spray stompp and imethalen 1liter in 200liter wateracre
+
+  utter_faq-agri-wheat-b0/information-regarding-post-emergence-weed-control-in-wheat:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-seed-treatment-in-wheat:
+  - text: first treat the seed with chloropyriphos 20ec  4ml  kg of seed and then with vitavax  2gm  kg of seed
+
+  utter_faq-agri-wheat-b0/information-regarding-control-of-rodent-in-wheat:
+  - text: to control rodents make mixture of 1 kg wheat flour  20 ml vegetable oil  20 gm sugar and 25 gm zinc phosphide then place near holes in fields
+  - text: dilute 160 ml chlorpyriphos 20 ec in 1 liter of water and spray the same on 40 kg seed spread as a thin layer on the pucca ground or tarpaulin or polythene
+
+  utter_faq-agri-wheat-b0/information-regarding-the-control-of-pink-stem-borer-in-wheat:
+  - text: for control of pink stem borer in wheat  spray ekalux 25ecquinalphos  800 ml in 100 litres of water per acre
+
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-top-borer:
+  - text: apply akalux  2 ml per litre water
+
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-yellowbrown-leafrust-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-control-of-loose-smut-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-control-of-caterpillar-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/how-to-control-pink-caterpillar-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-control-of-gram-caterpillar-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-control-of-leaf-cutting-caterpillar-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-control-of-root-caterpillar-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-control-of-american-caterpillar-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-control-of-hairy-caterpillar-in-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-dose-of-npk:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-animal-husbandry:
+  - text: 
+
+  utter_faq-agri-wheat-b0/information-regarding-control-of-fungus-in-wheat:
+  - text: 
 
 actions:
 - action_slot_setter
