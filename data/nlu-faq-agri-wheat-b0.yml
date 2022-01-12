@@ -750,7 +750,6 @@ nlu:
 - intent: faq-agri-wheat-b0/information-regarding-the-control-of-pink-stem-borer-in-wheat
   examples: |
     - information regarding the control of pink stem borer in wheat 
-    # - wheat incidence of pink stem borer is observed in southwestern region of punjab if the attack reached above etl then spray quinalphos 25ec 800mlacre
     - information regarding control of pink stem borer in wheat 
     - information regarding control of pink stem borer in wheat crop
     - how to control army worm and pink stem borer in wheat crop 
@@ -792,7 +791,7 @@ nlu:
     - information of urea in wheat crop
     - information regading the urea broadcasting 
 
-# loosesmut
+# loose smut
 - intent: faq-agri-wheat-b0/information-regarding-control-of-loose-smut-in-wheat-crop
   examples: |
     - information regarding the control of loose smut in wheat
@@ -860,7 +859,7 @@ nlu:
   examples: |
     - information regarding for the control of hairy caterpillar wheat crop
 
-# pod borer
+# gram pod borer
 - intent: faq-agri-wheat-b0/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop
   examples: |
     - information regarding to control of gram pod borer in the wheat crop
@@ -884,11 +883,6 @@ nlu:
     - information regarding for the application of npk
     - information regarding for wheat npk
     - information regarding dose of npk 191919
-
-# animal husbandry
-- intent: faq-agri-wheat-b0/information-regarding-animal-husbandry 
-  examples: |
-    - information regarding animal husbandry 
 
 # fungus
 - intent: faq-agri-wheat-b0/information-regarding-control-of-fungus-in-wheat 
@@ -928,7 +922,7 @@ nlu:
     - protectio of wheat from gullidanda
 
 # herbicide
-- intent: faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop
+- intent: faq-agri-wheat-b0/information-regarding-herbicide-spray
   examples: |
     - information regarding herbicide spray on 66 days of wheat crop
     - information regarding yellowing of leaves due to herbicide spray
@@ -948,20 +942,6 @@ nlu:
   examples: |
     - information regarding to control of narrow leaf weeds in wheat
 
-# irrigation
-- intent: faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop
-  examples: |
-    - information regarding heavy irrigation in wheat crop
-    - information regarding for the last irrigation of wheat befor harwesting
-    - information regarding for the 1st irrigation
-    - information regarding 2nd water irrigation in wheat crop
-    - irrigation to wheat crop after 2225 days date of sowing
-    - information regarding for the 2nd irrigation of wheat after sowing
-    - information regarding first irrigation in wheat can be done after 21 days of sowing
-    - information regarding total irrigation in wheat
-    - information regarding time of last irrigation in wheat
-    - information regarding first irrigation in wheat irrigate wheat field after 21 days of sowing
-
 # mixed weed
 - intent: faq-agri-wheat-b0/information-regarding-control-of-mixed-weed-in-wheat-crop
   examples: |
@@ -976,16 +956,8 @@ nlu:
     - information regarding for the control of stem rot disease in wheatcrop
     - spray for stem rot disease
 
-# insects
-- intent: faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop
-  examples: |
-    - information regarding for the control of insectsblack bugwhite fly etc in wheat crop
-    - information regarding the control of insects in wheat
-    - for control of sucking type insects
-    - information regarding the control of insects in roots of wheat
-
 # jassid
-- intent: faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop
+- intent: faq-agri-wheat-b0/information-regarding-the-control-of-jassid-in-wheat
   examples: |
     - information regarding to control of jassid in wheat
     - jassid control in wheat
@@ -1040,43 +1012,6 @@ nlu:
   examples: | 
     - information regarding telachepa in wheat
 
-# growth regulator
-- intent: faq-agri-wheat-b0/information-regarding-growth-regulator-used-in-wheat-crop
-  examples: |
-    - information regarding growth regulator used in wheat crop 
-    - information regarding growth regulator used in wheat crop at time of filling stage
-    - information regarding growth regulator used in wheat crop at time of heading stage
-
-# insecticides
-- intent: faq-agri-wheat-b0/information-regarding-insecticide-for-wheat-crop
-  examples: |
-    - information regarding insecticide for wheat crop
-    - information regarding for control of insecticides in wheat
-    - informaion regarding use of insecticide in mature wheat crop
-    - information regarding the spray of insecticide in wheat without any problem
-    - information regarding nozzle used in insecticide in wheat crop
-
-# fungicide
-- intent: faq-agri-wheat-b0/information-regarding-fungicide-use-in-wheat-crop
-  examples: |
-    - information regarding fungicide use in wheat crop
-    - information regarding use of fungicide in wheat crop
-    - fungicide for wheat
-    - information regarding tilt fungicide spray in wheat crop
-    - information regarding spray of fungicide to protect the crop from fungal diseases
-    - information regarding fungicide for wheat
-    - information regarding fungicide use in wheat crop
-    - information regardind fungicide for wheat
-    - information regarding the spray of fungicide
-    - information regarding fungicide in wheat
-    - information regarding spray of fungicide in wheat
-    - fungicide for wheat
-
-# alternate blight
-- intent: faq-agri-wheat-b0/information-regarding-control-of-alternaria-blight-in-wheat-crop
-  examples: |
-    - information regarding control of alternaria blight in wheat crops
-
 # red beetle
 - intent: faq-agri-wheat-b0/information-regarding-red-beetle-in-wheat-crop
   examples: |
@@ -1087,12 +1022,6 @@ nlu:
   examples: |
     - information regarding for the control of shoot borer in wheat crop
     - information regarding for the control of early shoot borer
-
-# fertilizers
-- intent: faq-agri-wheat-b0/information-regarding-fertilizers-use-in-wheat-crop
-  examples: |
-    - information regarding fertilizers use in wheat
-    - information regarding dose of fertilizers in wheat crop
 
 # white grub
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-white-grub-in-wheat-crop
@@ -1117,12 +1046,6 @@ nlu:
     - information regarding the control of molya in wheat
     - information regarding the control of molya disease
 
-# agriculture office
-- intent: faq-agri-wheat-b0/information-regarding-agriculture-officer
-  examples: |
-    - information regarding to contact no of chief agriculture officer of bhatinda
-    - information regarding chief agriculture officer of gurdaspur
-
 # nematode
 - intent: faq-agri-wheat-b0/information-regarding-nematode-in-wheat-crop
   examples: |
@@ -1146,8 +1069,8 @@ nlu:
     - control of nematode in wheat
     - how to control nematode in wheat crop
 
-# propinazole
-- intent: faq-agri-wheat-b0/information-regarding-of-propinazole-in-wheat-crop
+# propiconazole
+- intent: faq-agri-wheat-b0/information-regarding-of-propiconazole-in-wheat-crop
   examples: |
     - information regarding the dose of tilt propiconazole 25 ec  in wheat
 
@@ -1171,12 +1094,7 @@ nlu:
 # gob wali sundi
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-gob-wali-sundi-in-wheat-crop
   examples: |
-    - information regarding control og gob wali sundi
-
-# chemical spray
-- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-last-chemical-spray-in-wheat-crop
-  examples: |
-    - information regarding the last chemical spray in wheat
+    - information regarding control of gob wali sundi
 
 # potash
 - intent: faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop
@@ -1184,18 +1102,6 @@ nlu:
     - information regarding yellowing of leaves due to potash deficiency
     - information regarding for the deficiency of potash in wheat
     - information regarding potash deficiency in wheat crop
-
-# mop
-- intent: faq-agri-wheat-b0/information-regarding-the-application-of-mop-in-wheat-crop
-  examples: |
-    - information regarding the application of mop in wheat
-    - information regarding of fertilizer in wheat crop  dap 20 kg mop
-
-# gypsum
-- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-application-of-gypsum-in-wheat-crop
-  examples: |
-    - information regarding the control of application of gypsum in wheat
-    - information regrading the application of gypsum
 
 # black mosquito
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-black-mosquito-in-wheat-crop
@@ -1212,16 +1118,6 @@ nlu:
   examples: |
     - information regarding control of white leaves in wheat
 
-# wastage
-- intent: faq-agri-wheat-b0/how-to-manage-wastege-of-wheat-crop
-  examples: |
-    - how to manage wastege of wheat crop
-
-# calcium nitrate
-- intent: faq-agri-wheat-b0/information-regarding-spray-of-calcium-nitrate-in-wheat-crop
-  examples: |
-    - information regarding spray of calcium nitrate in wheat crop
-
 # hill bunt
 - intent: faq-agri-wheat-b0/information-regarding-the-control-of-hill-bunt-in-wheat-crop
   examples: |
@@ -1232,11 +1128,6 @@ nlu:
   examples: |
     - information regarding to avoid the toxic effect of overdose fertilizer spray
 
-# tebaconazole
-- intent: faq-agri-wheat-b0/information-regarding-for-the-dose-of-tebuconazole-in-wheat-crop
-  examples: |
-    - information regarding dose of tebuconazole 25ec in wheat
-
 # confidor
 - intent: faq-agri-wheat-b0/information-regarding-use-of-confidor-in-wheat-crop
   examples: |
@@ -1244,39 +1135,10 @@ nlu:
     - information regarding use of confidor in wheat
     - information regarding control of confidor in wheat
 
-# mixing
-- intent: faq-agri-wheat-b0/information-regarding-mixing
-  examples: |
-    - information regarding mixing of growth regulator spray with insecticide
-    - information regarding mixing of pesticide for spray
-    - information regrading mixing of two sprays
-    - information regarding the mixing of fungicide and insecticide in wheat
-    - information regarding mixing of fungicide spray with insecticide
-    - information regrading mixing of insecticides and growth regulator
-
-# herbicides
-- intent: faq-agri-wheat-b0/information-regarding-herbicide-spray-in-wheat-crop
-  examples: |
-    - information regarding herbicide spray on 66 days of wheat crop
-    - information regardign herbicide spray in wheat crop
-    - information regarding herbicide control in wheat crop
-    - information regarding herbicide spray in wheat crop
-    - information regarding herbicide spray on 60 days crop
-    - information regarding spray of herbicide in 75 days age crop
-    - information regarding herbicide spray on wheat crop which is of 90 days
-    - information regarding spray of herbicide in wheat crop
-    - information regarding herbicide spray in wheat crop
-
 # shootfly
 - intent: faq-agri-wheat-b0/information-regarding-control-of-shootfly-in-wheat-crop
   examples: |
     - information regarding control of shootfly in wheat
-
-# nitrogen
-- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-shoot-borer-in-wheat-crop
-  examples: |
-    - consequences of excess nitrogen application
-    - information regarding nitrogen deficiency
 
 # germination
 - intent: faq-agri-wheat-b0/information-regarding-food-gemination-in-wheat-crop
@@ -1310,13 +1172,6 @@ nlu:
   examples: |
     - information regarding atlantis spray in wheat crop
     - regarding dose of atlantis spray
-
-# weedicide
-- intent: faq-agri-wheat-b0/information-regarding-weedicide-for-wheat-crop
-  examples: |
-    - weedicide for wheat crop
-    - regarding dose of weedicide
-    - information regarding weedicide for wheat
 
 # larvae
 - intent: faq-agri-wheat-b0/protection-against-larvae-in-wheat
