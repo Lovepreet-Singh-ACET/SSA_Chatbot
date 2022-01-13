@@ -266,56 +266,18 @@ nlu:
     - control of yellow rust in wheat crop
     - farmer asks about the yellow rust in wheat
     - information regarding control of yellow rusts in wheat
-    - how to cotrl of yellow rust in wheat
-    - information regarding conrol of yellow rust in wheat
-    - information regarding control of yellow rust in wheat crop
-    - information regarding control of yellow rust in wheat crop
-    - how to control of yellow rust in wheat crop
-    - farmer ask how to control of yellow rust in wheat crops
-    - control of yellow rest in wheat corp
-    - informatio regardig control of yellow rust in wheat
-    - informatio regarding control of yellow rust in wheat
-    - control of yellow rust in wehat
-    - control of yellow rest in wheat
-    - information regarding control of yellow rust in wheat
-    - how to control of yellow rust
-    - contrl of yellow rust in wheat cop
-    - control of yellow leaf in wheat crop
-    - control of yellow rest in wehat crop
-    - conatrol of yellow rust in wheat crop
-    - information regarding control of yellow rust wheat
-    - information regarding yellow rust in wheat
-    - contrl of yellow rust in wheat crop
-    - control of yellow stripe rust in wheat
-    - contrl of yellow rust in wheat
-    - information regarding control of yellow rustswheat rusts
-    - farmer asks about the yellow rust in wehat
-    - information regarding yellow rust control in wheat crops
-    - contrlol of yellow rust in wheat crop
-    - control in wheat yellow rust
-    - how to control of yellow rust in wehat
-    - informaton regarding yellow rust of wheat
-    - farmer asks about the yellow smut in wheat
-    - control of yellow rest wheat crop
-    - conrol of yellow rust in wheat
-    - information regarding control ofyellow rust in wheat
-    - control oif yellow rust in wheat
-    - What can be done to control yellow rust in wheat?
-    - How do I control Yellow Rust in Wheat?
-    - How to control yellow rust in wheat?
-    - How should I control yellow rust?
-    - How do you control yellow rust in wheat?
-    - Is there any control of yellow rust on wheat crop?
-    - What is the best way to control yellow rust on wheat crop?
-    - Control of yellow rust in wheat cropping.
-    - how to control of pili kungi in wheat 
-    - How to control pili kungi infection in wheat?
-    - How can I control pili kungi in wheat?
     - How to control pili kungi in wheat?
     - How do I control the pili kungi in wheat?
     - How do we control pili kungi disease in wheat?
     - information contol of stripe rust in wheat crop
     - how to control stripe rust of wheat
+    - control of yellow stripe rust in wheat
+    - how to control yellow stripe rust in whaeat crop
+    - yellow stripe rust control in wheat
+    - ways to keep yellow stripe rust out of wheat crops
+    - how to keep yellow stripe rust out of wheat crops
+    - ways to keep yellow stripe rust in wheat crops under control
+    - methods to control yellow stripe rust in wheat
 
 # sulphur
 - intent: faq-agri-wheat-b0/control-of-sulphur-in-wheat
@@ -330,17 +292,6 @@ nlu:
     - control of sulpfhur defy in wheat
     - control of sulphuar defy in wheat
     - contro of sulphur defy in wheat
-
-# yellow stripe
-- intent: faq-agri-wheat-b0/control-of-yellow-stripe-rust-in-wheat
-  examples: |
-    - control of yellow stripe rust in wheat
-    - how to control yellow stripe rust in whaeat crop
-    - yellow stripe rust control in wheat
-    - ways to keep yellow stripe rust out of wheat crops
-    - how to keep yellow stripe rust out of wheat crops
-    - ways to keep yellow stripe rust in wheat crops under control
-    - methods to control yellow stripe rust in wheat
 
 # stem borer
 - intent: faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop
@@ -1032,12 +983,6 @@ nlu:
     - attack of white grub on wheat
     - information regarding contorl of white grub in wheat
 
-# late blight
-- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-late-blight-in-wheat-crop
-  examples: |
-    - how to control late blight in potato
-    - information regarding control of late blight in wheat crop
-
 # molya disease
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-molya-disease-in-wheat-crop
   examples: |
@@ -1068,11 +1013,6 @@ nlu:
     - information regarding the control of nematodes in wheat
     - control of nematode in wheat
     - how to control nematode in wheat crop
-
-# propiconazole
-- intent: faq-agri-wheat-b0/information-regarding-of-propiconazole-in-wheat-crop
-  examples: |
-    - information regarding the dose of tilt propiconazole 25 ec  in wheat
 
 # ballworm
 - intent: faq-agri-wheat-b0/information-regarding-about-ballworm-in-wheat-crop
