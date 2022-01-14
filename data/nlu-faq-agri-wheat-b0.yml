@@ -665,12 +665,16 @@ nlu:
   examples: |
     - information regarding for the pre emergence control of weeds in wheat crop
     - information regarding weed control in wheat pre emergence
+    - pre emergence of weed control method
+    - how to control pre emergence of weed
 
 # post emergence
 - intent: faq-agri-wheat-b0/information-regarding-post-emergence-weed-control-in-wheat
   examples: |
     - information regarding post emergence weed control in wheat
     - information regarding for the post emergence control of weeds
+    - how to handle weed post emergence
+    - what to do in order to handle post weed emergence
 
 # seed treatment
 - intent: faq-agri-wheat-b0/information-regarding-seed-treatment-in-wheat
@@ -726,6 +730,9 @@ nlu:
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-yellowbrown-leafrust-in-wheat-crop
   examples: |
     - information regarding for the control of yellowbrown leaf rust in wheat crop
+    - how to control the yellow brownleaf rust in wheat
+    - is there a method to control the yellowbrown leaf rust in wheat
+    - tell me the procedure to stop the yellow brown rust in wheat crop
 
 # urea
 - intent: faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop
@@ -779,6 +786,10 @@ nlu:
 - intent: faq-agri-wheat-b0/how-to-control-pink-caterpillar-in-wheat-crop
   examples: |
     - how to control pink caterpillar in wheat crop
+    - how can i control pink caterpiller
+    - information regarding control of pink caterpiller
+    - what to do to control pink caterpiller
+    - how to handle pink caterpiller in wheat crop
 
 # gram caterpillar
 - intent: faq-agri-wheat-b0/information-regarding-control-of-gram-caterpillar-in-wheat-crop
@@ -793,22 +804,37 @@ nlu:
 - intent: faq-agri-wheat-b0/information-regarding-control-of-leaf-cutting-caterpillar-in-wheat-crop
   examples: |
     - control of leaf cutting caterpillar in wheat
+    - how to control leaf cutting caterpiller
+    - what to do in order to control leaf cutting caterpiller
+    - information regarding control of leaf cutting caterpiller
+    - help me out how to handle leaf cutting caterpiller
 
 # root caterpillar
 - intent: faq-agri-wheat-b0/information-regarding-control-of-root-caterpillar-in-wheat-crop
   examples: |
     - how to control root caterpillar in wheat crop
     - information regarding how to control root caterpillars in wheat
+    - control of root caterpillers in wheat
+    - help me with the control of root caterpillers
+    - how to handle root caterpillers
 
 # american caterpillar
 - intent: faq-agri-wheat-b0/information-regarding-control-of-american-caterpillar-in-wheat-crop
   examples: |
     - information regarding the control of american caterpillar in wheat
+    - how to control the american caterpillar in wheat
+    - how we can stop the american catepillar from our wheat crop
+    - is there any method to control the american caterpillar in wheat
+    - what are the procedures to stop the american caterpillar from our wheat crop
 
 # hairy caterpillar
 - intent: faq-agri-wheat-b0/information-regarding-control-of-hairy-caterpillar-in-wheat-crop
   examples: |
     - information regarding for the control of hairy caterpillar wheat crop
+    - hairy caterpiller control methods
+    - what to do to control hairy caterpiller
+    - how to get rid of hariy caterpillers from wheat
+    - what should be done to control hariy caterpillers
 
 # gram pod borer
 - intent: faq-agri-wheat-b0/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop
@@ -903,6 +929,7 @@ nlu:
     - information regarding control of mixed weed in wheat crop
     - information regarding for the control of mixed weed in wheat crop
     - how to control the mixed weed in wheat plant.
+    - what to do to control mixed weed in wheat crop
 
 # stem rot
 # - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-stem-rot-disease-in-wheatcrop
@@ -929,6 +956,10 @@ nlu:
 - intent: faq-agri-wheat-b0/information-regarding-spray-for-plant-hopper
   examples: |
     - spray for plant hopper
+    - how do we get rid of plant hopper from our crop wheat
+    - information regarding for the controlof plant hopper in wheat crop
+    - how we can prevent our wheat crop from plant hopper
+    - is there any method to stop the plant hopper from our wheat crop
 
 # pest
 - intent: faq-agri-wheat-b0/information-regarding-pest-control-in-wheat-crop
@@ -962,22 +993,35 @@ nlu:
   examples: |
     - information regarding the control of head blight in wheat
     - information regarding the control of head blight
+    - how to control head blight
+    - what should be done to get rid of head blight
+    - how can i stop head blight
 
 # telachepa
 - intent: faq-agri-wheat-b0/information-regarding-control-of-telachepa-in-wheat-crop
   examples: | 
     - information regarding telachepa in wheat
+    - what to do to control telachepa
+    - control of telacheap
+    - how to handle telachepa in wheat crop
 
 # red beetle
 - intent: faq-agri-wheat-b0/information-regarding-red-beetle-in-wheat-crop
   examples: |
     - information regarding red beetle
+    - how to stop the red beetle from our wheat crop
+    - tell me the procedure to get rid of red beetle
+    - how do we suppose to get rid of red beetle from our crop 
+    - what steps can be taken to get rid from the red beetle in wheat 
 
 # shoot borer
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-shoot-borer-in-wheat-crop
   examples: |
     - information regarding for the control of shoot borer in wheat crop
     - information regarding for the control of early shoot borer
+    - how to control shoot borer in wheat crop
+    - what can i do to handle shoot borer in wheat
+    - control of shoot borer in wheat can be done how?
 
 # white grub
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-white-grub-in-wheat-crop
@@ -1023,6 +1067,9 @@ nlu:
 - intent: faq-agri-wheat-b0/information-regarding-about-ballworm-in-wheat-crop
   examples: |
     - information regarding about ballworm in wheat
+    - how to handle ballworm in wheat crop
+    - what can be done to handle ballworm
+    - information regarding the control of ballworm
 
 # sundi
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-sundi-in-wheat-crop
@@ -1030,16 +1077,27 @@ nlu:
     - information regarding how to control sundi in wheat crop
     - information regarding for the control of sundi in wheat crop
     - control of sundi in wheat
+    - how to handle sundi in wheat crop
+    - what to spray to control sundi in wheat crop
 
 # amrican sundi
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-amrican-sundi-in-wheat-crop
   examples: |
-        - how to control amrican sundi in wheat crop
+    - how to control amrican sundi in wheat crop
+    - information regarding control of american sundi in wheat crop
+    - tell me the procedures to stop the american sundi in wheat crop
+    - is there a method to get rid from american sundi in wheat
+    - how do we suppose to control american sundi
 
 # gob wali sundi
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-gob-wali-sundi-in-wheat-crop
   examples: |
     - information regarding control of gob wali sundi
+    - information regarding control of gob wali sundi in wheat crop
+    - tell me the procedures to stop the gob wali sundi in wheat crop
+    - what steps can be taken to get rid from the gob wali sundi in wheat
+    - how do we suppose to control gob wali sundi
+    
 
 # potash
 - intent: faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop
@@ -1047,31 +1105,53 @@ nlu:
     - information regarding yellowing of leaves due to potash deficiency
     - information regarding for the deficiency of potash in wheat
     - information regarding potash deficiency in wheat crop
+    - how to control potash defi in wheat
+    - what to do to control potash deficiency in wheat
 
 # black mosquito
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-black-mosquito-in-wheat-crop
   examples: |
     - information regarding how to control black mosquito in wheat
+    - tell me the procedure to control the black mosquito in wheat crop
+    - how to control the black mosquito in wheat
+    - is there a method to control the black mosquito in wheat
+    - tell me the procedure to stop the black mosquito in wheat crop
 
 # ddvp
 - intent: faq-agri-wheat-b0/information-regarding-ddvp-remedy-spray-in-wheat-crop
   examples: |
     - information regarding ddvp remedy spray in wheat
+    - tell me how to use ddvp spray
+    - how to use ddvp spray
+    - in what way can ddvp spray be used
+    - tell me about the dose of ddvp spray
 
 # white leaves
 - intent: faq-agri-wheat-b0/information-regarding-for-the-white-leaves-in-wheat-crop
   examples: |
     - information regarding control of white leaves in wheat
+    - how to stop the white leaves from our wheat crop
+    - tell me the procedure to get rid of white leaves
+    - how do we suppose to get rid of white leaves from our crop 
+    - what steps can be taken to get rid from the white leaves in wheat 
 
 # hill bunt
 - intent: faq-agri-wheat-b0/information-regarding-the-control-of-hill-bunt-in-wheat-crop
   examples: |
     - information regarding the control of hill bunt in wheat
+    - tell me how to control hill bunt from wheat
+    - how we can stop hill bunt in wheat
+    - help me to get rid of hill bunt from wheat crop
+    - what are the steps to be taken to control the hill bunt in wheat crop
 
 # overdose
 - intent: faq-agri-wheat-b0/information-regarding-the-overdose-of-fertilizer-spray
   examples: |
     - information regarding to avoid the toxic effect of overdose fertilizer spray
+    - how to avoid the ill effets of overdose of fertilizers
+    - how to handle the overdose of fertilizers in wheat crop
+    - what is the approch to handle the fertilizers overdose
+    - what to do to reduce the effects of overdose of fertilizers
 
 # confidor
 - intent: faq-agri-wheat-b0/information-regarding-use-of-confidor-in-wheat-crop
@@ -1084,41 +1164,58 @@ nlu:
 - intent: faq-agri-wheat-b0/information-regarding-control-of-shootfly-in-wheat-crop
   examples: |
     - information regarding control of shootfly in wheat
-
-# germination
-- intent: faq-agri-wheat-b0/information-regarding-food-gemination-in-wheat-crop
-  examples: |
-    - inforcation regarding food germination of wheat
-    - information regarding the germination of seed after rainfall
+    - tell me the procedure to control the shootfly in wheat crop
+    - how to control the shootfly in wheat
+    - is there a method to control the shootfly in wheat
+    - tell me the procedure to stop the shootfly in wheat crop
 
 # trichoderma
 - intent: faq-agri-wheat-b0/information-regarding-trichoderma-in-wheat-crop
   examples: |
     - information regarding trichoderma
+    - how to handle trichoderma
+    - what to do to control trichoderma
+    - information regarding the control of trichoderma
 
 # kandiali palak
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-kandiali-palak-in-wheat-crop
   examples: |
     - information regarding for the control of kandiali palak in wheat crop
+    - how do we suppose to get rid of kandiali palak from our crop 
+    - what steps can be taken to get rid from the kandiali palak in wheat 
+    - tell me how to control kandiali palak weed from wheat
+    - how we can stop kandiali palak in wheat
 
 # hardiness of soil
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-hardiness-of-soil
   examples: |
     - information regarding the hardiness of soil
     - information regarding the control of hardiness of soil
+    - how to remove the handle the hardiness of soil
+    - how can hardiness of soil be handled
 
 # grasshopper
 - intent: faq-agri-wheat-b0/information-regarding-control-of-grasshopper-in-wheat-crop
   examples: |
     - information regarding control of grasshopper in wheat
+    - tell me how to control grasshopper from wheat
+    - how we can stop grasshopper in wheat
+    - help me to get rid of grasshopper from wheat crop
+    - what are the steps to be taken to control the grasshopper in wheat crop
 
 # atlantis
 - intent: faq-agri-wheat-b0/information-regarding-atlantis-spray-in-wheat-crop
   examples: |
     - information regarding atlantis spray in wheat crop
     - regarding dose of atlantis spray
+    - how to use atlantis spray
+    - what does of atlantis spray should be used
 
 # larvae
 - intent: faq-agri-wheat-b0/protection-against-larvae-in-wheat
   examples: |
     - protection against larvae in wheat
+    - is there a method to control the larvae in wheat
+    - tell me the procedure to stop the larvae in wheat crop
+    - how to stop the larvae from our wheat crop
+    - tell me the procedure to get rid of larvae

@@ -22,6 +22,8 @@ responses:
   - text: "Hey! How are you?"
   utter_goodbye:
   - text: "Bye"
+  utter_ok:
+  - text: "Thank You!!  \n Please type your questions in the chat"
 
   utter_faq-agri-wheat-b0/control-of-weeds-in-wheat:
   - text: FOR CONTROL OF WEEDS IN WHEAT CROP NO SPRAY RECOMMENDATION OF HERBICIDE AFTER 45 DAYS OF SWOING. #2019

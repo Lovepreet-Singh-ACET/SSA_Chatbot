@@ -41,7 +41,6 @@ from rasa_sdk.executor import CollectingDispatcher
 #         return []
 
 class ActionSlotSetter(Action):
-
     def name(self) -> Text:
         return "action_slot_setter"
 
@@ -52,19 +51,13 @@ class ActionSlotSetter(Action):
            {"payload":'/ok{"intent_button":"faq-agriculture"}',"title":"Agriculture"},
             {"payload":'/ok{"intent_button":"faq-horticulture"}',"title":"Horticulture"}
         ]
-
-            
-
+        print(tracker.slots['intent_button'], "------------------------------")
         if tracker.slots['intent_button'] == None:
             print("\n","slots value is ",tracker.slots['intent_button']) 
             dispatcher.utter_message(text="Hi!! Welcome to SSA Punjab Bot. How can I help you??",buttons=buttons)
-
-
         else:
             print("\n","Now slots value is ",tracker.slots['intent_button'])  
-        
             dispatcher.utter_message(text="Yes you are good to go")
-
         return []
 
     
