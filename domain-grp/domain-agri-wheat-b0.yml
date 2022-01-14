@@ -66,7 +66,7 @@ responses:
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-army-worm-in-wheat-crop:
   - text: For control of army worm in wheat , spray Ekalux 25 EC(quinalphos) @ 400 ml in 100 litres of water per acre. #2019
-  - text: 	FOR CONTROL OF ARMY WORM SPRAY EKALUX 400ML IN 100 LITRE WATER #2018
+  - text: FOR CONTROL OF ARMY WORM SPRAY EKALUX 400ML IN 100 LITRE WATER #2018
 
   utter_faq-agri-wheat-b0/information-regarding-brown-leaf-in-wheat-crop:
   - text: SPRAY OF folicur 25 Ec @ 200 ML IN THE 200 LITRES OF WATER/ACRE. #2013
@@ -178,7 +178,7 @@ responses:
   - text: SPRAY 300ML CHLORPYRIPHOS 20EC IN 100LT WATER/ACRE. #2014
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-root-caterpillar-in-wheat-crop:
-  - text: 	broadcast of chloropyriphos @ 1.5 liter in 15 kg dry sand / acre . #2015
+  - text: broadcast of chloropyriphos @ 1.5 liter in 15 kg dry sand / acre . #2015
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-american-caterpillar-in-wheat-crop:
   - text: contact XYZ
@@ -299,7 +299,7 @@ responses:
   - text: doser of atlantis is 160 gm in 100 liter of water/acre #2013
 
   utter_faq-agri-wheat-b0/protection-against-larvae-in-wheat:
-  - text: 	apply ekalux 800 ml in 100 litre of water per acre #2014
+  - text: apply ekalux 800 ml in 100 litre of water per acre #2014
   
 actions:
 - action_slot_setter

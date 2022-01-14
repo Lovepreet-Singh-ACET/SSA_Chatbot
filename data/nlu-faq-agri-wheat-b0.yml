@@ -892,20 +892,25 @@ nlu:
 - intent: faq-agri-wheat-b0/information-regarding-control-of-narrow-leaf-weeds
   examples: |
     - information regarding to control of narrow leaf weeds in wheat
+    - info regarding control of narrow leaf weed in wheat.
+    - control of narrow leaf weed in wheat crop
+    - how to control narrow leaf weed in wheat.
+    - how to get rid of narrow leaf weed in wheat plant. 
 
 # mixed weed
 - intent: faq-agri-wheat-b0/information-regarding-control-of-mixed-weed-in-wheat-crop
   examples: |
     - information regarding control of mixed weed in wheat crop
     - information regarding for the control of mixed weed in wheat crop
+    - how to control the mixed weed in wheat plant.
 
 # stem rot
-- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-stem-rot-disease-in-wheatcrop
-  examples: |
-    - how to control stem rot in wheat crop
-    - information regarding how to control stem rot in wheat
-    - information regarding for the control of stem rot disease in wheatcrop
-    - spray for stem rot disease
+# - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-stem-rot-disease-in-wheatcrop
+#   examples: |
+#     - how to control stem rot in wheat crop
+#     - information regarding how to control stem rot in wheat
+#     - information regarding for the control of stem rot disease in wheatcrop
+#     - spray for stem rot disease
 
 # jassid
 - intent: faq-agri-wheat-b0/information-regarding-the-control-of-jassid-in-wheat
