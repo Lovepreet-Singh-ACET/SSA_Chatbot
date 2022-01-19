@@ -28,7 +28,11 @@ pipeline:
 
   - name: ResponseSelector
     epochs: 100
-    retrieval_intent: faq-agri-wheat-b0 # for faq-agri-wheat-b0
+    retrieval_intent: faq-agri-wheat-b0 # for faq-agri-wheat-b0 (plant protection)
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-wheat-b1 # for faq-agri-wheat-b1 (weed management)
 
   - name: ResponseSelector
     epochs: 100

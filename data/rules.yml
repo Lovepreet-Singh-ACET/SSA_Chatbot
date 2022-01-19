@@ -22,9 +22,14 @@ rules:
 #   - intent: bot_challenge
 #   - action: utter_iamabot
 
-- rule: for Plant-Protection
+- rule: for Plant-Protection(batch 0)
   steps:
   - intent: faq-agri-wheat-b0
+  - action : action_viz_faq
+
+- rule: for weed management(batch 1)
+  steps:
+  - intent: faq-agri-wheat-b1
   - action : action_viz_faq
 
 - rule: for dummycrop

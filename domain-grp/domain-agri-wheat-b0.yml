@@ -43,9 +43,6 @@ responses:
   - text: control of Wheat Aphid is Spray Rogor (Dimethoate) @ 1 ml / 1 lt water  #2019
   - text: For control of Aphid in wheat, spray 20g Actara 25WG(thiamethoxam) in 80-100 litres of water per acre. #2019
 
-  utter_faq-agri-wheat-b0/control-of-broad-leaf-weeds-in-wheat:
-  - text: for broad leaf weeds in wheat , spray 250 gram of 2,4 D sodium salt(80%) or 250 ml of 2,4 D ethyl ester (36%) at 35-45 days a #2016
-
   utter_faq-agri-wheat-b0/dose-of-zinc-in-wheat-for-spraying:
   - text: SPRAY 1 KG ZINC SULPAHTE IN 200 LIT WATER + HALF LIT UNSLAKED LIME  #2011
 
@@ -139,13 +136,6 @@ responses:
   utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-herbicide-spray:
   - text: SPRAY NPK 19:19:19 1 KG IN 100 LITRE WATER #2019
 #--------------------- Jan 10 2022--------------------------
-  utter_faq-agri-wheat-b0/information-regarding-for-the-pre-emergence-control-of-weeds-in-wheat-crop:
-  - text: SPRAY 1LT STOMP IN 100LT WATER/ACRE. #2014
-  - text: FOR THE CONTROL OF WEEDS IN WHEAT CROP,SPRAY STOMP(PANDIMETHALEN) 1LITER IN 200LITER WATER/ACRE. #2013
-
-  utter_faq-agri-wheat-b0/information-regarding-post-emergence-weed-control-in-wheat:
-  - text: FOR CONTROL OF WEEDS IN WHEAT, SPRAY 160 GM TOPIK (CLODINAFOP) OR 13 GM LEADER (SULFOSULFURON) OR 400 ML AXIAL (PINOXADEN) IN 100-120 LITRE WATER ER ACRE. #2015 
-
   utter_faq-agri-wheat-b0/information-regarding-seed-treatment-in-wheat:
   - text: Recommended to apply Bavistin @ 2 g per kg seed for Seed treatment in Wheat. #2019
 
@@ -178,9 +168,9 @@ responses:
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-root-caterpillar-in-wheat-crop:
   - text: broadcast of chloropyriphos @ 1.5 liter in 15 kg dry sand / acre . #2015
-
+# no answer
   utter_faq-agri-wheat-b0/information-regarding-control-of-american-caterpillar-in-wheat-crop:
-  - text: contact XYZ
+  - text: XYZ answer
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-hairy-caterpillar-in-wheat-crop:
   - text: FOR THE CONTROL OF HAIRY CATERPILLAR WHEAT CROP PLS SPARY 800ML EKALUX PER ACER. #2015
@@ -196,19 +186,6 @@ responses:
   utter_faq-agri-wheat-b0/information-regarding-control-of-fungus-in-wheat:
   - text: broadcast saaf 500gm in 20kg of sand per acre in wheat. #2019
   - text: for fungus problem in wheat can be controlled by applying 500 gm saafilizer with 15 kg urea can be broadcasted #2019
-
-  utter_faq-agri-wheat-b0/information-regarding-control-of-phalaris-minor-in-wheat-crop:
-  - text: SPRAY OF TOPIK @ 160 GM OR PUMA POWER @ 400 ML IN THE 100 LITRES OF WATER/ACRE. #2016
-  - text: for the control of phalaris minor in wheat spray 160GM TOPIC OR 400ML AXIAL OR 16GM TOTAL IN 150 LITRE OF WATER/ACRE #2015
-
-  utter_faq-agri-wheat-b0/information-regarding-herbicide-spray:
-  - text: spray shagun( 21-11) 200 gram in 150 litre water spray with flat fan nozzle #2018
-
-  utter_faq-agri-wheat-b0/information-regarding-control-of-narrow-leaf-weeds:
-  - text: SPRAY 160GM TOPIK IN 150LT WATER/ACRE. #2015
-
-  utter_faq-agri-wheat-b0/information-regarding-control-of-mixed-weed-in-wheat-crop:
-  - text: SPRAY (ATLANTIS)3.6 WDG @ 160GM IN 150 LTR OF WATER /ACRE. #2015
 
   utter_faq-agri-wheat-b0/information-regarding-the-control-of-jassid-in-wheat:
   - text: SPRAY CONFIDORE 80-100 GRAM PER ACRE IN 100 LITRE WATER PER ACRE #2015
@@ -285,12 +262,9 @@ responses:
   utter_faq-agri-wheat-b0/information-regarding-trichoderma-in-wheat-crop:
   - text: SPRAY 2 GRAM IN 1 LITRE WATER AND IT SHOULD BE MAINTAIN IN THE FIELD FOR 6 MONTHS IN THE COOLER REGION #2018
 
-  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-kandiali-palak-in-wheat-crop:
-  - text: FOR THE CONTROL OF KANDIALI PALAK IN WHEAT CROP,SPRAY 10GM ALGRIP ROYAL/ACRE. #2014
-
   utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-hardiness-of-soil:
   - text: APPLY SULPHUR @ 3KG / ACRE. 2014 #2014
-
+# no answer
   utter_faq-agri-wheat-b0/information-regarding-control-of-grasshopper-in-wheat-crop:
   - text: "XYZ answer"
 

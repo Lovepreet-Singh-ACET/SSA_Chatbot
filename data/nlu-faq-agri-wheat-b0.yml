@@ -168,7 +168,6 @@ nlu:
     - control of manganese deficiency in wheat 
     - information regarding manganese sulphate spray dose 
 
-
 # zinc defi
 - intent: faq-agri-wheat-b0/control-of-zinc-defy-in-wheat
   examples: |
@@ -232,21 +231,6 @@ nlu:
     - How to control aphids in wheat crop?
     - How can I control aphids in wheat crops?
     - How do you control aphid in wheat?
-
-# broad leaf weed
-- intent: faq-agri-wheat-b0/control-of-broad-leaf-weeds-in-wheat
-  examples: |
-    - control of broad leaf weeds in wheat
-    - Wheat broad leaf weed control
-    - Wheat weed control with broad leaf weeds
-    - Wheat weed control with wide leaf weeds
-    - in wheat crop how to control the broad leaf weeds
-    - control of wide leaf weeds in wheat.
-    - for control of broad leaf weeds
-    - formation regarding control of broad leaf weeds in wheat 
-    - information regarding control of broad leaf weeds in wheat crop
-    - information regarding control of broad leafes in wheat
-    - control of broad leaf weeds in wheat
 
 # zinc dose
 - intent: faq-agri-wheat-b0/dose-of-zinc-in-wheat-for-spraying
@@ -662,23 +646,6 @@ nlu:
 
 # --------------------------------------------------------------------------------------------------
 # Jan 10
-
-# pre emergence
-- intent: faq-agri-wheat-b0/information-regarding-for-the-pre-emergence-control-of-weeds-in-wheat-crop
-  examples: |
-    - information regarding for the pre emergence control of weeds in wheat crop
-    - information regarding weed control in wheat pre emergence
-    - pre emergence of weed control method
-    - how to control pre emergence of weed
-
-# post emergence
-- intent: faq-agri-wheat-b0/information-regarding-post-emergence-weed-control-in-wheat
-  examples: |
-    - information regarding post emergence weed control in wheat
-    - information regarding for the post emergence control of weeds
-    - how to handle weed post emergence
-    - what to do in order to handle post weed emergence
-
 # seed treatment
 - intent: faq-agri-wheat-b0/information-regarding-seed-treatment-in-wheat
   examples: |
@@ -873,67 +840,6 @@ nlu:
     - spray for protection from fungus in wheat
 
 # ------------------------------------jan 11----------------------------
-# phalaris minor or gulli danda
-- intent: faq-agri-wheat-b0/information-regarding-control-of-phalaris-minor-in-wheat-crop
-  examples: |
-    - information control of phalaris minor in wheat crop
-    - information regarding control of phalaris minor in wheat
-    - information regarding control gilli danda phalaris minor in wheat crops
-    - information regarding the control of phalaris minor
-    - information control of phalaris minor in wheat crop
-    - information regarding for the control of phalaris minor  broad leaf weeds in wheatkanak crop
-    - information control of phalaris minor in wheat crop
-    - information regarding for the control of phalaris minor in wheat
-    - information regarding for the control of phalaris minor  weeds in wheatkanak crop
-    - how to control gullidanda  broad leaf weeds in wheat crop
-    - information regarding post emergence control of phlaris minorgullidanda in wheat crop
-    - spray for gullidanda in wheat
-    - spray for gullidanda of wheat
-    - spray for gullidanda and broad leaf
-    - information regarding the weed gullidandacontrol in wheat
-    - protectio of wheat from gullidanda
-
-# herbicide
-- intent: faq-agri-wheat-b0/information-regarding-herbicide-spray
-  examples: |
-    - information regarding herbicide spray on 66 days of wheat crop
-    - information regarding yellowing of leaves due to herbicide spray
-    - information regardign herbicide spray in wheat crop
-    - information regarding herbicide control in wheat crop
-    - information regarding herbicide spray in wheat crop
-    - information regarding herbicide spray on 60 days crop
-    - information regarding spray of herbicide in 75 days age crop
-    - information regarding yellowing of leaves due to heavy spray of herbicide
-    - information regarding yellowing of leaves due to sencor herbicide spray
-    - information regarding herbicide spray on wheat crop which is of 90 days
-    - information regarding spray of herbicide in wheat crop
-    - information regarding herbicide spray in wheat crop
-
-# narrow leaf
-- intent: faq-agri-wheat-b0/information-regarding-control-of-narrow-leaf-weeds
-  examples: |
-    - information regarding to control of narrow leaf weeds in wheat
-    - info regarding control of narrow leaf weed in wheat.
-    - control of narrow leaf weed in wheat crop
-    - how to control narrow leaf weed in wheat.
-    - how to get rid of narrow leaf weed in wheat plant. 
-
-# mixed weed
-- intent: faq-agri-wheat-b0/information-regarding-control-of-mixed-weed-in-wheat-crop
-  examples: |
-    - information regarding control of mixed weed in wheat crop
-    - information regarding for the control of mixed weed in wheat crop
-    - how to control the mixed weed in wheat plant.
-    - what to do to control mixed weed in wheat crop
-
-# stem rot
-# - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-stem-rot-disease-in-wheatcrop
-#   examples: |
-#     - how to control stem rot in wheat crop
-#     - information regarding how to control stem rot in wheat
-#     - information regarding for the control of stem rot disease in wheatcrop
-#     - spray for stem rot disease
-
 # jassid
 - intent: faq-agri-wheat-b0/information-regarding-the-control-of-jassid-in-wheat
   examples: |
@@ -1092,7 +998,6 @@ nlu:
     - tell me the procedures to stop the gob wali sundi in wheat crop
     - what steps can be taken to get rid from the gob wali sundi in wheat
     - how do we suppose to control gob wali sundi
-    
 
 # potash
 - intent: faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop
@@ -1171,15 +1076,6 @@ nlu:
     - how to handle trichoderma
     - what to do to control trichoderma
     - information regarding the control of trichoderma
-
-# kandiali palak
-- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-kandiali-palak-in-wheat-crop
-  examples: |
-    - information regarding for the control of kandiali palak in wheat crop
-    - how do we suppose to get rid of kandiali palak from our crop 
-    - what steps can be taken to get rid from the kandiali palak in wheat 
-    - tell me how to control kandiali palak weed from wheat
-    - how we can stop kandiali palak in wheat
 
 # hardiness of soil
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-hardiness-of-soil
