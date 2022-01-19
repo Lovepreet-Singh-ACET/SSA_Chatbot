@@ -1,0 +1,137 @@
+version: "3.0"
+# weed control
+nlu:
+# control of weeds from vacant field
+- intent: faq-agri-wheat-b1/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat
+  examples: |
+    - 
+# pre-emergence stage weed control
+- intent: faq-agri-wheat-b1/information-regarding-control-of-weeds-in-pre-emergence-stage-in-wheat
+  examples: |
+    - 
+# herbicides used for pre-emergence
+- intent: faq-agri-wheat-b1/information-regarding-the-pre-emergence-herbicides-used-in-the-wheat
+  examples: |
+    - 
+# grassy leaf weeds after first irrigation
+- intent: faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation
+  examples: |
+    - 
+# grassy leaf weeds before first irrigation
+- intent: faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation
+  examples: |
+    - 
+# button botti, bathu
+- intent: faq-agri-wheat-b1/information-regarding-control-of-button-booti-bathu
+  examples: |
+    - 
+# broad leaf
+- intent: faq-agri-wheat-b1/how-to-control-of-broad-leaf-weed-in-wheat-crop
+  examples: |
+    - broud leaf weed control of wheat?
+
+# broad leaf weed control before first irrigation
+- intent: faq-agri-wheat-b1/information-regarding-the-control-of-broad-leaf-weeds-in-wheat-before-first-irrigation
+  examples: |
+    - 
+# phalaris minor or gulli danda
+- intent: faq-agri-wheat-b1/how-to-control-phalaris-minor-in-wheat-crop
+  examples: |
+    - 
+# control of herbs
+- intent: faq-agri-wheat-b1/information-regarding-for-the-control-of-herbs-in-wheat-crop
+  examples: |
+    - 
+# narrow leaf weeds
+- intent: faq-agri-wheat-b1/information-regarding-control-of-narrow-leaf-weeds
+  examples: |
+    - 
+# type of nozzle used for better results of herbicides
+- intent: faq-agri-wheat-b1/information-regarding-that-which-type-of-nozzle-is-used-for-better-result-of-herbicides
+  examples: |
+    - 
+# info regarding nozzle used in herbicide
+- intent: faq-agri-wheat-b1/information-regarding-nozzle-used-in-herbicide-in-wheat-crop
+  examples: |
+    - 
+# control of weed in non cropped area
+- intent: faq-agri-wheat-b1/information-regarding-control-of-weed-in-non-cropped-area
+  examples: |
+    - 
+# post emergence weed control before 1st irrigation
+- intent: faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-before-1st-irrigation-stage-in-wheat
+  examples: |
+    - 
+# post emergence weed control after 1st irrigation
+- intent: faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-after-1st-irrigation-stage-in-wheat
+  examples: |
+    - 
+# control of wild oat
+- intent: faq-agri-wheat-b1/how-to-control-wild-oat-in-wheat-crop
+  examples: |
+    - 
+# mixed or mix weed control
+- intent: faq-agri-wheat-b1/information-regarding-how-to-control-mixed-weeds-in-wheat
+  examples: |
+    - 
+# growth regulator tallering stage
+- intent: faq-agri-wheat-b1/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-tellering-stage
+  examples: |
+    - 
+# kandiali palak
+- intent: faq-agri-wheat-b1/kandiali-palak-in-wheat
+  examples: |
+    - 
+# chenpodium album(weed plant)
+- intent: faq-agri-wheat-b1/how-to-control-chenpodium-album-in-wheat-crop
+  examples: |
+    - 
+# medicago denticulata
+- intent: faq-agri-wheat-b1/how-to-control-medicago-denticulata-in-wheat-crop
+  examples: |
+    - 
+# topik -> used to control wild oats and annual grass weeds
+- intent: faq-agri-wheat-b1/information-regaridng-dose-of-topik-in-an-acre
+  examples: |
+    - 
+# nematode affected plant
+- intent: faq-agri-wheat-b1/information-regarding-control-of-nematodes-affected-plant-in-wheat
+  examples: |
+    - 
+# sagun-21-11 -> It is a post-emergence herbicide for the effective control of grasses and broad leaf weeds in wheat crop. Shagun 21-11
+- intent: faq-agri-wheat-b1/information-regarding-the-salt-of-sagun-21-11
+  examples: |
+    - 
+# bathu in wheat
+- intent: faq-agri-wheat-b1/information-regarding-to-control-of-bathu-in-the-wheat-crop
+  examples: |
+    - 
+# Glyphosate 41% SL ) is a non-selective systemic herbicide of Organophosphorus (Glycine and phosphonales) group, 
+# which inhibits the EPSP synthesis in weed plants
+- intent: faq-agri-wheat-b1/information-regarding-glyphosate-41%SL
+  examples: |
+    - 
+# time gap after fertilizer spray
+- intent: faq-agri-wheat-b1/information-regarding-time-gap-of-fertilizer-application-after-spray-of-weedicide
+  examples: |
+    - 
+# trifoneela polycerata
+- intent: faq-agri-wheat-b1/how-to-control-trigoneela-polycerata-in-wheat-crop
+  examples: |
+    - 
+# melilotus indica
+- intent: faq-agri-wheat-b1/how-to-control-melilotus-indica-in-wheat-crop
+  examples: |
+    - 
+# irrigate after herbicide spray
+- intent: faq-agri-wheat-b1/information-regarding-irrigate-the-field-after-herbicide-spray
+  examples: |
+    - 
+# malva neglecta control
+- intent: faq-agri-wheat-b1/how-to-control-malva-neglecta-in-wheat-crop
+  examples: |
+    - 
+# time gap btw irrigation and herbicide spray
+- intent: faq-agri-wheat-b1/information-regarding-the-gap-between-the-herbicide-spray-and-the-irrigation
+  examples: |
+    - 

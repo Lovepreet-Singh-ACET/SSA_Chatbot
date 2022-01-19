@@ -158,9 +158,6 @@ responses:
   utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-top-borer:
   - text: apply akalux  2 ml per litre water
 
-  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-yellowbrown-leafrust-in-wheat-crop:
-  - text: or the control of yellowbrown leaf rust in wheat cropspray propiconazole 25 ectilt200ml or triadimefon 25 wpbayleton200gm or tebuconazole 25ecfolicur200ml in 200litre water per acre
-
   utter_faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop:
   - text: SPRAY 2KG UREA/ACRE #2015
 

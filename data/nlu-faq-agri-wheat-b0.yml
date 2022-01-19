@@ -213,7 +213,6 @@ nlu:
     - control of aphid in wheat
     - control of aphid in wehat crop
     - aphid of wheat
-    - contrl of aphid in wheat
     - conreol of aphid in wheat
     - how to control of aphids in wheat crops
     - controlof aphid in wheat
@@ -259,7 +258,7 @@ nlu:
     - in wheat crop zinc dosage for spraying
     - information regrading chelated zinc dose
 
-# yellow rust
+# yellow rust or pilli kungi or strip rust or yellow brown leaf
 - intent: faq-agri-wheat-b0/control-of-yellow-rust-in-wheat
   examples: |
     - how to control of yellow rust in wheat
@@ -278,6 +277,10 @@ nlu:
     - how to keep yellow stripe rust out of wheat crops
     - ways to keep yellow stripe rust in wheat crops under control
     - methods to control yellow stripe rust in wheat
+    - information regarding for the control of yellowbrown leaf rust in wheat crop
+    - how to control the yellow brownleaf rust in wheat
+    - is there a method to control the yellowbrown leaf rust in wheat
+    - tell me the procedure to stop the yellow brown rust in wheat crop
 
 # sulphur
 - intent: faq-agri-wheat-b0/control-of-sulphur-in-wheat
@@ -725,14 +728,6 @@ nlu:
     - tell me control top borer in sugarcane
     - information regarding for the control of top borer in wheat crop
     - information regarding for the control of top borer
-
-# yellow brown
-- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-yellowbrown-leafrust-in-wheat-crop
-  examples: |
-    - information regarding for the control of yellowbrown leaf rust in wheat crop
-    - how to control the yellow brownleaf rust in wheat
-    - is there a method to control the yellowbrown leaf rust in wheat
-    - tell me the procedure to stop the yellow brown rust in wheat crop
 
 # urea
 - intent: faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop
