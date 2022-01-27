@@ -1,0 +1,42 @@
+version: "3.0" 
+intents: 
+  - faq-agri-wheat-b2
+responses:
+  utter_faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b2/information-regarding-to-the-sowing-time-of-variety-pbw-550: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-time-for-early-sowing-varities: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-time-of-pbw621: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-time-of-hd2967: 
+  - text: 
+  utter_faq-agri-wheat-b2/information-regarding-the-sowing-time-of-hd2967: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-season-of-wheat-variety-pbw550: 
+  - text: 
+  utter_faq-agri-wheat-b2/late-varrities-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b2/information-regarding-seed-treatment-of-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-time-of-pbw590-varity: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-period-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b2/main-season-varities-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b2/information-regarding-suitable-varieties-of-wheat--its-seed-rate: 
+  - text: 
+  utter_faq-agri-wheat-b2/information-about-suitable-varieties-for-running-season: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-time-of-early-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-time-of-the-hd2733: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-time-of-wheat-after-nov: 
+  - text: 
+  utter_faq-agri-wheat-b2/sowing-time-of-late-varities-of-wheat-in-sandy-soils: 
+  - text: 
+  utter_faq-agri-wheat-b2/information-regarding-the-sowing-time-of-varieties-pdw-291-pdw-274-pdw-233: 
+  - text: 

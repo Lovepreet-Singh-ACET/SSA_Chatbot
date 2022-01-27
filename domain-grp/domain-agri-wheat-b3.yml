@@ -1,0 +1,232 @@
+version: "3.0" 
+intents: 
+  - faq-agri-wheat-b3
+responses:
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-fertilizers-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-maganese-sulphate-spray-in-wheat--dose--per-acre-of-it: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-fert-dose-at-the-time-of-wheat-sowing: 
+  - text: 
+  utter_faq-agri-wheat-b3/should-we-spray-near-harvesting-stage-of-paddy: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-control-of-sulphur-deficiency-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/how-many-spray-of-manganese-are-required-in-the-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-zinc-deficiency-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-on-dose-of-dap-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/fertilizer-application-of--wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/dose-of-fertilizer: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-deficiency-of-mangnese-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-stop-of-yellowing-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-control-of-manganese-deficiency-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-wheat-seed-germination-after-rain: 
+  - text: 
+  utter_faq-agri-wheat-b3/total-requirement-of-urea-in-the-wheat-crop-90110kgacre: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-reagarding-dose-of-urea-after-first-irrigation: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-seed-treatment-in-wheatseed-treatment-in-wheat--treat-the-seed-with-vitavax-power: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-control-of-potassium-deficiency-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-potash-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/when-to-spray-manganese-sulphate-on-wheat-field: 
+  - text: 
+  utter_faq-agri-wheat-b3/regarding-dose-of-urea-in-an-acre: 
+  - text: 
+  utter_faq-agri-wheat-b3/fertlizers-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-for-the--fert--dose-1st-irrigation--of-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-application-of-gypsum: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-total-fertilizers-dose-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-method-of-fertilizer-application-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-deficiency-of-nitrogen-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-fertilizer-dosage-before-1st-irrigation: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-diffiency-of-zinc-sulphate-in-wheat-crops: 
+  - text: 
+  utter_faq-agri-wheat-b3/how-to-correct-the-deficiency-of-zinc-in-the-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-control-of-phosphorous-deficiency-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/farmer-asks-about-the-dose-of-mop-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/dose-of-urea-for-foliar-spray: 
+  - text: 
+  utter_faq-agri-wheat-b3/deficiency-of-sulphar-in-wheat-corp: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-mangnese-in-an-acre: 
+  - text: 
+  utter_faq-agri-wheat-b3/dose-of-sulphur-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/control-of-iron-deficiency-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-termite-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-nematodes-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-improving-the-quality-of-wheat-grains: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-muritate-of-potash-60-k2o: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-to-urea-application-in-wheat-at-first-irrigation: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-mangnese-deficiency: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-urea-requirment--acre-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/deficiency-magnese-sulphate-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/deficendy-off-urea-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-filling-stage: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-of-zinc-in-wheat-ctop: 
+  - text: 
+  utter_faq-agri-wheat-b3/foloiar-spray-of-magnese-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/how-to-control-sulpher-defficency-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-biofertilizer-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/regarding-dose-of-dap-in-an-acre: 
+  - text: 
+  utter_faq-agri-wheat-b3/tell-me-fertilizer-application: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-aphid-jesus-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-aphids: 
+  - text: 
+  utter_faq-agri-wheat-b3/application-of-single-super-phosphate-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding--management-of-alkali-soil: 
+  - text: 
+  utter_faq-agri-wheat-b3/fartilizer-dos-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/time-gap-between-urea-applicatin-and-herbicide-spray: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-requirement-in-wheat-sown-with-happy-seeder: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-green-sundi-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-less-grain-filling-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/urea-dose-at-sowing-time: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-application-of-manures: 
+  - text: 
+  utter_faq-agri-wheat-b3/how-to-correct-the-deficiency-of-zinc-in-the-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/ragaeding-dose-of-urea-and-magnese-sulfate: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-application-in-bt-cotton: 
+  - text: 
+  utter_faq-agri-wheat-b3/how-to-control-of-mangane-deficincy-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/how-to-control-of-mangnaese-deficincy-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-difference-between-ssp-and-dap: 
+  - text: 
+  utter_faq-agri-wheat-b3/deficiency-of-zinc-sulphate: 
+  - text: 
+  utter_faq-agri-wheat-b3/farmer-ask-how-much-quantity-urea-required-for-1-acre-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/how-to-control-zinc-deficency: 
+  - text: 
+  utter_faq-agri-wheat-b3/can-3086-variety-of-wheat-be-sown-in-saline-soils: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizers-to-be-used-after-spraying-weedicide: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-control-of-nitrozen-defficincy: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-npk-dose-in-acre: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-application-of-fertilizers-in-paddy: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-frtilizer-dose-in-wheat-before-irrigation: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-zinc: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-batter-growth: 
+  - text: 
+  utter_faq-agri-wheat-b3/tell-me-fartilizer-application-in-potato: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-for-the-solution-of-fruit-cracking-in-guava-fruit: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-requirement-of-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilzer-application: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-delta-methrine: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-sowing-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/fertilizers-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regardig-the-foliar-application-of-urea: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-spray-of-urea-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/manganes-deficiency-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-suitable-time-of-1st-irrigation: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-seed-treatment-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-rgarding-dose-of-defciency-izinc-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-nutrient-management-on-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-broadcasting-of-urea-after-herbicide-spray: 
+  - text: 
+  utter_faq-agri-wheat-b3/extra-water-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-control-of-nitrozen-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/regarding-dose-of-gypsum-in-an-acre: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-how-many-dose-of-gypsum-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/dose-of-urea: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-suphur-using-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-expiry-date-of-magnise-sulphate: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-about-standing-water-in-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b3/dose-of-urea-in-whaet-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/how-to-clontrol-phosphorous-defficency-in-wheat-crop: 
+  - text: 
+  utter_faq-agri-wheat-b3/informstion-regsrding-dose-of-leader-in-an-acre: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-poultry-manure-in-soil-before-wheat-sowing: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-organic-gibberellic-acid-preparation-with-cow-dung-cakes-to-improve-the-growth: 
+  - text: 
+  utter_faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat: 
+  - text: 
