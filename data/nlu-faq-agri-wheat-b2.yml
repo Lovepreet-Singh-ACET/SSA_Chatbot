@@ -52,19 +52,19 @@ nlu:
     - PBW 621: Sowing time?
     - Sowing time of pbw621?
     - Is PBW621 short for sowing of pbw621?
-- intent: faq-agri-wheat-b2/sowing-time-of-hd2967
-  examples: |
-    - sowing time of hd2967
-    - What was the sowing time?
-    - Sowing time: hd2967 for a hd2967 plant. Sowing time: 8 hours, sowing time: hd2967 for a seed hd2967. Sowing time: 24 hours sowing time.
-    - Sowing Time - 1hs2967, Is hd2967 1hs2967. The sowing time is 15 minutes. Sowing time is 2hs2967. What is hd2967?
-    - How long a sowing time can be established from hd2967 to hd2967?
-    - Sowing time of hd2967.. In hd2967.2.
-    - Sowing time of hd2967 from hd2967. hd2967 from hd2967 from hd2967 to hd2967.
-    - Sowing time of hd2967 to hd2968.hd.
-    - Sowing time is hd3067.0, sowing time of hd2967.0.
-    - Sowing time: hd2767. Sowing time: hd2967. Sowing time: hd2967.
-    - Sowing time for hd2967 hd2967 hd2967hd2967hd2967 hd2967hd2967hd3067hd2967hd2967hd2967hd2867hd2967hd29
+# - intent: faq-agri-wheat-b2/sowing-time-of-hd2967
+#   examples: |
+#     - sowing time of hd2967
+#     - What was the sowing time?
+#     - Sowing time: hd2967 for a hd2967 plant. Sowing time: 8 hours, sowing time: hd2967 for a seed hd2967. Sowing time: 24 hours sowing time.
+#     - Sowing Time - 1hs2967, Is hd2967 1hs2967. The sowing time is 15 minutes. Sowing time is 2hs2967. What is hd2967?
+#     - How long a sowing time can be established from hd2967 to hd2967?
+#     - Sowing time of hd2967.. In hd2967.2.
+#     - Sowing time of hd2967 from hd2967. hd2967 from hd2967 from hd2967 to hd2967.
+#     - Sowing time of hd2967 to hd2968.hd.
+#     - Sowing time is hd3067.0, sowing time of hd2967.0.
+#     - Sowing time: hd2767. Sowing time: hd2967. Sowing time: hd2967.
+#     - Sowing time for hd2967 hd2967 hd2967hd2967hd2967 hd2967hd2967hd3067hd2967hd2967hd2967hd2867hd2967hd29
 - intent: faq-agri-wheat-b2/information-regarding-the-sowing-time-of-hd2967
   examples: |
     - information regarding the sowing time of hd-2967?

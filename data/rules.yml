@@ -37,6 +37,17 @@ rules:
   - intent: faq-hort-dummycrop-b0
   - action : action_viz_faq
 
+- rule: for batch 2
+  steps:
+  - intent: faq-agri-wheat-b2
+  - action : action_viz_faq
+
+- rule: for batch 3
+  steps:
+  - intent: faq-agri-wheat-b3
+  - action : action_viz_faq
+
+
 # - rule: for Plant-Protection
 #   steps:
 #   - intent: faq-agri-wheat-b0

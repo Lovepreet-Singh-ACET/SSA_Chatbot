@@ -3,230 +3,194 @@ intents:
   - faq-agri-wheat-b3
 responses:
   utter_faq-agri-wheat-b3/information-regarding-dose-of-fertilizers-in-wheat-crop: 
-  - text: 
+  - text: Varieties of Wheat are-Unnat PBW 343(Yield-23.2 quintal),Unnat PBW 550(Yield-23 quintal), PBW 1 zinc(Yield-22.5 quintal), PBW 725(Yield-22.9 quintal), PBW 677(Yield-22.4 quintal), HD 3086(Yield-23 quintal),HD 2967(Yield-21.4 quintal), WH 1105(Yield-23.1 quintal), PBW 621(Yield-21.1 quintal) and PBW 550(Yield-20.8 quintal).
   utter_faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-maganese-sulphate-spray-in-wheat--dose--per-acre-of-it: 
-  - text: 
+  - text: 10TH DAY AFTER 1ST IRRIGATION IS SUITABLE TIME OF THE MAGANESE SULPHATE SPRAY IN WHEAT & DOSE PER ACRE OF IT IS 1KG IN 150 LITER OF WATER / ACRE.
   utter_faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat: 
-  - text: 
+  - text: TOTAL DOSE OF UREA IN WHEAT IS-90-110KG/ACRE
   utter_faq-agri-wheat-b3/information-regarding-the-fert-dose-at-the-time-of-wheat-sowing: 
-  - text: 
+  - text: FERT.DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG.
   utter_faq-agri-wheat-b3/should-we-spray-near-harvesting-stage-of-paddy: 
-  - text: 
+  - text: No need to spray near harvesting stage of paddy
   utter_faq-agri-wheat-b3/information-regarding-the-control-of-sulphur-deficiency-in-wheat: 
-  - text: 
+  - text: In sulphur deficient soils apply 100 kg of Gypsum per acre at the time of land preparation but if the Phosphorous is applied to the wheat crop as Single superphosphate then no need of Gypsum application. Gypsum can also be applied in standing crop if deficiency of sulphur is observed.
   utter_faq-agri-wheat-b3/how-many-spray-of-manganese-are-required-in-the-wheat-crop: 
-  - text: 
+  - text: 1ST SPRAY AT 2-4 DAYS BEFORE 1ST IRRIGATION AND 3 SPRAY AFTERWARD AT WEEKLY INTERVALS.
   utter_faq-agri-wheat-b3/information-regarding-zinc-deficiency-in-wheat-crop: 
-  - text: 
+  - text: For Zinc deficiency symptoms in wheat leaves become yellow in middle broadcaste 25kg Zinc Sulphate (21%) or spray 1kg Zinc Sulphate +500 gram unslaked lime in 200 lt of waterper acre .
   utter_faq-agri-wheat-b3/information-on-dose-of-dap-in-wheat-crop: 
-  - text: 
+  - text: dose of dap in wheat is 55 kg/acre
   utter_faq-agri-wheat-b3/fertilizer-application-of--wheat: 
-  - text: 
+  - text: Drill half(55kg) dose of nitrogen and whole(55kg) DAP and Potash(20kg) at the time of sowing and remaining (55kg) nitrogen at 1st irrigation.
   utter_faq-agri-wheat-b3/dose-of-fertilizer: 
-  - text: 
+  - text: FERTILIZER DOSE FOR WHEAT :- 25 KG UREA /ACRE
   utter_faq-agri-wheat-b3/information-regarding-deficiency-of-mangnese-in-wheat: 
-  - text: 
+  - text: spray of mangnese sulphate 1 kg +200 ltr water /acre before 3-4 days of first irrigation 
   utter_faq-agri-wheat-b3/information-regarding-the-stop-of-yellowing-in-wheat-crop: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-control-of-manganese-deficiency-in-wheat: 
-  - text: 
+  - text: FOR THE STOP OF YELLOWING IN WHEAT CROP,APPLY-3KG SULPHUR WITH 25KG UREA BEFORE 1ST IRRIGATION.   
   utter_faq-agri-wheat-b3/information-regarding-wheat-seed-germination-after-rain: 
-  - text: 
-  utter_faq-agri-wheat-b3/total-requirement-of-urea-in-the-wheat-crop-90110kgacre: 
-  - text: 
+  - text: NO ANSWER
   utter_faq-agri-wheat-b3/information-reagarding-dose-of-urea-after-first-irrigation: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-seed-treatment-in-wheatseed-treatment-in-wheat--treat-the-seed-with-vitavax-power: 
-  - text: 
+  - text: APPLY 50 KG UREA/ACRE .
   utter_faq-agri-wheat-b3/information-regarding-control-of-potassium-deficiency-in-wheat: 
-  - text: 
+  - text: for control of potassium deficiency in wheat, spray 1 kg potassium nitrate in 100 litres of water per acre .
   utter_faq-agri-wheat-b3/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days: 
-  - text: 
+  - text: THEN APPLY UREA AFTER IRRIGATION WHEN MOISTURE LEVEL IS OPTIMUM
   utter_faq-agri-wheat-b3/information-regarding-dose-of-potash-in-wheat: 
-  - text: 
+  - text: DOSE OF POTASH IN WHEAT CROP :- 20 KG/ACRE.
   utter_faq-agri-wheat-b3/when-to-spray-manganese-sulphate-on-wheat-field: 
-  - text: 
-  utter_faq-agri-wheat-b3/regarding-dose-of-urea-in-an-acre: 
-  - text: 
-  utter_faq-agri-wheat-b3/fertlizers-of-wheat: 
-  - text: 
+  - text: 1ST SPRAY AT 2-4 DAYS BEFORE 1ST IRRIGATION AND 3 SPRAY AFTERWARD AT WEEKLY INTERVALS.
   utter_faq-agri-wheat-b3/information-regarding-for-the--fert--dose-1st-irrigation--of-wheat-crop: 
-  - text: 
+  - text: APPLY 50KG UREA .
   utter_faq-agri-wheat-b3/information-regarding-the-application-of-gypsum: 
-  - text: 
+  - text: APPLY 100 KG GYPSUM /ACRE.
   utter_faq-agri-wheat-b3/information-regarding-total-fertilizers-dose-in-wheat: 
-  - text: 
+  - text: Total Fertilizers dose in wheat:- 110 Kg. Urea, 55 Kg. DAP, 20 Kg. Potash per acre.
   utter_faq-agri-wheat-b3/information-regarding-method-of-fertilizer-application-in-wheat: 
-  - text: 
+  - text: Drill half(55kg) dose of nitrogen and whole(55kg) DAP and Potash(20kg) at the time of sowing and remaining (55kg) nitrogen at 1st irrigation.
   utter_faq-agri-wheat-b3/information-regarding-the-deficiency-of-nitrogen-in-wheat: 
-  - text: 
+  - text: SPRAY NPK 19:19:19 at 1KG IN 100 LITERS OF WATER / ACRE .
   utter_faq-agri-wheat-b3/information-regarding-fertilizer-dosage-before-1st-irrigation: 
-  - text: 
+  - text: FERTILIZER DOSAGE BEFORE 1ST IRRIGATION IN WHEAT-UREA-25KG+3KG SULPHUR.
   utter_faq-agri-wheat-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application: 
-  - text: 
+  - text: BROADCAST UREA 2 DAYS AFTER SPRAY OF HERBICIDE
   utter_faq-agri-wheat-b3/information-regarding-diffiency-of-zinc-sulphate-in-wheat-crops: 
-  - text: 
-  utter_faq-agri-wheat-b3/how-to-correct-the-deficiency-of-zinc-in-the-wheat-crop: 
-  - text: 
+  - text: APPLY 25 KG OF ZINC SULPHATE/ACRE BEFOR SOWING THE WHEAT.
   utter_faq-agri-wheat-b3/information-regarding-the-control-of-phosphorous-deficiency-in-wheat: 
-  - text: 
+  - text: SPRAY TO NPK 0:52:34 at 1KG IN 200 LITER OF WATER / ACRE .
   utter_faq-agri-wheat-b3/farmer-asks-about-the-dose-of-mop-in-wheat: 
-  - text: 
+  - text: 20kg mop is required for per acre.
   utter_faq-agri-wheat-b3/dose-of-urea-for-foliar-spray: 
-  - text: 
+  - text: 3kg urea in 100 liters water per acre.
   utter_faq-agri-wheat-b3/deficiency-of-sulphar-in-wheat-corp: 
-  - text: 
+  - text: apply to gypsum at 100 kg in 100 litres of water/acre.
   utter_faq-agri-wheat-b3/information-regarding-dose-of-mangnese-in-an-acre: 
-  - text: 
+  - text: spray 1kg mangnese sulphate in 100lt water/acre.
   utter_faq-agri-wheat-b3/dose-of-sulphur-of-wheat: 
-  - text: 
+  - text: 3-4 KG PER ACRE
   utter_faq-agri-wheat-b3/control-of-iron-deficiency-in-wheat: 
-  - text: 
+  - text: SPRAY 150 GM CHELATED IRON IN 150 LITRE WATER PER ACRE
+  - text: spray to ferrous sulphate at 1 kg in 200 litres of water/acre
   utter_faq-agri-wheat-b3/information-regarding-termite-in-wheat: 
-  - text: 
+  - text: USE CHLOROPYRIPHOS at 1.5LITRE IN 10-12KG OF SAND PER ACRE
   utter_faq-agri-wheat-b3/information-regarding-nematodes-in-wheat-crop: 
-  - text: 
+  - text: CHLORPYRIPHOS 20EC 1.25 LTR / ACRE or l REGENT 5SC (fipronil) 4 KG / ACRE
   utter_faq-agri-wheat-b3/information-regarding-improving-the-quality-of-wheat-grains: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-dose-of-muritate-of-potash-60-k2o: 
-  - text: 
+  - text: to improve grain quality of wheat crop spray 2 kg NPK(13:0:45) per acre in 120 liters of water.
   utter_faq-agri-wheat-b3/information-regarding-to-urea-application-in-wheat-at-first-irrigation: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-mangnese-deficiency: 
-  - text: 
+  - text: APPLY 20KG UREA AT THE TIME OF SOWING WITH FULL DOSE OF DAP AND MOP ,35KG UREA WITH 1ST IRRIGATION AND THE REMAINING 35KG UREA WITH 2ND IRRIGATION .
   utter_faq-agri-wheat-b3/information-regarding-urea-requirment--acre-in-wheat: 
-  - text: 
+  - text: TOTAL REQUIREMENT OF UREA IN THE WHEAT CROP- 90-110KG/ACRE.
   utter_faq-agri-wheat-b3/deficiency-magnese-sulphate-in-wheat: 
-  - text: 
-  utter_faq-agri-wheat-b3/deficendy-off-urea-in-wheat-crop: 
-  - text: 
+  - text: 1kg masnese sulphate/100 litre water/acre.
   utter_faq-agri-wheat-b3/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-filling-stage: 
-  - text: 
+  - text: spray N:P:K (13:0:45) 2 kg in 100 liters water per acre.
+
   utter_faq-agri-wheat-b3/information-of-zinc-in-wheat-ctop: 
-  - text: 
+  - text: NO ANSWER
+
   utter_faq-agri-wheat-b3/foloiar-spray-of-magnese-in-wheat: 
-  - text: 
-  utter_faq-agri-wheat-b3/how-to-control-sulpher-defficency-in-wheat-crop: 
-  - text: 
+  - text: 1kg magnese sulphate/100 litre water/acre.
   utter_faq-agri-wheat-b3/information-regarding-biofertilizer-in-wheat: 
-  - text: 
+  - text: USE SAGARIKA SPRAY 250ML PER ACRE
   utter_faq-agri-wheat-b3/regarding-dose-of-dap-in-an-acre: 
-  - text: 
-  utter_faq-agri-wheat-b3/tell-me-fertilizer-application: 
-  - text: 
+  - text: DOSE OF DAP IN WHEAT 55 KG/ACRE.
+
   utter_faq-agri-wheat-b3/information-regarding-aphid-jesus-in-wheat-crop: 
-  - text: 
+  - text: spray 80ml confidor in 125 litre of water/acre
   utter_faq-agri-wheat-b3/information-regarding-aphids: 
-  - text: 
+  - text: SPRAY 100ML CONFIDOR IN 100 LITRE OF WATER/ACRE
+
   utter_faq-agri-wheat-b3/application-of-single-super-phosphate-in-wheat: 
-  - text: 
+  - text: NO RECOMMANDATION OF SUPERPHOSPHATE IN WHEAT. IF DAP IS NOT AVAILABLE THEN USE OF 150KG SUPER CAN BE DONE TO MEAT THE REQUIERMENT OF 55KG DAP
   utter_faq-agri-wheat-b3/information-regarding--management-of-alkali-soil: 
-  - text: 
-  utter_faq-agri-wheat-b3/fartilizer-dos-in-wheat: 
-  - text: 
-  utter_faq-agri-wheat-b3/time-gap-between-urea-applicatin-and-herbicide-spray: 
-  - text: 
+  - text: For alkali soils conditions ,apply gypsum according to soil test.and dhaincha for green manuring is helpful.apply more urea than recommended
   utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-requirement-in-wheat-sown-with-happy-seeder: 
-  - text: 
+  - text: Total fertilizer dose used in Barseem is 22kg Urea, 185kg Superphosphate per acre.
   utter_faq-agri-wheat-b3/information-regarding-green-sundi-in-wheat: 
-  - text: 
+  - text: spray quinalphorse 400 ml in 200 litre water per acre
   utter_faq-agri-wheat-b3/information-regarding-less-grain-filling-in-paddy-crop: 
-  - text: 
+  - text: Varieties of Wheat are-Unnat PBW 343(Yield-23.2 quintal),Unnat PBW 550(Yield-23 quintal), PBW 1 zinc(Yield-22.5 quintal), PBW 725(Yield-22.9 quintal), PBW 677(Yield-22.4 quintal), HD 3086(Yield-23 quintal),HD 2967(Yield-21.4 quintal), WH 1105(Yield-23.1 quintal), PBW 621(Yield-21.1 quintal) and PBW 550(Yield-20.8 quintal).
   utter_faq-agri-wheat-b3/urea-dose-at-sowing-time: 
-  - text: 
+  - text: FERT. DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG
   utter_faq-agri-wheat-b3/information-regarding-application-of-manures: 
-  - text: 
-  utter_faq-agri-wheat-b3/how-to-correct-the-deficiency-of-zinc-in-the-wheat-crop: 
-  - text: 
+  - text: apply 2.5 tonnes of poultry manures or 6 tonnes of FYM per acre and reduce the dose of urea 55 kg per acre 
   utter_faq-agri-wheat-b3/ragaeding-dose-of-urea-and-magnese-sulfate: 
-  - text: 
+  - text: spray 1kg mangnese sulphate in 100lt water/acre.
   utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-application-in-bt-cotton: 
-  - text: 
-  utter_faq-agri-wheat-b3/how-to-control-of-mangane-deficincy-in-wheat: 
-  - text: 
+  - text: APPLY 130KG / ACRE UREA IN 2 EQUAL SPLITS .
   utter_faq-agri-wheat-b3/how-to-control-of-mangnaese-deficincy-in-wheat: 
-  - text: 
+  - text: For Manganese deficiency in wheat spray Manganese Sulphate 1kg in 200 litres of water per acre 2-3 days on sunny days.
   utter_faq-agri-wheat-b3/information-regarding-difference-between-ssp-and-dap: 
-  - text: 
+  - text: difference between SSP and DAPSingle Super Phosphate - S-12%, Ca-19%, P2O5-16% and Di Ammonium Phosphate - P2O5-46%, N2-18%.
   utter_faq-agri-wheat-b3/deficiency-of-zinc-sulphate: 
-  - text: 
+  - text: APPLY 25 KG OF ZINC SULPHATE/ACRE BEFOR SOWING THE WHEAT. OR  SPRAY OF ZINC SULPHATE 0.5%[21% ZINC] @ 1KG ZINC SULPHATE + 1/2 KG UNSLAKED LIME IN 200 LITRES OF WATER/ACRE.
   utter_faq-agri-wheat-b3/farmer-ask-how-much-quantity-urea-required-for-1-acre-wheat-crop: 
-  - text: 
+  - text: 110 KG UREA / ACRE
   utter_faq-agri-wheat-b3/how-to-control-zinc-deficency: 
-  - text: 
+  - text: spray to zinc @ 1 kg + 2.5 kg urea in 100 liter water / acre.
+
   utter_faq-agri-wheat-b3/can-3086-variety-of-wheat-be-sown-in-saline-soils: 
-  - text: 
+  - text: NO ANSWER
+
   utter_faq-agri-wheat-b3/information-regarding-the-fertilizers-to-be-used-after-spraying-weedicide: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-control-of-nitrozen-defficincy: 
-  - text: 
+  - text: NO ANSWER
+
   utter_faq-agri-wheat-b3/information-regarding-the-npk-dose-in-acre: 
-  - text: 
+  - text: SPRAY NPK-19:19:19 1KG PER ACRE
   utter_faq-agri-wheat-b3/information-regarding-application-of-fertilizers-in-paddy: 
-  - text: 
+  - text: apply 70 kg in one acre area
   utter_faq-agri-wheat-b3/information-regarding-the-frtilizer-dose-in-wheat-before-irrigation: 
-  - text: 
+  - text: UREA-25KG+3KG SULPHUR 80%WDG.
   utter_faq-agri-wheat-b3/information-regarding-dose-of-zinc: 
-  - text: 
+  - text: spray of zinc-1kg zincsulphate and 1/2 kg unsalked lime/acre.
   utter_faq-agri-wheat-b3/information-regarding-the-batter-growth: 
-  - text: 
-  utter_faq-agri-wheat-b3/tell-me-fartilizer-application-in-potato: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-for-the-solution-of-fruit-cracking-in-guava-fruit: 
-  - text: 
+  - text: spray npk @ 1kg in 100 liters of water / acre.
   utter_faq-agri-wheat-b3/information-requirement-of-wheat-crop: 
-  - text: 
+  - text: urea110kg,DAP55KG/ACRE.
   utter_faq-agri-wheat-b3/information-regarding-the-fertilzer-application: 
-  - text: 
+  - text: Fertilizers for Wheat crop-Apply 90 kg Urea, 55 kg DAP or 155 kg Super phosphate, 40 kg Muriate of potash (In Gurdaspur, Hoshiarpur Ropar and Shaheed Bhagat singh nagar Districts) or 20 kg Muriate of potash in other areas of Punjab based on the soil testing report.If DAP is used for Phosphorous reduce Urea 20 kg.you can also apply NPK (12:32:16) 80 kg per acre rather than DAP,then apply 90 kilo urrea at first and second irrigation.
   utter_faq-agri-wheat-b3/information-regarding-dose-of-delta-methrine: 
-  - text: 
+  - text: SPRAY 160ML/100LITER /ACRE
   utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-sowing-of-wheat: 
-  - text: 
-  utter_faq-agri-wheat-b3/fertilizers-of-wheat: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regardig-the-foliar-application-of-urea: 
-  - text: 
+  - text: FERT.DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG.
+  utter_faq-agri-wheat-b3/information-regardig-the-foliar-application-of-urea:
+  - text: spray 1.5 kg urea mix in 120 liters of water / acre.
   utter_faq-agri-wheat-b3/information-regarding-spray-of-urea-in-wheat: 
-  - text: 
+  - text: apply 3kg urea in 100 litre water for the growth of wheat
   utter_faq-agri-wheat-b3/manganes-deficiency-in-wheat-crop: 
-  - text: 
+  - text: For Manganese deficiency in wheat spray Manganese Sulphate 1kg in 200 litres of water per acre 2-3 days on sunny days.
   utter_faq-agri-wheat-b3/information-regarding-suitable-time-of-1st-irrigation: 
-  - text: 
+  - text: SUITABLE TIME OF 1ST IRRIGATION IS -AFTER-25 DAYS.
   utter_faq-agri-wheat-b3/information-regarding-seed-treatment-in-wheat: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-rgarding-dose-of-defciency-izinc-in-wheat-crop: 
-  - text: 
+  - text: seed t75WS @ 3gm per kg seed or VitVAX 2GM per kg seed or raxil @ 1gm per kg seed. treat the seed with vitavax power
   utter_faq-agri-wheat-b3/information-regarding-nutrient-management-on-wheat: 
-  - text: 
+  - text: spray 1 kg NPK 13:0:45 in 100-150 L of water per acre.
   utter_faq-agri-wheat-b3/information-regarding-broadcasting-of-urea-after-herbicide-spray: 
-  - text: 
-  utter_faq-agri-wheat-b3/extra-water-in-wheat: 
-  - text: 
+  - text: 7-8days after spary you can broadcasting urea fertilizer.
+  utter_faq-agri-wheat-b3/extra-water-in-wheat:
+  - text: no recomend of fertilizers.
   utter_faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-control-of-nitrozen-in-wheat: 
-  - text: 
-  utter_faq-agri-wheat-b3/regarding-dose-of-gypsum-in-an-acre: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-how-many-dose-of-gypsum-in-wheat: 
-  - text: 
-  utter_faq-agri-wheat-b3/dose-of-urea: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-suphur-using-in-wheat-crop: 
-  - text: 
-  utter_faq-agri-wheat-b3/information-regarding-expiry-date-of-magnise-sulphate: 
-  - text: 
+  - text: NO RECOMMANDATION OF SUPERPHOSPHATE IN WHEAT. IF DAP IS NOT AVAILABLE THEN USE OF 150KG SUPER CAN BE DONE TO MEET THE REQUIERMENT OF 55KG DAP
+  utter_faq-agri-wheat-b3/information-regarding-control-of-nitrozen-in-wheat:
+  - text: SPRAY 3 KG UREA MIX IN 100 LITER WATER /ACRE.
+  utter_faq-agri-wheat-b3/information-regarding-suphur-using-in-wheat-crop:
+  - text: INFORMATION REGARDING DOSE OF SULPHUR IN WHEAT 3-4 KG PER ACRE
+  utter_faq-agri-wheat-b3/information-regarding-expiry-date-of-magnise-sulphate:
+  - text: 5YEARS AFTER MANUFACTURING DATE.
+
   utter_faq-agri-wheat-b3/information-regarding-about-standing-water-in-wheat: 
-  - text: 
-  utter_faq-agri-wheat-b3/dose-of-urea-in-whaet-crop: 
-  - text: 
-  utter_faq-agri-wheat-b3/how-to-clontrol-phosphorous-defficency-in-wheat-crop: 
-  - text: 
+  - text: NO ANSWER
+
   utter_faq-agri-wheat-b3/informstion-regsrding-dose-of-leader-in-an-acre: 
-  - text: 
+  - text: for control of weeds in wheat, spray 160 gm topik (clodinafop 15 wp) or 13 gm leader (sulfosulfuron 75 wg) or 16 gm total (sulfosulfuron+metsulfuron 75 wg) in 100 litre water per acre after 30-35 days of sowing
   utter_faq-agri-wheat-b3/information-regarding-poultry-manure-in-soil-before-wheat-sowing: 
-  - text: 
+  - text: apply 2.5 tonne per acre Poultry manure in soil before wheat sowing.
+
   utter_faq-agri-wheat-b3/information-regarding-organic-gibberellic-acid-preparation-with-cow-dung-cakes-to-improve-the-growth: 
-  - text: 
+  - text: NO ANSWER
+
   utter_faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat: 
-  - text: 
+  - text: urea can be applied 7-9 days after spraying weedicides for the better results
+  utter_faq-agri-wheat-b3/how-to-correct-the-deficiency-of-zinc-in-the-wheat-crop:
+  - text: SPRAY OF ZINC SULPHATE 0.5% [ 21% ZINC ] @ 1KG ZINC SULPHATE + 1/2 KG UNSLAKED LIME IN 200 LITRES OF WATER/ACRE.

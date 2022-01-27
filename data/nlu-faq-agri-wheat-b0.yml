@@ -6,6 +6,8 @@ nlu:
     - hey
     - hello
     - hi
+    - hii
+    - hlo
     - hello there
     - good morning
     - good evening
@@ -21,6 +23,7 @@ nlu:
   examples: |
     - yes
     - y
+    - yeah
     - indeed
     - of course
     - that sounds good

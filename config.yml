@@ -38,6 +38,14 @@ pipeline:
     epochs: 100
     retrieval_intent: faq-hort-dummycrop-b0
 
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-wheat-b2 
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-wheat-b3
+
   - name: FallbackClassifier
     threshold: 0.75
     ambiguity_threshold : 0.1
