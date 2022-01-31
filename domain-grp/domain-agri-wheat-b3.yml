@@ -111,6 +111,13 @@ responses:
   - text: spray quinalphorse 400 ml in 200 litre water per acre
   utter_faq-agri-wheat-b3/information-regarding-less-grain-filling-in-paddy-crop: 
   - text: Varieties of Wheat are-Unnat PBW 343(Yield-23.2 quintal),Unnat PBW 550(Yield-23 quintal), PBW 1 zinc(Yield-22.5 quintal), PBW 725(Yield-22.9 quintal), PBW 677(Yield-22.4 quintal), HD 3086(Yield-23 quintal),HD 2967(Yield-21.4 quintal), WH 1105(Yield-23.1 quintal), PBW 621(Yield-21.1 quintal) and PBW 550(Yield-20.8 quintal).
+
+
+
+
+
+
+
   utter_faq-agri-wheat-b3/urea-dose-at-sowing-time: 
   - text: FERT. DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG
   utter_faq-agri-wheat-b3/information-regarding-application-of-manures: 

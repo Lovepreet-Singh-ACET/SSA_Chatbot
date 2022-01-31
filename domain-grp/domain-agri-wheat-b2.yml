@@ -8,8 +8,6 @@ responses:
   - text: suitable sowing time of pbw-550 is 2nd week of nov. to 4th week of nov.
   utter_faq-agri-wheat-b2/sowing-time-for-early-sowing-varities: 
   - text: LAST WEEK OF OCTOBER TO LAST WEEK OF NOVEMBER.
-  utter_faq-agri-wheat-b2/sowing-time-of-pbw621: 
-  - text: 25 oct to 15 oct.
   # utter_faq-agri-wheat-b2/sowing-time-of-hd2967: 
   # - text: 25 oct. to 25 nov.
   utter_faq-agri-wheat-b2/information-regarding-the-sowing-time-of-hd2967: 

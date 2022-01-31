@@ -108,6 +108,8 @@ nlu:
     - How is the dosage of dap in wheat crop?
     - Does dap affect wheat crop?
     - What are some details about the dose of dap in wheat crop?
+    - tell me the use of dap in wheat
+
 - intent: faq-agri-wheat-b3/fertilizer-application-of--wheat
   examples: |
     - fertilizer application of  wheat
@@ -127,7 +129,7 @@ nlu:
     - Dose of fertilizer fertilizer given per day for fertilizing fertilizer.
     - Is fertilizer a fertilizer that can be dissolved in a bucket at room temperature?
     - Dose of fertilizer fertilizer to be used in fertilizer application.
-    - Dosage of fertilizer fertilizer 4 times a week. If you don't like fertilizer – do so with a small dose of fertilizer.
+    - Dosage of fertilizer fertilizer 4 times a week. If you don't like fertilizer do so with a small dose of fertilizer.
     - Doses of fertilizer fertilizer should not exceed 50,000 tsp. of fertilizer.
     - Dose of fertilizer fertilizer in fertilizer dose?
     - Doses of fertilizer fertilizer fertilizer are in daily use. Doses of fertilizer fertilizer fertilizer fertilizer fertilizer fertilizer fertilizer fertilizer dose is 0.50 mg daily or 0.75 mg/day for 40 days. Is fertilizer fertilizer fertilizer?
@@ -147,6 +149,7 @@ nlu:
     - Information regarding deficiency of mangnese in wheat, wet and maize, can be obtained with further knowledge.
     - Why mangnese in wheat is so bad? Is the wheat equivalent in the same form as mangnese in oat flour?
     - Is mangnese available in wheat?
+    - tell me about the manganese deficiency in wheat
 - intent: faq-agri-wheat-b3/information-regarding-the-stop-of-yellowing-in-wheat-crop
   examples: |
     - information regarding the stop of yellowing in wheat crop?
@@ -327,7 +330,7 @@ nlu:
     - What are the applications of gypsum?
 - intent: faq-agri-wheat-b3/information-regarding-total-fertilizers-dose-in-wheat
   examples: |
-    - information regarding total fertilizers dose in wheat?
+    - information regarding total fertilizers dose in wheat?  
     - What is total fertilizer dose for wheat?
     - What is the total fertilizer dose in wheat wheat?
     - What is total fertilizers dose in wheat?
@@ -590,7 +593,6 @@ nlu:
     - Why do we have deficiency of magnesium sulphate in wheat?
     - Is magnesium sulfate important for grains?
     - How do I get a full sized sample of Magnesium sulphate in wheat?
-    - How do we get potassium sulphate in wheat?
 # - intent: faq-agri-wheat-b3/deficendy-off-urea-in-wheat-crop
 #   examples: |
 #     - deficendy off urea in wheat crop,
@@ -914,14 +916,8 @@ nlu:
   examples: |
     - deficiency of zinc sulphate
     - Deficiency of zinc sulphate.
-    - Deficiency of zinc sulphate: The total zinc in soils is about 2%. For this reason, it is recommended that there be a supplement of zinc sulphate.
-    - Deficiency in zinc sulphate zinc sulfate zinc sulphate copper manganese copper zinc sulphate iron phosphate zinc sulfate zinc sulphate iron phosphate zinc sulfate zinc sulphate zinc 
-    - Cassandra: If zinc sulphate is low it will lead to a deficiency of magnesium.
-    - - Deficiency of zinc sulphate - This deficiency explains the deficiency of zinc sulphate.
-    - Deficiency in zinc sulphate zinc sulphate copper,.. deficiency of zinc sulphate zinc sulphate...
-    - In India zinc sulphate is very rare (with high mineral concentrations) with poor supply of zinc sulphate (mineral zinc sulphate) in the country. This mineral is particularly deficient in zinc sulphate (mineral zinc oxide) in the country. This mineral
-    - Currently, the zinc salt in a food system is in deficit. In short, the deficiency is due to an increasing amount of zinc sulphate.
-    - What is the difference between zinc sulphate and zinc sulphate?
+    - Deficiency of zinc sulphate 
+    - This deficiency explains the deficiency of zinc sulphate.
 - intent: faq-agri-wheat-b3/farmer-ask-how-much-quantity-urea-required-for-1-acre-wheat-crop
   examples: |
     - farmer ask how much quantity urea required for 1 acre wheat crop ?
