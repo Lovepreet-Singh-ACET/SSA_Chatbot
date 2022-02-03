@@ -28,7 +28,7 @@ nlu:
 #     - Is it ok to plant seeds on variety pbw 550?
 #     - What is the sowing time of variety pbw 550?
 
-# asking for soqing time of early wheat varieties
+# asking for sowing time of early wheat varieties
 - intent: faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties
   examples: |
     - sowing time for early sowing varieties?
@@ -129,6 +129,7 @@ nlu:
 #     - Sowing time of pbw 590 varity, according to pbw 590 varity is 60-90 days. The sowing time of pbw 590 varity is 60-90 days. The sowing time will be approximately 2 days.
 #     - What is the sowing time of pbw 590 varity?
 
+# about sowing periods of wheat
 - intent: faq-agri-wheat-b2/sowing-period-of-wheat
   examples: |
     - sowing period of wheat
@@ -140,6 +141,8 @@ nlu:
     - How long will sowing period of wheat be?
     - What was the sowing time of wheat?
     - sowing time of wheat
+
+# about main seasonal varieties of wheat
 - intent: faq-agri-wheat-b2/main-season-varieties-of-wheat
   examples: |
     - main season varieties of wheat?
@@ -152,6 +155,7 @@ nlu:
     - What are main season varieties of wheat?
     - Which is main season wheat variety?
 
+# asking about suitable wheat varieties and their price
 - intent: faq-agri-wheat-b2/information-regarding-suitable-varieties-of-wheat--its-seed-rate
   examples: |
     - information regarding suitable varieties of wheat & its seed rate ?
@@ -168,6 +172,8 @@ nlu:
     - How can I determine suitable varieties of wheat & its seed rate?
     - What is the grain yield for wheat and what are the seed rates?
     - Which varieties of wheat are suitable and their seed rate?
+
+# asking about suitable varieties for the running season
 - intent: faq-agri-wheat-b2/information-about-suitable-varieties-for-running-season
   examples: |
     - information about suitable varieties for running season?
@@ -181,6 +187,8 @@ nlu:
     - Which is the best variety for the running season?
     - Can you provide advice about suitable varieties for running season?
     - Why are so many varieties of vegetables available in the running season?
+
+# about sowing time of early wheat varieties
 - intent: faq-agri-wheat-b2/sowing-time-of-early-wheat
   examples: |
     - sowing time of early wheat?
@@ -204,6 +212,7 @@ nlu:
 #     - Is the time of sowing of the hd 2733 bp  270 ft.?
 #     - sowing time of the hd2733
 
+# about sowing time of wheat grown after november
 - intent: faq-agri-wheat-b2/sowing-time-of-wheat-after-nov
   examples: |
     - sowing time of wheat after nov?
@@ -215,6 +224,7 @@ nlu:
     - When to sow wheat in nov?
     - Can you provide sowing time of wheat after November?
 
+# about sowing time of late varieties of wheat in sandy soils 
 - intent: faq-agri-wheat-b2/sowing-time-of-late-varieties-of-wheat-in-sandy-soils
   examples: |
     - sowing time of late varieties of wheat in sandy soils?
