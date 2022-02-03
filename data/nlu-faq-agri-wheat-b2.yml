@@ -1,6 +1,6 @@
 version: "3.0" 
 nlu: 
-
+# asking for sowing time of wheat
 - intent: faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat
   examples: |
     - information regarding sowing time of wheat?
@@ -27,6 +27,8 @@ nlu:
 #     - What is the sowing time of PBW 550?
 #     - Is it ok to plant seeds on variety pbw 550?
 #     - What is the sowing time of variety pbw 550?
+
+# asking for soqing time of early wheat varieties
 - intent: faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties
   examples: |
     - sowing time for early sowing varieties?
@@ -87,6 +89,7 @@ nlu:
 #     - How do I sow wheat variety pbw 550?
 #     - What is the sowing season of wheat variety pbw 550?
 
+# asking about late wheat varieties
 - intent: faq-agri-wheat-b2/late-varieties-of-wheat
   examples: |
     - late varieties of wheat?
