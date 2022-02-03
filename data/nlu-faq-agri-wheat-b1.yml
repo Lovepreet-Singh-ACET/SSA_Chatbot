@@ -270,11 +270,11 @@ nlu:
 - intent: faq-agri-wheat-b1/information-regarding-the-salt-of-sagun-21-11
   examples: |
     - information regarding the salt of sagun 21-11?
-    - how much we use salt of sagun 21-11 in wheat crops ?
-    - what is maximum quantity of salt of sagun 21-11 for wheat
-    - how much salt of sagun 21-11 should i used for wheat
+    - how much we use salt of Shagun 21-11 in wheat crops ?
+    - what is maximum quantity of salt of Shagun 21-11 for wheat
+    - how much salt of Shagun 21-11 should i used for wheat
     - how much quantity of salt of sagun 21-11 is used for wheat
-    - what dosage of salt of sagun 21-11 should be used
+    - what dosage of salt of Shagun 21-11 should be used
 
 # bathu in wheat
 - intent: faq-agri-wheat-b1/information-regarding-to-control-of-bathu-in-the-wheat-crop
@@ -312,16 +312,16 @@ nlu:
     - What is the time gap for fertilizer application after weedicide spray?
     - How long is the time gap between fertilizer application and spray of weedicide?
 
-# trifoneela polycerata
+# trigonella polycerata
 - intent: faq-agri-wheat-b1/how-to-control-trigoneela-polycerata-in-wheat-crop
   examples: |
-    - how to control trigoneela polycerata in wheat crop?
-    - how we get rid of trigoneela polycerata 
-    - information regarding the control of trigoneela polycerata in wheat 
+    - how to control trigonella polycerata in wheat crop?
+    - how we get rid of trigonella polycerata 
+    - information regarding the control of trigonella polycerata in wheat 
     - control of trigoneela polycerata in wheat?
     - can you please tell about the control of trigoneela polycerata ?
-    - How do you control Trigoneela polycerata in wheat crop?
-    - What are the best strategies to control Trigoneela polycerata?
+    - How do you control trigonella polycerata in wheat crop?
+    - What are the best strategies to control trigonella polycerata?
     - 
 
 # melilotus indica
