@@ -14,18 +14,16 @@ nlu:
     - What is the dose of fertilizer for wheat crop?
     - What are the effects of fertilizers on the wheat crop?
     - What's the data on fertilizer dose in wheat crops?
-- intent: faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-maganese-sulphate-spray-in-wheat--dose--per-acre-of-it
+- intent: faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it
   examples: |
-    - information regarding for suitable time of the maganese sulphate spray in wheat & dose  per acre of it?
-    - Information regarding for suitable time of the maganese sulphate spray in wheat & dose per acre of it?
-    - What is the dose of magnese sulphate spray in wheat?
-    - For suitable time of magnese sulphate spray in wheat & dose per acre of it?
-    - What should I do after the use of maganese sulphate & dose per acre in wheat?
-    - Information regarding for suitable time of maganese sulphate spray in wheat and dose per acre of it?
-    - How do I remove the maganese sulphate from wheat?
-    - The maganese sulphate spray in wheat is a good solution to deactivate it, if it's possible to do so at a suitable time?
-    - How is the dose per acre of maganese sulphate used for wheat?
-    - Information regarding suitable time for the maganese sulphate spray in wheat & dose per acre of it?
+    - information regarding for suitable time of the manganese sulphate spray in wheat & dose  per acre of it?
+    - What is the dose of manganese sulphate spray in wheat?
+    - For suitable time of manganese sulphate spray in wheat & dose per acre of it?
+    - What should I do after the use of manganese sulphate & dose per acre in wheat?
+    - Information regarding for suitable time of manganese sulphate spray in wheat and dose per acre of it?
+    - How do I remove the manganese sulphate from wheat?
+    - How is the dose per acre of manganese sulphate used for wheat?
+    - Information regarding suitable time for the manganese sulphate spray in wheat & dose per acre of it?
 - intent: faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat
   examples: |
     - information regarding total dose of urea in wheat ?
@@ -38,26 +36,26 @@ nlu:
     - Is total dose of urea present in wheat?
     - How can ura be used to treat wheat grains?
     - How is the total dose of urea in wheat calculated?
-- intent: faq-agri-wheat-b3/information-regarding-the-fert-dose-at-the-time-of-wheat-sowing
+- intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-wheat-sowing
   examples: |
-    - information regarding the fert. dose at the time of wheat sowing?
-    - What is the fert dose on wheat seed?
-    - What is the fert. dose, during wheat planting?
-    - What is the fert. dose of wheat?
-    - What are the possible fert. doses when wheat is sowing?
-    - How does the fert. dose to wheat ease?
-    - Do you have any knowledge regarding the fert. dose at the time of wheat sowing?
-    - Considering wheat sowing, how much fert. dose should one give when planting wheat in the spring?
-    - What is the fert. dose of wheat sowing?
-    - What are the fert. doses at the time of wheat sowing?
-    - How accurate is the fert. dose in wheat seed?
+    - information regarding the fertilizer. dose at the time of wheat sowing?
+    - What is the fertilizer dose on wheat seed?
+    - What is the fertilizer. dose, during wheat planting?
+    - What is the fertilizer. dose of wheat?
+    - What are the possible fertilizer. doses when wheat is sowing?
+    - How does the fertilizer. dose to wheat ease?
+    - Do you have any knowledge regarding the fertilizer. dose at the time of wheat sowing?
+    - Considering wheat sowing, how much fertilizer. dose should one give when planting wheat in the spring?
+    - What is the fertilizer. dose of wheat sowing?
+    - What are the fertilizer. doses at the time of wheat sowing?
+    - How accurate is the fertilizer. dose in wheat seed?
 - intent: faq-agri-wheat-b3/should-we-spray-near-harvesting-stage-of-paddy
   examples: |
     - should we spray near harvesting stage of paddy ?
     - Is spray near harvesting stage good practice to make paddy husks?
-    - Should we spray near harvesting stage of paddy?
-    - What spray should I spray near harvesting stage of paddy?
-    - What is the best way to spray before harvesting of paddy?
+    - Is it recommended to spray near harvesting stage of paddy?
+    - What should I spray near harvesting stage of paddy?
+    - What is the best thing to spray before harvesting of paddy?
     - Can we spray near harvesting stage of paddy?
 - intent: faq-agri-wheat-b3/information-regarding-the-control-of-sulphur-deficiency-in-wheat
   examples: |
@@ -76,11 +74,11 @@ nlu:
   examples: |
     - how many spray of manganese are required in the wheat crop ?
     - How many spray of manganese are required in the wheat crop?
-    - How many sprays manganese is required to wheat crop?
+    - What quantity of  sprays manganese is required to wheat crop?
     - How many spray of manganese required in wheat crop?
     - How many spray of manganese are needed in wheat crop?
-    - How many spray of manganese are required in wheat crop?
-    - How many sprays of manganese required in the wheat crop?
+    - Number of spray of manganese are required in wheat crop?
+    - amount of sprays of manganese needed in the wheat crop?
     - How many sprays of manganese are required in the wheat crop?
 - intent: faq-agri-wheat-b3/information-regarding-zinc-deficiency-in-wheat-crop
   examples: |
@@ -110,45 +108,46 @@ nlu:
     - What are some details about the dose of dap in wheat crop?
     - tell me the use of dap in wheat
 
-- intent: faq-agri-wheat-b3/fertilizer-application-of--wheat
+# - intent: faq-agri-wheat-b3/fertilizer-application-of--wheat
+#   examples: |
+#     - fertilizer application of  wheat
+#     - If wheat is being fertilizerilized for its own, can the wheat be irrigated for up to 2 weeks after the application of fertilizer or water to the wheat.?
+#     - Wheat is fed with fertilizer and used for wheat growing. Wheat is fed with fertilizer and incroporated in wheat. Wheat is planted. Wheat is fed with fertilizer application.
+#     - Wheat is a great yielder. It is the most fertilizerile wheat crop in the world. Use a fertilizer application of a fertilizer application of wheat.
+#     - Wheatseed feed application sprayed with fertilizer and wheat germicide fertilizer.
+#     - Wheat is nitrogen fertilizeriliser application of wheat. fertilizer application of wheat of wheat was in 2006-12.
+#     - Wheat is a hard crop wheat. Wheat is fed with nitrogen fertilizer and a wheat feed fertilizer. Wheat is not suitable for farming. Wheat is fed with fertilizer application of wheat. Wheat is not for wheat fertilizer application.
+#     - Wheat yield application fertilizer application of wheat. Wheat is a cultivated grain. Wheat yields only a few thousand grams. Wheat yields approximately 25,000 pounds.
+#     - Wheat is a riparian wheat. Its use in a fertilizer application of wheat has been a blessing for wheat for years.
+#     - Is it fertilizeriliser application for wheat?
+#     - With fertilizer application of wheat wheat crops will be fertilizerilized and sown in the wheat plantations.
+
+# - intent: faq-agri-wheat-b3/dose-of-fertilizer
+#   examples: |
+#     - dose of fertilizer
+#     - Dose of fertilizer fertilizer given per day for fertilizerilizing fertilizer.
+#     - Is fertilizer a fertilizer that can be dissolved in a bucket at room temperature?
+#     - Dose of fertilizer fertilizer to be used in fertilizer application.
+#     - Dosage of fertilizer fertilizer 4 times a week. If you don't like fertilizer do so with a small dose of fertilizer.
+#     - Doses of fertilizer fertilizer should not exceed 50,000 tsp. of fertilizer.
+#     - Dose of fertilizer fertilizer in fertilizer dose?
+#     - Doses of fertilizer fertilizer fertilizer are in daily use. Doses of fertilizer fertilizer fertilizer fertilizer fertilizer fertilizer fertilizer fertilizer dose is 0.50 mg daily or 0.75 mg/day for 40 days. Is fertilizer fertilizer fertilizer?
+#     - Doses of fertilizer fertilizer must be used to avoid any contamination in the soil.
+#     - Dose of fertilizer fertilizer is too high a dose?
+#     - Dose of fertilizer is necessary for plant fertilizer?
+
+- intent: faq-agri-wheat-b3/information-regarding-deficiency-of-manganese-in-wheat
   examples: |
-    - fertilizer application of  wheat
-    - If wheat is being fertilized for its own, can the wheat be irrigated for up to 2 weeks after the application of fertilizer or water to the wheat.?
-    - Wheat is fed with fertilizer and used for wheat growing. Wheat is fed with fertilizer and incorporated in wheat. Wheat is planted. Wheat is fed with fertilizer application.
-    - Wheat is a great yielder. It is the most fertile wheat crop in the world. Use a fertilizer application of a fertilizer application of wheat.
-    - Wheatseed feed application sprayed with fertilizer and wheat germicide fertilizer.
-    - Wheat is nitrogen fertiliser application of wheat. fertilizer application of wheat of wheat was in 2006-12.
-    - Wheat is a hard crop wheat. Wheat is fed with nitrogen fertilizer and a wheat feed fertilizer. Wheat is not suitable for farming. Wheat is fed with fertilizer application of wheat. Wheat is not for wheat fertilizer application.
-    - Wheat yield application fertilizer application of wheat. Wheat is a cultivated grain. Wheat yields only a few thousand grams. Wheat yields approximately 25,000 pounds.
-    - Wheat is a riparian wheat. Its use in a fertilizer application of wheat has been a blessing for wheat for years.
-    - Is it fertiliser application for wheat?
-    - With fertilizer application of wheat wheat crops will be fertilized and sown in the wheat plantations.
-- intent: faq-agri-wheat-b3/dose-of-fertilizer
-  examples: |
-    - dose of fertilizer
-    - Dose of fertilizer fertilizer given per day for fertilizing fertilizer.
-    - Is fertilizer a fertilizer that can be dissolved in a bucket at room temperature?
-    - Dose of fertilizer fertilizer to be used in fertilizer application.
-    - Dosage of fertilizer fertilizer 4 times a week. If you don't like fertilizer do so with a small dose of fertilizer.
-    - Doses of fertilizer fertilizer should not exceed 50,000 tsp. of fertilizer.
-    - Dose of fertilizer fertilizer in fertilizer dose?
-    - Doses of fertilizer fertilizer fertilizer are in daily use. Doses of fertilizer fertilizer fertilizer fertilizer fertilizer fertilizer fertilizer fertilizer dose is 0.50 mg daily or 0.75 mg/day for 40 days. Is fertilizer fertilizer fertilizer?
-    - Doses of fertilizer fertilizer must be used to avoid any contamination in the soil.
-    - Dose of fertilizer fertilizer is too high a dose?
-    - Dose of fertilizer is necessary for plant fertilizer?
-- intent: faq-agri-wheat-b3/information-regarding-deficiency-of-mangnese-in-wheat
-  examples: |
-    - information regarding deficiency of mangnese in wheat
-    - Information regarding deficiency of mangnese in wheat grain.
-    - In wheat there are indications of a mangnese deficiency in the plant.
-    - What is the potential importance of mangnese for the deficiency of wheat?
-    - Deficiency of mangnese in wheat?
-    - Does mangnese help with deficiency of mangnese in wheat?
-    - What are some of the major issues related to mangnese in wheat?
-    - Do wheat grains contain mangnese?
-    - Information regarding deficiency of mangnese in wheat, wet and maize, can be obtained with further knowledge.
-    - Why mangnese in wheat is so bad? Is the wheat equivalent in the same form as mangnese in oat flour?
-    - Is mangnese available in wheat?
+    - information regarding deficiency of manganese in wheat
+    - Information regarding deficiency of manganese in wheat grain.
+    - In wheat there are indications of a manganese deficiency in the plant.
+    - What is the potential importance of manganese for the deficiency of wheat?
+    - Deficiency of manganese in wheat?
+    - Does manganese help with deficiency of manganese in wheat?
+    - What are some of the major issues related to manganese in wheat?
+    - Do wheat grains contain manganese?
+    - details regarding deficiency of manganese in wheat 
+    - Is manganese available in wheat?
     - tell me about the manganese deficiency in wheat
 - intent: faq-agri-wheat-b3/information-regarding-the-stop-of-yellowing-in-wheat-crop
   examples: |
@@ -158,10 +157,8 @@ nlu:
     - How would be the wheat crop stopped from yellowing?
     - How could I stop wheat yellowing?
     - How do I stop wheat crop yellowing?
-    - Will this planting be able to stop wheat yield from yellowing?
-    - What is the latest news regarding the harvest of wheat crop in India?
-    - How a stop the yellowing of wheat is needed?
-    - Why is grain crop yellowing so quickly?
+    - whats Will be able to stop wheat yield from yellowing?
+    - Why is wheat grain crop yellowing so quickly?
     - How can we stop yellowing wheat crops?
 
 # - intent: faq-agri-wheat-b3/information-regarding-control-of-manganese-deficiency-in-wheat
@@ -184,9 +181,9 @@ nlu:
     - How much wheat seed germination after rain depends on the weather condition?
     - How can I germinate wheat after rain?
     - What are the sources of wheat seed germination after rain?
-    - How can a wheat seed be germination in the rain?
+    - How can a wheat seed be germinated in the rain?
     - How do wheat seed germinate after rain?
-    - How can I know when wheat seed germination can occur in a rain or shine?
+    - How can I know when wheat seed germination can occur in a rain?
     - What are some information regarding wheat seed germination after rain?
     - How can I grow wheat grains after rain?
     - Wheat seed germination after rain?
@@ -243,24 +240,22 @@ nlu:
     - What are the reasons for a potassium deficiency in wheat?
 - intent: faq-agri-wheat-b3/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days
   examples: |
-    - when to apply urea dose if irrigation is to be done within 1-2 days ?
-    - When do I apply urea dose if irrigation is done within 1-2 days?
-    - What is the application of urea dose in irrigation?
-    - How long does it take for application of urea dose if irrigation is to be done within 1-2 days?
-    - When to apply urea dose for irrigation is to be done within 1-2 days?
-    - If irrigation is to be done within 2 days, then when to apply urea dose if irrigation is to be done within 1-2 days?
-    - When does applied urea dose go to if irrigation is to be done within 1-2 days?
-    - How do we apply urea dose if irrigation is done within 1-2 days?
+    - when to apply urea dose if irrigation is to be done within 12 days ?
+    - When do I apply urea dose if irrigation is done within 12 days?
+    - When to apply urea dose in wheat for irrigation is to be done within 12 days?
+    - If irrigation is to be done within 12 days, then when to apply urea dose ?
+    - When does applied urea dose go to if irrigation is to be done within 12 days?
+    - How do we apply urea dose if irrigation is done within 12 days?
     - When urea dose should be applied in irrigation?
-    - When to apply urea dose if irrigation is to be done within 1-2 days?
-    - When should you apply urea dose if irrigation is to be done within 1-2 days?
+    - details to apply urea dose if irrigation is to be done within 12 days?
+    - How should you apply urea dose if irrigation is to be done within 12 days?
 - intent: faq-agri-wheat-b3/information-regarding-dose-of-potash-in-wheat
   examples: |
     - information regarding dose of potash in wheat?
     - How much potash is in wheat?
     - Do you know potash dose in wheat? What does potash do?
-    - Can potash be used to cook wheat?
-    - Dose of Potash in wheat wheat is correct?
+    - Can potash be used to grow wheat?
+    - what Dose of Potash in wheat is correct?
     - What is the potash dosage in wheat?
     - How can potash be present in wheat?
     - What are some interesting facts about potash in wheat?
@@ -292,42 +287,41 @@ nlu:
 #     - What is dose of urea per acre?
 #     - How long is the dose of urea in an acre?
 #     - Does dose of urea be measured in an acre?
-# - intent: faq-agri-wheat-b3/fertlizers-of-wheat
+# - intent: faq-agri-wheat-b3/fertilizerlizers-of-wheat
 #   examples: |
-#     - fertlizers of wheat?
-#     - Is wheat fertlizers?
+#     - fertilizerlizers of wheat?
+#     - Is wheat fertilizerlizers?
 #     - How does it differ from wheat?
-#     - What are the fertlizers of wheat?
-#     - What is the fertlizers of wheat?
-#     - Is wheat fertlizer wheat?
-#     - How do fertlizers of wheat work?
-#     - What are fertlizers of wheat?
-#     - What are some fertlizers of wheat?
-- intent: faq-agri-wheat-b3/information-regarding-for-the--fert--dose-1st-irrigation--of-wheat-crop
-  examples: |
-    - information regarding for the  fert.  dose 1st irrigation  of wheat crop ?
-    - How do I manage the first irrigation of wheat crop?
-    - Information regarding for the fert. dose 1st irrigation of wheat crop?
-    - Is 1st irrigation of wheat best option?
-    - Will irrigation of wheat be the 1st time?
-    - How do I determine whether 1st irrigation is the correct one for wheat?
-    - Generally for the fert. dose 1st irrigation of wheat crop?
-    - For first irrigation of wheat crop, how is the fert. dose determined?
-    - Approximately for the fert. dose 1st irrigation of wheat crop?
-    - What is the fert. dose 1st irrigation of wheat crop?
-    - For the fert dose 1st irrigation of wheat crop?
+#     - What are the fertilizerlizers of wheat?
+#     - What is the fertilizerlizers of wheat?
+#     - Is wheat fertilizerlizer wheat?
+#     - How do fertilizerlizers of wheat work?
+#     - What are fertilizerlizers of wheat?
+#     - What are some fertilizerlizers of wheat?
+
+# - intent: faq-agri-wheat-b3/information-regarding-for-the--fertilizer--dose-1st-irrigation--of-wheat-crop
+#   examples: |
+#     - information regarding for the  fertilizer.  dose 1st irrigation  of wheat crop ?
+#     - How do I manage the first irrigation of wheat crop?
+#     - Information regarding for the fertilizer. dose 1st irrigation of wheat crop?
+#     - Is 1st irrigation of wheat best option?
+#     - Will irrigation of wheat be the 1st time?
+#     - How do I determine whether 1st irrigation is the correct one for wheat?
+#     - Generally for the fertilizer. dose 1st irrigation of wheat crop?
+#     - For first irrigation of wheat crop, how is the fertilizer. dose determined?
+#     - Approximately for the fertilizer. dose 1st irrigation of wheat crop?
+#     - What is the fertilizer. dose 1st irrigation of wheat crop?
+#     - For the fertilizer dose 1st irrigation of wheat crop?
 - intent: faq-agri-wheat-b3/information-regarding-the-application-of-gypsum
   examples: |
     - information regarding the application of gypsum ?
-    - How is gypsum applied to steel?
-    - What are some characteristics of polymer gypsum? How will it be used for a surface?
-    - What is the application of Gypsum in building materials?
-    - What is gypsum (based on gypsum)? How can a chemical application be made?
-    - How can I apply Gypsum?
-    - How do I apply gypsum?
-    - Is there any information regarding the application of gypsum?
-    - What are some useful details regarding the application of gypsum?
-    - What are the applications of gypsum?
+    - How is gypsum applied to wheat?
+    - What are some characteristics of gypsum? How will it be used for wheat?
+    - How can I apply Gypsum in wheat fields?
+    - How do I apply gypsum for wheat crop?
+    - Is there any information regarding the application of gypsum for wheat?
+    - What are some useful details regarding the application of gypsum for wheat?
+    - What are the applications of gypsum for wheat crop?
 - intent: faq-agri-wheat-b3/information-regarding-total-fertilizers-dose-in-wheat
   examples: |
     - information regarding total fertilizers dose in wheat?  
@@ -338,8 +332,7 @@ nlu:
     - Do you have information regarding total fertilizers dose in wheat?
     - What is the total fertilizer dose for wheat?
     - How does total fertilizers dose in wheat differ from other crops?
-    - What are the requirements to use total fertilizers to fertilize wheat?
-    - How do I know if wheat wheat is fertilized with fertilizers?
+    - How do I know if wheat wheat is fertilized?
     - How much total fertilizers dose in wheat is required?
 - intent: faq-agri-wheat-b3/information-regarding-method-of-fertilizer-application-in-wheat
   examples: |
@@ -370,37 +363,35 @@ nlu:
   examples: |
     - information regarding fertilizer dosage before 1st irrigation?
     - What are the proper doses of fertilizer for 1st irrigation?
-    - What is the formula of fertilizer doses at the first of each irrigation?
     - What is the fertilizer dosage for first irrigation?
-    - How much fertilizer is recommended before irrigation?
+    - How much fertilizer is recommended before initial irrigation?
     - What is the best fertilizer dosage for 1st irrigation?
     - What are the fertilizer dosage recommendations before 1st irrigation?
     - How long is fertilizer dose before first irrigation?
     - Is there information regarding fertilizer dosage before 1st irrigation?
-    - Which is best fertilizer for irrigated areas?
     - How do I use fertilizer before 1st irrigation?
 - intent: faq-agri-wheat-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application
   examples: |
     - information regarding the gap between the herbicide spray and urea application?
     - How much gap is between herbicide spray and urea application?
     - How do you determine the distance between herbicide and urea application?
-    - What is the difference between herbicide spray and urea?
-    - How do you calculate the gap between the herbicide spray and urea?
+    - What is the time difference between herbicide spray and urea?
+    - How do you calculate the time gap between the herbicide spray and urea?
     - What is the gap between herbicide spray and urea?
-    - Is there any gap between herbicide spray and urea application?
+    - Is there any time gap between herbicide spray and urea application?
     - Is there a gap between herbicide spray and urea application?
-    - How do the herbicide and urea sprays differ?
+    - How do the herbicide and urea sprays differ in time?
     - Does the gap between herbicide application and urea application exist?
-- intent: faq-agri-wheat-b3/information-regarding-diffiency-of-zinc-sulphate-in-wheat-crops
+- intent: faq-agri-wheat-b3/information-regarding-deficiency-of-zinc-sulphate-in-wheat-crops
   examples: |
-    - information regarding diffiency of zinc sulphate in wheat crops ?
-    - What is the importance of zinc sulphate in wheat wheat?
-    - How does zinc sulphate sulfate affect wheat crops in India?
+    - information regarding deficiency of zinc sulphate in wheat crops ?
+    - What is the importance of zinc sulphate in wheat ?
+    - How does zinc sulphate affect wheat crops in India?
     - What is the significance of zinc sulphate in wheat crop?
-    - How do you know of the diffiency of zinc sulphate in wheat crops?
+    - How do you know of the deficiency of zinc sulphate in wheat crops?
     - Why is zinc sulphate used in wheat cropping?
     - How can zinc sulphate be used in wheat farming?
-    - What do you think about diffiency of zinc sulphate in wheat crops?
+    - What do you think about deficiency of zinc sulphate in wheat crops?
     - What is the importance of zinc sulphate in wheat?
     - What is the effect of zinc in wheat?
     - What is the problem in wheat crops with zinc sulphate? How can it be fixed?
@@ -411,7 +402,7 @@ nlu:
     - How do I control phosphorous deficiency in wheat?
     - Is there any information regarding the control of phosphorous deficiency in wheat?
     - How can the control of phosphorous deficiency in wheat be done?
-    - How can phosphorus be deficiency controlled in wheat?
+    - How can phosphorus deficiency controlled in wheat?
     - How can phosphorous be contained in wheat?
     - What is the control of phosphorous in wheat?
     - Is phosphorus deficiency in wheat easily controlable?
@@ -419,15 +410,11 @@ nlu:
     - How is phosphorus deficiency controlled in wheat?
 - intent: faq-agri-wheat-b3/farmer-asks-about-the-dose-of-mop-in-wheat
   examples: |
-    - farmer asks about the dose of mop in wheat?
-    - Do you do mop for wheat?
+    - dose of mop in wheat?
     - What is the dose of mop in wheat?
     - How much mop should wheat grow?
     - What is the mop dose of wheat?
     - What are the doses of mop in wheat?
-    - What do farmers and farmers ask about the dose of mop in wheat?
-    - When does a farmer ask about mop in wheat?
-    - The farmer asks about the dose of mop in wheat.
     - What is a mop in wheat?
 - intent: faq-agri-wheat-b3/dose-of-urea-for-foliar-spray
   examples: |
@@ -442,35 +429,35 @@ nlu:
     - Do you use urea for foliar spraying? How much dose of urea to feed?
     - Do you use urea for foliar spray?
     - Dose of urea in foliar spray?
-- intent: faq-agri-wheat-b3/deficiency-of-sulphar-in-wheat-corp
+- intent: faq-agri-wheat-b3/deficiency-of-sulphur-in-wheat-crop
   examples: |
-    - deficiency of sulphar in wheat corp ?
+    - deficiency of sulphur in wheat crop ?
     - What are the sources of sulphur in wheat?
     - What is the deficiency of sulphur in wheat cereal?
-    - Why is sulphar in wheat less than the recommended value?
-    - Is there any deficiency of sulphar in wheat crop?
-    - What does deficiency of sulphar in wheat corp mean?
-    - Why does wheat have sulphur (as opposed to sulphur) in it?
-    - What is the deficiency of sulphar in wheat grains?
+    - Why is sulphur in wheat less than the recommended value?
+    - Is there any deficiency of sulphur in wheat crop?
+    - What does deficiency of sulphur in wheat crop mean?
+    - Why does wheat have sulphur in it?
+    - What is the deficiency of sulphur in wheat grains?
     - What is the presence of sulphur in wheat?
     - Is there any evidence of sulphure deficiency in wheat?
-    - Is there a deficiency of sulphar in wheat?
-- intent: faq-agri-wheat-b3/information-regarding-dose-of-mangnese-in-an-acre
+    - Is there a deficiency of sulphur in wheat?
+- intent: faq-agri-wheat-b3/information-regarding-dose-of-manganese-in-an-acre
   examples: |
-    - information regarding dose of mangnese in an acre?
-    - Can you give me more information regarding dose of mangnese in an acre?
-    - How does mangnese work, in an acre?
-    - What dose of Mangnese in an acre?
-    - How much mangnese can be used in an acre?
-    - Dosage of mangnese in acres?
-    - What is the dose of mangnese in an acre?
-    - How is mangnese used?
-    - Dose of Mangnese in the acre?
-    - Dose of Mangnese in an acre?
-    - Dose of mangnese per acre?
+    - information regarding dose of manganese in an acre?
+    - Can you give me more information regarding dose of manganese in an acre?
+    - How does manganese work, in an acre?
+    - What dose of manganese in an acre?
+    - How much manganese can be used in an acre?
+    - Dosage of manganese in acres?
+    - What is the dose of manganese in an acre?
+    - How is manganese used?
+    - Dose of manganese in the acre?
+    - Dose of manganese in an acre?
+    - Dose of manganese per acre?
 - intent: faq-agri-wheat-b3/dose-of-sulphur-of-wheat
   examples: |
-    - dose of sulphur of wheat?
+    - dose of sulphur for wheat?
     - What is the daily dose of sulphur in wheat?
     - How much sulphur a wheat contains?
     - How do you use sulphur of wheat?
@@ -484,13 +471,11 @@ nlu:
   examples: |
     - control of iron deficiency in wheat
     - Can iron be used to control wheat iron deficiency in wheat?
-    - Iron deficiency in wheat is controlled by iron in a single pan with a plant.
-    - Iron or copper in wheat is an important nutrient, and thus it can inhibit iron absorption in wheat, which causes wheat to produce more iron than other wheat varieties.
     - Is iron deficiency in wheat a problem?
-    - Control of iron deficiency in wheat. Iron deficiency in wheat in wheat flour.
-    - How can the iron in wheat be controlled in a country with a poor economy?
+    - Control of iron deficiency in wheat.
+    - How can the iron in wheat be controlled?
     - Iron Man is a serious problem for wheat crops. How do I overcome iron deficiency in wheat?
-    - Is Iron deficiency present in wheat wheat?
+    - Is Iron deficiency present in wheat ?
     - Why iron deficiencies are common in wheat?
     - When wheat has iron deficiency, is it a problem?
 - intent: faq-agri-wheat-b3/information-regarding-termite-in-wheat
@@ -542,56 +527,55 @@ nlu:
 #     - Does Potash have any information regarding potash potash?
 #     - Does diemete of potash really cause dose of kidney disease?
 #     - Do dose of muritate of potash be considered as a safe test?
-- intent: faq-agri-wheat-b3/information-regarding-to-urea-application-in-wheat-at-first-irrigation
-  examples: |
-    - information regarding to urea application in wheat at first irrigation
-    - How much urea is applied in the Wheat on first irrigation?
-    - If water is used at first irrigation for urea, there is urea urea application in the wheat at first irrigation, then the wheat is added and the water is urea-soluble. The information regarding the urea application is required for all grains a week (November 2011).
-    - Is urea application for wheat required at first irrigation?
-    - If urea has been applied to wheat after first irrigation for a month, the company will apply it on 1st irrigation. More information regarding the application of urea in wheat following urea application.
-    - Information regarding the urea application in wheat at first irrigation.
-    - If I use urea in wheat at first irrigation, it will cause me to urea into the wheat after urea has been applied.
-    - Before applying urea to wheat, use information regarding urea application in the first irrigation water of cereal wheat. I am not familiar with this application of urea in wheat.
-    - A list regarding to urea application in wheat at first irrigation in the United States.
-    - Is there any information regarding urea application in wheat in first irrigation?
-    - How did urea from wheat at irrigation affect wheat?
-# - intent: faq-agri-wheat-b3/information-regarding-mangnese-deficiency
+# - intent: faq-agri-wheat-b3/information-regarding-to-urea-application-in-wheat-at-first-irrigation
 #   examples: |
-#     - information regarding mangnese deficiency?
-#     - What is the difference between mangnese and mangnese deficiency?
+#     - information regarding to urea application in wheat at first irrigation
+#     - How much urea is applied in the Wheat on first irrigation?
+#     - If water is used at first irrigation for urea, there is urea urea application in the wheat at first irrigation, then the wheat is added and the water is urea-soluble. The information regarding the urea application is required for all grains a week (November 2011).
+#     - Is urea application for wheat required at first irrigation?
+#     - If urea has been applied to wheat after first irrigation for a month, the company will apply it on 1st irrigation. More information regarding the application of urea in wheat following urea application.
+#     - Information regarding the urea application in wheat at first irrigation.
+#     - If I use urea in wheat at first irrigation, it will cause me to urea into the wheat after urea has been applied.
+#     - Before applying urea to wheat, use information regarding urea application in the first irrigation water of cereal wheat. I am not familiar with this application of urea in wheat.
+#     - A list regarding to urea application in wheat at first irrigation in the United States.
+#     - Is there any information regarding urea application in wheat in first irrigation?
+#     - How did urea from wheat at irrigation affect wheat?
+# - intent: faq-agri-wheat-b3/information-regarding-manganese-deficiency
+#   examples: |
+#     - information regarding manganese deficiency?
+#     - What is the difference between manganese and manganese deficiency?
 #     - What is the mannese deficit and how do we correct it?
-#     - How do I get information regarding mangnese deficiency?
-#     - Is Mangnese lacking in mangnese?
-#     - What is mangnese deficiency?
-#     - How is Mangnese deficiency rectified?
-#     - What is Mangnese Deficiency Act?
-#     - What are the causes of mangnese deficiency?
-#     - What is the truth behind the Mangnese Deficiency?
-#     - What is the reason of Mangnese deficiency?
+#     - How do I get information regarding manganese deficiency?
+#     - Is manganese lacking in manganese?
+#     - What is manganese deficiency?
+#     - How is manganese deficiency rectified?
+#     - What is manganese Deficiency Act?
+#     - What are the causes of manganese deficiency?
+#     - What is the truth behind the manganese Deficiency?
+#     - What is the reason of manganese deficiency?
 - intent: faq-agri-wheat-b3/information-regarding-urea-requirment--acre-in-wheat
   examples: |
-    - information regarding urea requirment / acre in wheat ?
-    - How is urea used to fertilize wheat?
-    - How is wheat urea stored?
-    - How is urea required in wheat?
-    - What is urea urea in wheat?
+    - information regarding urea requirment per acre in wheat ?
+    - How is urea used to fertilizerilize wheat?
+    - How much is urea required in wheat?
+    - What quantity is urea needed in wheat?
     - What is urea requirement in wheat?
-    - What are the conditions for urea production in wheat?
-    - What is the urea requirement in wheat?
-    - How do I know urea requirement of wheat wheat?
-    - Information regarding urea requirment / acre in wheat?
+    - What are the conditions for urea amount in wheat?
+    - How much  is the urea requirement in wheat?
+    - How do I know urea requirement of wheat?
+    - Information regarding urea requirment in an acre in wheat?
     - How are the urea requirements determined in wheat?
-- intent: faq-agri-wheat-b3/deficiency-magnese-sulphate-in-wheat
+- intent: faq-agri-wheat-b3/deficiency-manganese-sulphate-in-wheat
   examples: |
-    - deficiency magnese sulphate in wheat?
+    - deficiency manganese sulphate in wheat?
     - Is there deficiency of manganese sulphate in wheat?
-    - Do I need magnesium sulphate in wheat?
+    - Do I need manganese sulphate in wheat?
     - Is there a deficiency of sulphate in wheat?
-    - Does magnese sulphate (M) in wheat?
-    - Why is there no magnesium sulphate in wheat?
-    - Why is magnesium sulphate deficiency in wheat?
-    - Why do we have deficiency of magnesium sulphate in wheat?
-    - Is magnesium sulfate important for grains?
+    - Does manganese sulphate deficient in wheat?
+    - Why is there no manganese sulphate in wheat?
+    - Why is manganese sulphate deficiency in wheat?
+    - Why do we have deficiency of manganese sulphate in wheat?
+    - Is manganese sulphate important for grains?
     - How do I get a full sized sample of Magnesium sulphate in wheat?
 # - intent: faq-agri-wheat-b3/deficendy-off-urea-in-wheat-crop
 #   examples: |
@@ -610,57 +594,55 @@ nlu:
   examples: |
     - information regarding growth regulator used in wheat crop at time of filling stage?
     - What are the information regarding growth regulator used in wheat crop at time of filling stage?
-    - How do I find an information regarding the growth regulator used in wheat crop at time of filling stage?
-    - What are some applications for the growth regulator used to fertilize wheat crop at time of filling stage?
+    - How do I find  the growth regulator to be used in wheat crop at time of filling stage?
+    - What are some applications for the growth regulator used to fertilizerilize wheat crop at time of filling stage?
     - What is the information regarding the growth regulator used in wheat at time of filling stage?
     - Information regarding growth regulator used in wheat crop at time of filling stage?
-    - What is the growth regulator used in wheat at the time of filling stage?
-    - What is the growth regulator used in wheat at the time of filling stages?
+    - Which growth regulator used in wheat at the time of filling stage?
+    - What growth regulator used in wheat at the time of filling stages?
     - What are the best information regarding growth regulator used in wheat crop at time of filling stage?
-- intent: faq-agri-wheat-b3/information-of-zinc-in-wheat-ctop
+- intent: faq-agri-wheat-b3/information-of-zinc-in-wheat-crop
   examples: |
-    - information of zinc in wheat ctop?
-    - Does zinc in wheat ctop matter?
-    - How much zinc is in wheat ctop?
+    - information of zinc in wheat crop?
+    - Does zinc in wheat crop matter?
+    - How much zinc is in wheat crop?
     - How many zinc is present in wheat?
-    - What are the information about zinc and copper in Wheat ctop?
-    - What is zinc content in wheat ctops?
-    - What are the requirements for zinc in wheat ctop?
-    - What is zinc in wheat ctop?
-    - Why does zinc in wheat ctop occur in a soybean?
-    - Does zinc is present in wheat ctop?
-    - How much zinc is found in wheat ctop? Is zinc present in wheat ctop?
-- intent: faq-agri-wheat-b3/foloiar-spray-of-magnese-in-wheat
+    - What are the latest information about zinc in Wheat crop?
+    - What is zinc content in wheat crops?
+    - What are the requirements for zinc in wheat crop?
+    - What is zinc in wheat crop?
+    - Why does zinc in wheat crop occur in a soybean?
+    - Does zinc is present in wheat crop?
+    - How much zinc is found in wheat crop?
+    - Is zinc present in wheat crop? 
+- intent: faq-agri-wheat-b3/foliar-spray-of-manganese-in-wheat
   examples: |
-    - foloiar spray of magnese in wheat?
-    - What is the effect of magnese in wheat?
-    - How do we clone magnese flakes in wheat?
-    - Do swiss sprays of magnese in wheat?
-    - How do I spray magnese in wheat?
-    - Foloiar spray of magnese in wheat?
-    - If my foloiar spray of magnese in wheat is foloiar spray of magnese in wheat is foloiar spray of magnese in wheat, should I apply that in my grain?
-    - Do you get foloiar spray of magnese in wheat?
-    - Why is the poison of magnese in wheat?
-    - Is there a bacterial spray of magnese on wheat?
-    - Do birds spray magnese in wheat?
+    - foliar spray of manganese in wheat?
+    - What is the effect of manganese in wheat?
+    - How do we do foliar spray of manganese in wheat?
+    - foliar sprays of manganese in wheat?
+    - How do I spray manganese in wheat?
+    - foliar sprays of manganese for wheat?
+    - Do you get foliar spray of manganese in wheat?
+    - ways to do foliar spray of manganese in wheat?
 # - intent: faq-agri-wheat-b3/how-to-control-sulpher-defficency-in-wheat-crop
 #   examples: |
 #     - how to control sulpher defficency in wheat crop ?
 #     - What is the best way to control sulpher deficiency in wheat crop?
-#     - How do I control sulpher deficency in wheat crop?
-#     - How can we control sulpher deficency in wheat crop?
+#     - How do I control sulpher deficiency in wheat crop?
+#     - How can we control sulpher deficiency in wheat crop?
 #     - What is the best way to control wheat sulpher deficiency?
 #     - How can I control sulpher deficiency in wheat crops?
 #     - How can I control sulpher deficiency in wheat crop?
-#     - How can sulpher deficency in wheat crop be controlled?
+#     - How can sulpher deficiency in wheat crop be controlled?
 #     - How to control sulpher deficiency in wheat crop?
 #     - How can you control sulpher deficiency in wheat crop?
 #     - How do you manage sulpher deficiency in wheat crop?
 - intent: faq-agri-wheat-b3/information-regarding-biofertilizer-in-wheat
   examples: |
     - information regarding biofertilizer in wheat ?
-    - Information regarding biofertilizer in wheat?
-    - What information regarding biofertilizer in wheat?
+    - details about biofertilizer in wheat?
+    - provide information for biofertilizer in wheat?
     - How can you identify biofertilizer in wheat?
     - What are the details regarding biofertilizer in wheat?
     - How can I learn about biofertilizer in wheat?
@@ -671,12 +653,12 @@ nlu:
 - intent: faq-agri-wheat-b3/regarding-dose-of-dap-in-an-acre
   examples: |
     - regarding dose of dap in an acre?
-    - What dose does dap in 1 acre?
+    - What dose of dap in 1 acre?
     - Dose of dap per acre?
-    - Do you think dap should be given in acre?
+    - how much Do you think dap should be given in acre?
     - What is the dose of dap in an acre?
-    - Is dap in an acre?
-    - How much dap is in an acre?
+    - amount of dap per acre?
+    - How much dap for an acre?
     - Dose of dap in an acre?
     - What are the doses of dap in an acre?
     - Dosage of dap per acre?
@@ -693,30 +675,29 @@ nlu:
 #     - Is there fertilizer application?
 #     - Tell me fertilizer application form.
 #     - Tell me about fertilizer application in Nigeria.
-- intent: faq-agri-wheat-b3/information-regarding-aphid-jesus-in-wheat-crop
-  examples: |
-    - information regarding aphid jesus in wheat crop
-    - What are the known aphid jesus pests that are present in wheat crop residue?
-    - Information regarding aphid jesus in wheat crop information regarding psi and spherus adenis in wheat crop information regarding aphid jesus in soybean crop information.
-    - How can I find the presence of aphid jesus in wheat fields?
-    - Is there any evidence of aphid jesus in wheat crops?
-    - What should I know about aphid jesus in wheat crop and soybean?
-    - Is there a fly aphid jesus in wheat?
-    - What are some information regarding aphid jesus in wheat crop crop?
-    - When and how can I get some information regarding the aphid jesus in wheat wheat crops?
-    - How can I catch aphid jesus on wheat crop?
-    - What is aphid jesus information regarding wheat crop infection in India?
+
+# - intent: faq-agri-wheat-b3/information-regarding-aphid-jesus-in-wheat-crop
+#   examples: |
+#     - information regarding aphid jesus in wheat crop
+#     - What are the known aphid jesus pests that are present in wheat crop residue?
+#     - Information regarding aphid jesus in wheat crop information regarding psi and spherus adenis in wheat crop information regarding aphid jesus in soybean crop information.
+#     - How can I find the presence of aphid jesus in wheat fields?
+#     - Is there any evidence of aphid jesus in wheat crops?
+#     - What should I know about aphid jesus in wheat crop and soybean?
+#     - Is there a fly aphid jesus in wheat?
+#     - What are some information regarding aphid jesus in wheat crop crop?
+#     - When and how can I get some information regarding the aphid jesus in wheat wheat crops?
+#     - How can I catch aphid jesus on wheat crop?
+#     - What is aphid jesus information regarding wheat crop infection in India?
 - intent: faq-agri-wheat-b3/information-regarding-aphids
   examples: |
     - information regarding aphids
-    - What is the specific location of aphids on earth?
     - What are the types of aphids and their names?
     - What aphids can have?
-    - How do aphids are incorporated in aphids?
-    - Information regarding aphids and aphids is provided.
-    - What are some information regarding aphids?
+    - How are aphids incroporated?
+    - Information regarding presence of aphids.
+    - What are useful details about aphids?
     - What are the most dangerous aphids?
-    - Information regarding aphids is available on the internet with all the aphids, viruses and more.
     - Where can you find out more about aphids and aphids in your environment?
     - What is the information regarding aphids?
 - intent: faq-agri-wheat-b3/application-of-single-super-phosphate-in-wheat
@@ -724,13 +705,13 @@ nlu:
     - application of single super phosphate in wheat?
     - Single Superphosphate in wheat?
     - Is there application of single super phosphate in wheat?
-    - Is single super phosphate a good product in wheat?
-    - Is single super phosphate used in wheat?
+    - Is single super phosphate a good product for wheat?
+    - Is single super phosphate useful for wheat?
     - A single super phosphate is applied in wheat?
     - Application of single super phosphate in wheat?
     - How can I use single superphosphate in Wheat?
     - What application will single super phosphate in wheat (in grains) have?
-    - Single Super Phosphate: How is it used for wheat?
+    - How is Single Super Phosphate used for wheat?
     - Is super phosphate used in wheat?
 - intent: faq-agri-wheat-b3/information-regarding--management-of-alkali-soil
   examples: |
@@ -739,10 +720,10 @@ nlu:
     - What are some of the best resources for management of alkali soils?
     - What are some important information regarding management of alkali soils?
     - What is the management of Alkali soil?
-    - How can I help to manage alkali soils?
+    - How can I manage alkali soils?
     - What is the best information on management of alkali soils?
     - How will management of alkali soil be handled?
-    - How is soil management done?
+    - How is alkali soil management done?
     - What are some techniques for alkali soil management?
     - How do we manage alkali soils?
 # - intent: faq-agri-wheat-b3/fartilizer-dos-in-wheat
@@ -789,13 +770,12 @@ nlu:
     - information regarding green sundi in wheat?
     - Why does green sundi is used in wheat?
     - What is green sundi in wheat?
-    - What is Green Sundi in wheat?
+    - What is the usage of Green Sundi in wheat?
     - How do I get information about green sundi in wheat?
-    - What are the benefits of using green sundi for wheat?
-    - How can you make Green Sundi rice with wheat?
+    - benefits of using green sundi for wheat?
     - How do I get green sundi in wheat?
     - How is green sundi used in wheat?
-    - What are the benefits of green sundi in wheat?
+    - purpose of green sundi in wheat?
     - What is the use of green sundi in wheat?
 - intent: faq-agri-wheat-b3/information-regarding-less-grain-filling-in-paddy-crop
   examples: |
@@ -808,7 +788,7 @@ nlu:
     - How is reducing grain filling in paddy crop?
     - What can I know regarding less grain filling in paddy crop?
     - Will there be less grain stocking in paddy crop?
-    - How does a lesser grain filling (in Paddy crop) affect the efficiency of the crops and is it suitable for a maize crop?
+    - How does a lesser grain filling (in Paddy crop) affect the efficiency of the crops?
     - What is the information regarding the less grain filling in the paddy crop?
 - intent: faq-agri-wheat-b3/urea-dose-at-sowing-time
   examples: |
@@ -841,27 +821,27 @@ nlu:
     - how to correct the deficiency of zinc in the wheat crop
     - How do I rectify the deficiency of zinc in the wheat crop?
     - How can we correct deficiency of zinc in wheat?
-    - How can we improve the wheat crop deficiency in zinc?
-    - How to correct the deficiency of zinc in wheat crops. How can we correct the deficiency of zinc in wheat crop?
-    - How can we correct the deficiency of zinc in wheat crop crop?
-    - How do you correct the deficiency of zinc in the wheat crop of India?
-    - How to fix the deficiency of zinc in the wheat crop?
+    - suitable ways to control deficiency of zinc in wheat ?
+    - How to correct the deficiency of zinc in wheat crops.
     - How can we correct the deficiency of zinc in wheat crop?
-    - How do you fix the deficiency of zinc in the wheat crop?
+    - How do you correct the deficiency of zinc in the wheat crop of India?
+    - methods to fix the deficiency of zinc in the wheat crop?
+    - How can we treat the deficiency of zinc in wheat crop?
+    - ways to fix the deficiency of zinc in the wheat crop?
     - How can the lack of zinc in the wheat crop be corrected?
-- intent: faq-agri-wheat-b3/ragaeding-dose-of-urea-and-magnese-sulfate
+- intent: faq-agri-wheat-b3/regarding-dose-of-urea-and-manganese-sulphate
   examples: |
-    - ragaeding dose of urea and magnese sulfate ?
-    - How is urea sulfate used with ragaeding dose?
-    - What is the dose of magnesium sulfate?
-    - Is there a dose of urea and magnesium sulfate that can be used for a blood test?
-    - Is there any difference between using urea sulfate and magnese sulfate to reduce blood pressure?
-    - What is the dose of magnesium sulfate and urea?
-    - How do I use urea and magnese sulfate to treat urea and magnese sulfate?
-    - Is there any dose of urea and magnese sulfate?
-    - Does urea have any effect on a person's skin?
-    - Do urea and magnesium sulfate contain the same dose?
-    - What are the doses of urea and magnesium sulfate?
+    - regarding dose of urea and manganese sulphate ?
+    - How is urea used regarding dose?
+    - What is the dose of manganese sulphate?
+    - Is there a dose of urea and manganese sulphate that can be used for wheat?
+    - Is there any difference between using urea and manganese sulphate for wheat?
+    - What is the dose of manganese sulphate and urea?
+    - How do I use urea and manganese sulphate to treat urea and manganese sulphate?
+    - Is there any dose of urea and manganese sulphate?
+    - Does urea have any effect on wheat?
+    - Do urea and manganese sulphate contain the same dose?
+    - What are the doses of urea and manganese sulphate for wheat?
 - intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-application-in-bt-cotton
   examples: |
     - information regarding the fertilizer application in bt cotton ?
@@ -870,14 +850,14 @@ nlu:
     - What is the application of fertilizer in Bt cotton?
     - Information concerning the fertilizer application in bt cotton?
     - How is the fertilizer application in bt cotton?
-    - How do we apply fertilizer in cotton?
+    - How do we apply fertilizer in bt cotton?
     - What is the chemical formula for fertilizer application in bt cotton?
-    - Information regarding the fertilizer application in cotton?
+    - details for the fertilizer application in bt cotton?
     - What is the application of fertilizer on cotton bt?
-    - Information regarding the fertilizer application in BT cotton?
-# - intent: faq-agri-wheat-b3/how-to-control-of-mangane-deficincy-in-wheat
+    - approach for the fertilizer application in BT cotton?
+# - intent: faq-agri-wheat-b3/how-to-control-of-mangane-deficiency-in-wheat
 #   examples: |
-#     - how to control of mangane deficincy in wheat ?
+#     - how to control of mangane deficiency in wheat ?
 #     - Is there a mangane deficiency in wheat?
 #     - Is manganese deficiency in wheat a problem?
 #     - How can mangane be removed from wheat?
@@ -888,72 +868,73 @@ nlu:
 #     - How can mangane be found in wheat?
 #     - How to control mangane deficiency in wheat?
 #     - How to control manganese deficiency in wheat?
-- intent: faq-agri-wheat-b3/how-to-control-of-mangnaese-deficincy-in-wheat
+- intent: faq-agri-wheat-b3/how-to-control-of-manganese-deficiency-in-wheat
   examples: |
-    - how to control of mangnaese deficincy in wheat ?
-    - What's the cure for mangnaese deficiency in wheat?
-    - How can mangnaese be removed from wheat?
-    - How can Mangnaese be controlled in wheat?
-    - How can mangnaese be supplemented in wheat?
-    - How can mangnaese be substituted for wheat?
-    - How do I control mangnaese deficiency in wheat?
-    - How can I control mangnaese in wheat?
-    - How does mangnaese in wheat have its own health complications?
-    - What is the proper treatment for mangnaese deficiency in wheat?
+    - how to control of manganese deficiency in wheat ?
+    - What's the cure for manganese deficiency in wheat?
+    - How can manganese be removed from wheat?
+    - How should manganese be controlled in wheat?
+    - How can manganese be supplemented in wheat?
+    - Ways to supplement manganese in wheat ?
+    - How can manganese be managed in wheat?
+    - methods for maintaining manganese in wheat?
+    - How do I control manganese deficiency in wheat?
+    - How can I control manganese in wheat?
+    - What is the proper treatment for manganese deficiency in wheat?
 - intent: faq-agri-wheat-b3/information-regarding-difference-between-ssp-and-dap
   examples: |
     - information regarding difference between ssp and dap?
     - How do ssp and dap differ?
-    - What is the difference between ssp and dap?
-    - What is the difference between PHP, dap and ssp?
+    - What are the difference between ssp and dap?
+    - What is the main difference between dap and ssp?
     - What's the difference between ssp and dap?
-    - What is the difference between a SAP & a Dap?
-    - What is the difference between SSP vs. DAP?
-    - What is the difference between SP and PA?
-    - What is difference between ssp and dap?
-    - What are the differences between a SP and a DAP?
-- intent: faq-agri-wheat-b3/deficiency-of-zinc-sulphate
-  examples: |
-    - deficiency of zinc sulphate
-    - Deficiency of zinc sulphate.
-    - Deficiency of zinc sulphate 
-    - This deficiency explains the deficiency of zinc sulphate.
+    - What exactly is the difference between a SAP & a Dap?
+    - SSP vs. DAP?
+    - What is major difference between ssp and dap?
+# - intent: faq-agri-wheat-b3/deficiency-of-zinc-sulphate
+#   examples: |
+#     - deficiency of zinc sulphate
+#     - Deficiency of zinc sulphate.
+#     - Deficiency of zinc sulphate 
+#     - This deficiency explains the deficiency of zinc sulphate.
 - intent: faq-agri-wheat-b3/farmer-ask-how-much-quantity-urea-required-for-1-acre-wheat-crop
   examples: |
-    - farmer ask how much quantity urea required for 1 acre wheat crop ?
+    - how much quantity urea required for 1 acre wheat crop ?
     - How much urea is needed for a 1 acre wheat crop?
     - How much quantity of urea required per 1 acre wheat crop?
     - In a single month how much amount of urea is needed per acre wheat crop?
     - How much urea / nitrogen quantity required for 1 acre wheat crop?
-    - How much urea is required to grow a wheat crop?
+    - amount of urea is required to grow a wheat crop?
     - How much urea was required for 1 acre wheat crop?
-    - How much urea is required in one acre wheat crop?
-    - What quantity of urea is required for 1 acre wheat crop?
+    - what quantity of urea is required in one acre wheat crop?
+    - What measurement of urea is required for 1 acre wheat crop?
     - How much urea is required for wheat crop if the crop yield is 1 acre?
-    - What is urea of wheat crop?
-- intent: faq-agri-wheat-b3/how-to-control-zinc-deficency
+    - What is quantity requirement of urea for wheat crop?
+- intent: faq-agri-wheat-b3/how-to-control-zinc-deficiency
   examples: |
-    - how to control zinc deficency ?
+    - how to control zinc deficiency ?
     - What is the best way to reduce zinc deficiency?
-    - What is the best way to control a zinc deficiency?
+    - What is the way to control zinc deficiency?
     - How can I stop the zinc deficiency?
-    - How do I reduce my zinc deficiency?
+    - How can I prevent the zinc deficiency?
+    - ways to avoid the zinc deficiency?
+    - How should I reduce the zinc deficiency?
     - How to control zinc deficiency?
-    - How do I manage zinc deficiency?
+    - How can I manage zinc deficiency?
     - How can I control zinc deficiency?
     - How do I control zinc deficiency?
     - What's the best solution for zinc deficiency?
-- intent: faq-agri-wheat-b3/can-3086-variety-of-wheat-be-sown-in-saline-soils
-  examples: |
-    - can 3086 variety of wheat be sown in saline soils?
-    - Can wheat be sown in saline soil?
-    - Is it possible to grow wheat in saline soils and do so in 3086 varieties?
-    - Can a variety of 3086 wheat be sown in saline soils?
-    - Can I sown Wheat in salt soil?
-    - Can 3086 variety of wheat be sown in saline soil?
-    - Can wheat be sown in saline soils?
-    - Can 3086 variety of wheat be sown in saline soils?
-    - Can 3086 varieties of wheat be sown in saline soils?
+# - intent: faq-agri-wheat-b3/can-3086-variety-of-wheat-be-sown-in-saline-soils
+#   examples: |
+#     - can 3086 variety of wheat be sown in saline soils?
+#     - Can wheat be sown in saline soil?
+#     - Is it possible to grow wheat in saline soils and do so in 3086 varieties?
+#     - Can a variety of 3086 wheat be sown in saline soils?
+#     - Can I sown Wheat in salt soil?
+#     - Can 3086 variety of wheat be sown in saline soil?
+#     - Can wheat be sown in saline soils?
+#     - Can 3086 variety of wheat be sown in saline soils?
+#     - Can 3086 varieties of wheat be sown in saline soils?
 - intent: faq-agri-wheat-b3/information-regarding-the-fertilizers-to-be-used-after-spraying-weedicide
   examples: |
     - information regarding the fertilizers to be used after spraying weedicide ?
@@ -967,31 +948,30 @@ nlu:
     - Where can I find information about what fertilizers to use after spraying weedicide?
     - What fertilizer is applied after spraying weedicide?
     - What fertilizer is to be used after spraying weedicide?
-# - intent: faq-agri-wheat-b3/information-regarding-control-of-nitrozen-defficincy
+# - intent: faq-agri-wheat-b3/information-regarding-control-of-nitrogen-defficincy
 #   examples: |
-#     - information regarding control of nitrozen defficincy ?
-#     - What is the treatment for nitrozen deficiency?
-#     - How does nitrozen can be controlled with appropriate measures?
-#     - Where can I get control for nitrozen deficiency?
-#     - How is the N-nitrozen deficiency controlled?
-#     - How do I control the nitrozen deficiency?
-#     - How do I improve control of nitrozen deficiency?
+#     - information regarding control of nitrogen defficincy ?
+#     - What is the treatment for nitrogen deficiency?
+#     - How does nitrogen can be controlled with appropriate measures?
+#     - Where can I get control for nitrogen deficiency?
+#     - How is the N-nitrogen deficiency controlled?
+#     - How do I control the nitrogen deficiency?
+#     - How do I improve control of nitrogen deficiency?
 #     - What is the nitroze deficiency and how can it be controlled?
-#     - Are there any signs of nitrozen deficiency?
-#     - Why does Nitrozen Deficiency cause so many issues?
-#     - How can I get rid of nitrozen?
+#     - Are there any signs of nitrogen deficiency?
+#     - Why does nitrogen Deficiency cause so many issues?
+#     - How can I get rid of nitrogen?
 - intent: faq-agri-wheat-b3/information-regarding-the-npk-dose-in-acre
   examples: |
     - information regarding the npk dose in acre?
     - What is the latest information regarding the npk dose in acre?
     - How is NPK dose calculated?
-    - How much is the npk dose in acre?
-    - How was the Napk dose calculated?
-    - Is NPK a real dose or dose in Acre?
+    - How much is the npk dose per acre?
+    - How was the npk dose calculated?
+    - In 1 acre how much is npk dose?
     - What is the information regarding the npk dose in acres?
     - How much NPK in an acre?
-    - If I am an NPK 2 patient, how is the dose of NPK calculated in acre?
-    - How are the data regarding the NPK Dose in Acres?
+    - provide the data regarding the npk Dose for acre?
 - intent: faq-agri-wheat-b3/information-regarding-application-of-fertilizers-in-paddy
   examples: |
     - information regarding application of fertilizers in paddy ?
@@ -999,22 +979,21 @@ nlu:
     - How do fertilizers be applied in paddy fields?
     - How does fertilizer be applied in paddy?
     - What are application rules for fertilizer in paddy?
-    - What is application information for fertilizers in paddy?
-    - What is the application of fertilizers in paddy?
+    - What is best application for fertilizers in paddy?
+    - What is the benefit of appllying fertilizers in paddy?
     - Where can I find application of fertilizers in paddy?
-    - What are the applications of fertilizers in paddy?
-- intent: faq-agri-wheat-b3/information-regarding-the-frtilizer-dose-in-wheat-before-irrigation
+    - What are the recent applications of fertilizers in paddy?
+- intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-in-wheat-before-irrigation
   examples: |
-    - information regarding the frtilizer dose in wheat before irrigation.
-    - Information regarding the frtilizer dose in wheat before irrigation.
-    - What is the frtilizer dose in wheat before irrigation?
-    - What are the ftilizer doses in wheat before irrigation?
-    - What is the current frtilizer dose in wheat before irrigation?
-    - When should you use frtilizer in wheat before irrigation?
-    - What is the frtilizer dose in wheat after irrigation?
-    - The fertilizer dose in wheat before irrigation is about 6 g per kg, a lot less than the normal amount of wheat dilution in the Agricultural Products Market.
-    - How would you measure frtilizer dose in wheat before irrigation?
-    - What are the factors which affect the dose of frtilizer in wheat before irrigation?
+    - information regarding the fertilizer dose in wheat before irrigation.
+    - Information regarding the dose of the fertilizer in wheat before irrigation.
+    - What is the fertilizer dose in wheat before irrigation?
+    - How much is the fertilizer doses in wheat before irrigation?
+    - What is the current fertilizer dose in wheat before irrigation?
+    - When should you use as fertilizer in wheat before irrigation?
+    - What is the fertilizer dose as per standards in wheat before irrigation?
+    - How would you measure fertilizer dose in wheat before irrigation?
+    - What are the factors which affect the dose of fertilizer in wheat before irrigation?
 - intent: faq-agri-wheat-b3/information-regarding-dose-of-zinc
   examples: |
     - information regarding dose of zinc?
@@ -1068,47 +1047,45 @@ nlu:
 - intent: faq-agri-wheat-b3/information-requirement-of-wheat-crop
   examples: |
     - information requirement of wheat crop?
-    - What is the information requirement in wheat crop?
-    - What are the basic information requirements for a wheat crop?
-    - What is the information requirement for wheat crop?
-    - Does the information requirement for wheat crop be satisfied?
+    - What is the information about requirement of wheat crop?
+    - What are the basic requirements for a wheat crop?
+    - What is the requirement information for wheat crop?
     - Why is there information requirement of wheat crop?
     - How do I get information about the wheat crop?
-    - What is the information requirement of wheat crop?
-    - What is information requirement in wheat crop?
-    - Which information and standards is needed to make wheat wheat good for future use?
-- intent: faq-agri-wheat-b3/information-regarding-the-fertilzer-application
+    - Where is the data for requirement of wheat crop?
+    - Which information is needed to make wheat good for future use?
+- intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-application
   examples: |
-    - information regarding the fertilzer application ?
-    - Which application is the best to start application of fertiliser?
+    - information regarding the fertilizer application ?
+    - Which approach is the best to start application of fertilizer?
     - Is fertilizer application compulsory for a plant?
-    - How can I apply fertiliser fertilizer?
-    - How can I get the application form for fertiliser?
-    - What is the application form for fertilisers?
-    - How do you apply for fertiliser?
-    - If I are applying fertilizer how would I know in which order?
+    - How can I apply fertilizers ?
+    - How can I get the application form for fertilizer?
+    - What is the application form for fertilizer?
+    - How do you apply the fertilizer?
+    - If I am applying fertilizer how would I know in which order?
     - How are fertilizers applied?
-    - If fertilizer is applied, how do I apply for it?
-    - How do I apply for fertilizer?
+    - If fertilizer is applied, how do I check information about it?
+    - How do I start applying fertilizers?
 - intent: faq-agri-wheat-b3/information-regarding-dose-of-delta-methrine
   examples: |
-    - information regarding dose of delta methrine?
-    - How much methrine can delta meth be effective?
-    - Do you have any information regarding the dose of delta methrine?
-    - What is the dose of delta methrine?
-    - Dose of delta methrine has been reduced?
-    - Does delta methrine work?
-    - Can delta methrine be used in blood transfusions?
-    - How do you use delta methrine?
-    - Dose of delta methrine?
-    - What's the dose of delta methrine?
+    - information regarding dose of Deltamethrin?
+    - How much methrine can Deltamethrin be effective?
+    - Do you have any information regarding the dose of Deltamethrin?
+    - What is the dose of Deltamethrin?
+    - Dose of Deltamethrin has been reduced?
+    - Does Deltamethrin work?
+    - Can Deltamethrin be used in blood transfusions?
+    - How do you use Deltamethrin?
+    - Dose of Deltamethrin?
+    - What's the dose of Deltamethrin?
 - intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-sowing-of-wheat
   examples: |
     - information regarding the fertilizer dose at the time of sowing of wheat?
-    - How does the fertilizer dose differ from the time of sowing?
+    - How much the fertilizer dose differ from the time of sowing?
     - What is the information regarding the fertilizer dose at the time of sowing wheat?
     - What is the formula to determine the fertilizer dose for the sowing of wheat?
-    - What is the use of fertilizer at the time of sowing wheat?
+    - What is the quantity of fertilizer at the time of sowing wheat?
     - Is there any information regarding the fertilizer dose at the time of sowing wheat?
     - How do I determine the fertilizer dose at the time of sowing wheat?
     - How much fertilizer do you use to sow wheat?
@@ -1127,37 +1104,36 @@ nlu:
 #     - In agriculture, are there fertilizers for wheat?
 #     - What fertilizers are required for wheat?
 #     - What are the fertilizers of wheat?
-- intent: faq-agri-wheat-b3/information-regardig-the-foliar-application-of-urea
+- intent: faq-agri-wheat-b3/information-regarding-the-foliar-application-of-urea
   examples: |
-    - information regardig the foliar application of urea ?
-    - How can I apply urea in the palm?
-    - Where can I find the most upto date information concerning the foliar application of urea?
+    - information regarding the foliar application of urea ?
+    - Where can I find the latest information concerning the foliar application of urea?
     - How will urea be applied to the foliar surface?
-    - What is the procedure to remove urea foliar from a coat?
-    - What is the relative application of urea foliar at the face of the skin?
+    - What is the procedure to remove urea foliar from a wheat?
+    - What is the relative application of urea foliar in the wheat?
     - Are there any information relating to the application of urea in the foliar surface of urea?
-    - Are there any details relating to the application of urea?
+    - Are there any details relating to the foliar application of urea?
     - Does the application of urea matter to the skin affect the skin in general?
-    - Is the application of urea foliar is feasible?
+    - Is the application of urea foliar feasible?
     - foliar application of urea?
 - intent: faq-agri-wheat-b3/information-regarding-spray-of-urea-in-wheat
   examples: |
     - information regarding spray of urea in wheat ?
     - Is there any information regarding spray of urea in wheat?
     - How can you spray urea into wheat?
-    - How can I prevent spray of urea on wheat?
+    - How can I effectively spray of urea on wheat?
     - How is urea spray of wheat?
-    - How can we know when it is urea spray / spray for wheat wheat?
+    - How can we know when it is urea spray for wheat?
     - How does urea spray on wheat?
     - How is spraying urea in wheat?
     - What is the application of urea in wheat?
-    - How can I test urine in wheat?
+    - How can I test urea in wheat?
     - What are the risks of using urea in wheat?
-- intent: faq-agri-wheat-b3/manganes-deficiency-in-wheat-crop
+- intent: faq-agri-wheat-b3/manganese-deficiency-in-wheat-crop
   examples: |
-    - manganes deficiency in wheat crop?
+    - manganese deficiency in wheat crop?
     - How can a manganese deficiency affect a wheat crop?
-    - Manganese deficiency in wheat crop?
+    - manganese deficiency in wheat crop?
     - What are the solutions for manganese deficiency in wheat crop?
     - Why manganese in wheat crops is low?
     - What is the reason behind the absence of manganese in wheat?
@@ -1172,7 +1148,7 @@ nlu:
     - What is the best time to start irrigating a field?
     - What time is appropriate for the first irrigation?
     - When is the right time to do the 1st irrigation?
-    - What is the best time for irrigation?
+    - What is the best time for initial irrigation?
     - When is the best time to start irrigation?
     - Is 1st irrigation the proper time?
     - When should irrigation should start?
@@ -1184,11 +1160,12 @@ nlu:
     - What is the information regarding seed treatment of wheat?
     - What is the best information regarding wheat seed treatment?
     - What is the earliest information regarding the application of seed treatment for wheat?
-    - What are the best methods to know what the grain treatment of wheat is?
+    - latest information regarding the seed treatment for wheat?
+    - What are the best methods to treat wheat seed?
     - What is the information regarding seed treatment in wheat?
     - What are some information regarding seed treatment for wheat?
     - If wheat seed is processed, does wheat have a treatment in wheat?
-    - What information regarding the treatment of wheat wheat?
+    - What information regarding the treatment of wheat ?
     - How is wheat seed treated?
     - What is the information regarding the seed treatment for wheat?
 # - intent: faq-agri-wheat-b3/information-rgarding-dose-of-defciency-izinc-in-wheat-crop
@@ -1224,10 +1201,8 @@ nlu:
     - How do I broadcast urea after herbicide spray?
     - How can I broadcast urea powder after spraying?
     - Why is broadcasting of urea after herbicide spray illegal?
-    - How should urea be contaminated at air traffic control?
-    - How does urea after herbicide spray get into your lungs?
     - Information regarding broadcasting of urea after herbicide spray?
-    - How does broadcasting of urea after herbicide spray affect the urea urea concentration?
+    - How does broadcasting of urea after herbicide spray affect wheat?
     - How do we broadcast urea after herbicide spray?
     - How should I be informed regarding broadcasting of urea after herbicide sprays?
 - intent: faq-agri-wheat-b3/extra-water-in-wheat
@@ -1241,33 +1216,31 @@ nlu:
     - What is the addition of water to wheat?
     - Why is extra water needed in wheat?
     - Why is extra water used in wheat?
-    - How can I add water to my wheat?
+    - How can I remove extra water from my wheat?
 - intent: faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap
   examples: |
     - information regarding that can we use super phosphate as an alternative of d.a.p?
     - How can we use super phosphate as an alternative to D.A.P?
     - Can we use super phosphate as an alternative to d.a.p?
-    - What are the alternatives to superphosphate in diet?
+    - What are the alternatives to superphosphate in wheat?
     - Is super phosphate an alternative to d.a.p?
-    - Is super phosphate used for D.A.P?
-    - Can super phosphate be used as a non-da.p?
+    - Is super phosphate used instead of D.A.P?
     - Can super phosphate be used as an alternative to D.A.P?
-    - How is super phosphate used for d.a.p?
     - How does super phosphate work as a substitute for d.a.p?
     - How do we use super phosphate as an alternative to d.a.p?
-- intent: faq-agri-wheat-b3/information-regarding-control-of-nitrozen-in-wheat
+- intent: faq-agri-wheat-b3/information-regarding-control-of-nitrogen-in-wheat
   examples: |
-    - information regarding control of nitrozen in wheat ?
-    - How can nitrozen be controlled in wheat?
-    - How is nitrozen measured in wheat?
-    - What is the control of nitrozen in wheat?
-    - How can I control nitrozen in wheat?
-    - What are some recommendations to control nitrozen in wheat?
-    - What is the best possible control of nitrozen in wheat?
-    - What are the controls for nitrozen in wheat?
-    - How do we control Nitrozen in wheat?
-    - Why is nitrozen produced in wheat?
-    - What is the information regarding nitrozen in wheat?
+    - information regarding control of nitrogen in wheat ?
+    - How can nitrogen be controlled in wheat?
+    - How is nitrogen measured in wheat?
+    - What is the control of nitrogen in wheat?
+    - How can I control nitrogen in wheat?
+    - What are some recommendations to control nitrogen in wheat?
+    - What is the best possible control of nitrogen in wheat?
+    - What are the controls for nitrogen in wheat?
+    - How do we control nitrogen in wheat?
+    - Why is nitrogen produced in wheat?
+    - What is the information regarding nitrogen in wheat?
 # - intent: faq-agri-wheat-b3/regarding-dose-of-gypsum-in-an-acre
 #   examples: |
 #     - regarding dose of gypsum in an acre?
@@ -1307,33 +1280,33 @@ nlu:
 #     - Doses of urea are good doses for urea removal.
 #     - Doses of urea may also be given as dose of urea injection.
 #     - Is there a small dose of urea in the urine?
-- intent: faq-agri-wheat-b3/information-regarding-suphur-using-in-wheat-crop
+- intent: faq-agri-wheat-b3/information-regarding-sulphur-usage-in-wheat-crop
   examples: |
-    - information regarding suphur using in wheat crop?
-    - How does the suphur in wheat wheat crop work?
-    - Is there any evidence regarding the use of suphur in wheat crop?
-    - Is there any mention in the literature about suphur used in wheat crop?
-    - In wheat crop what is the suphur usage in wheat crop?
+    - information regarding sulphur usage in wheat crop?
+    - How does the sulphur in wheat crop work?
+    - Is there any evidence regarding the use of sulphur in wheat crop?
+    - Is there any mention in the literature about sulphur used in wheat crop?
+    - what is the sulphur usage in wheat crop?
     - What is the application of sugar in wheat crop?
-    - What are some use of suphur in wheat crop?
+    - What are some use of sulphur in wheat crop?
     - Are suphurs used in wheat crop?
-    - Which suphur is suitable for wheat crop?
-    - How suphur is used in wheat crops?
-    - Where can I find suphur used in wheat crop?
-- intent: faq-agri-wheat-b3/information-regarding-expiry-date-of-magnise-sulphate
+    - Which sulphur is suitable for wheat crop?
+    - How sulphur is used in wheat crops?
+    - Where can I find sulphur used in wheat crop?
+- intent: faq-agri-wheat-b3/information-regarding-expiry-date-of-manganese-sulphate
   examples: |
-    - information regarding expiry date of magnise sulphate?
-    - What is the expiry date of magnise sulphate?
-    - Is there any expiry date of magnesium sulphate?
-    - How many years do you think it is a good expiry date for magnise sulphate?
-    - How would you certify expiry date for magnise sulphate?
-    - Is Magnise sulphate of expired?
-    - What are expiry dates for magnesium sulphate?
-    - How is expiry date of magnise sulphate determined?
-    - What is the expiry date for magnise sulphate?
-- intent: faq-agri-wheat-b3/information-regarding-about-standing-water-in-wheat
+    - information regarding expiry date of manganese sulphate?
+    - What is the expiry date of manganese sulphate?
+    - Is there any expiry date of manganese sulphate?
+    - How many years do you think it is a good expiry date for manganese sulphate?
+    - How would you certify expiry date for manganese sulphate?
+    - Is manganese sulphate of expired?
+    - What are expiry dates for manganese sulphate?
+    - How is expiry date of manganese sulphate determined?
+    - What is the expiry date for manganese sulphate?
+- intent: faq-agri-wheat-b3/information-regarding-standing-water-in-wheat
   examples: |
-    - information regarding about standing water in wheat ?
+    - information regarding standing water in wheat ?
     - What is the science about standing water in wheat?
     - Is there standing water in wheat?
     - What is standing water in wheat?
@@ -1359,19 +1332,19 @@ nlu:
 #   examples: |
 #     - how to clontrol phosphorous defficency in wheat crop ?
 #     - How can clontrol reduce phosphorous loss in wheat crop?
-#     - How to clontrol phosphorous deficency in wheat crop?
+#     - How to clontrol phosphorous deficiency in wheat crop?
 #     - How can I minimize phosphorus deficiency in a wheat crop using clontrol powder?
-#     - How to clontrol phosphorous deficency in wheat crop? How to clontrol phosphorous deficency in wheat crop?
-#     - How can clontrol phosphorous deficency in wheat crop be compensated?
+#     - How to clontrol phosphorous deficiency in wheat crop? How to clontrol phosphorous deficiency in wheat crop?
+#     - How can clontrol phosphorous deficiency in wheat crop be compensated?
 #     - How do you get phosphorous out of a wheat crop?
 #     - How do clontrol phosphorous deficiency in wheat crop can be corrected?
-#     - How can I clontrol phosphorous deficency in wheat crop?
-#     - How do I clontrol phosphorous deficency in wheat crop?
-- intent: faq-agri-wheat-b3/informstion-regsrding-dose-of-leader-in-an-acre
+#     - How can I clontrol phosphorous deficiency in wheat crop?
+#     - How do I clontrol phosphorous deficiency in wheat crop?
+- intent: faq-agri-wheat-b3/information-regarding-dose-of-leader-in-an-acre
   examples: |
-    - informstion regsrding dose of leader in an acre?
+    - information regarding dose of leader in an acre?
     - Do you have a dose of leader in an acre? What is the safest size of an acre?
-    - How much leader does an acre?
+    - How much leader does an acre need?
     - What is the dose of leader in an acre?
     - What is the maximum dose of leader in an acre?
     - How much leader per acre?
@@ -1408,13 +1381,13 @@ nlu:
 - intent: faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat
   examples: |
     - information regarding the application of urea after weedicides in wheat?
-    - Why is urea used to treat wheat?
+    - Why is urea used to treat wheat after weedicide?
     - How do weedicide residues react with urea in wheat?
     - What is the application of urea after weedicide in wheat?
     - What is the application of urea after weedicides in wheat?
     - How do I apply urea after weedicides on wheat?
-    - How do I apply urea to wheat?
+    - How do I apply urea to wheat after weedicide?
     - How can I use urea after applying weedicides on wheat?
-    - How do urea treatments affect wheat?
-    - How can I use urea in wheat?
+    - How do urea treatments affect wheat after weedicide?
+    - How can I use urea in wheat after weedicide?
     - How is the application of urea after weedicides to wheat?

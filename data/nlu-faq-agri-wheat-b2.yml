@@ -14,32 +14,31 @@ nlu:
     - How do I find sow times for wheat?
     - What information are available regarding sowing time of wheat?
     - Is there any information regarding sowing time of wheat?
-- intent: faq-agri-wheat-b2/information-regarding-to-the-sowing-time-of-variety-pbw-550
+# - intent: faq-agri-wheat-b2/information-regarding-to-the-sowing-time-of-variety-pbw-550
+#   examples: |
+#     - information regarding to the sowing time of variety pbw 550 ?
+#     - How long can I sow the tomato variety pbw 550?
+#     - How long will the sowing time of variety pbw 550?
+#     - What is the sowing time for a variety Pbw 550?
+#     - How is the sowing time of variety Pbw 550?
+#     - What is the sowing time for a variety pbw 550?
+#     - How long do you grow a variety Pbw 550?
+#     - Is it a good time to plant in variety pbw 550?
+#     - What is the sowing time of PBW 550?
+#     - Is it ok to plant seeds on variety pbw 550?
+#     - What is the sowing time of variety pbw 550?
+- intent: faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties
   examples: |
-    - information regarding to the sowing time of variety pbw 550 ?
-    - How long can I sow the tomato variety pbw 550?
-    - How long will the sowing time of variety pbw 550?
-    - What is the sowing time for a variety Pbw 550?
-    - How is the sowing time of variety Pbw 550?
-    - What is the sowing time for a variety pbw 550?
-    - How long do you grow a variety Pbw 550?
-    - Is it a good time to plant in variety pbw 550?
-    - What is the sowing time of PBW 550?
-    - Is it ok to plant seeds on variety pbw 550?
-    - What is the sowing time of variety pbw 550?
-- intent: faq-agri-wheat-b2/sowing-time-for-early-sowing-varities
-  examples: |
-    - sowing time for early sowing varities?
-    - Is it possible to make early sowing varities?
-    - What is the best time for sowing?
-    - What is the correct sowing time for early sowing varities?
-    - What is the sowing time for early sowing varities?
-    - What is the best sowing time for sowing at early sowing varities?
-    - How do you estimate sowing time?
-    - What are some of the best sowing time for early sowing varities?
-    - How many days of sowing is needed for early sowing varities?
-    - Is sowing time better than we usually do in early sowing varieties?
-    - What should be seed time for early sowing varities?
+    - sowing time for early sowing varieties?
+    - What is the best time for sowing for early varieties?
+    - What is the correct sowing time for early sowing varieties?
+    - What is the sowing time for early sowing varieties?
+    - What is the best sowing time for sowing at early sowing varieties?
+    - How do you estimate sowing time for early varieties?
+    - What are some of the best sowing time for early sowing varieties?
+    - How many days of sowing is needed for early sowing varieties?
+    - What should be seed time for early sowing varieties?
+
 # - intent: faq-agri-wheat-b2/sowing-time-of-pbw621
 #   examples: |
 #     - sowing time of pbw 621?
@@ -63,42 +62,43 @@ nlu:
 #     - Sowing time is hd3067.0, sowing time of hd2967.0.
 #     - Sowing time: hd2767. Sowing time: hd2967. Sowing time: hd2967.
 #     - Sowing time for hd2967 hd2967 hd2967hd2967hd2967 hd2967hd2967hd3067hd2967hd2967hd2967hd2867hd2967hd29
-- intent: faq-agri-wheat-b2/information-regarding-the-sowing-time-of-hd2967
+# - intent: faq-agri-wheat-b2/information-regarding-the-sowing-time-of-hd2967
+#   examples: |
+#     - information regarding the sowing time of hd 2967?
+#     - How should I know the sowing time of Hd 2967?
+#     - Is there any info about the sowing time of hd 2967?
+#     - How much is the sowing time of Hd 2967?
+#     - How much time is sowing hd 2967?
+#     - What is the sowing time of hd 2967?
+#     - What is the sowing time of hd 2967?
+#     - What is sowing time of HP 2967?
+#     - Which is better than the sowing time of hd 2967?
+# - intent: faq-agri-wheat-b2/sowing-season-of-wheat-variety-pbw550
+#   examples: |
+#     - sowing season of wheat variety pbw 550?
+#     - What is the sowing season for a wheat variety PBW 550?
+#     - What is the sowing season of PBW 550 wheat seed?
+#     - What is the sowing season for wheat variety pbw 550?
+#     - How do wheat varieties pbw 550 perform during sowing season?
+#     - Is PBW 550 the best wheat sowing season ever?
+#     - Why is the sowing season of wheat variety pbw 550 a hot commodity?
+#     - How many wheat varieties are available in spring on wheat varieties pbw 550?
+#     - How do I start sowing season for Wheat variety pbw 550?
+#     - How do I sow wheat variety pbw 550?
+#     - What is the sowing season of wheat variety pbw 550?
+
+- intent: faq-agri-wheat-b2/late-varieties-of-wheat
   examples: |
-    - information regarding the sowing time of hd 2967?
-    - How should I know the sowing time of Hd 2967?
-    - Is there any info about the sowing time of hd 2967?
-    - How much is the sowing time of Hd 2967?
-    - How much time is sowing hd 2967?
-    - What is the sowing time of hd 2967?
-    - What is the sowing time of hd 2967?
-    - What is sowing time of HP 2967?
-    - Which is better than the sowing time of hd 2967?
-- intent: faq-agri-wheat-b2/sowing-season-of-wheat-variety-pbw550
-  examples: |
-    - sowing season of wheat variety pbw 550?
-    - What is the sowing season for a wheat variety PBW 550?
-    - What is the sowing season of PBW 550 wheat seed?
-    - What is the sowing season for wheat variety pbw 550?
-    - How do wheat varieties pbw 550 perform during sowing season?
-    - Is PBW 550 the best wheat sowing season ever?
-    - Why is the sowing season of wheat variety pbw 550 a hot commodity?
-    - How many wheat varieties are available in spring on wheat varieties pbw 550?
-    - How do I start sowing season for Wheat variety pbw 550?
-    - How do I sow wheat variety pbw 550?
-    - What is the sowing season of wheat variety pbw 550?
-- intent: faq-agri-wheat-b2/late-varrities-of-wheat
-  examples: |
-    - late varrities of wheat?
+    - late varieties of wheat?
     - What are the late varieties of wheat?
-    - Late varrities of wheat?
-    - What are the late varrities of wheat?
+    - Late varieties of wheat?
+    - What are the late varieties of wheat?
     - What are the late wheat varieties?
-    - Do the late varrities of wheat differ?
+    - Do the late varieties of wheat differ?
     - What is late wheat?
     - What is the late variety of wheat?
-    - What are late varrities of wheat?
-    - What are some late varrities of wheat?
+    - What are late varieties of wheat?
+    - What are some late varieties of wheat?
 - intent: faq-agri-wheat-b2/information-regarding-seed-treatment-of-wheat-crop
   examples: |
     - information regarding seed treatment of wheat crop ?
@@ -110,58 +110,61 @@ nlu:
     - How can I find out about wheat crop seed treatment?
     - How do I get information on grain processing?
     - What is the difference between seed treatment for wheat crop and corn crop?
-    - How can I improve seed management for wheat crop?
+    - How can I improve seed treatment for wheat crop?
     - How should I know about seed treatment for a wheat crop?
-- intent: faq-agri-wheat-b2/sowing-time-of-pbw590-varity
-  examples: |
-    - sowing time of pbw 590 varity
-    - With different plant types sowing time for plant pbw 590 plant variety.
-    - Sowing time of pbw 590 varity PKs of 590 varity is 50-60 days, so the sowing time of pbw 590 varity is 45-60 days, so that we can plant seed from this strain.
-    - Sowing time of pbw 590 varity pbw 590 varietal.
-    - Sowing time of pbw 590 varity of pbw 590 varity (in cm) pbw 590. Sowing time of pbw 590 varity.
-    - Sowing time of PBW 590 Variant is compared to a bw561 varity. Sowing time of PBW 590 Variant is compared with a PBW590 Variant. Sowing time of pbw590 Variant
-    - Sowing time of pbw 590 varity is less than 18 h. Sowing time is for plant seeds is approximately 8 days.
-    - How long is the sowing time of Pbw 590 Variance varity?
-    - Sowing time of pbw 590 varity, according to pbw 590 varity is 60-90 days. The sowing time of pbw 590 varity is 60-90 days. The sowing time will be approximately 2 days.
-    - What is the sowing time of pbw 590 varity?
+
+# - intent: faq-agri-wheat-b2/sowing-time-of-pbw590-varity
+#   examples: |
+#     - sowing time of pbw 590 varity
+#     - With different plant types sowing time for plant pbw 590 plant variety.
+#     - Sowing time of pbw 590 varity PKs of 590 varity is 50-60 days, so the sowing time of pbw 590 varity is 45-60 days, so that we can plant seed from this strain.
+#     - Sowing time of pbw 590 varity pbw 590 varietal.
+#     - Sowing time of pbw 590 varity of pbw 590 varity (in cm) pbw 590. Sowing time of pbw 590 varity.
+#     - Sowing time of PBW 590 Variant is compared to a bw561 varity. Sowing time of PBW 590 Variant is compared with a PBW590 Variant. Sowing time of pbw590 Variant
+#     - Sowing time of pbw 590 varity is less than 18 h. Sowing time is for plant seeds is approximately 8 days.
+#     - How long is the sowing time of Pbw 590 Variance varity?
+#     - Sowing time of pbw 590 varity, according to pbw 590 varity is 60-90 days. The sowing time of pbw 590 varity is 60-90 days. The sowing time will be approximately 2 days.
+#     - What is the sowing time of pbw 590 varity?
+
 - intent: faq-agri-wheat-b2/sowing-period-of-wheat
   examples: |
     - sowing period of wheat
-    - Wheat wheat seed sowing period (1/2 to 3/4) until 8 days after sowing. Wheat Wheat seed seed shall be resown within 1 week from sowing period, except for wheat seeds.
-    - Wheat sows 4 days before the sowing period for wheat. Is it soggy?
-    - What should be the sowing period for wheat this morning?
-    - Wheat sowing period of sowing Wheat, sown Wheat during this period for wheat.
+    - What should be the sowing period for wheat?
     - If wheat has sown during sowing period of wheat it will be harvested.
-    - Sowing period of wheat was 3 days in advance. Sowing time of wheat was 4 days. Plant seed was planted around the turn.
-    - When will sowing wheat in the spring (sow period)?
-    - Wheat is sowing two days after planting. When wheat is sown, it will take for up to two weeks to be resown.
-    - Sowing time: 7 days of wheat. Wheat will be sowing for 4 days.
-    - Wheat sowing period 6 days from harvest.
-- intent: faq-agri-wheat-b2/main-season-varities-of-wheat
+    - How long is the sowing time for wheat?
+    - What is the sowing time for wheat seeding?
+    - What is the sowing period of wheat?
+    - How long will sowing period of wheat be?
+    - What was the sowing time of wheat?
+    - sowing time of wheat
+- intent: faq-agri-wheat-b2/main-season-varieties-of-wheat
   examples: |
-    - main season varities of wheat?
-    - What are major season varities of wheat?
-    - Main season varities of wheat?
-    - Which is the main season for wheat?
-    - What are some best main season crops of wheat?
+    - main season varieties of wheat?
+    - What are major season varieties of wheat?
+    - Which wheat variety is used in main season
+    - Main season prefers which variety of wheat
+    - What are some best main season varieties of wheat?
     - What are some of the main season variations of wheat?
-    - What is the main season variation of wheat?
-    - What are the main season varieties of wheat in spring?
-    - What are main season and season varities of wheat?
-    - Why are there two main season varieties of wheat?
+    - What is the main season variety of wheat?
+    - What are main season varieties of wheat?
+    - Which is main season wheat variety?
+
 - intent: faq-agri-wheat-b2/information-regarding-suitable-varieties-of-wheat--its-seed-rate
   examples: |
     - information regarding suitable varieties of wheat & its seed rate ?
     - What is the appropriate variety of wheat for seed rate?
     - What is the suitable wheat crop & its seed rate?
     - How do we know suitable varieties of wheat and its seed rates?
-    - What is the seed rate of wheat varieties, its varieties, rye and its varieties?
+    - What is the seed rate of wheat varieties ?
+    - What are the suitable varieties of wheat and its seed rate?
+    - Suitable varieties of wheat and its seed rate
     - How do I know if a particular variety of wheat is suitable and its seed rate?
     - What is the right type of wheat and its seed rate for me?
-    - How is the data about suitable varieties of wheat & its seed rate calculated?
+    - Show me the data about suitable varieties of wheat & its seed rate calculated?
     - How can I obtain information regarding suitable varieties of wheat and its seed rate?
     - How can I determine suitable varieties of wheat & its seed rate?
     - What is the grain yield for wheat and what are the seed rates?
+    - Which varieties of wheat are suitable and their seed rate?
 - intent: faq-agri-wheat-b2/information-about-suitable-varieties-for-running-season
   examples: |
     - information about suitable varieties for running season?
@@ -179,61 +182,62 @@ nlu:
   examples: |
     - sowing time of early wheat?
     - When is sowing time for a wheat plant?
-    - Do seed and early wheat sows take longer?
-    - What is the sowing time for wheat?
-    - What is the sowing time of wheat?
+    - How can we determine the sowing time of early wheat?
     - What is the sowing time for early wheat?
     - What is the sowing time of the early wheat?
-    - When is the sowing of wheat?
-    - When do you start sowing wheat?
-    - When does a sower lay wheat?
-    - Is early wheat well sowing time feasible?
-- intent: faq-agri-wheat-b2/sowing-time-of-the-hd2733
-  examples: |
-    - sowing time of the hd 2733
-    - The hd 2733 in hd is so much sowing time for its sowing in the sowing time of the hd 2733. When is hd 2733 first sowing?
-    - Sowing time of the hd 2733.0.37 and the sowing time for the hd 2734 is 2 days.
-    - Sowing time of the hd2733.jpg 3 hours. This hd 2733 is a hd 2733 is in swed time. Here is the sowing time for the hd 2733.jpg
-    - The hd 2733 has 5 days to sow. How many days does it need to sow the hd-2733?
-    - How long has hd 2733 sowing time?
-    - What is the sowing time of a HD 2733?
-    - What is the sowing time of the hd 2733?
-    - Is the time of sowing of the hd 2733 bp  270 ft.?
-    - sowing time of the hd2733
+    - How would you predict sowing time of early wheat? 
+    - How can the time for sowing in early wheat be determined?  
+
+# - intent: faq-agri-wheat-b2/sowing-time-of-the-hd2733
+#   examples: |
+#     - sowing time of the hd 2733
+#     - The hd 2733 in hd is so much sowing time for its sowing in the sowing time of the hd 2733. When is hd 2733 first sowing?
+#     - Sowing time of the hd 2733.0.37 and the sowing time for the hd 2734 is 2 days.
+#     - Sowing time of the hd2733.jpg 3 hours. This hd 2733 is a hd 2733 is in swed time. Here is the sowing time for the hd 2733.jpg
+#     - The hd 2733 has 5 days to sow. How many days does it need to sow the hd-2733?
+#     - How long has hd 2733 sowing time?
+#     - What is the sowing time of a HD 2733?
+#     - What is the sowing time of the hd 2733?
+#     - Is the time of sowing of the hd 2733 bp  270 ft.?
+#     - sowing time of the hd2733
+
 - intent: faq-agri-wheat-b2/sowing-time-of-wheat-after-nov
   examples: |
     - sowing time of wheat after nov?
     - How long do you need to sow wheat after nov.?
-    - Is sowing time of wheat after nov?
-    - When should we sow wheat?
+    - what is sowing time of wheat after nov?
+    - When should we sow wheat after nov?
     - How should I determine sowing time for wheat by sowing after nov?
-    - What is the sowing time of wheat and how much time to plant after planting?
-    - Sowing time of wheat after nov?
+    - How long should sowing for wheat be if it is not ready by nov?
+    - When to sow wheat in nov?
     - Can you provide sowing time of wheat after November?
-    - When wheat will be sowing for 10 days?
-    - How long does it take to sow wheat this morning if it is not so early in the season?
-- intent: faq-agri-wheat-b2/sowing-time-of-late-varities-of-wheat-in-sandy-soils
+
+- intent: faq-agri-wheat-b2/sowing-time-of-late-varieties-of-wheat-in-sandy-soils
   examples: |
-    - sowing time of late varities of wheat in sandy soils?
-    - When do late varities of wheat begin sowing in sandy soils?
-    - What is the sowing time of late varities of wheat in sandy soils?
+    - sowing time of late varieties of wheat in sandy soils?
+    - When do late varieties of wheat begin sowing in sandy soils?
+    - What is the sowing time of late varieties of wheat in sandy soils?
     - How long does it take for sowing late wheat varieties in sandy soils?
-    - Sowing time of late varities of wheat in sandy soils?
+    - Sowing time of late varieties of wheat in sandy soils?
+    - Why are late varieties of wheat sowing late in sandy soils?
     - How long do we sow late variety wheat in sandy soils?
     - How long does a late variete of wheat sow in sandy soils?
+    - Can late varieties of wheat be sowed in sandy soils? 
     - How long is the sowing time of late variety of wheat in sandy soils?
     - How is sowing time for late wheat in sandy soils?
+    - How can we sow wheat late varieties on sandy soil?
+    - Do late varieties of wheat grow in sandy soils?
     - How long does wheat sow in sandy soil?
-- intent: faq-agri-wheat-b2/information-regarding-the-sowing-time-of-varieties-pdw-291-pdw-274-pdw-233
-  examples: |
-    - information regarding the sowing time of varieties pdw 291, pdw 274, pdw 233 ?
-    - How many days before flowering should varieties be sowing at one or two times?
-    - How can we determine the sowing time of varieties pdw 291, pdw 274, pdw 233?
-    - Information regarding the sowing time of varieties pdw 291, pdw 274, pdw 233?
-    - If varieties pdw 301, pdw 274 and pdw 233 are sowing dates, are they considered as pdw 233?
-    - How many days before planting the varieties pdw 291, pdw 274, pdw 233?
-    - What are the sowing time for varieties pdw 291, pdw 274, pdw 233?
-    - Information regarding the sowing time of varieties pdw 291, pdw 274, pdw 233
-    - What is sowing time of varieties, with numbers of sowing time 291, 274 and 294?
-    - When is sowing time of a variety from pdw 291, pdw 274, pdw 233?
-    - How are varieties pdw 281, pdw 274, pdw 233 recorded?
+# - intent: faq-agri-wheat-b2/information-regarding-the-sowing-time-of-varieties-pdw-291-pdw-274-pdw-233
+#   examples: |
+#     - information regarding the sowing time of varieties pdw 291, pdw 274, pdw 233 ?
+#     - How many days before flowering should varieties be sowing at one or two times?
+#     - How can we determine the sowing time of varieties pdw 291, pdw 274, pdw 233?
+#     - Information regarding the sowing time of varieties pdw 291, pdw 274, pdw 233?
+#     - If varieties pdw 301, pdw 274 and pdw 233 are sowing dates, are they considered as pdw 233?
+#     - How many days before planting the varieties pdw 291, pdw 274, pdw 233?
+#     - What are the sowing time for varieties pdw 291, pdw 274, pdw 233?
+#     - Information regarding the sowing time of varieties pdw 291, pdw 274, pdw 233
+#     - What is sowing time of varieties, with numbers of sowing time 291, 274 and 294?
+#     - When is sowing time of a variety from pdw 291, pdw 274, pdw 233?
+#     - How are varieties pdw 281, pdw 274, pdw 233 recorded?

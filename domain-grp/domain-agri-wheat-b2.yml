@@ -6,7 +6,7 @@ responses:
   - text: TIME OF SOWING IS FROM THE 4TH WEEK OF OCTOBER TO 4TH WEEK OF NOVEMBER.
   utter_faq-agri-wheat-b2/information-regarding-to-the-sowing-time-of-variety-pbw-550: 
   - text: suitable sowing time of pbw-550 is 2nd week of nov. to 4th week of nov.
-  utter_faq-agri-wheat-b2/sowing-time-for-early-sowing-varities: 
+  utter_faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties: 
   - text: LAST WEEK OF OCTOBER TO LAST WEEK OF NOVEMBER.
   # utter_faq-agri-wheat-b2/sowing-time-of-hd2967: 
   # - text: 25 oct. to 25 nov.
@@ -14,16 +14,16 @@ responses:
   - text: 25 oct. to 25 nov.
   utter_faq-agri-wheat-b2/sowing-season-of-wheat-variety-pbw550: 
   - text: 2ND WEEK OF NOV TO 4TH WEEK OF NOV.
-  utter_faq-agri-wheat-b2/late-varrities-of-wheat: 
+  utter_faq-agri-wheat-b2/late-varieties-of-wheat: 
   - text: LATE SOWING VARIETES OF WHEAT ARE PBW 509,PBW 590,PBW 373
   utter_faq-agri-wheat-b2/information-regarding-seed-treatment-of-wheat-crop: 
   - text: SEED TREATMENT IN TERMITE INFESTED SOIL,FIRST TREAT THE SEED WITH 6ML REGENT 5% SC (FIPRONIL)OR 4ML CHLORPYRIPHOS PER KG SEED.
-  utter_faq-agri-wheat-b2/sowing-time-of-pbw590-varity: 
-  - text: IN DECEMBER MONTH
+  # utter_faq-agri-wheat-b2/sowing-time-of-pbw590-varity: 
+  # - text: IN DECEMBER MONTH
   utter_faq-agri-wheat-b2/sowing-period-of-wheat: 
   - text: last week oct. to last week nov.
 
-  utter_faq-agri-wheat-b2/main-season-varities-of-wheat: 
+  utter_faq-agri-wheat-b2/main-season-varieties-of-wheat: 
   - text: NO ANSWER
 
   utter_faq-agri-wheat-b2/information-regarding-suitable-varieties-of-wheat--its-seed-rate: 
@@ -34,11 +34,11 @@ responses:
   
   utter_faq-agri-wheat-b2/sowing-time-of-early-wheat: 
   - text: LAST WEEK OF OCTOBER TO LAST WEEK OF NOVEMBER.
-  utter_faq-agri-wheat-b2/sowing-time-of-the-hd2733: 
-  - text: November first week
+  # utter_faq-agri-wheat-b2/sowing-time-of-the-hd2733: 
+  # - text: November first week
   utter_faq-agri-wheat-b2/sowing-time-of-wheat-after-nov: 
   - text: 4TH WEEK OF NOVEMBER TO 4TH WEEK OF DECEMBER.
-  utter_faq-agri-wheat-b2/sowing-time-of-late-varities-of-wheat-in-sandy-soils: 
+  utter_faq-agri-wheat-b2/sowing-time-of-late-varieties-of-wheat-in-sandy-soils: 
   - text: After 15 November
-  utter_faq-agri-wheat-b2/information-regarding-the-sowing-time-of-varieties-pdw-291-pdw-274-pdw-233: 
-  - text: THE SOWING TIME OF VARIETIES PDW 291, PDW 274, PDW 233 is 4TH WEEK OF OCT TO 1ST WEEK OF NOV.
+  # utter_faq-agri-wheat-b2/information-regarding-the-sowing-time-of-varieties-pdw-291-pdw-274-pdw-233: 
+  # - text: THE SOWING TIME OF VARIETIES PDW 291, PDW 274, PDW 233 is 4TH WEEK OF OCT TO 1ST WEEK OF NOV.

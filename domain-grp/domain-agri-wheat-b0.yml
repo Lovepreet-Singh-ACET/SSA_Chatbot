@@ -43,8 +43,8 @@ responses:
   - text: control of Wheat Aphid is Spray Rogor (Dimethoate) @ 1 ml / 1 lt water  #2019
   - text: For control of Aphid in wheat, spray 20g Actara 25WG(thiamethoxam) in 80-100 litres of water per acre. #2019
 
-  utter_faq-agri-wheat-b0/dose-of-zinc-in-wheat-for-spraying:
-  - text: SPRAY 1 KG ZINC SULPAHTE IN 200 LIT WATER + HALF LIT UNSLAKED LIME  #2011
+  # utter_faq-agri-wheat-b0/dose-of-zinc-in-wheat-for-spraying:
+  # - text: SPRAY 1 KG ZINC SULPAHTE IN 200 LIT WATER + HALF LIT UNSLAKED LIME  #2011
 
   utter_faq-agri-wheat-b0/control-of-yellow-rust-in-wheat:
   - text: For control of Yellow Rust in wheat , spray Tilt 25EC(propiconazole) 200 ml or Nativo 75WG (trifloxystrobin + tebuconazole) 120g in 200 litre per acre.  #2019
@@ -133,8 +133,6 @@ responses:
   utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-rainfall:
   - text: SPRAY 3 KG UREA IN 100 LITRE WATER PER ACRE #2019
 
-  utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-herbicide-spray:
-  - text: SPRAY NPK 19:19:19 1 KG IN 100 LITRE WATER #2019
 #--------------------- Jan 10 2022--------------------------
   utter_faq-agri-wheat-b0/information-regarding-seed-treatment-in-wheat:
   - text: Recommended to apply Bavistin @ 2 g per kg seed for Seed treatment in Wheat. #2019
