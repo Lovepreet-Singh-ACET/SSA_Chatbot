@@ -1,6 +1,6 @@
 version: "3.0" 
 nlu: 
-
+# dose of fertilizers
 - intent: faq-agri-wheat-b3/information-regarding-dose-of-fertilizers-in-wheat-crop
   examples: |
     - information regarding dose of fertilizers in wheat crop ?
@@ -14,6 +14,8 @@ nlu:
     - What is the dose of fertilizer for wheat crop?
     - What are the effects of fertilizers on the wheat crop?
     - What's the data on fertilizer dose in wheat crops?
+
+# suitable time for manganese sulphate spray
 - intent: faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it
   examples: |
     - information regarding for suitable time of the manganese sulphate spray in wheat & dose  per acre of it?
@@ -24,6 +26,8 @@ nlu:
     - How do I remove the manganese sulphate from wheat?
     - How is the dose per acre of manganese sulphate used for wheat?
     - Information regarding suitable time for the manganese sulphate spray in wheat & dose per acre of it?
+
+# urea dose
 - intent: faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat
   examples: |
     - information regarding total dose of urea in wheat ?
@@ -36,12 +40,14 @@ nlu:
     - Is total dose of urea present in wheat?
     - How can ura be used to treat wheat grains?
     - How is the total dose of urea in wheat calculated?
+
+# fertilizer does at the time of wheat sowing
 - intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-wheat-sowing
   examples: |
     - information regarding the fertilizer. dose at the time of wheat sowing?
     - What is the fertilizer dose on wheat seed?
-    - What is the fertilizer. dose, during wheat planting?
-    - What is the fertilizer. dose of wheat?
+    - What is the fertilizer dose, during wheat planting?
+    - What is the fertilizer. dose of wheat at showing time?
     - What are the possible fertilizer. doses when wheat is sowing?
     - How does the fertilizer. dose to wheat ease?
     - Do you have any knowledge regarding the fertilizer. dose at the time of wheat sowing?
