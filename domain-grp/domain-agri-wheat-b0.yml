@@ -230,6 +230,9 @@ responses:
   utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-gob-wali-sundi-in-wheat-crop:
   - text: MONOCROTOPHOS 560 ML PER ACRE #2014
 
+  utter_faq-agri-wheat-b3/information-regarding-green-sundi-in-wheat: 
+  - text: spray quinalphorse 400 ml in 200 litre water per acre
+
   utter_faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop:
   - text: SPRAY N P K 19 :19 :19 1 KG IN 100 LITRE WATER PER ACRE #2014
 

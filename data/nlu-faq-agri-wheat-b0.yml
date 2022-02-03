@@ -882,7 +882,7 @@ nlu:
     - how to handle sundi in wheat crop
     - what to spray to control sundi in wheat crop
 
-# amrican sundi
+# american sundi
 - intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-amrican-sundi-in-wheat-crop
   examples: |
     - how to control amrican sundi in wheat crop
@@ -899,6 +899,20 @@ nlu:
     - tell me the procedures to stop the gob wali sundi in wheat crop
     - what steps can be taken to get rid from the gob wali sundi in wheat
     - how do we suppose to control gob wali sundi
+
+#green sundi
+- intent: faq-agri-wheat-b0/information-regarding-green-sundi-in-wheat
+  examples: |
+    - information regarding green sundi in wheat?
+    - Why does green sundi is used in wheat?
+    - What is green sundi in wheat?
+    - What is the usage of Green Sundi in wheat?
+    - How do I get information about green sundi in wheat?
+    - benefits of using green sundi for wheat?
+    - How do I get green sundi in wheat?
+    - How is green sundi used in wheat?
+    - purpose of green sundi in wheat?
+    - What is the use of green sundi in wheat?
 
 # potash
 - intent: faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop
