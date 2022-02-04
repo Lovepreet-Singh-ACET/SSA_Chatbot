@@ -147,47 +147,47 @@ nlu:
     - What are good ways to control wheat root weevil in wheat crop?
 
 # mangnese defi
-- intent: faq-agri-wheat-b0/control-of-mangnese-defy-in-wheat
-  examples: |
-    - control of mangnese defy in wheat
-    - Mangnese defy control in wheat
-    - Mangnese resist control in wheat
-    - control of maganese resisit in the wheat.
-    - in wheat crop how to manage the maganese content.
-    - information regarding control of manganese deficiency in wheat
-    - control of manganese deficiency in wheat
-    - information regarding for the deficiency of manganese sulphate
-    - information regarding the manganese deficiency in wheat
-    - manganese deficiency in wheat
-    - information regarding nmanganese deficiency in wheat 
-    - information regarding for the manganese deficiency in wheat
-    - how to correct the deficiency of manganese in the wheat crop
-    - information regarding manganese sulphate in wheat
-    - information regarding manganese sulphate spray dose
+# - intent: faq-agri-wheat-b0/control-of-mangnese-defy-in-wheat
+#   examples: |
+#     - control of mangnese defy in wheat
+#     - Mangnese defy control in wheat
+#     - Mangnese resist control in wheat
+#     - control of maganese resisit in the wheat.
+#     - in wheat crop how to manage the maganese content.
+#     - information regarding control of manganese deficiency in wheat
+#     - control of manganese deficiency in wheat
+#     - information regarding for the deficiency of manganese sulphate
+#     - information regarding the manganese deficiency in wheat
+#     - manganese deficiency in wheat
+#     - information regarding nmanganese deficiency in wheat 
+#     - information regarding for the manganese deficiency in wheat
+#     - how to correct the deficiency of manganese in the wheat crop
+#     - information regarding manganese sulphate in wheat
+#     - information regarding manganese sulphate spray dose
 
 # zinc defi
-- intent: faq-agri-wheat-b0/control-of-zinc-defy-in-wheat
-  examples: |
-    - control of zinc defy in wheat
-    - zinc defy control in wheat
-    - control of zinc resisit in the wheat.
-    - in wheat crop how to manage the zinc content.
-    - information regarding zinc diffiency in wheat
-    - how to tackle zinc deficiency in wheat crop
-    - how to deal with zinc deficiency in wheat
-    - how to deal zinc deficit in wheat
-    - there is zinc deficiency in wheat land, how to handle this situation.
-    - my wheat is having zinc deficiency how to overcome this
-    - control of zinc defy in wheat
-    - information regarding zinc difficency in wheat crop
-    - information regarding control deficiency of zinc in wheat
-    - information regarding control zinc deficiency in wheat
-    - information regarding for the deficiency of zinc
-    - dose of zinc in wheat for spraying
-    - zinc dose in wheat for spraying
-    - zinc dose for spraying in wheat 
-    - zinc dosage in wheat for spraying
-    - in wheat crop zinc dosage for spraying
+# - intent: faq-agri-wheat-b0/control-of-zinc-defy-in-wheat
+#   examples: |
+#     - control of zinc defy in wheat
+#     - zinc defy control in wheat
+#     - control of zinc resisit in the wheat.
+#     - in wheat crop how to manage the zinc content.
+#     - information regarding zinc diffiency in wheat
+#     - how to tackle zinc deficiency in wheat crop
+#     - how to deal with zinc deficiency in wheat
+#     - how to deal zinc deficit in wheat
+#     - there is zinc deficiency in wheat land, how to handle this situation.
+#     - my wheat is having zinc deficiency how to overcome this
+#     - control of zinc defy in wheat
+#     - information regarding zinc difficency in wheat crop
+#     - information regarding control deficiency of zinc in wheat
+#     - information regarding control zinc deficiency in wheat
+#     - information regarding for the deficiency of zinc
+#     - dose of zinc in wheat for spraying
+#     - zinc dose in wheat for spraying
+#     - zinc dose for spraying in wheat 
+#     - zinc dosage in wheat for spraying
+#     - in wheat crop zinc dosage for spraying
 
 # aphid
 - intent: faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat
@@ -248,17 +248,17 @@ nlu:
     - tell me the procedure to stop the yellow brown rust in wheat crop
 
 # sulphur
-- intent: faq-agri-wheat-b0/control-of-sulphur-in-wheat
-  examples: |
-    - control of sulphur in wheat
-    - how to control sulpher in whaeat crop
-    - sulphur control in wheat
-    - ways to keep sulphur levels in wheat crops under control
-    - methods to control sulphur level in wheat
-    - control of sulphur defy in wheat
-    - control of sulpfhur defy in wheat
-    - contro of sulphur defy in wheat
-    - spray for controling sulphur level in wheat
+# - intent: faq-agri-wheat-b0/control-of-sulphur-in-wheat
+#   examples: |
+#     - control of sulphur in wheat
+#     - how to control sulpher in whaeat crop
+#     - sulphur control in wheat
+#     - ways to keep sulphur levels in wheat crops under control
+#     - methods to control sulphur level in wheat
+#     - control of sulphur defy in wheat
+#     - control of sulpfhur defy in wheat
+#     - contro of sulphur defy in wheat
+#     - spray for controling sulphur level in wheat
 
 # stem borer
 - intent: faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop

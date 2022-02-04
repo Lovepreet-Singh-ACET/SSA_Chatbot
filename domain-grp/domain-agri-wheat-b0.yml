@@ -34,12 +34,12 @@ responses:
   utter_faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop:
   - text: I TOLD THE KISAN 1 LITRE OF THIODAN 35 EC @ IN 2 LITRE OF WATER AND MIX 20 KG OF SOIL AND BROADCAST IN PER ACRE  #2011
 
-  utter_faq-agri-wheat-b0/control-of-mangnese-defy-in-wheat:
-  - text: SPRAY OF MANGANESE 1KG/ACRE MIX 100 L WATER    #2019
-  - text: USE SPRAY 1 KG MANGANESE SULPHATE IN 100 LITRES OF WATER/ACRE.
+  # utter_faq-agri-wheat-b0/control-of-mangnese-defy-in-wheat:
+  # - text: SPRAY OF MANGANESE 1KG/ACRE MIX 100 L WATER    #2019
+  # - text: USE SPRAY 1 KG MANGANESE SULPHATE IN 100 LITRES OF WATER/ACRE.
 
-  utter_faq-agri-wheat-b0/control-of-zinc-defy-in-wheat:
-  - text: spray zinc sulphate 21% @ 1kg + 1/2kg unslaked lime in 200 liters of water / acre.  #2014
+  # utter_faq-agri-wheat-b0/control-of-zinc-defy-in-wheat:
+  # - text: spray zinc sulphate 21% @ 1kg + 1/2kg unslaked lime in 200 liters of water / acre.  #2014
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat:
   - text: control of Wheat Aphid is Spray Rogor (Dimethoate) @ 1 ml / 1 lt water  #2019
@@ -52,9 +52,9 @@ responses:
   - text: For control of Yellow Rust in wheat , spray Tilt 25EC(propiconazole) 200 ml or Nativo 75WG (trifloxystrobin + tebuconazole) 120g in 200 litre per acre.  #2019
   - text: RECOMMENDED TO SPRAY WETTABLE SULPHUR 80 WP(SULPHEX) @ 4 GM PER 1 LITRE OF WATER OR MANCOZEB 75 WP @ 2 GM PER 1 LITRE OF WATER TO CONTROL YELLOW RUST IN WHEAT  #2019
 
-  utter_faq-agri-wheat-b0/control-of-sulphur-in-wheat:
-  - text: SPREAD 3 KG BENTONATE SULPHUR PER ACRE IN THE FIELD  #2019
-  - text: spray sulphur @ 800gm mix in 100 liters of water / acre. #2015
+  # utter_faq-agri-wheat-b0/control-of-sulphur-in-wheat:
+  # - text: SPREAD 3 KG BENTONATE SULPHUR PER ACRE IN THE FIELD  #2019
+  # - text: spray sulphur @ 800gm mix in 100 liters of water / acre. #2015
 
   utter_faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop:
   - text: for control of stem borer in wheat , spray 20 ml fame in 100 litres of water per acre #2019

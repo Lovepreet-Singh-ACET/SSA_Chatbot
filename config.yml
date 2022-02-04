@@ -47,7 +47,7 @@ pipeline:
     retrieval_intent: faq-agri-wheat-b3
 
   - name: FallbackClassifier
-    threshold: 0.75
+    threshold: 0.90
     ambiguity_threshold : 0.1
 
 # Configuration for Rasa Core.

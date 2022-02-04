@@ -27,17 +27,17 @@ nlu:
     
 
 # herbicides used for pre-emergence
-- intent: faq-agri-wheat-b1/information-regarding-the-pre-emergence-herbicides-used-in-the-wheat
-  examples: |
-    - information regarding the pre-emergence herbicides used in the wheat?
-    - information of the pre-emergence herbicides used in the wheat?
-    - pre-emergence herbicides used in the wheat ?
-    - What is the information about pre-emergence herbicides used in the wheat?
-    - information regarding the pre-emergence herbicides used in the wheat crop sown by happy seeder?
-    - What are some pre-emergence herbicides used in wheat
-    - How do pre-emergence herbicides be used in wheat?
-    - How can I get information regarding the pre-emergence herbicide used in wheat?
-    - What is the use of pre-emergence herbicides in wheat?
+# - intent: faq-agri-wheat-b1/information-regarding-the-pre-emergence-herbicides-used-in-the-wheat
+#   examples: |
+#     - information regarding the pre-emergence herbicides used in the wheat?
+#     - information of the pre-emergence herbicides used in the wheat?
+#     - pre-emergence herbicides used in the wheat ?
+#     - What is the information about pre-emergence herbicides used in the wheat?
+#     - information regarding the pre-emergence herbicides used in the wheat crop sown by happy seeder?
+#     - What are some pre-emergence herbicides used in wheat
+#     - How do pre-emergence herbicides be used in wheat?
+#     - How can I get information regarding the pre-emergence herbicide used in wheat?
+#     - What is the use of pre-emergence herbicides in wheat?
 
 
 # grassy leaf weeds after first irrigation
