@@ -20,8 +20,8 @@ responses:
   - text: SEED TREATMENT IN TERMITE INFESTED SOIL,FIRST TREAT THE SEED WITH 6ML REGENT 5% SC (FIPRONIL)OR 4ML CHLORPYRIPHOS PER KG SEED.
   # utter_faq-agri-wheat-b2/sowing-time-of-pbw590-varity: 
   # - text: IN DECEMBER MONTH
-  utter_faq-agri-wheat-b2/sowing-period-of-wheat: 
-  - text: last week oct. to last week nov.
+  # utter_faq-agri-wheat-b2/sowing-period-of-wheat: 
+  # - text: last week oct. to last week nov.
 
   utter_faq-agri-wheat-b2/main-season-varieties-of-wheat: 
   - text: NO ANSWER
@@ -32,8 +32,8 @@ responses:
   utter_faq-agri-wheat-b2/information-about-suitable-varieties-for-running-season: 
   - text: SUITABLE VARIETIES FOR RUNNING SEASON IS - PBW-550,HD-2967 & HD-2851.
   
-  utter_faq-agri-wheat-b2/sowing-time-of-early-wheat: 
-  - text: LAST WEEK OF OCTOBER TO LAST WEEK OF NOVEMBER.
+  # utter_faq-agri-wheat-b2/sowing-time-of-early-wheat: 
+  # - text: LAST WEEK OF OCTOBER TO LAST WEEK OF NOVEMBER.
   # utter_faq-agri-wheat-b2/sowing-time-of-the-hd2733: 
   # - text: November first week
   utter_faq-agri-wheat-b2/sowing-time-of-wheat-after-nov: 

@@ -14,6 +14,14 @@ nlu:
     - How do I find sow times for wheat?
     - What information are available regarding sowing time of wheat?
     - Is there any information regarding sowing time of wheat?
+    - sowing period of wheat
+    - What should be the sowing period for wheat?
+    - How long is the sowing time for wheat?
+    - What is the sowing time for wheat seeding?
+    - What is the sowing period of wheat?
+    - How long will sowing period of wheat be?
+    - What was the sowing time of wheat?
+
 # - intent: faq-agri-wheat-b2/information-regarding-to-the-sowing-time-of-variety-pbw-550
 #   examples: |
 #     - information regarding to the sowing time of variety pbw 550 ?
@@ -35,11 +43,16 @@ nlu:
     - What is the best time for sowing for early varieties?
     - What is the correct sowing time for early sowing varieties?
     - What is the sowing time for early sowing varieties?
-    - What is the best sowing time for sowing at early sowing varieties?
+    - What is the best sowing time for early varieties?
     - How do you estimate sowing time for early varieties?
     - What are some of the best sowing time for early sowing varieties?
     - How many days of sowing is needed for early sowing varieties?
     - What should be seed time for early sowing varieties?
+    - How can we determine the sowing time of early wheat?
+    - What is the sowing time for early wheat?
+    - What is the sowing time of the early wheat?
+    - How would you predict sowing time of early wheat? 
+    - How can the time for sowing in early wheat be determined?
 
 # - intent: faq-agri-wheat-b2/sowing-time-of-pbw621
 #   examples: |
@@ -102,19 +115,20 @@ nlu:
     - What is the late variety of wheat?
     - What are late varieties of wheat?
     - What are some late varieties of wheat?
-- intent: faq-agri-wheat-b2/information-regarding-seed-treatment-of-wheat-crop
-  examples: |
-    - information regarding seed treatment of wheat crop ?
-    - How do we know about Wheat crop seed treatment?
-    - What is the information regarding seed treatment of wheat crop?
-    - How do I get detailed information about the seed treatment of wheat crop?
-    - Wheat is the fastest growing crop. What are the best practices for seed treatment?
-    - How is seed treatment of wheat crop?
-    - How can I find out about wheat crop seed treatment?
-    - How do I get information on grain processing?
-    - What is the difference between seed treatment for wheat crop and corn crop?
-    - How can I improve seed treatment for wheat crop?
-    - How should I know about seed treatment for a wheat crop?
+
+# - intent: faq-agri-wheat-b2/information-regarding-seed-treatment-of-wheat-crop
+#   examples: |
+#     - information regarding seed treatment of wheat crop ?
+#     - How do we know about Wheat crop seed treatment?
+#     - What is the information regarding seed treatment of wheat crop?
+#     - How do I get detailed information about the seed treatment of wheat crop?
+#     - Wheat is the fastest growing crop. What are the best practices for seed treatment?
+#     - How is seed treatment of wheat crop?
+#     - How can I find out about wheat crop seed treatment?
+#     - How do I get information on grain processing?
+#     - What is the difference between seed treatment for wheat crop and corn crop?
+#     - How can I improve seed treatment for wheat crop?
+#     - How should I know about seed treatment for a wheat crop?
 
 # - intent: faq-agri-wheat-b2/sowing-time-of-pbw590-varity
 #   examples: |
@@ -130,30 +144,30 @@ nlu:
 #     - What is the sowing time of pbw 590 varity?
 
 # about sowing periods of wheat
-- intent: faq-agri-wheat-b2/sowing-period-of-wheat
-  examples: |
-    - sowing period of wheat
-    - What should be the sowing period for wheat?
-    - If wheat has sown during sowing period of wheat it will be harvested.
-    - How long is the sowing time for wheat?
-    - What is the sowing time for wheat seeding?
-    - What is the sowing period of wheat?
-    - How long will sowing period of wheat be?
-    - What was the sowing time of wheat?
-    - sowing time of wheat
+# - intent: faq-agri-wheat-b2/sowing-period-of-wheat
+#   examples: |
+#     - sowing period of wheat
+#     - What should be the sowing period for wheat?
+#     - If wheat has sown during sowing period of wheat it will be harvested.
+#     - How long is the sowing time for wheat?
+#     - What is the sowing time for wheat seeding?
+#     - What is the sowing period of wheat?
+#     - How long will sowing period of wheat be?
+#     - What was the sowing time of wheat?
+#     - sowing time of wheat
 
 # about main seasonal varieties of wheat
-- intent: faq-agri-wheat-b2/main-season-varieties-of-wheat
-  examples: |
-    - main season varieties of wheat?
-    - What are major season varieties of wheat?
-    - Which wheat variety is used in main season
-    - Main season prefers which variety of wheat
-    - What are some best main season varieties of wheat?
-    - What are some of the main season variations of wheat?
-    - What is the main season variety of wheat?
-    - What are main season varieties of wheat?
-    - Which is main season wheat variety?
+# - intent: faq-agri-wheat-b2/main-season-varieties-of-wheat
+#   examples: |
+#     - main season varieties of wheat?
+#     - What are major season varieties of wheat?
+#     - Which wheat variety is used in main season
+#     - Main season prefers which variety of wheat
+#     - What are some best main season varieties of wheat?
+#     - What are some of the main season variations of wheat?
+#     - What is the main season variety of wheat?
+#     - What are main season varieties of wheat?
+#     - Which is main season wheat variety?
 
 # asking about suitable wheat varieties and their price
 - intent: faq-agri-wheat-b2/information-regarding-suitable-varieties-of-wheat--its-seed-rate
@@ -189,15 +203,15 @@ nlu:
     - Why are so many varieties of vegetables available in the running season?
 
 # about sowing time of early wheat varieties
-- intent: faq-agri-wheat-b2/sowing-time-of-early-wheat
-  examples: |
-    - sowing time of early wheat?
-    - When is sowing time for a wheat plant?
-    - How can we determine the sowing time of early wheat?
-    - What is the sowing time for early wheat?
-    - What is the sowing time of the early wheat?
-    - How would you predict sowing time of early wheat? 
-    - How can the time for sowing in early wheat be determined?  
+# - intent: faq-agri-wheat-b2/sowing-time-of-early-wheat
+#   examples: |
+#     - sowing time of early wheat?
+#     - When is sowing time for a wheat plant?
+#     - How can we determine the sowing time of early wheat?
+#     - What is the sowing time for early wheat?
+#     - What is the sowing time of the early wheat?
+#     - How would you predict sowing time of early wheat? 
+#     - How can the time for sowing in early wheat be determined?  
 
 # - intent: faq-agri-wheat-b2/sowing-time-of-the-hd2733
 #   examples: |
@@ -221,7 +235,7 @@ nlu:
     - When should we sow wheat after nov?
     - How should I determine sowing time for wheat by sowing after nov?
     - How long should sowing for wheat be if it is not ready by nov?
-    - When to sow wheat in nov?
+    - When to sow wheat after november?
     - Can you provide sowing time of wheat after November?
 
 # about sowing time of late varieties of wheat in sandy soils 
