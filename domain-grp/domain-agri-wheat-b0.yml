@@ -24,6 +24,8 @@ responses:
   - text: "Bye"
   utter_ok:
   - text: "Thank You!!  \n Please type your questions in the chat"
+  utter_please_rephrase:
+  - text: I'm sorry, I didn't quite understand that. Could you rephrase?
 
   utter_faq-agri-wheat-b0/control-of-weeds-in-wheat:
   - text: FOR CONTROL OF WEEDS IN WHEAT CROP NO SPRAY RECOMMENDATION OF HERBICIDE AFTER 45 DAYS OF SWOING. #2019
@@ -230,7 +232,7 @@ responses:
   utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-gob-wali-sundi-in-wheat-crop:
   - text: MONOCROTOPHOS 560 ML PER ACRE #2014
 
-  utter_faq-agri-wheat-b3/information-regarding-green-sundi-in-wheat: 
+  utter_faq-agri-wheat-b0/information-regarding-green-sundi-in-wheat: 
   - text: spray quinalphorse 400 ml in 200 litre water per acre
 
   utter_faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop:
