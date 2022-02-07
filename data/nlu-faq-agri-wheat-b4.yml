@@ -1,0 +1,39 @@
+version: "3.0" 
+nlu: 
+
+- intent: faq-agri-wheat-b4/information-regarding-to-the-seed-treatment-of-wheat
+  examples: |
+    - information regarding to the seed treatment of wheat ?
+    - What information regarding to the seed treatment of wheat?
+    - How can I get information regarding the treatment of wheat?
+    - How are the seeds treated for wheat?
+    - Is it possible to get information concerning the seed treatment of wheat?
+    - What are the information regarding to the grain treatment of wheat?
+    - What is the information regarding to the seed treatment of wheat?
+- intent: faq-agri-wheat-b4/tell-me-about-seed-treatment-for-termite-protection
+  examples: |
+    - tell me about seed treatment for termite protection
+    - If you know of seed treatments for termite protection tell me how to do it.
+    - What is the best seed treatment for termites?
+    - How can I use seed for termite protection?
+    - What seed treatment is there for termite protection?
+    - Tell me about seed treatment for termite protection?
+    - What are seed treatments for termite protection?
+- intent: faq-agri-wheat-b4/dose-of-chlorpyriphos-for-seed-treatment
+  examples: |
+    - dose of chlorpyriphos for seed treatment?
+    - What is the dose of chlorpyriphos for seed treatment?
+    - How much chlorpyriphos dose is necessary for seed treatment?
+    - What do you think about chlorpyriphos seed treatment?
+    - Do you use chlorpyriphos for seed treatment?
+    - How much chlorpyriphos is safe for seed treatment?
+- intent: faq-agri-wheat-b4/information-regarding-dose-of-raxil-for-wheat-seed-treatment
+  examples: |
+    - information regarding dose of raxil for wheat seed treatment?
+    - Dose of raxil for wheat seed treatment?
+    - What is the recommended dose of raxil (grain seed treatment)?
+    - How raxil is used for wheat seed treatment?
+    - What is the dose of raxil for wheat seed treatment?
+    - Is there any information regarding the dosage of raxil for wheat seed treatment?
+    - What's the dose of raxil for wheat seed treatment?
+    - What is the best dose of raxil for wheat seed treatment?

@@ -57,3 +57,8 @@ rules:
   steps:
   - intent: nlu_fallback
   - action: utter_please_rephrase
+
+- rule: for batch 4
+  steps:
+  - intent: faq-agri-wheat-b4
+  - action : action_viz_faq

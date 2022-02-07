@@ -1,0 +1,12 @@
+version: "3.0" 
+intents: 
+  - faq-agri-wheat-b4
+responses:
+  utter_faq-agri-wheat-b4/information-regarding-to-the-seed-treatment-of-wheat: 
+  - text: TREAT THE SEED OF WHEAT WITH RAXIL @ 1GM/KG OR WITH BAVISTIN @ 2.5 GM/KG.
+  utter_faq-agri-wheat-b4/tell-me-about-seed-treatment-for-termite-protection: 
+  - text: chloropyriphose 20 e.c. 4 m.l. or regent 5% 6 m.l./kg seed
+  utter_faq-agri-wheat-b4/dose-of-chlorpyriphos-for-seed-treatment: 
+  - text: 4ml dose is recomended for per kg seed.
+  utter_faq-agri-wheat-b4/information-regarding-dose-of-raxil-for-wheat-seed-treatment: 
+  - text: RAXIL DOSE-1GM/KG.

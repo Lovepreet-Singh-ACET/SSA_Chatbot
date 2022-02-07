@@ -1,10 +1,6 @@
 version: '3.0'
-config:
-  store_entities_as_slots: true
-session_config:
-  session_expiration_time: 60
-  carry_over_slots_to_new_session: true
 intents:
+- faq-agri-wheat-b4
 - faq-hort-dummycrop-b0
 - faq-agri-wheat-b1
 - faq-agri-wheat-b2
@@ -14,6 +10,14 @@ intents:
 - ok
 - faq-agri-wheat-b3
 responses:
+  utter_faq-agri-wheat-b4/information-regarding-to-the-seed-treatment-of-wheat:
+  - text: TREAT THE SEED OF WHEAT WITH RAXIL @ 1GM/KG OR WITH BAVISTIN @ 2.5 GM/KG.
+  utter_faq-agri-wheat-b4/tell-me-about-seed-treatment-for-termite-protection:
+  - text: chloropyriphose 20 e.c. 4 m.l. or regent 5% 6 m.l./kg seed
+  utter_faq-agri-wheat-b4/dose-of-chlorpyriphos-for-seed-treatment:
+  - text: 4ml dose is recomended for per kg seed.
+  utter_faq-agri-wheat-b4/information-regarding-dose-of-raxil-for-wheat-seed-treatment:
+  - text: RAXIL DOSE-1GM/KG.
   utter_faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop:
   - text: dummy answer for horticulture.
   utter_faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop:
@@ -499,6 +503,11 @@ responses:
   : - text: NO ANSWER
   utter_faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat:
   - text: urea can be applied 7-9 days after spraying weedicides for the better results
+config:
+  store_entities_as_slots: true
+session_config:
+  session_expiration_time: 60
+  carry_over_slots_to_new_session: true
 actions:
 - action_slot_setter
 - action_viz_faq
