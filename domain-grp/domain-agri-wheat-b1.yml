@@ -24,8 +24,8 @@ responses:
   - text: For control of broad leaf weeds in wheat spray 250 g of 2,4 D sodium salt(80%) or 250 ml of 2,4 D ethyl ester (38%), Algrip 20WP 10g, Aim/Affinity 40DF 20g, Lanfida 50DF 20G in 150-200lt water per acre.
 
 # no answer
-  utter_faq-agri-wheat-b1/information-regarding-the-control-of-broad-leaf-weeds-in-wheat-before-first-irrigation:
-  - text: "XYZ answer"
+  # utter_faq-agri-wheat-b1/information-regarding-the-control-of-broad-leaf-weeds-in-wheat-before-first-irrigation:
+  # - text: "XYZ answer"
 
   utter_faq-agri-wheat-b1/how-to-control-phalaris-minor-in-wheat-crop: # 2019
   - text: Spray clodinaphos 15 WP(Topik/rakashak plus )@160 gram or phenoxadin 5 EC (Axil) @400 mililiter or phenoxaprop-p-ethyl 10 EC (puma power) @400 mililiter or salphoslfuran 75 WG (leader/s.f.10) @13 gram dissolve in 200 liter water per acre after 30 -35 days after sowing .
@@ -85,8 +85,8 @@ responses:
   - text: glyphosate 41 %SL USE FOR WEED CONTROL
 
 # no answer
-  utter_faq-agri-wheat-b1/information-regarding-time-gap-of-fertilizer-application-after-spray-of-weedicide:
-  - text: "XYZ Answer"
+  # utter_faq-agri-wheat-b1/information-regarding-time-gap-of-fertilizer-application-after-spray-of-weedicide:
+  # - text: "XYZ Answer"
 
   utter_faq-agri-wheat-b1/how-to-control-trigoneela-polycerata-in-wheat-crop: #2011
   - text: spray affinity 40df @ 20g in 200 liters watr per acre.
