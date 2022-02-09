@@ -1,117 +1,117 @@
 version: "3.0"
 #Plant protection
 nlu:
-- intent: greet
-  examples: |
-    - hey
-    - hello
-    - hi
-    - hii
-    - hlo
-    - hello there
-    - good morning
-    - good evening
-    - moin
-    - hey there
-    - let's go
-    - hey dude
-    - goodmorning
-    - goodevening
-    - good afternoon
+# - intent: greet
+#   examples: |
+#     - hey
+#     - hello
+#     - hi
+#     - hii
+#     - hlo
+#     - hello there
+#     - good morning
+#     - good evening
+#     - moin
+#     - hey there
+#     - let's go
+#     - hey dude
+#     - goodmorning
+#     - goodevening
+#     - good afternoon
 
-- intent: ok
-  examples: |
-    - yes
-    - y
-    - yeah
-    - indeed
-    - of course
-    - that sounds good
-    - correct
-    - perfectly said
-    - hey thanks
-    - Ok
-    - OK sure
-    - ok
-    - okay
-    - done
-    - its over form my side
-    - Done
-    - yes its' over
-    - okay its done
+# - intent: ok
+#   examples: |
+#     - yes
+#     - y
+#     - yeah
+#     - indeed
+#     - of course
+#     - that sounds good
+#     - correct
+#     - perfectly said
+#     - hey thanks
+#     - Ok
+#     - OK sure
+#     - ok
+#     - okay
+#     - done
+#     - its over form my side
+#     - Done
+#     - yes its' over
+#     - okay its done
 
-- intent: goodbye
-  examples: |
-    - cu
-    - good by
-    - cee you later
-    - good night
-    - bye
-    - goodbye
-    - have a nice day
-    - see you around
-    - bye bye
-    - see you later
+# - intent: goodbye
+#   examples: |
+#     - cu
+#     - good by
+#     - cee you later
+#     - good night
+#     - bye
+#     - goodbye
+#     - have a nice day
+#     - see you around
+#     - bye bye
+#     - see you later
 
-- intent: affirm
-  examples: |
-    - yes
-    - y
-    - indeed
-    - of course
-    - that sounds good
-    - correct
+# - intent: affirm
+#   examples: |
+#     - yes
+#     - y
+#     - indeed
+#     - of course
+#     - that sounds good
+#     - correct
 
-- intent: deny
-  examples: |
-    - no
-    - n
-    - never
-    - I don't think so
-    - don't like that
-    - no way
-    - not really
+# - intent: deny
+#   examples: |
+#     - no
+#     - n
+#     - never
+#     - I don't think so
+#     - don't like that
+#     - no way
+#     - not really
 
-- intent: mood_great
-  examples: |
-    - perfect
-    - great
-    - amazing
-    - feeling like a king
-    - wonderful
-    - I am feeling very good
-    - I am great
-    - I am amazing
-    - I am going to save the world
-    - super stoked
-    - extremely good
-    - so so perfect
-    - so good
-    - so perfect
+# - intent: mood_great
+#   examples: |
+#     - perfect
+#     - great
+#     - amazing
+#     - feeling like a king
+#     - wonderful
+#     - I am feeling very good
+#     - I am great
+#     - I am amazing
+#     - I am going to save the world
+#     - super stoked
+#     - extremely good
+#     - so so perfect
+#     - so good
+#     - so perfect
 
-- intent: mood_unhappy
-  examples: |
-    - my day was horrible
-    - I am sad
-    - I don't feel very well
-    - I am disappointed
-    - super sad
-    - I'm so sad
-    - sad
-    - very sad
-    - unhappy
-    - not good
-    - not very good
-    - extremly sad
-    - so saad
-    - so sad
+# - intent: mood_unhappy
+#   examples: |
+#     - my day was horrible
+#     - I am sad
+#     - I don't feel very well
+#     - I am disappointed
+#     - super sad
+#     - I'm so sad
+#     - sad
+#     - very sad
+#     - unhappy
+#     - not good
+#     - not very good
+#     - extremly sad
+#     - so saad
+#     - so sad
 
-- intent: bot_challenge
-  examples: |
-    - are you a bot?
-    - are you a human?
-    - am I talking to a bot?
-    - am I talking to a human?
+# - intent: bot_challenge
+#   examples: |
+#     - are you a bot?
+#     - are you a human?
+#     - am I talking to a bot?
+#     - am I talking to a human?
 
 # weed control
 - intent: faq-agri-wheat-b0/control-of-weeds-in-wheat
@@ -396,16 +396,16 @@ nlu:
     - how tell can be controled in wheat
 
 # iron defi
-- intent: faq-agri-wheat-b0/deficiency-of-iron-in-wheat-crop
-  examples: |
-    - deficiency of iron in wheat crop
-    - Iron content is low in wheat
-    - Deficiency of iron in wheat crop in poor wheatlands.
-    - The wheat crop lack iron
-    - how to handle iron deficiency in wheat crop
-    - iron deficiency in wheat
-    - information regarding control of iron deiciency in wheat
-    - how to control iron defficency in wheat crop
+# - intent: faq-agri-wheat-b0/deficiency-of-iron-in-wheat-crop
+#   examples: |
+#     - deficiency of iron in wheat crop
+#     - Iron content is low in wheat
+#     - Deficiency of iron in wheat crop in poor wheatlands.
+#     - The wheat crop lack iron
+#     - how to handle iron deficiency in wheat crop
+#     - iron deficiency in wheat
+#     - information regarding control of iron deiciency in wheat
+#     - how to control iron defficency in wheat crop
 
 # karnal bunt or karnel bunt or karnal bant
 - intent: faq-agri-wheat-b0/nformation-regarding-control-of-karnal-bunt-in-wheat
@@ -557,7 +557,7 @@ nlu:
   examples: | 
      - info regarding yellowing of leaves in urea deficiency
      - information on leaf yellowing caused by urea deficit
-     - information on urea deficiency and yellowing of leaves
+     - information on urea deficiency leading to yellowing of leaves
      - info on leaf yellowing caused by urea deficit
      - information on urea deficiency-induced yellowing of leaves
 
@@ -573,16 +573,16 @@ nlu:
 # --------------------------------------------------------------------------------------------------
 # Jan 10
 # seed treatment
-- intent: faq-agri-wheat-b0/information-regarding-seed-treatment-in-wheat
-  examples: |
-    - regarding seed treatment of wheat seed
-    - information regarding seed treatment in wheat
-    - info regarding for the seed treatment in wheat crop
-    - information regarding for the seed treatment of wheat 
-    - info regarding seed treatment of wheat seed
-    - information of seed treatment in wheat
-    - seed treatment in wheat
-    - how to do seed treatment of wheat 
+# - intent: faq-agri-wheat-b0/information-regarding-seed-treatment-in-wheat
+#   examples: |
+#     - regarding seed treatment of wheat seed
+#     - information regarding seed treatment in wheat
+#     - info regarding for the seed treatment in wheat crop
+#     - information regarding for the seed treatment of wheat 
+#     - info regarding seed treatment of wheat seed
+#     - information of seed treatment in wheat
+#     - seed treatment in wheat
+#     - how to do seed treatment of wheat 
 
 # rodent
 - intent: faq-agri-wheat-b0/information-regarding-control-of-rodent-in-wheat
@@ -618,18 +618,18 @@ nlu:
     - how can i protect wheat from top borer
     - please help me with protecting wheat from top borer attack
 
-# urea
-- intent: faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop
-  examples: |
-    - information regarding for the total dose of urea in wheat
-    - information regarding spray urea dose in wheat
-    - information regarding the use of urea in wheat
-    - regarding urea doze in wheat crop
-    - info regarding urea spray in wheat
-    - regarding urea dose in wheat
-    - information regsarding for the total dose of urea
-    - info of urea in wheat crop
-    - information regading the urea broadcasting 
+# # urea
+# - intent: faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop
+#   examples: |
+#     - information regarding for the total dose of urea in wheat
+#     - information regarding spray urea dose in wheat
+#     - information regarding the use of urea in wheat
+#     - regarding urea doze in wheat crop
+#     - info regarding urea spray in wheat
+#     - regarding urea dose in wheat
+#     - information regsarding for the total dose of urea
+#     - info of urea in wheat crop
+#     - information regading the urea broadcasting 
 
 # loose smut
 - intent: faq-agri-wheat-b0/information-regarding-control-of-loose-smut-in-wheat-crop
@@ -763,6 +763,7 @@ nlu:
 # plant hopper
 - intent: faq-agri-wheat-b0/information-regarding-spray-for-plant-hopper
   examples: |
+    - information regarding spray for plant hopper
     - spray for plant hopper
     - how do we get rid of plant hopper from our crop wheat
     - information regarding for the controlof plant hopper in wheat crop
@@ -772,6 +773,7 @@ nlu:
 # pest
 - intent: faq-agri-wheat-b0/information-regarding-pest-control-in-wheat-crop
   examples: |
+    - information regarding pest control in wheat crop
     - pest in wheat
     - for control pest attack on wheat
     - how to pest control in wheat crop
@@ -787,6 +789,7 @@ nlu:
 # thirips or thrips
 - intent: faq-agri-wheat-b0/information-regarding-control-of-thirips-in-wheat-crop
   examples: |
+    - information regarding control of thirips in wheat crop
     - how to control thirips in wheat crop
     - how to cointrol thirips in wheat crop
     - control of thirips in wheat crop
