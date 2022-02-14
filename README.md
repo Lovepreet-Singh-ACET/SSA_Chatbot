@@ -59,3 +59,12 @@ After running the above commands. The next step is to open the <b>index.html</b>
     > pip install sanic==21.6.0
     > pip install Sanic-Cors==1.0.0
     > pip install sanic-routing==0.7.0
+
+## Workflow of the project
+
+There are multiple important things to note in order to understand the workflow.
+
+- The `data` directory contains the nlu data and these nlu files are divided into different batchs. Named as `nlu-faq-agri-wheat-b0.yml` for each batch file there is a domain file too.
+- The `domain-grp` directory contains batched files corresponding to the nlu files.
+- When new data for nlu and domian is added to the above described directories we have to execute the `build-domain.py` script which will make sure that all the responses are being considered by rasa while training.
+

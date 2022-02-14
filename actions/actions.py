@@ -107,8 +107,12 @@ class ActionVizFaq(Action):
 
         # confidence of retrieval intent we found
         retrieval_intent_confidence = tracker.latest_message['response_selector'][_intent]['response']['confidence']*100
-        
         print(f"retrieval_intent_confidence we found was {retrieval_intent_confidence}")
+        if retrieval_intent_confidence < 80:
+            dispatcher.utter_message(text="I couldn't understant can you please repharse it")
+            return [SlotSet(key = "intent_button", value= [str(_intent[:-3])] ) ]
+
+        
         print(_intent, slot_value_clicked[0])
         if str(tracker.latest_message['text']) == str('https://forms.gle/Fk1TxTzAteigKFG87'):
             dispatcher.utter_message(text='You can fill and submit the Google form')
