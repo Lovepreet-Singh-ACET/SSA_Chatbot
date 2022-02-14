@@ -68,3 +68,12 @@ There are multiple important things to note in order to understand the workflow.
 - The `domain-grp` directory contains batched files corresponding to the nlu files.
 - When new data for nlu and domian is added to the above described directories we have to execute the `build-domain.py` script which will make sure that all the responses are being considered by rasa while training.
 
+### Process followed
+1. First using the s-bert transformer we narrow down the number of unique questions based on sentence similarity.
+2. Using the unique sentences from above step we compare the new sentences with already added data to get questions which are not yet ingested in the model (Levenshtein Distance is used for the comparison here).
+3. With the help of T-5 transformer we get parapharse examples for each unique question
+4. Generate NLU and DOMAIN files
+5. Execute 'build-domain.py`
+6. Train model
+
+Apart from these steps we are doing one addtional check by taking the top words and the words at a distance of 1 from these top words on both sides in sentence which helps in identifying which queryTypes have same questions.
