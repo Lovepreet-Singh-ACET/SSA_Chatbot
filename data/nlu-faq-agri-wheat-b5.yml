@@ -1,0 +1,250 @@
+version: "3.0" 
+nlu: 
+
+- intent: faq-agri-wheat-b5/information-regarding-the-use-of-gypsum-for-poor-quality-water
+  examples: |
+    - information regarding the use of gypsum for poor quality water ?
+    - How does gypsum work in water?
+    - Is gypsum good for good water?
+    - What is the use of gypsum in water?
+    - Is gypsum used for poor quality water?
+    - What are some information regarding the use of gypsum in poor quality water?
+    - How do you clean gypsum from bad quality water?
+    - How does the use of gypsum for poor quality water contaminate?
+    - What are the uses of gypsum for good water?
+    - How do you know if you are using Gypsum for poor water quality?
+    - What are good information about the use of gypsum for poor quality water?
+- intent: faq-agri-wheat-b5/recommended-time-of-irrigation-of-wheat
+  examples: |
+    - recommended time of irrigation of wheat
+    - If I grow wheat in summer, this time of irrigation is recommended, but it has to be 3 days.
+    - When should I water my wheat after the recommended irrigation time?
+    - Recommended time of irrigation of wheat : recommended time of irrigation of wheat and recommended time of irrigation of wheat grain.
+    - When should wheat be washed?
+    - When did the recommended time for irrigation of wheat be determined?
+    - Is the recommended time for irrigation of wheat wheat right?
+    - Is 6 weeks recommend time for irrigation of wheat?
+    - Which irrigation time of irrigation is recommended for wheat at this time?
+    - I used water for wheat, but if that's not possible then what is the recommended time of irrigation?
+    - Is the recommended time to irrigation for wheat wheat acceptable?
+- intent: faq-agri-wheat-b5/how-to-seeds-treatment-of-wheat
+  examples: |
+    - how to seeds treatment of wheat ?
+    - How to seed treatment wheat?
+    - How to seed treatment of wheat?
+    - How do to seeds treatment of wheat?
+    - How does seed treatment of wheat work?
+    - How to seed treatments of wheat?
+    - How to seeds treatment of wheat?
+    - How to wheat seeds treatment?
+    - How does wheat seed treatment work?
+- intent: faq-agri-wheat-b5/information-regarding-grain-storage-and-management-of-stored-grain-insects
+  examples: |
+    - information regarding grain storage and management of stored grain insects?
+    - What are grain storage and management of stored grain insects?
+    - What is information regarding grain storage and management of stored grain insects?
+    - What is the best way to manage stored grains and their insects?
+    - What is the use of grain storage insects?
+    - What are the best practices for grain storage and management of stored grain insects?
+    - What is grain management in grain, grains and grain insects?
+    - How do I protect grain storage and management of stored grain insects?
+    - Why are grain insects a nuisance?
+    - What is grain storage and management?
+    - Why is the storage of grain pests important? How should you monitor grain insects?
+- intent: faq-agri-wheat-b5/information-regarding-place-of-soil-test
+  examples: |
+    - information regarding place of soil test ?
+    - Where is a soil test?
+    - Where can I take a soil test?
+    - Where is the soil test and how does it compare to other soil tests?
+    - Is the place of soil test applicable?
+    - Where do soil test if possible?
+    - Where is the soil test?
+    - Where can I conduct a soil test?
+    - Where could I place soil test?
+- intent: faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation
+  examples: |
+    - information regarding that how to collect a soil sample for soil testing for fertilizer recommendation?
+    - How do I collect a soil sample for soil testing for fertilizer recommendation?
+    - How can I collect soil sample for soil test for fertilizer recommendation?
+    - How do I collect soil sample for soil testing for fertilizer recommendation?
+    - How do you collect soil sample for soil testing for fertilizer recommendation?
+    - How can I collect soil samples for soil testing for fertilizer recommendation?
+    - How do I collect soil samples for soil testing for fertilizer recommendation?
+    - How to collect soil sample for soil testing for fertilizer recommendation?
+    - How should I collect soil samples for soil testing?
+- intent: faq-agri-wheat-b5/information-regarding-for-the-soil-health-card
+  examples: |
+    - information regarding for the soil health card?
+    - What information regarding for the soil health card?
+    - Are there any health benefits associated with soil health card?
+    - How do I ask for a soil health card?
+    - What is soil health card? What information is required?
+    - Why is the soil health card?
+    - Why do we need soil health card?
+    - What are the different types of soil health cards?
+    - What is soil health card?
+    - Which information is required to apply for soil health card?
+- intent: faq-agri-wheat-b5/information-regarding-protection-of-stored-grains-from-insect-pest-attack
+  examples: |
+    - information regarding protection of stored grains from insect -pest attack ?
+    - How do I protect stored grains against insect pest attack?
+    - How can you prevent grain from insect pest attack?
+    - How can I protect grains from insect -pest attack?
+    - Where can I find more information regarding the protection of stored grains from insect -pest attack?
+    - How should grains be protected from parasites and insect bites?
+    - How can stored grains be protected from insect pest?
+    - How do we protect grains from insect pest attacks?
+    - How do we protect stored grains from pest -pest?
+    - How can we protect grains from pests and insects?
+    - What are the best practices for protection of stored grains from insect-pest attack?
+- intent: faq-agri-wheat-b5/information-regarding-nutrient-content-in-single-super-phosphate
+  examples: |
+    - information regarding nutrient content in single super phosphate ?
+    - What are the nutrients in single super phosphate? What are the nutrient content of single super phosphate?
+    - What is the nutrient content of single super phosphate?
+    - What is the information regarding nutrient content of single super phosphate?
+    - How are nutrient content and nutrient contents of single super phosphate determined?
+    - In what cases you want to know about the nutrient content in single super phosphates?
+    - What are the nutritional requirements of one superphosphate?
+    - Information regarding nutrient content in single super phosphate?
+    - What is the nutrient content in single super phosphate?
+    - How can a single super phosphate be enriched with high nutrient content?
+- intent: faq-agri-wheat-b5/information-regarding-the-deficiency-of-urea-after-applying-90-kg-urea
+  examples: |
+    - information regarding the deficiency of urea after applying 90 kg urea?
+    - Is the urea in urine less than 90 kg?
+    - How do I check urea after applying 90 kg urea?
+    - How can I find urea and how much is required for the treatment of deficiency?
+    - How do you prevent deficiency of urea after application of 90 kg urea?
+    - Is there any deficiency of urea after application of 90 kg urea?
+    - Is there deficiency of urea after application of 90 kg urea?
+    - How much urea should I take after oozing 90 kg?
+    - Is urea deficiency after 90 kg urea?
+    - Is there any deficiency of urea after applying 90 kg urea?
+    - How much urea should I take after a lactose infusion?
+- intent: faq-agri-wheat-b5/information-regarding-to-the-yield-of-the-late-varieties
+  examples: |
+    - information regarding to the yield of the late varieties ?
+    - How is yield of late varieties determined?
+    - How can the yield of late varieties be calculated?
+    - What is the yield of the late varieties?
+    - What is information regarding yield of the late varieties?
+    - Information regarding to the yield of late varieties?
+    - What is the yield rate of late varieties?
+    - What are the data regarding to the yield of the late varieties?
+    - When did late varieties yield?
+    - How is the yield of late varieties measured?
+    - Are late varieties producing more yield than they are being?
+- intent: faq-agri-wheat-b5/varities-of-sandy-soil-of-wheat
+  examples: |
+    - varities of sandy soil of wheat?
+    - What are various types of sandy soils of wheat?
+    - What are different varieties of sandy soil of wheat?
+    - What are the different varities of sandy soil of wheat?
+    - How are different varieties of sandy soil of wheat?
+    - What are the varities of sandy soils?
+    - What is the difference between an organic soil and sandy soil?
+    - What do you mean by varities of sandy soil of wheat?
+    - Varities of sandy soil of wheat?
+    - What are some varieties of sandy soils of wheat?
+    - What is the variation of sandy soils of wheat?
+- intent: faq-agri-wheat-b5/how-to-prepare-the-field-for-sowing-wheat
+  examples: |
+    - how to prepare the field for sowing wheat.
+    - How do I prepare the field for sowing wheat?
+    - How do you prepare the field for sowing wheat?
+    - How do I prepare the field to sow wheat?
+    - How should the field be prepared for sowing wheat?
+    - What is the best way to prepare the field for sowing wheat?
+    - How do you prepare wheat fields for sowing?
+    - How do I prepare wheat fields for sowing?
+    - How do I prepare a field for sowing wheat?
+- intent: faq-agri-wheat-b5/information-regarding-chc-farm-machinery
+  examples: |
+    - information regarding chc farm machinery?
+    - What are the benefits of chc farm machinery?
+    - What is the need of information regarding chc farm machinery?
+    - What is chc farm machinery and what is the latest information pertaining it?
+    - What is Chc farm machinery?
+    - What are the features of chc farm machines?
+    - What are some interesting info regarding CNC farm machinery in India?
+    - What are chc farm machinery?
+    - How do I get information about Chc farm machinery?
+    - What is the information regarding chc farm machinery?
+    - What is the information regarding Chc farm machinery?
+- intent: faq-agri-wheat-b5/regarding-depth-of-seed-sown-of-wheat
+  examples: |
+    - regarding depth of seed sown of wheat
+    - About depth of seed sown of wheat; depth of seed sown varies with seed depth. Approximately depth of seed sown varies.
+    - From depth of seed sown of wheat, determine depth of wheat seed sown for wheat.
+    - What is the depth of wheat seed sown in a wheat plot?
+    - With regards to seed depth depth of wheat seed was sown. depth of seed was about depth of seed sown. wheat seed depth of seed depth of seed thicknesses as determined by depth of wheat seed length.
+    - How deep can the seeds of wheat be seeded?
+    - How long can wheat seed be sown on the seed and how deep it is?
+    - What is the depth of wheat seed sown and how far depth of wheat seed seed sown are.
+    - How much wheat is seeded according to the depth of seed sown relative to depth of seed sown regarding depth of wheat seed sown.
+    - What is the depth of seed sown for wheat?
+    - If wheat seeds were sown at depth of field the seed of wheat would be considered by the depth of seed sown.
+- intent: faq-agri-wheat-b5/information-regarding-waste-decomposer
+  examples: |
+    - information regarding waste decomposer ?
+    - Waste Decomposer: Where can I get more information regarding its use?
+    - What is the waste decomposer in Turkey?
+    - What is the information about waste decomposer?
+    - Is waste decomposer the best waste decomposer?
+    - What is the waste decomposer?
+    - Information regarding waste decomposer?
+    - What are the advantages and disadvantages of waste decomposer?
+    - How can a waste decomposer be a waste decomposer?
+    - What is the actual waste decomposer?
+- intent: faq-agri-wheat-b5/information-regarding-calcium-deficiency-in-soil
+  examples: |
+    - information regarding calcium deficiency in soil?
+    - What is Calcium in soil?
+    - Why is calcium deficiency prevalent in soils?
+    - Is calcium deficiency in soil dangerous?
+    - What is the science behind calcium in soil?
+    - What is calcium deficiency in soil?
+    - Why calcium deficiency is present in soil?
+    - Calcium deficiencies can occur in soil?
+    - Why is calcium deficiency present in soil?
+    - Is calcium deficiency present in soil?
+    - Is calcium deficiency in soil true?
+- intent: faq-agri-wheat-b5/information-regarding-salt-content-in-soil
+  examples: |
+    - information regarding salt content in soil?
+    - How do I determine salt content in soil?
+    - How does salt content in soil differ from natural salt content?
+    - Where can I find information regarding salt content of soil?
+    - How do I find salt content of soil?
+    - How much salt is in soil?
+    - What is salt content in soil?
+    - Does salt content in soil vary in organic matter?
+    - How salt content of soil is determined?
+- intent: faq-agri-wheat-b5/information-regarding-use-of-neem-spray-as-insecticide
+  examples: |
+    - information regarding use of neem spray as insecticide?
+    - If neem was the first insecticide, could you use it?
+    - How can you use neem spray as an insecticide?
+    - What is the use of NEEm as insecticide?
+    - Is neem spray a valid insecticide?
+    - Does Neem spray cause insecticide?
+    - How can we use neem spray as an insecticide?
+    - What are the uses for Neem spray insecticides?
+    - What are some studies on the use of NeoMutif (Neem) spray as an insecticide?
+    - What is the use of NEEM spray?
+    - How can neem be used as an insecticide?
+- intent: faq-agri-wheat-b5/information-regarding-vertical-conveyor-reaper
+  examples: |
+    - information regarding vertical conveyor reaper ?
+    - What is vertical conveyor reaper? What is the main purpose of vertical conveyor reaper?
+    - What is the best Vertical conveyor reaper in India?
+    - How do I work with Vertical Conveyor Aerial Appropriate (XGA)?
+    - What are some of the advantages of a vertical conveyor reaper?
+    - Which is a best vertical conveyor reaper?
+    - What is a vertical conveyor reaper and how do I get the best price?
+    - Is it a good option for vertical conveyor reaper?
+    - How do I connect vertical conveyor reaper to conveyor belt?
+    - Can you give more details about vertical conveyor reaper?
+    - What is the information about vertical conveyor reaper?

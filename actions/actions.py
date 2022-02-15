@@ -48,19 +48,18 @@ class ActionSlotSetter(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         buttons = [
-           {"payload":'/ok{"intent_button":"faq-agriculture"}',"title":"Agriculture"},
+            {"payload":'/ok{"intent_button":"faq-agriculture"}',"title":"Agriculture"},
             {"payload":'/ok{"intent_button":"faq-horticulture"}',"title":"Horticulture"}
         ]
         print(tracker.slots['intent_button'], "------------------------------")
         if tracker.slots['intent_button'] == None:
-            print("\n","slots value is ",tracker.slots['intent_button']) 
+            print("\n","slots value is ",tracker.slots['intent_button'])
             dispatcher.utter_message(text="Hi!! Welcome to SSA Punjab Bot. How can I help you??",buttons=buttons)
         else:
-            print("\n","Now slots value is ",tracker.slots['intent_button'])  
+            print("\n","Now slots value is ",tracker.slots['intent_button'])
             dispatcher.utter_message(text="Yes you are good to go")
         return []
 
-    
 class ActionVizFaq(Action):
 
     def name(self) -> Text:
@@ -70,6 +69,7 @@ class ActionVizFaq(Action):
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
 
+        # print(tracker.latest_message)
         buttons = [
             {"payload":'/ok{"intent_button":"faq-agriculture"}',"title":"Agriculture"},
             {"payload":'/ok{"intent_button":"faq-horticulture"}',"title":"Horticulture"}
@@ -82,7 +82,7 @@ class ActionVizFaq(Action):
 
         # to get a slot value (here --> slot is intent_button)
         print("\n","Under viz faq slots value is ",tracker.slots['intent_button']) 
-         
+        
         if tracker.slots['intent_button'] ==None:
             slot_value_clicked = mapped_intent[tracker.slots['intent_button']]
         elif tracker.slots['intent_button'] == 'faq-agri-wheat':
@@ -99,6 +99,10 @@ class ActionVizFaq(Action):
         print(tracker.latest_message['text']) # to get user typed message 
 
         intent_found = json.dumps(tracker.latest_message['response_selector'][_intent]['ranking'][0]['intent_response_key'], indent=4)
+        
+        second_intent_found = json.dumps(tracker.latest_message['response_selector'][_intent]['ranking'][1]['intent_response_key'], indent=4)
+        second_retrieval_intent_confidence = tracker.latest_message['response_selector'][_intent]['ranking'][1]['confidence']*100
+        print("Second Intent: ", second_intent_found, "\nConfidence: ", second_retrieval_intent_confidence)
         # print('tracker latest message', tracker.latest_message['response_selector'])
         # print(' ')
         # print('---', tracker.latest_message['response_selector'].keys())
@@ -129,6 +133,12 @@ class ActionVizFaq(Action):
             intent_found = f'utter_{eval(intent_found)}'
             print('after adding utter we found -- ', intent_found)
             dispatcher.utter_message(response = intent_found) # use response for defining intent name
+            print(retrieval_intent_confidence - second_retrieval_intent_confidence)
+            if retrieval_intent_confidence - second_retrieval_intent_confidence <= 100:
+                print("in")
+                dispatcher.utter_message(text="One more possible solution could be as below")
+                dispatcher.utter_message(response=f'utter_{eval(second_intent_found)}')
+                dispatcher.utter_message(text="Take decison as per your choice")
     
 
         
@@ -148,7 +158,6 @@ class ActionVizFaq(Action):
             dispatcher.utter_message(text = f"Seems like you want to ask question from {domain} domain If yes you are good to go with that  but if you want to ask question from any other category please select a button",buttons=buttons)
             
             tracker.slots['intent_button'] = _intent[:-3]
-
             
             print(f"Now slot value is {tracker.slots['intent_button']}","\n")
             

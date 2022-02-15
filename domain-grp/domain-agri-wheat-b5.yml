@@ -1,0 +1,44 @@
+version: "3.0" 
+intents: 
+  - faq-agri-wheat-b5
+responses:
+  # utter_faq-agri-wheat-b5/information-regarding-the-use-of-gypsum-for-poor-quality-water: 
+  # - text: 
+  utter_faq-agri-wheat-b5/recommended-time-of-irrigation-of-wheat: 
+  - text: NUMBER OF IRRIGATIONS INTERVAL AFTER SOWING (IN DAYS) 1st irrigation 20-25 days 2nd irrigation 40-45 days 3rd irrigation 60-65 days 4th irrigation 80-85 days 5th irrigation 100-105 days 6th irrigation 115-120 days
+  # utter_faq-agri-wheat-b5/how-to-seeds-treatment-of-wheat: 
+  # - text: 
+  # utter_faq-agri-wheat-b5/information-regarding-grain-storage-and-management-of-stored-grain-insects: 
+  # - text: 
+  utter_faq-agri-wheat-b5/information-regarding-place-of-soil-test: 
+  - text: 
+  utter_faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation: 
+  - text: Scrap away surface litter and make a V-shaped cut with a khurpa to a depth of 6 inches. Remove about 1” thick uniform slice of soil from one side of the cut. Similarly, collect samples from 7 to 8 places in the field of uniform texture and uniform fertility. Put the samples in a clean bucket and mix it thoroughly. Take approximately half kg of soil in a cloth bag.
+  # utter_faq-agri-wheat-b5/information-regarding-for-the-soil-health-card: 
+  # - text: 
+  utter_faq-agri-wheat-b5/information-regarding-protection-of-stored-grains-from-insect-pest-attack: 
+  - text: place aluminium phophide tablets in container and air tight properly and do not open for 25-30 days
+  utter_faq-agri-wheat-b5/information-regarding-nutrient-content-in-single-super-phosphate: 
+  - text: 
+  utter_faq-agri-wheat-b5/information-regarding-the-deficiency-of-urea-after-applying-90-kg-urea: 
+  - text: 
+  utter_faq-agri-wheat-b5/information-regarding-to-the-yield-of-the-late-varieties: 
+  - text: 
+  utter_faq-agri-wheat-b5/varities-of-sandy-soil-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b5/how-to-prepare-the-field-for-sowing-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b5/information-regarding-chc-farm-machinery: 
+  - text: 
+  utter_faq-agri-wheat-b5/regarding-depth-of-seed-sown-of-wheat: 
+  - text: 
+  utter_faq-agri-wheat-b5/information-regarding-waste-decomposer: 
+  - text: 
+  utter_faq-agri-wheat-b5/information-regarding-calcium-deficiency-in-soil: 
+  - text: 
+  utter_faq-agri-wheat-b5/information-regarding-salt-content-in-soil: 
+  - text: 
+  utter_faq-agri-wheat-b5/information-regarding-use-of-neem-spray-as-insecticide: 
+  - text: 
+  utter_faq-agri-wheat-b5/information-regarding-vertical-conveyor-reaper: 
+  - text: 
