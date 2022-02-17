@@ -9,6 +9,7 @@ import os
 from rasa_sdk.events import SlotSet
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
+from fuzzywuzzy import fuzz
 # from gensim.models import KeyedVectors
 # from spellcheck import correction , master_dic_dataset_name,entity_mapper, dict_of_domain_ids, dataset_name_in_api, datset_name_and_ds_api_name
 # import numpy as np
@@ -134,19 +135,16 @@ class ActionVizFaq(Action):
             print('after adding utter we found -- ', intent_found)
             dispatcher.utter_message(response = intent_found) # use response for defining intent name
             print(retrieval_intent_confidence - second_retrieval_intent_confidence)
-            if retrieval_intent_confidence - second_retrieval_intent_confidence <= 100:
+            if retrieval_intent_confidence - second_retrieval_intent_confidence <= 5:
                 print("in")
                 dispatcher.utter_message(text="One more possible solution could be as below")
                 dispatcher.utter_message(response=f'utter_{eval(second_intent_found)}')
                 dispatcher.utter_message(text="Take decison as per your choice")
-    
-
         
         elif slot_value_clicked == 'No-option':
             dispatcher.utter_message(text = "Please select any option first",buttons=buttons )
         
         else:
-
             # if retrieval_intent_confidence > 90:
             intent_found = f'utter_{eval(intent_found)}'
             
@@ -160,7 +158,5 @@ class ActionVizFaq(Action):
             tracker.slots['intent_button'] = _intent[:-3]
             
             print(f"Now slot value is {tracker.slots['intent_button']}","\n")
-            
-
 
         return [SlotSet(key = "intent_button", value= [str(_intent[:-3])] ) ] # setting slot values

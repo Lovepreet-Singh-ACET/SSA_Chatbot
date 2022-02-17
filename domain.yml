@@ -3,6 +3,7 @@ intents:
 - faq-agri-wheat-b4
 - faq-hort-dummycrop-b0
 - faq-agri-wheat-b1
+- faq-agri-wheat-b5
 - faq-agri-wheat-b2
 - faq-agri-wheat-b0
 - greet
@@ -116,6 +117,35 @@ responses:
   - text: field should irrigate after 7-8 days after herbicide spray in wheat crop.
   utter_faq-agri-wheat-b1/how-to-control-malva-neglecta-in-wheat-crop:
   - text: spray aim 40df @ 20g in 200 liters water per acre.
+  utter_faq-agri-wheat-b5/recommended-time-of-irrigation-of-wheat:
+  - text: NUMBER OF IRRIGATIONS INTERVAL AFTER SOWING (IN DAYS) 1st irrigation 20-25
+      days 2nd irrigation 40-45 days 3rd irrigation 60-65 days 4th irrigation 80-85
+      days 5th irrigation 100-105 days 6th irrigation 115-120 days
+  utter_faq-agri-wheat-b5/information-regarding-place-of-soil-test:
+  - text: no answer
+  ? utter_faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation
+  : - text: "Scrap away surface litter and make a V-shaped cut with a khurpa to a\
+        \ depth of 6 inches. Remove about 1\u201D thick uniform slice of soil from\
+        \ one side of the cut. Similarly, collect samples from 7 to 8 places in the\
+        \ field of uniform texture and uniform fertility. Put the samples in a clean\
+        \ bucket and mix it thoroughly. Take approximately half kg of soil in a cloth\
+        \ bag."
+  utter_faq-agri-wheat-b5/information-regarding-protection-of-stored-grains-from-insect-pest-attack:
+  - text: place aluminium phophide tablets in container and air tight properly and
+      do not open for 25-30 days
+  utter_faq-agri-wheat-b5/regarding-depth-of-seed-sown-of-wheat:
+  - text: 4-6 cm depth of seed in soil in wheat.
+  utter_faq-agri-wheat-b5/information-regarding-waste-decomposer:
+  - text: WASTE DECOMPOSER CAN BE BOUGHT ONLINE ON AMAZON SITE
+  utter_faq-agri-wheat-b5/information-regarding-calcium-deficiency-in-soil:
+  - text: For control of Calcium deficiency in wheat spray 0.5 kg calcium nitrate
+      in 100 liters of water per acre.
+  utter_faq-agri-wheat-b5/information-regarding-salt-content-in-soil:
+  - text: apply gypsum 2-3 bags in soil.
+  utter_faq-agri-wheat-b5/information-regarding-use-of-neem-spray-as-insecticide:
+  - text: use 1 kg of neem leaves mixed in 5 liter of water
+  utter_faq-agri-wheat-b5/information-regarding-vertical-conveyor-reaper:
+  - text: vertical conveyor reaper mainly worker on wheat and rice cutting.
   utter_faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat:
   - text: TIME OF SOWING IS FROM THE 4TH WEEK OF OCTOBER TO 4TH WEEK OF NOVEMBER.
   utter_faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties:
