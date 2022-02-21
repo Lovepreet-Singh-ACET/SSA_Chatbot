@@ -58,9 +58,9 @@ responses:
   # - text: SPREAD 3 KG BENTONATE SULPHUR PER ACRE IN THE FIELD  #2019
   # - text: spray sulphur @ 800gm mix in 100 liters of water / acre. #2015
 
+# updated response on 21 Feb
   utter_faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop:
-  - text: for control of stem borer in wheat , spray 20 ml fame in 100 litres of water per acre #2019
-  - text: for control of stem borer in wheat , spray quinalphos 25 EC @ 400 ml in 100 litres of water per acre #2018
+  - text: To control wheat stem borer in wheat broadacaste the Fipronil 0.3% GR @ 8kg/ Acre at every 20 days interval after germination.
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-termite:
   - text: BROADCAST 1 LITRE CHLOROPYRIPHOS 20 EC MIX WITH SAND  #2019
@@ -71,8 +71,9 @@ responses:
   - text: For control of army worm in wheat , spray Ekalux 25 EC(quinalphos) @ 400 ml in 100 litres of water per acre. #2019
   - text: FOR CONTROL OF ARMY WORM SPRAY EKALUX 400ML IN 100 LITRE WATER #2018
 
+#  Answer Updated on 21Feb
   utter_faq-agri-wheat-b0/information-regarding-brown-leaf-in-wheat-crop:
-  - text: SPRAY OF folicur 25 Ec @ 200 ML IN THE 200 LITRES OF WATER/ACRE. #2013
+  - text: Spray the crop with nativo 75 WG (trifloxystrobin + tebuconazole) @ 120 gm or Tilt 25 EC/shine 25EC/Bumper 25EC/ Stilt 25 EC/ Compass 25EC/ Markzole 25 EC(propiconazole) @ 200 ml in 200 litres of water / acre as soon as the disease is noticed.
 
   utter_faq-agri-wheat-b0/control-of-kernel-smut-in-wheat-crop:
   - text: SPRAY TILT @ 200 ML IN 100 LITRES OF WATER PER ACRE  #2011
@@ -80,9 +81,9 @@ responses:
   utter_faq-agri-wheat-b0/control-of-black-hopper-in-crop:
   - text: SPRAY MONOCIL @ 10 GM IN 100 LITRES OF WATER PER ACRE. #2011
 
+# Answer Updated on 21 Feb
   utter_faq-agri-wheat-b0/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat:
-  - text: Spray 2 gm. Carbendazim 50WP in per lt. of water. #2015
-  - text: SPRAY TILT 25EC @ 200ML IN 200LITRES OF WATER/ACRE. #2011
+  - text: Treat 40 kg seed with 13 ml Raxil easy/orius 6 FS by dissolving in 400 ml water or 120 g vitavax power 75 WS or 80 kg vitavax 75 WP or 40 g seedex 2 DS/Exzole 2 DS per 40 kg seed
 
   utter_faq-agri-wheat-b0/how-to-control-of-powdery-mildew-in-wheat-crop:
   - text: Spray with Nativo 75 WG (trifloxystrobin + tebuconazole) @120 g or Tilt 25 EC (propiconazole) @ 200 ml in 200 litres of water per acre. #2019
@@ -97,8 +98,9 @@ responses:
   utter_faq-agri-wheat-b0/nformation-regarding-control-of-karnal-bunt-in-wheat:
   - text: For control of Karnal bunt in wheat spray 200 ml Tilt/Bumper (Propiconazole 25 EC) or 200 ml Folicur/Orius 25 EC (Tebuconazole) in 200 liters of water per acre at ear emergence stage of crop. #2019
 
+# Answer updated on 21 Feb
   utter_faq-agri-wheat-b0/control-of-cutworm-in-wheat:
-  - text: Use Ekalex 800/acer in 100liter water  #2012
+  - text: Treat soil with chlorpyrifos e.g. Dursban 10% G @ 20 kg/ha before planting
 
   utter_faq-agri-wheat-b0/control-of-green-hopper-in-wheat-crop:
   - text: SPRAY ROGOR @ 200 ML IN 100 LITRES OF WATER PER ACRE. #2011
@@ -115,12 +117,13 @@ responses:
   - text: spray actara 70gm in 100 litr of water/acre #2014
   - text: SPRAY TO TILT 25 EC @ 200 ML IN 200 LITRE OF WATER PER ACRE. #2011
 
+# Answer Updated 21 Feb
   utter_faq-agri-wheat-b0/information-regarding-root-rot-of-wheat:
-  - text: to control root rot in wheat crop apply 500 gram bavistin per acre mixed with 15-20 kg sand. #2019
-  - text: control of root rot in wheat broadcaste half kg saaf (Carbendazim12%+Mancozeb 63%WP) mixed with soil #2019
+  - text: Maxim 4 FS at 0.08 to 0.16 fl oz/100 lb seed plus a dye will help with seedling blight.
 
+# Answer Updated 21 Feb
   utter_faq-agri-wheat-b0/information-regarding-control-of-black-rust-in-wheat:
-  - text: SPRAY TO TILT @ 200ML IN 200 LITER OF WATER / ACRE. #2014
+  - text: Damage by wheat rust may be minimized by spraying Zineb or Mencozeb 75 WP. 
 
   utter_faq-agri-wheat-b0/farmer-asks-about-the-yellow-smut-in-wheat:
   - text: SPRAY THE TILT @ 200GM IN 200 T OF WATER/ACRE. #2011
@@ -144,8 +147,9 @@ responses:
   utter_faq-agri-wheat-b0/information-regarding-control-of-rodent-in-wheat:
   - text: to control rodents make mixture of 1 kg wheat flour , 20 ml vegetable oil , 20 gm sugar and 25 gm zinc phosphide then place near holes in fields. #2019
 
+# Answer Updated on 21 Feb
   utter_faq-agri-wheat-b0/information-regarding-the-control-of-pink-stem-borer-in-wheat:
-  - text: For control of Pink Stem Borer in wheat , spray Ekalux 25EC(quinalphos) @ 800 ml in 100 litres of water per acre. #2019
+  - text: Foliar spray of coragen 18.5 SC (chloran traniliprole) @ 50 ml in 80-100 l of water per acre may be applied.
 
   utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-top-borer:
   - text: apply akalux  2 ml per litre water
@@ -153,8 +157,9 @@ responses:
   # utter_faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop:
   # - text: SPRAY 2KG UREA/ACRE #2015
 
+# Answer updated on 21 Feb
   utter_faq-agri-wheat-b0/information-regarding-control-of-loose-smut-in-wheat-crop:
-  - text: SPRAY TILT 25EC @ 200ML IN 200LITRES OF WATER/ACRE. #2012
+  - text: Treat 40 kg seed with 13 ml Raxil Easy/Orius 6 FS by dissolving in 400 ml water or 120 g vitavax powder 75 WS or 80 g vitavax 75 WP or 40 g seedex @ DS/ Exzole 2 DS or 80 ml of Neonix 20 FS per40 kg seed
 
   utter_faq-agri-wheat-b0/information-regarding-control-of-caterpillar-in-wheat-crop:
   - text: For control of caterpiller in wheat , spray Ekalux 25EC(quinalphos) @ 400 ml in 100 litres of water per acre. #2019
@@ -189,8 +194,9 @@ responses:
   - text: broadcast saaf 500gm in 20kg of sand per acre in wheat. #2019
   - text: for fungus problem in wheat can be controlled by applying 500 gm saafilizer with 15 kg urea can be broadcasted #2019
 
+# Answer Updated on 21 Feb
   utter_faq-agri-wheat-b0/information-regarding-the-control-of-jassid-in-wheat:
-  - text: SPRAY CONFIDORE 80-100 GRAM PER ACRE IN 100 LITRE WATER PER ACRE #2015
+  - text: A spray of Carbaryl (Sevin 50 w.p.) @ 2.5 kg/ha dissolved in 600-800 litres of water. 
 
   utter_faq-agri-wheat-b0/information-regarding-spray-for-plant-hopper:
   - text: EKALUX 0.5 LITRE IN 150 LITRE OF WATER PER ACRE #2014

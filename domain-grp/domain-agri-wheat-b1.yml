@@ -7,14 +7,16 @@ responses:
   utter_faq-agri-wheat-b1/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat: #2019
   - text: For pre-emergence control of weeds in wheat spray 1.5 liters of Stomp 30 EC (Pendamethalin) or 60 gram Awkira 85 WG(Pyroxasulfone) or 1 liter of Platform 38.5 SE(Pendimethalin 35%+Metribuzin 3.5%) in 200 liters of water per acre within 2 days of sowing of wheat.
 
-  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-pre-emergence-stage-in-wheat: #2019
-  - text: Improved varieties of wheat- UNNAT PBW 343 , and PBW 1 ZINC.PBW 725 ,PBW 677 , HD 3086 , WH 1105, HD 2967, PBW 621, and TL-2908.
+# Answer Updated on 21 Feb
+  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-pre-emergence-stage-in-wheat:
+  - text: Pre – emergent herbicide Pendimethalin 8 - 8.5 mL/L of water in 160- 180 litres of water for one acre of wheat crop at 0-3 days after sowing. Pendimethalin controls both grasses and broadleaved weeds on wheat eco system.
 
   # utter_faq-agri-wheat-b1/information-regarding-the-pre-emergence-herbicides-used-in-the-wheat: #2019
   # - text: For pre-emergence control of weeds in wheat spray 1.5 liters of Stomp 30 EC (Pendamethalin) or 60 gram Awkira 85 WG(Pyroxasulfone) or 1 liter of Platform 38.5 SE(Pendimethalin 35%+Metribuzin 3.5%) in 200 liters of water per acre within 2 days of sowing of wheat.
 
-  utter_faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation: #2019 (doubt in answer)
-  - text: The new variety of wheat is PBW 752, it suitable for sowing in December month its yield is 19.2 quintal per acre and it matures in about 130 days.
+# Answer updated on 21 Feb
+  utter_faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation: 
+  - text: Syngenta - TOPIK – [clodinafop-propargyl ] at 0.75 – 1 gm/L of water [or 160 gm per acre ] in160- 180 litres of water for one acre of wheat crop. Whip Super – [Fenoxaprop-p-ethyl 9.3 %] 100 mL per acre in 160- 180 litres of water for one acre of wheat crop.
 
   utter_faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation: #2019 (doubt in answer, was mixed)
   - text: For control of grassy leaf weeds in wheat spray Isoprotouron 75 WP (300 gram for light soils, 400 gram in medium soils and 500 gram in heavy soils) or 13 gram Leader/SF-10/Safal/Marksulfo 75 WG (Sulfosulfuron) in 150 liters of water per acre before 2-3 days of first irrigation.

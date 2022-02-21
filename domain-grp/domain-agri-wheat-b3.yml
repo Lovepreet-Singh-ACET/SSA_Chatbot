@@ -40,10 +40,11 @@ responses:
   - text: DOSE OF POTASH IN WHEAT CROP :- 20 KG/ACRE.
   # utter_faq-agri-wheat-b3/when-to-spray-manganese-sulphate-on-wheat-field: 
   # - text: 1ST SPRAY AT 2-4 DAYS BEFORE 1ST IRRIGATION AND 3 SPRAY AFTERWARD AT WEEKLY INTERVALS.
-  utter_faq-agri-wheat-b3/information-regarding-for-the--fert--dose-1st-irrigation--of-wheat-crop: 
-  - text: APPLY 50KG UREA .
+  # utter_faq-agri-wheat-b3/information-regarding-for-the--fert--dose-1st-irrigation--of-wheat-crop: 
+  # - text: APPLY 50KG UREA .
+# Answer Updated on 21 Feb
   utter_faq-agri-wheat-b3/information-regarding-the-application-of-gypsum: 
-  - text: APPLY 100 KG GYPSUM /ACRE.
+  - text: It acts as a soil additive and fertilizer. The mineral consists of two main ingredients necessary for healthy plant growth - calcium and sulphur. While calcium helps to absorb nutrients via the roots, sulphur improves the overall production of crops.
   utter_faq-agri-wheat-b3/information-regarding-total-fertilizers-dose-in-wheat: 
   - text: Total Fertilizers dose in wheat:- 110 Kg. Urea, 55 Kg. DAP, 20 Kg. Potash per acre.
   utter_faq-agri-wheat-b3/information-regarding-method-of-fertilizer-application-in-wheat: 
@@ -89,8 +90,9 @@ responses:
   # - text: NO ANSWER
   utter_faq-agri-wheat-b3/foliar-spray-of-manganese-in-wheat: 
   - text: 1kg magnese sulphate/100 litre water/acre.
+# Answer Updated on 21 Feb
   utter_faq-agri-wheat-b3/information-regarding-biofertilizer-in-wheat: 
-  - text: USE SAGARIKA SPRAY 250ML PER ACRE
+  - text: inoculate one acre seed with 500 g of consortium biofertilizer and one litre of water on pucca floor. Let it dry in shade and sow immediately.
   # utter_faq-agri-wheat-b3/regarding-dose-of-dap-in-an-acre: 
   # - text: DOSE OF DAP IN WHEAT 55 KG/ACRE.
 
@@ -99,8 +101,9 @@ responses:
   # utter_faq-agri-wheat-b3/information-regarding-aphids: 
   # - text: SPRAY 100ML CONFIDOR IN 100 LITRE OF WATER/ACRE
 
+# Answer Updated on 21 Feb
   utter_faq-agri-wheat-b3/application-of-single-super-phosphate-in-wheat: 
-  - text: NO RECOMMANDATION OF SUPERPHOSPHATE IN WHEAT. IF DAP IS NOT AVAILABLE THEN USE OF 150KG SUPER CAN BE DONE TO MEAT THE REQUIERMENT OF 55KG DAP
+  - text: Application of Single Superphosphate with Humic Acid Improves the Growth, Yield and Phosphorus Uptake of Wheat (Triticum aestivum L.) in Calcareous Soil.
   utter_faq-agri-wheat-b3/information-regarding--management-of-alkali-soil: 
   - text: For alkali soils conditions ,apply gypsum according to soil test.and dhaincha for green manuring is helpful.apply more urea than recommended
   utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-requirement-in-wheat-sown-with-happy-seeder: 
@@ -111,8 +114,9 @@ responses:
   # - text: Varieties of Wheat are-Unnat PBW 343(Yield-23.2 quintal),Unnat PBW 550(Yield-23 quintal), PBW 1 zinc(Yield-22.5 quintal), PBW 725(Yield-22.9 quintal), PBW 677(Yield-22.4 quintal), HD 3086(Yield-23 quintal),HD 2967(Yield-21.4 quintal), WH 1105(Yield-23.1 quintal), PBW 621(Yield-21.1 quintal) and PBW 550(Yield-20.8 quintal).
   utter_faq-agri-wheat-b3/urea-dose-at-sowing-time: 
   - text: FERT. DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG
+# Answer Updated on 21 Feb
   utter_faq-agri-wheat-b3/information-regarding-application-of-manures: 
-  - text: apply 2.5 tonnes of poultry manures or 6 tonnes of FYM per acre and reduce the dose of urea 55 kg per acre 
+  - text: Manures contribute to the fertility of soil by adding organic matter and nutrients, such as nitrogen, that are utilised by bacteria, fungi and other organisms in the soil. Higher organisms then feed on the fungi and bacteria in a chain of life that comprises the soil food web. 
   # utter_faq-agri-wheat-b3/regarding-dose-of-urea-and-manganese-sulphate: 
   # - text: spray 1kg mangnese sulphate in 100lt water/acre.
   # utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-application-in-bt-cotton: 
@@ -145,9 +149,10 @@ responses:
   utter_faq-agri-wheat-b3/information-regarding-the-batter-growth: 
   - text: spray npk @ 1kg in 100 liters of water / acre.
   utter_faq-agri-wheat-b3/information-requirement-of-wheat-crop: 
-  - text: urea110kg,DAP55KG/ACRE.
+  - text: It grows best when temperatures are warm, from 70° to 75° F (21° to 24° C), but not too hot. Wheat also needs a lot of sunshine, especially when the grains are filling. Areas with low humidity are better since many wheat diseases thrive in damp weather.
+# Answer Updated on 21 Feb
   utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-application: 
-  - text: Fertilizers for Wheat crop-Apply 90 kg Urea, 55 kg DAP or 155 kg Super phosphate, 40 kg Muriate of potash (In Gurdaspur, Hoshiarpur Ropar and Shaheed Bhagat singh nagar Districts) or 20 kg Muriate of potash in other areas of Punjab based on the soil testing report.If DAP is used for Phosphorous reduce Urea 20 kg.you can also apply NPK (12:32:16) 80 kg per acre rather than DAP,then apply 90 kilo urrea at first and second irrigation.
+  - text: Fertilizers are chemical substances supplied to the crops to increase their productivity. These are used by the farmers daily to increase the crop yield. The fertilizers contain the essential nutrients required by the plants, including nitrogen, potassium, and phosphorus.
   utter_faq-agri-wheat-b3/information-regarding-dose-of-delta-methrine: 
   - text: SPRAY 160ML/100LITER /ACRE
   utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-sowing-of-wheat: 

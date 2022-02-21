@@ -535,7 +535,7 @@ nlu:
 # yellowing due to heavy irrigation
 - intent: faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-heavy-irrigation 
   examples: |
-     - regarding yellowing of plants of wheat
+     - regarding yellowing of plants of wheat due to heavy irrigation
      - information regarding to stop yellowing in wheat crop
      - info on how to prevent wheat from yellowing
      - advice about how to prevent wheat from yellowing
@@ -605,7 +605,6 @@ nlu:
     - info rehgarding the control of pink stem borere in wheat 
     - information regarding insect pink stem borer attack on wheat
     - info to regarding pink stem borerin wheat crop 
-    - information regarding the control of pink stem borer in wheat
     - pink stem borer in wheat
 
 # top borer
@@ -640,7 +639,6 @@ nlu:
     - info regarding for the control of loose smut in wheat crop
     - loose smut of wheat
     - information regarding for loose smut
-    - information regarding the control of loose smut in wheat
     - information regarding how to control loose smut in wheat
     - loose smut of wheat
     - information regarding for loose smut
