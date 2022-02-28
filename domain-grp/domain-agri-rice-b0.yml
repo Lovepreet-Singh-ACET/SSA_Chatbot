@@ -1,0 +1,150 @@
+version: "3.0" 
+intents: 
+  - faq-agri-rice-b0
+responses:
+  utter_faq-agri-rice-b0/information-regarding-phasphorus-deficincy-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-potassium-deficiency-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-phosphorus-deficiency-diseases-in-paddy-crops: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-weed-control-in-pady: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-weed-in-basmati-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/infprmation-regarding-control-blb-in-rice-crops: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-to-boron-deficiency-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-boron-dificiency-in-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-fungicide-for-paddy--root-rot: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-stem-rot-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-root-caterpilar-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information--regarding-root-rot-in-paddy-or-basmati: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-larvae-in-paddy-roots: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-leaf-folder-in-basmati: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-leaf-folder-when-there-are-15-days-left-for-harvesting: 
+  - text: 
+  utter_faq-agri-rice-b0/spray-for-the-control-of-grasshopper: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-the-spray-against-brown-leaf-spot: 
+  - text: 
+  utter_faq-agri-rice-b0/information-reagding-control-of-ear-cutting-borer-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-for-the-high-yield--of-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-to-climatic-requirements-for-rice-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-nutrient-deficeancy-in-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-dose-furadan-in-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-dose-of-zice--in-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-fertilizer-dose-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information--regarding-dying-of-plants-of-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding--paddy--damaged-in-flood: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-to-climate-change-effect-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/dose-of-acephate-use-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-termite-in-rice-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-control-of-sheath-blight-in-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-false-smut-in-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-kernel-smut-in-rice-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-sowing-time-of-basmati-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-fungus-in-basmati: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-the-control-of-fungal-disease-in-basmati: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-reddish-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-farrous-deficiency-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-for-control-of-iron-deficiency-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-anthrachnose-disease-in-rice-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-root-rot-disease-rice-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-spray-of-lassi-in-the-paddy-crop-for-pest-control: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-bad-effect-of-weedicide-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-sulphur-application-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-sulphur-deficiency-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-dose-of-urea-for-basmati-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regrading-to-control-of-broadleaf-weeds-in-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-of-sheet-blight-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/for-the-control-of-brown-leaf-blight-disease-attack-on-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-leaf-curl--in-paddy-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-steam-borer-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-which-spray--should-be-done-at-booting-stage-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-grasshopper-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-army-worm-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-black-bug-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-nematode-in-basmati-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-control-of-tela-in-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-effective-time-to-spray-a-insecticide: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-for-the-total-dose-of-uera-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-brown-leaf-spots-in-basmati-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-black-spots-on-grains-in-paddy-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-thirips-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-of-soondi-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-of-plant-hoper-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-false-smuth-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-of-disesses-of-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-pset-control-in-paddy-crop: 
+  - text: 
+  utter_faq-agri-rice-b0/farmer-asks-about-the-leaf-folder-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-yellow-rust-in-paddy: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-mangenege-deficiency: 
+  - text: 
+  utter_faq-agri-rice-b0/how-to-control-bacterial-blight-disease-in-basmati-rice: 
+  - text: 
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-white-fly-in-paddy-crop: 
+  - text: 
