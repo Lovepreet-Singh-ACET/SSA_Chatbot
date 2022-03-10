@@ -3,148 +3,92 @@ intents:
   - faq-agri-rice-b0
 responses:
   utter_faq-agri-rice-b0/information-regarding-phasphorus-deficincy-in-paddy: 
-  - text: 
+  - text: To complete the deficiency of phosphorus in paddy crop spray 1KG powder NPK (0:52:34) per acre in 100 liters of water(@10 gram per liter).
   utter_faq-agri-rice-b0/information-regarding-potassium-deficiency-in-paddy-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/how-to-control-phosphorus-deficiency-diseases-in-paddy-crops: 
-  - text: 
+  - text: To complete the deficiency of potassium in paddy crop spray 1KG powder NPK (0:52:34) per acre in 100 liters of water(@10 gram per liter).spray can done in standing water or less water conditions.
   utter_faq-agri-rice-b0/information-regarding-weed-control-in-pady: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-control-of-weed-in-basmati-rice: 
-  - text: 
+  - text: To control weeds in basmati or paddy spray nominee gold/macho (Bispyribac-sodium 10% SC) 100 ml in 150 litres/acre (0.66 ml per liter of water)of water after 20 days of transplanting. apply irrigation after 2-3 days as per soil type.
   utter_faq-agri-rice-b0/infprmation-regarding-control-blb-in-rice-crops: 
-  - text: 
+  - text: for control of BLB in paddy , spray Amistar top 200ml or 80 gram nativo or 200 ml tilt or 200 ml folicure or Lusture @320ml or Monoceren @200 ml in 200 litres of water per acre
   utter_faq-agri-rice-b0/information-regarding-to-boron-deficiency-in-paddy: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-boron-dificiency-in-rice: 
-  - text: 
+  - text: For the control of boron deficiency in paddy spray 200g Borex(sodium borate) in 100 liters of water per acre.
   utter_faq-agri-rice-b0/information-regarding-fungicide-for-paddy--root-rot: 
-  - text: 
+  - text: To control root rot disease in basmati ,seed and seedling treatment is mandatory. Smear the seeds with talc formulation of Trichoderma harzianum @ 15 g/kg of seed immediately before sowing and seedling root dip for 6 hrs with T. harzianum @ 15 g/litre of water before transplanting.broadcast 2 kg trichoderma harzianum per acre after transplanting mixed with 100kg FYM .if not available then buy it from online.
   utter_faq-agri-rice-b0/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy: 
-  - text: 
+  - text: Broadcast 2 lt. Chlorpyriphos 20EC mix 2 lt. water and mix in 30 kg. dry sand per acre in standing water.
   utter_faq-agri-rice-b0/information-regarding-how-to-control-stem-rot-in-paddy: 
-  - text: 
+  - text: control Stem rot in paddy Spray the affected crop with 200 ml Amistar Top 325 SC (azoxystrobin + difenconazole) per acre in 200 litres of water, at the boot and ear-emergence stages.
   utter_faq-agri-rice-b0/how-to-control-root-caterpilar-in-paddy-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/information--regarding-root-rot-in-paddy-or-basmati: 
-  - text: 
+  - text: For control of caterpillar in paddy apply 1 liter Chlorpyriphos 20 EC in 15-20 kg sand per acre.
   utter_faq-agri-rice-b0/information-regarding-control-of-larvae-in-paddy-roots: 
-  - text: 
+  - text: broadcast carbofuron 7-10kg per acre in paddy feild
   utter_faq-agri-rice-b0/information-regarding-control-of-leaf-folder-in-basmati: 
-  - text: 
+  - text: For control of leaf folder in paddy, spray Ekalux 800 ml (Quinalphos25% EC ) in 100 litres of water per acre
   utter_faq-agri-rice-b0/information-regarding-control-of-leaf-folder-when-there-are-15-days-left-for-harvesting: 
-  - text: 
+  - text: No need to spray of any insecticide at this stage when there are 15 days left for harvesting
   utter_faq-agri-rice-b0/spray-for-the-control-of-grasshopper: 
-  - text: 
+  - text: For control of grasshopper in paddy, spray 120 GM chess(Pymetrozine 50 WG) or 40 ml confidor(Imidacloprid 200 SL (17.8 % w/w) or Ekalux 800 ml (Quinalphos 25% EC ) or 1 liter Chlorpyriphos 20 EC in 100 litres of water per acre
   utter_faq-agri-rice-b0/information-regarding-the-spray-against-brown-leaf-spot: 
-  - text: 
-  utter_faq-agri-rice-b0/information-reagding-control-of-ear-cutting-borer-in-paddy: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-for-the-high-yield--of-rice: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-to-climatic-requirements-for-rice-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-control-of-nutrient-deficeancy-in-rice: 
-  - text: 
+  - text: For control of grasshopper in paddy, spray 120 GM chess(Pymetrozine 50 WG) or 40 ml confidor(Imidacloprid 200 SL (17.8 % w/w) or Ekalux 800 ml (Quinalphos 25% EC ) or 1 liter Chlorpyriphos 20 EC in 100 litres of water per acre
   utter_faq-agri-rice-b0/information-regarding-dose-furadan-in-rice: 
-  - text: 
+  - text: DOSE FURADAN IN RICE 5KG/ACRE.
   utter_faq-agri-rice-b0/information-regarding-control-of-dose-of-zice--in-rice: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-fertilizer-dose-in-paddy: 
-  - text: 
+  - text: To complete the Zinc deficiency in paddy spray 1 kg Zinc sulphate(21%) in 200 liters of water per acre .
   utter_faq-agri-rice-b0/information--regarding-dying-of-plants-of-paddy: 
-  - text: 
+  - text: Take proper survey of field and ensure the disease before spray of any pesticide and visit the near agriculture office to make sure the disease.
   utter_faq-agri-rice-b0/information-regarding--paddy--damaged-in-flood: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-to-climate-change-effect-in-paddy: 
-  - text: 
+  - text: no need to apply any thing on paddy damaged in flood
   utter_faq-agri-rice-b0/dose-of-acephate-use-in-paddy-crop: 
-  - text: 
+  - text: acephate 75% sp @ 1.5 gm/liter of water
   utter_faq-agri-rice-b0/information-regarding-control-of-termite-in-rice-crop: 
-  - text: 
+  - text: o Control of termite in paddy apply Chlorpyriphos 20EC @ 1 litter mixing with 25 to 30 kg sand per acre.
   utter_faq-agri-rice-b0/information-regarding-control-of-control-of-sheath-blight-in-rice: 
-  - text: 
+  - text: For control of sheath blight in basmati spray 200 ml Amistar Top 325 SC (Azoxystrobin+Difenoconazole) or 80 gram Nativo 75 WG (Tebuconazole+Trifloxystrobin) or 200 ml Folicur/Orius 25 EC (Tebuconazole) or 200 ml Moncerem 250 SC (Pencycuron) in 200 liters of water per acre.
   utter_faq-agri-rice-b0/information-regarding-control-of-false-smut-in-rice: 
-  - text: 
+  - text: To control false smut in paddy spray 500 gram kocide(copper hydroxide) 46 DF or 200ml Tilt/Bumper 25 EC (propiconazole) in 200 litre of water per acre.
   utter_faq-agri-rice-b0/information-regarding-control-kernel-smut-in-rice-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-sowing-time-of-basmati-paddy: 
-  - text: 
+  - text: FOR CONTROL OF KERNEL SMUT IN PADDY SPRAY TILT 25 EC @ 200 ML IN 200 LITRE WATER PER ACRE.
   utter_faq-agri-rice-b0/information-regarding-for-the-control-fungus-in-basmati: 
-  - text: 
+  - text: spray amistar top 200 ml or nativo 80 gm in 200 liter
   utter_faq-agri-rice-b0/information-regarding-the-control-of-fungal-disease-in-basmati: 
-  - text: 
+  - text: For control of fungal disease in basmati spray 200 ml Amistar Top 325 SC (Azoxystrobin+Difenoconazole) or 80 gram Nativo 75 WG (Tebuconazole+Trifloxystrobin) or 200 ml Folicur/Orius 25 EC (Tebuconazole) or 200 ml Moncerem 250 SC (Pencycuron) in 200 liters of water per acre.
   utter_faq-agri-rice-b0/information-regarding-control-of-reddish-in-paddy: 
-  - text: 
+  - text: spray 1kg zinc sulphate in 100 litre of water/acre
   utter_faq-agri-rice-b0/information-regarding-control-of-farrous-deficiency-in-paddy: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-for-control-of-iron-deficiency-in-paddy: 
-  - text: 
+  - text: To complete the iron deficiency in paddy spray 1 kg ferrous sulphate(19%) in 100 liters of water per acre .
   utter_faq-agri-rice-b0/information-regarding-for-the-control-of-anthrachnose-disease-in-rice-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-root-rot-disease-rice-crop: 
-  - text: 
+  - text: THE CONTROL OF ANTHRACNOSE DISEASE IN RICE CROP,PLS SPRAY 500GM SAAF(CARBENDAZIM12%+MANCOZEB63%WP) /ACRE.
   utter_faq-agri-rice-b0/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-spray-of-lassi-in-the-paddy-crop-for-pest-control: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-bad-effect-of-weedicide-in-paddy-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-sulphur-application-in-paddy-crop: 
-  - text: 
+  - text: The best time to spray any chemical in the morning when less dew drops on the leaves of paddy crop or in the evening.
+  # utter_faq-agri-rice-b0/information-regarding-bad-effect-of-weedicide-in-paddy-crop: 
+  # - text: 
   utter_faq-agri-rice-b0/information-regarding-how-to-control-sulphur-deficiency-in-paddy: 
-  - text: 
+  - text: APPLY 75 KG SUPER PHOSPHATE IN 1 ACRE AREA
   utter_faq-agri-rice-b0/information-regarding-dose-of-urea-for-basmati-rice: 
-  - text: 
+  - text: Total urea required 130 kg in three equal parts after sowing 4 , 6 9 weeks
   utter_faq-agri-rice-b0/information-regrading-to-control-of-broadleaf-weeds-in-rice: 
-  - text: 
-  utter_faq-agri-rice-b0/how-to-control-of-sheet-blight-in-paddy-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/for-the-control-of-brown-leaf-blight-disease-attack-on-paddy-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-control-leaf-curl--in-paddy-rice: 
-  - text: 
+  - text: control broad leaf weeds in paddy spray 30 g per acre Algrip 20 WG (metsulfuron*) or 50 g Sunrice15 WG (ethoxysulfuron) or 40 g Londex 60 DF (bensulfuron methyl) or 16 g Segment 50 DF (azimsulfuron*) in 150 litres of water at 20 days after transplanting.
   utter_faq-agri-rice-b0/how-to-control-steam-borer-in-paddy-crop: 
-  - text: 
+  - text: FOR THE CONTROL OF RICE STEMBORER IN PADDY(JHONA) CROP,PLS APPLY 5KG CARTAP HYDROCHLORIDE(PADAN) OR 4KG CHLORANTRANILIPROLE(FARTERA) PER ACRE.
   utter_faq-agri-rice-b0/information-regarding-which-spray--should-be-done-at-booting-stage-in-paddy: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-control-of-grasshopper-in-paddy: 
-  - text: 
+  - text: Amistar top 200 ml and nativo 80gm can be done at booting or panicle inition stage
   utter_faq-agri-rice-b0/information-regarding-how-to-control-army-worm-in-paddy: 
-  - text: 
+  - text: Spray 400 ml. Ekalux 25EC in 100 lt. of water per acre at evening time.
   utter_faq-agri-rice-b0/information-regarding-control-of-black-bug-in-paddy: 
-  - text: 
+  - text: spray 1 liter chloropyriphos or 20 ml fame or 170 gram mortar in 100 liter water in one acre area
   utter_faq-agri-rice-b0/information-regarding-control-of-nematode-in-basmati-rice: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-control-of-tela-in-rice: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-effective-time-to-spray-a-insecticide: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-for-the-total-dose-of-uera-in-paddy: 
-  - text: 
-  utter_faq-agri-rice-b0/information-regarding-how-to-control-brown-leaf-spots-in-basmati-rice: 
-  - text: 
+  - text: For control nematode in paddy crop use furadan (Carbofuran) 8-10 kg per acre mixed with sand
   utter_faq-agri-rice-b0/information-regarding-how-to-control-black-spots-on-grains-in-paddy-rice: 
-  - text: 
-  utter_faq-agri-rice-b0/how-to-control-thirips-in-paddy-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/how-to-control-of-soondi-in-paddy-crop: 
-  - text: 
+  - text: Spray 200 ml. Tilt 25EC in 200 lt. of water per acre.
+  utter_faq-agri-rice-b0/how-to-control-thirips-in-paddy-crop:
+  - text: PRAY ACEPHATE 250 GM OR ACTARA 40 ML PER ACRE IN 100 LITRE OF WATER
   utter_faq-agri-rice-b0/how-to-control-of-plant-hoper-in-paddy-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/how-to-control-false-smuth-in-paddy-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/how-to-control-of-disesses-of-paddy: 
-  - text: 
-  utter_faq-agri-rice-b0/how-to-pset-control-in-paddy-crop: 
-  - text: 
-  utter_faq-agri-rice-b0/farmer-asks-about-the-leaf-folder-in-paddy: 
-  - text: 
+  - text: The plant hoppers can be controlled by spraying 120 g Chess 50 WG (pymetrozine) or 40 ml Confidor 200 SL/Crocodile 17.8 SL (imidacloprid) or 800 ml Ekalux/Quinguard/Quinalmass 25 EC (quinalphos) in 100 litres of water per acre.
   utter_faq-agri-rice-b0/information-regarding-yellow-rust-in-paddy: 
-  - text: 
+  - text: Spray- 200 ml tilt in 200 liter water /acre .
   utter_faq-agri-rice-b0/information-regarding-for-the-control-of-mangenege-deficiency: 
-  - text: 
+  - text: SPRAY 1 KG manganese sulphate IN 100 LITER OF WATER PER ACRE .
   utter_faq-agri-rice-b0/how-to-control-bacterial-blight-disease-in-basmati-rice: 
-  - text: 
+  - text: OR CONTROL OF BACTERIAL BLIGHT IN PADDY SPRAY 500 GRAM BLITOX (COPPER OXYCHLORIDE) AND 20 GRAM AGRIMYCIN OR 3 GRAM STREPTOCYCLINE IN 200 LITERS OF WATER PER ACRE
   utter_faq-agri-rice-b0/information-regarding-for-the-control-of-white-fly-in-paddy-crop: 
-  - text: 
+  - text: To control white fly in cotton in early stages spray 1 liter nimbecidine per acre in 100 liters of water

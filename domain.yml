@@ -1,125 +1,193 @@
 version: '3.0'
 intents:
+- faq-agri-wheat-b3
+- faq-agri-wheat-b2
+- faq-agri-wheat-b5
 - faq-agri-wheat-b4
 - faq-hort-dummycrop-b0
-- faq-agri-wheat-b1
-- faq-agri-wheat-b5
-- faq-agri-wheat-b2
 - faq-agri-wheat-b0
 - greet
 - goodbye
 - ok
-- faq-agri-wheat-b3
+- faq-agri-rice-b0
+- faq-agri-wheat-b1
 responses:
-  utter_faq-agri-wheat-b4/information-regarding-to-the-seed-treatment-of-wheat:
-  - text: TREAT THE SEED OF WHEAT WITH RAXIL @ 1GM/KG OR WITH BAVISTIN @ 2.5 GM/KG.
-  utter_faq-agri-wheat-b4/tell-me-about-seed-treatment-for-termite-protection:
-  - text: chloropyriphose 20 e.c. 4 m.l. or regent 5% 6 m.l./kg seed
-  utter_faq-agri-wheat-b4/dose-of-chlorpyriphos-for-seed-treatment:
-  - text: 4ml dose is recomended for per kg seed.
-  utter_faq-agri-wheat-b4/information-regarding-dose-of-raxil-for-wheat-seed-treatment:
-  - text: RAXIL DOSE-1GM/KG.
-  utter_faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop:
-  - text: dummy answer for horticulture.
-  utter_faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop:
-  - text: dummy answer2 for horticulture.
-  utter_faq-agri-wheat-b1/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat:
-  - text: For pre-emergence control of weeds in wheat spray 1.5 liters of Stomp 30
-      EC (Pendamethalin) or 60 gram Awkira 85 WG(Pyroxasulfone) or 1 liter of Platform
-      38.5 SE(Pendimethalin 35%+Metribuzin 3.5%) in 200 liters of water per acre within
-      2 days of sowing of wheat.
-  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-pre-emergence-stage-in-wheat:
-  - text: "Pre \u2013 emergent herbicide Pendimethalin 8 - 8.5 mL/L of water in 160-\
-      \ 180 litres of water for one acre of wheat crop at 0-3 days after sowing. Pendimethalin\
-      \ controls both grasses and broadleaved weeds on wheat eco system."
-  utter_faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation:
-  - text: "Syngenta - TOPIK \u2013 [clodinafop-propargyl ] at 0.75 \u2013 1 gm/L of\
-      \ water [or 160 gm per acre ] in160- 180 litres of water for one acre of wheat\
-      \ crop. Whip Super \u2013 [Fenoxaprop-p-ethyl 9.3 %] 100 mL per acre in 160-\
-      \ 180 litres of water for one acre of wheat crop."
-  utter_faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation:
-  - text: For control of grassy leaf weeds in wheat spray Isoprotouron 75 WP (300
-      gram for light soils, 400 gram in medium soils and 500 gram in heavy soils)
-      or 13 gram Leader/SF-10/Safal/Marksulfo 75 WG (Sulfosulfuron) in 150 liters
-      of water per acre before 2-3 days of first irrigation.
-  utter_faq-agri-wheat-b1/how-to-control-of-broad-leaf-weed-in-wheat-crop:
-  - text: For control of broad leaf weeds in wheat spray 250 gram 2,4-D Sodium salt
-      80 WP or 250 ml 2,4-D ethyl ester 38 EC or 10 gram Algrip/Algrip Royal/Markgrip/Makoto
-      (Metsulfuron 20 WP) or 20 gram Aim/Affinity (Carfentrazone-ethyl 40 DF) or 20
-      gram Lanfida (Metsulfuron+Carfentrazone 50 DF in 150 liters of water per acre
-      after first irrigation within 30-35 days of sowing of crop.Don't spray any of
-      above herbicides if any broad leaf crop is sown with wheat.
-  - text: For control of broad leaf weeds in wheat spray 250 g of 2,4 D sodium salt(80%)
-      or 250 ml of 2,4 D ethyl ester (38%), Algrip 20WP 10g, Aim/Affinity 40DF 20g,
-      Lanfida 50DF 20G in 150-200lt water per acre.
-  utter_faq-agri-wheat-b1/how-to-control-phalaris-minor-in-wheat-crop:
-  - text: Spray clodinaphos 15 WP(Topik/rakashak plus )@160 gram or phenoxadin 5 EC
-      (Axil) @400 mililiter or phenoxaprop-p-ethyl 10 EC (puma power) @400 mililiter
-      or salphoslfuran 75 WG (leader/s.f.10) @13 gram dissolve in 200 liter water
-      per acre after 30 -35 days after sowing .
-  - text: FOR THE CONTROL OF GULLI DANDA(PHALARIS MINOR) IN WHEAT CROP,PLS APPLY 160GM
-      CLODINAFOP 15% WP(TOPIK)OR 400ML PINOXADEN 5% EC(AXIAL) MIXED WITH 150LITRE
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-fertilizers-in-wheat-crop:
+  - text: Varieties of Wheat are-Unnat PBW 343(Yield-23.2 quintal),Unnat PBW 550(Yield-23
+      quintal), PBW 1 zinc(Yield-22.5 quintal), PBW 725(Yield-22.9 quintal), PBW 677(Yield-22.4
+      quintal), HD 3086(Yield-23 quintal),HD 2967(Yield-21.4 quintal), WH 1105(Yield-23.1
+      quintal), PBW 621(Yield-21.1 quintal) and PBW 550(Yield-20.8 quintal).
+  ? utter_faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it
+  : - text: 10TH DAY AFTER 1ST IRRIGATION IS SUITABLE TIME OF THE MAGANESE SULPHATE
+        SPRAY IN WHEAT & DOSE PER ACRE OF IT IS 1KG IN 150 LITER OF WATER / ACRE.
+  utter_faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat:
+  - text: TOTAL DOSE OF UREA IN WHEAT IS-90-110KG/ACRE
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-wheat-sowing:
+  - text: FERT.DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG.
+  utter_faq-agri-wheat-b3/information-regarding-the-control-of-sulphur-deficiency-in-wheat:
+  - text: In sulphur deficient soils apply 100 kg of Gypsum per acre at the time of
+      land preparation but if the Phosphorous is applied to the wheat crop as Single
+      superphosphate then no need of Gypsum application. Gypsum can also be applied
+      in standing crop if deficiency of sulphur is observed.
+  utter_faq-agri-wheat-b3/how-many-spray-of-manganese-are-required-in-the-wheat-crop:
+  - text: 1ST SPRAY AT 2-4 DAYS BEFORE 1ST IRRIGATION AND 3 SPRAY AFTERWARD AT WEEKLY
+      INTERVALS.
+  utter_faq-agri-wheat-b3/information-regarding-zinc-deficiency-in-wheat-crop:
+  - text: For Zinc deficiency symptoms in wheat leaves become yellow in middle broadcaste
+      25kg Zinc Sulphate (21%) or spray 1kg Zinc Sulphate +500 gram unslaked lime
+      in 200 lt of waterper acre .
+  utter_faq-agri-wheat-b3/information-on-dose-of-dap-in-wheat-crop:
+  - text: dose of dap in wheat is 55 kg/acre
+  utter_faq-agri-wheat-b3/fertilizer-application-of--wheat:
+  - text: Drill half(55kg) dose of nitrogen and whole(55kg) DAP and Potash(20kg) at
+      the time of sowing and remaining (55kg) nitrogen at 1st irrigation.
+  utter_faq-agri-wheat-b3/dose-of-fertilizer:
+  - text: FERTILIZER DOSE FOR WHEAT :- 25 KG UREA /ACRE
+  utter_faq-agri-wheat-b3/information-regarding-deficiency-of-manganese-in-wheat:
+  - text: spray of mangnese sulphate 1 kg +200 ltr water /acre before 3-4 days of
+      first irrigation
+  utter_faq-agri-wheat-b3/information-regarding-wheat-seed-germination-after-rain:
+  - text: NO ANSWER
+  utter_faq-agri-wheat-b3/information-reagarding-dose-of-urea-after-first-irrigation:
+  - text: APPLY 50 KG UREA/ACRE .
+  utter_faq-agri-wheat-b3/information-regarding-control-of-potassium-deficiency-in-wheat:
+  - text: for control of potassium deficiency in wheat, spray 1 kg potassium nitrate
+      in 100 litres of water per acre .
+  utter_faq-agri-wheat-b3/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days:
+  - text: THEN APPLY UREA AFTER IRRIGATION WHEN MOISTURE LEVEL IS OPTIMUM
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-potash-in-wheat:
+  - text: DOSE OF POTASH IN WHEAT CROP :- 20 KG/ACRE.
+  utter_faq-agri-wheat-b3/information-regarding-the-application-of-gypsum:
+  - text: It acts as a soil additive and fertilizer. The mineral consists of two main
+      ingredients necessary for healthy plant growth - calcium and sulphur. While
+      calcium helps to absorb nutrients via the roots, sulphur improves the overall
+      production of crops.
+  utter_faq-agri-wheat-b3/information-regarding-total-fertilizers-dose-in-wheat:
+  - text: Total Fertilizers dose in wheat:- 110 Kg. Urea, 55 Kg. DAP, 20 Kg. Potash
+      per acre.
+  utter_faq-agri-wheat-b3/information-regarding-method-of-fertilizer-application-in-wheat:
+  - text: Drill half(55kg) dose of nitrogen and whole(55kg) DAP and Potash(20kg) at
+      the time of sowing and remaining (55kg) nitrogen at 1st irrigation.
+  utter_faq-agri-wheat-b3/information-regarding-the-deficiency-of-nitrogen-in-wheat:
+  - text: SPRAY NPK 19:19:19 at 1KG IN 100 LITERS OF WATER / ACRE .
+  utter_faq-agri-wheat-b3/information-regarding-fertilizer-dosage-before-1st-irrigation:
+  - text: FERTILIZER DOSAGE BEFORE 1ST IRRIGATION IN WHEAT-UREA-25KG+3KG SULPHUR.
+  utter_faq-agri-wheat-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application:
+  - text: BROADCAST UREA 2 DAYS AFTER SPRAY OF HERBICIDE
+  utter_faq-agri-wheat-b3/information-regarding-deficiency-of-zinc-sulphate-in-wheat-crops:
+  - text: APPLY 25 KG OF ZINC SULPHATE/ACRE BEFOR SOWING THE WHEAT.
+  utter_faq-agri-wheat-b3/information-regarding-the-control-of-phosphorous-deficiency-in-wheat:
+  - text: SPRAY TO NPK 0:52:34 at 1KG IN 200 LITER OF WATER / ACRE .
+  utter_faq-agri-wheat-b3/farmer-asks-about-the-dose-of-mop-in-wheat:
+  - text: 20kg mop is required for per acre.
+  utter_faq-agri-wheat-b3/dose-of-urea-for-foliar-spray:
+  - text: 3kg urea in 100 liters water per acre.
+  utter_faq-agri-wheat-b3/control-of-iron-deficiency-in-wheat:
+  - text: SPRAY 150 GM CHELATED IRON IN 150 LITRE WATER PER ACRE
+  - text: spray to ferrous sulphate at 1 kg in 200 litres of water/acre
+  utter_faq-agri-wheat-b3/information-regarding-improving-the-quality-of-wheat-grains:
+  - text: to improve grain quality of wheat crop spray 2 kg NPK(13:0:45) per acre
+      in 120 liters of water.
+  utter_faq-agri-wheat-b3/information-regarding-to-urea-application-in-wheat-at-first-irrigation:
+  - text: APPLY 20KG UREA AT THE TIME OF SOWING WITH FULL DOSE OF DAP AND MOP ,35KG
+      UREA WITH 1ST IRRIGATION AND THE REMAINING 35KG UREA WITH 2ND IRRIGATION .
+  utter_faq-agri-wheat-b3/deficiency-manganese-sulphate-in-wheat:
+  - text: 1kg masnese sulphate/100 litre water/acre.
+  utter_faq-agri-wheat-b3/foliar-spray-of-manganese-in-wheat:
+  - text: 1kg magnese sulphate/100 litre water/acre.
+  utter_faq-agri-wheat-b3/information-regarding-biofertilizer-in-wheat:
+  - text: inoculate one acre seed with 500 g of consortium biofertilizer and one litre
+      of water on pucca floor. Let it dry in shade and sow immediately.
+  utter_faq-agri-wheat-b3/application-of-single-super-phosphate-in-wheat:
+  - text: Application of Single Superphosphate with Humic Acid Improves the Growth,
+      Yield and Phosphorus Uptake of Wheat (Triticum aestivum L.) in Calcareous Soil.
+  utter_faq-agri-wheat-b3/information-regarding--management-of-alkali-soil:
+  - text: For alkali soils conditions ,apply gypsum according to soil test.and dhaincha
+      for green manuring is helpful.apply more urea than recommended
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-requirement-in-wheat-sown-with-happy-seeder:
+  - text: Total fertilizer dose used in Barseem is 22kg Urea, 185kg Superphosphate
+      per acre.
+  utter_faq-agri-wheat-b3/urea-dose-at-sowing-time:
+  - text: FERT. DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG
+  utter_faq-agri-wheat-b3/information-regarding-application-of-manures:
+  - text: Manures contribute to the fertility of soil by adding organic matter and
+      nutrients, such as nitrogen, that are utilised by bacteria, fungi and other
+      organisms in the soil. Higher organisms then feed on the fungi and bacteria
+      in a chain of life that comprises the soil food web.
+  utter_faq-agri-wheat-b3/information-regarding-difference-between-ssp-and-dap:
+  - text: difference between SSP and DAPSingle Super Phosphate - S-12%, Ca-19%, P2O5-16%
+      and Di Ammonium Phosphate - P2O5-46%, N2-18%.
+  utter_faq-agri-wheat-b3/deficiency-of-zinc-sulphate:
+  - text: APPLY 25 KG OF ZINC SULPHATE/ACRE BEFOR SOWING THE WHEAT. OR  SPRAY OF ZINC
+      SULPHATE 0.5%[21% ZINC] @ 1KG ZINC SULPHATE + 1/2 KG UNSLAKED LIME IN 200 LITRES
       OF WATER/ACRE.
-  utter_faq-agri-wheat-b1/information-regarding-for-the-control-of-herbs-in-wheat-crop:
-  - text: FOR THE CONTROL OF HERBS IN WHEAT CROP,SPRAY 160GM TOPIK+20GM AFFINITY/ACRE.
-  utter_faq-agri-wheat-b1/information-regarding-control-of-narrow-leaf-weeds:
-  - text: SPRAY 160HGM TOPIK IN 150LT WATER/ACRE.
-  - text: SPRAY 400ML AXIAL IN 150LT WATER/ACRE.
-  utter_faq-agri-wheat-b1/information-regarding-nozzle-used-in-herbicide-in-wheat-crop:
-  - text: Nozzle used in herbicide in wheat crop is Flat fan or Flood jet nozzle for
-      pre- emergence and only Flat fan for post- emergence.
-  utter_faq-agri-wheat-b1/information-regarding-control-of-weed-in-non-cropped-area:
-  - text: For control of weed in non cropped area or uncultivated area or free area
-      & The weeds in non-cropped areas like on farm, roads, waterchannels etc. can
-      be controlled by spray of Gramoxone 24 SL (paraquat dichloride) @ 0.25 to 0.5%
-      (250 to 500 ml in 100 litres of water).
-  utter_faq-agri-wheat-b1/information-regarding-post-emergence-weed-control-in-wheat:
-  - text: FOR CONTROL OF WEEDS IN WHEAT, SPRAY 160 GM TOPIK (CLODINAFOP) OR 13 GM
-      LEADER (SULFOSULFURON) OR 400 ML AXIAL (PINOXADEN) IN 100-120 LITRE WATER ER
-      ACRE.
-  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-before-1st-irrigation-stage-in-wheat:
-  - text: For control of weeds in Post-emergence (Before 1st irrigation) stage in
-      wheat spray Isoprotruron 75WP 300-400g or Leader 75WG (sulfosulfuron) 13g in
-      150 lt water per acre.
-  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-after-1st-irrigation-stage-in-wheat:
-  - text: For control of weeds in Post-emergence (After 1st irrigation) stage in wheat
-      spray Topik 15WP (clodinafop)160g ,Axial 5EC (pinoxaden) 400ml ,Puma Power 10EC
-      (fenoxaprop-p-ethyl) 400ml in 150lt water 30-35days.
-  utter_faq-agri-wheat-b1/how-to-control-wild-oat-in-wheat-crop:
-  - text: To control wild oats in wheat spray 400 ml. Axial (Pinoxaden 5EC) in 150
-      lt. of water per acre after 30-35 days after sowing.
-  - text: To control Jangli Javi in wheat spray 400 ml. Axial (Pinoxaden 5EC) or 160
-      gm. Topik or 13 gm. Leader in 150 lt. of water per acre after 30-35 days after
-      sowing.
-  utter_faq-agri-wheat-b1/information-regarding-how-to-control-mixed-weeds-in-wheat:
-  - text: SPRAY (ATLANTIS)3.6 WDG @ 160GM IN 150 LTR OF WATER /ACRE.
-  utter_faq-agri-wheat-b1/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-tellering-stage:
-  - text: Growth regulator used in wheat crop at time of tellering stage spray N:P:K
-      19:19:19 1kg in 120lt water per acre.
-  utter_faq-agri-wheat-b1/kandiali-palak-in-wheat:
-  - text: spray algrip 10 gram in 150 lites of water per acre
-  utter_faq-agri-wheat-b1/how-to-control-medicago-denticulata-in-wheat-crop:
-  - text: spray allgrip 10g in 100liters water per acre.
-  utter_faq-agri-wheat-b1/information-regaridng-dose-of-topik-in-an-acre:
-  - text: 160GM IN 100LT WATER/ACRE.
-  utter_faq-agri-wheat-b1/information-regarding-control-of-nematodes-affected-plant-in-wheat:
-  - text: CONTROL OF NEMATODES AFFECTED PLANT IN WHEAT - APPLY 4KG FURADAN PER ACRE
-      .
-  utter_faq-agri-wheat-b1/information-regarding-the-salt-of-sagun-21-11:
-  - text: SALT OF SAGUN 21-11 IS KLOCINAFOP AND METRIBUZJIN
-  utter_faq-agri-wheat-b1/information-regarding-to-control-of-bathu-in-the-wheat-crop:
-  - text: Spray Algrip/Algrip Royal/Markgrip/ Makoto 20 WP (metsulfuron*) 10 g in
-      150 l water or Aim/Affinity 40 DF (carfentrazone-ethyl*) 20 g in 200 l water
-  utter_faq-agri-wheat-b1/information-regarding-glyphosate-41%SL:
-  - text: glyphosate 41 %SL USE FOR WEED CONTROL
-  utter_faq-agri-wheat-b1/how-to-control-trigoneela-polycerata-in-wheat-crop:
-  - text: spray affinity 40df @ 20g in 200 liters watr per acre.
-  utter_faq-agri-wheat-b1/how-to-control-melilotus-indica-in-wheat-crop:
-  - text: spray allgrip 10g in 100 liters water per acre.
-  utter_faq-agri-wheat-b1/information-regarding-irrigate-the-field-after-herbicide-spray:
-  - text: field should irrigate after 7-8 days after herbicide spray in wheat crop.
-  utter_faq-agri-wheat-b1/how-to-control-malva-neglecta-in-wheat-crop:
-  - text: spray aim 40df @ 20g in 200 liters water per acre.
+  utter_faq-agri-wheat-b3/can-3086-variety-of-wheat-be-sown-in-saline-soils:
+  - text: NO ANSWER
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizers-to-be-used-after-spraying-weedicide:
+  - text: NO ANSWER
+  utter_faq-agri-wheat-b3/information-regarding-the-npk-dose-in-acre:
+  - text: SPRAY NPK-19:19:19 1KG PER ACRE
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-in-wheat-before-irrigation:
+  - text: UREA-25KG+3KG SULPHUR 80%WDG.
+  utter_faq-agri-wheat-b3/information-regarding-the-batter-growth:
+  - text: spray npk @ 1kg in 100 liters of water / acre.
+  utter_faq-agri-wheat-b3/information-requirement-of-wheat-crop:
+  - text: "It grows best when temperatures are warm, from 70\xB0 to 75\xB0 F (21\xB0\
+      \ to 24\xB0 C), but not too hot. Wheat also needs a lot of sunshine, especially\
+      \ when the grains are filling. Areas with low humidity are better since many\
+      \ wheat diseases thrive in damp weather."
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-application:
+  - text: Fertilizers are chemical substances supplied to the crops to increase their
+      productivity. These are used by the farmers daily to increase the crop yield.
+      The fertilizers contain the essential nutrients required by the plants, including
+      nitrogen, potassium, and phosphorus.
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-delta-methrine:
+  - text: SPRAY 160ML/100LITER /ACRE
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-sowing-of-wheat:
+  - text: FERT.DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG.
+  utter_faq-agri-wheat-b3/information-regarding-the-foliar-application-of-urea:
+  - text: spray 1.5 kg urea mix in 120 liters of water / acre.
+  utter_faq-agri-wheat-b3/information-regarding-suitable-time-of-1st-irrigation:
+  - text: SUITABLE TIME OF 1ST IRRIGATION IS -AFTER-25 DAYS.
+  utter_faq-agri-wheat-b3/information-regarding-nutrient-management-on-wheat:
+  - text: spray 1 kg NPK 13:0:45 in 100-150 L of water per acre.
+  utter_faq-agri-wheat-b3/information-regarding-broadcasting-of-urea-after-herbicide-spray:
+  - text: 7-8days after spary you can broadcasting urea fertilizer.
+  utter_faq-agri-wheat-b3/extra-water-in-wheat:
+  - text: no recomend of fertilizers.
+  utter_faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap:
+  - text: NO RECOMMANDATION OF SUPERPHOSPHATE IN WHEAT. IF DAP IS NOT AVAILABLE THEN
+      USE OF 150KG SUPER CAN BE DONE TO MEET THE REQUIERMENT OF 55KG DAP
+  utter_faq-agri-wheat-b3/information-regarding-control-of-nitrogen-in-wheat:
+  - text: SPRAY 3 KG UREA MIX IN 100 LITER WATER /ACRE.
+  utter_faq-agri-wheat-b3/information-regarding-expiry-date-of-manganese-sulphate:
+  - text: 5YEARS AFTER MANUFACTURING DATE.
+  utter_faq-agri-wheat-b3/information-regarding-standing-water-in-wheat:
+  - text: NO ANSWER
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-leader-in-an-acre:
+  - text: for control of weeds in wheat, spray 160 gm topik (clodinafop 15 wp) or
+      13 gm leader (sulfosulfuron 75 wg) or 16 gm total (sulfosulfuron+metsulfuron
+      75 wg) in 100 litre water per acre after 30-35 days of sowing
+  utter_faq-agri-wheat-b3/information-regarding-poultry-manure-in-soil-before-wheat-sowing:
+  - text: apply 2.5 tonne per acre Poultry manure in soil before wheat sowing.
+  ? utter_faq-agri-wheat-b3/information-regarding-organic-gibberellic-acid-preparation-with-cow-dung-cakes-to-improve-the-growth
+  : - text: NO ANSWER
+  utter_faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat:
+  - text: urea can be applied 7-9 days after spraying weedicides for the better results
+  utter_faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat:
+  - text: TIME OF SOWING IS FROM THE 4TH WEEK OF OCTOBER TO 4TH WEEK OF NOVEMBER.
+  utter_faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties:
+  - text: LAST WEEK OF OCTOBER TO LAST WEEK OF NOVEMBER.
+  utter_faq-agri-wheat-b2/late-varieties-of-wheat:
+  - text: LATE SOWING VARIETES OF WHEAT ARE PBW 509,PBW 590,PBW 373
+  utter_faq-agri-wheat-b2/information-regarding-suitable-varieties-of-wheat--its-seed-rate:
+  - text: SUITABLE VARIETIES OF WHEAT IS -PBW-550,HD-2967 & HD-2851 & ITS SEED RATE-40KG.
+  utter_faq-agri-wheat-b2/information-about-suitable-varieties-for-running-season:
+  - text: SUITABLE VARIETIES FOR RUNNING SEASON IS - PBW-550,HD-2967 & HD-2851.
+  utter_faq-agri-wheat-b2/sowing-time-of-wheat-after-nov:
+  - text: 4TH WEEK OF NOVEMBER TO 4TH WEEK OF DECEMBER.
+  utter_faq-agri-wheat-b2/sowing-time-of-late-varieties-of-wheat-in-sandy-soils:
+  - text: After 15 November
   utter_faq-agri-wheat-b5/recommended-time-of-irrigation-of-wheat:
   - text: NUMBER OF IRRIGATIONS INTERVAL AFTER SOWING (IN DAYS) 1st irrigation 20-25
       days 2nd irrigation 40-45 days 3rd irrigation 60-65 days 4th irrigation 80-85
@@ -149,20 +217,18 @@ responses:
   - text: use 1 kg of neem leaves mixed in 5 liter of water
   utter_faq-agri-wheat-b5/information-regarding-vertical-conveyor-reaper:
   - text: vertical conveyor reaper mainly worker on wheat and rice cutting.
-  utter_faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat:
-  - text: TIME OF SOWING IS FROM THE 4TH WEEK OF OCTOBER TO 4TH WEEK OF NOVEMBER.
-  utter_faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties:
-  - text: LAST WEEK OF OCTOBER TO LAST WEEK OF NOVEMBER.
-  utter_faq-agri-wheat-b2/late-varieties-of-wheat:
-  - text: LATE SOWING VARIETES OF WHEAT ARE PBW 509,PBW 590,PBW 373
-  utter_faq-agri-wheat-b2/information-regarding-suitable-varieties-of-wheat--its-seed-rate:
-  - text: SUITABLE VARIETIES OF WHEAT IS -PBW-550,HD-2967 & HD-2851 & ITS SEED RATE-40KG.
-  utter_faq-agri-wheat-b2/information-about-suitable-varieties-for-running-season:
-  - text: SUITABLE VARIETIES FOR RUNNING SEASON IS - PBW-550,HD-2967 & HD-2851.
-  utter_faq-agri-wheat-b2/sowing-time-of-wheat-after-nov:
-  - text: 4TH WEEK OF NOVEMBER TO 4TH WEEK OF DECEMBER.
-  utter_faq-agri-wheat-b2/sowing-time-of-late-varieties-of-wheat-in-sandy-soils:
-  - text: After 15 November
+  utter_faq-agri-wheat-b4/information-regarding-to-the-seed-treatment-of-wheat:
+  - text: TREAT THE SEED OF WHEAT WITH RAXIL @ 1GM/KG OR WITH BAVISTIN @ 2.5 GM/KG.
+  utter_faq-agri-wheat-b4/tell-me-about-seed-treatment-for-termite-protection:
+  - text: chloropyriphose 20 e.c. 4 m.l. or regent 5% 6 m.l./kg seed
+  utter_faq-agri-wheat-b4/dose-of-chlorpyriphos-for-seed-treatment:
+  - text: 4ml dose is recomended for per kg seed.
+  utter_faq-agri-wheat-b4/information-regarding-dose-of-raxil-for-wheat-seed-treatment:
+  - text: RAXIL DOSE-1GM/KG.
+  utter_faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop:
+  - text: dummy answer for horticulture.
+  utter_faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop:
+  - text: dummy answer2 for horticulture.
   utter_greet:
   - text: Hey! How are you?
   utter_goodbye:
@@ -363,168 +429,239 @@ responses:
   - text: doser of atlantis is 160 gm in 100 liter of water/acre
   utter_faq-agri-wheat-b0/protection-against-larvae-in-wheat:
   - text: apply ekalux 800 ml in 100 litre of water per acre
-  utter_faq-agri-wheat-b3/information-regarding-dose-of-fertilizers-in-wheat-crop:
-  - text: Varieties of Wheat are-Unnat PBW 343(Yield-23.2 quintal),Unnat PBW 550(Yield-23
-      quintal), PBW 1 zinc(Yield-22.5 quintal), PBW 725(Yield-22.9 quintal), PBW 677(Yield-22.4
-      quintal), HD 3086(Yield-23 quintal),HD 2967(Yield-21.4 quintal), WH 1105(Yield-23.1
-      quintal), PBW 621(Yield-21.1 quintal) and PBW 550(Yield-20.8 quintal).
-  ? utter_faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it
-  : - text: 10TH DAY AFTER 1ST IRRIGATION IS SUITABLE TIME OF THE MAGANESE SULPHATE
-        SPRAY IN WHEAT & DOSE PER ACRE OF IT IS 1KG IN 150 LITER OF WATER / ACRE.
-  utter_faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat:
-  - text: TOTAL DOSE OF UREA IN WHEAT IS-90-110KG/ACRE
-  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-wheat-sowing:
-  - text: FERT.DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG.
-  utter_faq-agri-wheat-b3/information-regarding-the-control-of-sulphur-deficiency-in-wheat:
-  - text: In sulphur deficient soils apply 100 kg of Gypsum per acre at the time of
-      land preparation but if the Phosphorous is applied to the wheat crop as Single
-      superphosphate then no need of Gypsum application. Gypsum can also be applied
-      in standing crop if deficiency of sulphur is observed.
-  utter_faq-agri-wheat-b3/how-many-spray-of-manganese-are-required-in-the-wheat-crop:
-  - text: 1ST SPRAY AT 2-4 DAYS BEFORE 1ST IRRIGATION AND 3 SPRAY AFTERWARD AT WEEKLY
-      INTERVALS.
-  utter_faq-agri-wheat-b3/information-regarding-zinc-deficiency-in-wheat-crop:
-  - text: For Zinc deficiency symptoms in wheat leaves become yellow in middle broadcaste
-      25kg Zinc Sulphate (21%) or spray 1kg Zinc Sulphate +500 gram unslaked lime
-      in 200 lt of waterper acre .
-  utter_faq-agri-wheat-b3/information-on-dose-of-dap-in-wheat-crop:
-  - text: dose of dap in wheat is 55 kg/acre
-  utter_faq-agri-wheat-b3/fertilizer-application-of--wheat:
-  - text: Drill half(55kg) dose of nitrogen and whole(55kg) DAP and Potash(20kg) at
-      the time of sowing and remaining (55kg) nitrogen at 1st irrigation.
-  utter_faq-agri-wheat-b3/dose-of-fertilizer:
-  - text: FERTILIZER DOSE FOR WHEAT :- 25 KG UREA /ACRE
-  utter_faq-agri-wheat-b3/information-regarding-deficiency-of-manganese-in-wheat:
-  - text: spray of mangnese sulphate 1 kg +200 ltr water /acre before 3-4 days of
-      first irrigation
-  utter_faq-agri-wheat-b3/information-regarding-wheat-seed-germination-after-rain:
-  - text: NO ANSWER
-  utter_faq-agri-wheat-b3/information-reagarding-dose-of-urea-after-first-irrigation:
-  - text: APPLY 50 KG UREA/ACRE .
-  utter_faq-agri-wheat-b3/information-regarding-control-of-potassium-deficiency-in-wheat:
-  - text: for control of potassium deficiency in wheat, spray 1 kg potassium nitrate
-      in 100 litres of water per acre .
-  utter_faq-agri-wheat-b3/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days:
-  - text: THEN APPLY UREA AFTER IRRIGATION WHEN MOISTURE LEVEL IS OPTIMUM
-  utter_faq-agri-wheat-b3/information-regarding-dose-of-potash-in-wheat:
-  - text: DOSE OF POTASH IN WHEAT CROP :- 20 KG/ACRE.
-  utter_faq-agri-wheat-b3/information-regarding-the-application-of-gypsum:
-  - text: It acts as a soil additive and fertilizer. The mineral consists of two main
-      ingredients necessary for healthy plant growth - calcium and sulphur. While
-      calcium helps to absorb nutrients via the roots, sulphur improves the overall
-      production of crops.
-  utter_faq-agri-wheat-b3/information-regarding-total-fertilizers-dose-in-wheat:
-  - text: Total Fertilizers dose in wheat:- 110 Kg. Urea, 55 Kg. DAP, 20 Kg. Potash
-      per acre.
-  utter_faq-agri-wheat-b3/information-regarding-method-of-fertilizer-application-in-wheat:
-  - text: Drill half(55kg) dose of nitrogen and whole(55kg) DAP and Potash(20kg) at
-      the time of sowing and remaining (55kg) nitrogen at 1st irrigation.
-  utter_faq-agri-wheat-b3/information-regarding-the-deficiency-of-nitrogen-in-wheat:
-  - text: SPRAY NPK 19:19:19 at 1KG IN 100 LITERS OF WATER / ACRE .
-  utter_faq-agri-wheat-b3/information-regarding-fertilizer-dosage-before-1st-irrigation:
-  - text: FERTILIZER DOSAGE BEFORE 1ST IRRIGATION IN WHEAT-UREA-25KG+3KG SULPHUR.
-  utter_faq-agri-wheat-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application:
-  - text: BROADCAST UREA 2 DAYS AFTER SPRAY OF HERBICIDE
-  utter_faq-agri-wheat-b3/information-regarding-deficiency-of-zinc-sulphate-in-wheat-crops:
-  - text: APPLY 25 KG OF ZINC SULPHATE/ACRE BEFOR SOWING THE WHEAT.
-  utter_faq-agri-wheat-b3/information-regarding-the-control-of-phosphorous-deficiency-in-wheat:
-  - text: SPRAY TO NPK 0:52:34 at 1KG IN 200 LITER OF WATER / ACRE .
-  utter_faq-agri-wheat-b3/farmer-asks-about-the-dose-of-mop-in-wheat:
-  - text: 20kg mop is required for per acre.
-  utter_faq-agri-wheat-b3/dose-of-urea-for-foliar-spray:
-  - text: 3kg urea in 100 liters water per acre.
-  utter_faq-agri-wheat-b3/control-of-iron-deficiency-in-wheat:
-  - text: SPRAY 150 GM CHELATED IRON IN 150 LITRE WATER PER ACRE
-  - text: spray to ferrous sulphate at 1 kg in 200 litres of water/acre
-  utter_faq-agri-wheat-b3/information-regarding-improving-the-quality-of-wheat-grains:
-  - text: to improve grain quality of wheat crop spray 2 kg NPK(13:0:45) per acre
-      in 120 liters of water.
-  utter_faq-agri-wheat-b3/information-regarding-to-urea-application-in-wheat-at-first-irrigation:
-  - text: APPLY 20KG UREA AT THE TIME OF SOWING WITH FULL DOSE OF DAP AND MOP ,35KG
-      UREA WITH 1ST IRRIGATION AND THE REMAINING 35KG UREA WITH 2ND IRRIGATION .
-  utter_faq-agri-wheat-b3/deficiency-manganese-sulphate-in-wheat:
-  - text: 1kg masnese sulphate/100 litre water/acre.
-  utter_faq-agri-wheat-b3/foliar-spray-of-manganese-in-wheat:
-  - text: 1kg magnese sulphate/100 litre water/acre.
-  utter_faq-agri-wheat-b3/information-regarding-biofertilizer-in-wheat:
-  - text: inoculate one acre seed with 500 g of consortium biofertilizer and one litre
-      of water on pucca floor. Let it dry in shade and sow immediately.
-  utter_faq-agri-wheat-b3/application-of-single-super-phosphate-in-wheat:
-  - text: Application of Single Superphosphate with Humic Acid Improves the Growth,
-      Yield and Phosphorus Uptake of Wheat (Triticum aestivum L.) in Calcareous Soil.
-  utter_faq-agri-wheat-b3/information-regarding--management-of-alkali-soil:
-  - text: For alkali soils conditions ,apply gypsum according to soil test.and dhaincha
-      for green manuring is helpful.apply more urea than recommended
-  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-requirement-in-wheat-sown-with-happy-seeder:
-  - text: Total fertilizer dose used in Barseem is 22kg Urea, 185kg Superphosphate
-      per acre.
-  utter_faq-agri-wheat-b3/urea-dose-at-sowing-time:
-  - text: FERT. DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG
-  utter_faq-agri-wheat-b3/information-regarding-application-of-manures:
-  - text: Manures contribute to the fertility of soil by adding organic matter and
-      nutrients, such as nitrogen, that are utilised by bacteria, fungi and other
-      organisms in the soil. Higher organisms then feed on the fungi and bacteria
-      in a chain of life that comprises the soil food web.
-  utter_faq-agri-wheat-b3/information-regarding-difference-between-ssp-and-dap:
-  - text: difference between SSP and DAPSingle Super Phosphate - S-12%, Ca-19%, P2O5-16%
-      and Di Ammonium Phosphate - P2O5-46%, N2-18%.
-  utter_faq-agri-wheat-b3/deficiency-of-zinc-sulphate:
-  - text: APPLY 25 KG OF ZINC SULPHATE/ACRE BEFOR SOWING THE WHEAT. OR  SPRAY OF ZINC
-      SULPHATE 0.5%[21% ZINC] @ 1KG ZINC SULPHATE + 1/2 KG UNSLAKED LIME IN 200 LITRES
+  utter_faq-agri-rice-b0/information-regarding-phasphorus-deficincy-in-paddy:
+  - text: To complete the deficiency of phosphorus in paddy crop spray 1KG powder
+      NPK (0:52:34) per acre in 100 liters of water(@10 gram per liter).
+  utter_faq-agri-rice-b0/information-regarding-potassium-deficiency-in-paddy-crop:
+  - text: To complete the deficiency of potassium in paddy crop spray 1KG powder NPK
+      (0:52:34) per acre in 100 liters of water(@10 gram per liter).spray can done
+      in standing water or less water conditions.
+  utter_faq-agri-rice-b0/information-regarding-weed-control-in-pady:
+  - text: To control weeds in basmati or paddy spray nominee gold/macho (Bispyribac-sodium
+      10% SC) 100 ml in 150 litres/acre (0.66 ml per liter of water)of water after
+      20 days of transplanting. apply irrigation after 2-3 days as per soil type.
+  utter_faq-agri-rice-b0/infprmation-regarding-control-blb-in-rice-crops:
+  - text: for control of BLB in paddy , spray Amistar top 200ml or 80 gram nativo
+      or 200 ml tilt or 200 ml folicure or Lusture @320ml or Monoceren @200 ml in
+      200 litres of water per acre
+  utter_faq-agri-rice-b0/information-regarding-to-boron-deficiency-in-paddy:
+  - text: For the control of boron deficiency in paddy spray 200g Borex(sodium borate)
+      in 100 liters of water per acre.
+  utter_faq-agri-rice-b0/information-regarding-fungicide-for-paddy--root-rot:
+  - text: To control root rot disease in basmati ,seed and seedling treatment is mandatory.
+      Smear the seeds with talc formulation of Trichoderma harzianum @ 15 g/kg of
+      seed immediately before sowing and seedling root dip for 6 hrs with T. harzianum
+      @ 15 g/litre of water before transplanting.broadcast 2 kg trichoderma harzianum
+      per acre after transplanting mixed with 100kg FYM .if not available then buy
+      it from online.
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy:
+  - text: Broadcast 2 lt. Chlorpyriphos 20EC mix 2 lt. water and mix in 30 kg. dry
+      sand per acre in standing water.
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-stem-rot-in-paddy:
+  - text: control Stem rot in paddy Spray the affected crop with 200 ml Amistar Top
+      325 SC (azoxystrobin + difenconazole) per acre in 200 litres of water, at the
+      boot and ear-emergence stages.
+  utter_faq-agri-rice-b0/how-to-control-root-caterpilar-in-paddy-crop:
+  - text: For control of caterpillar in paddy apply 1 liter Chlorpyriphos 20 EC in
+      15-20 kg sand per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-of-larvae-in-paddy-roots:
+  - text: broadcast carbofuron 7-10kg per acre in paddy feild
+  utter_faq-agri-rice-b0/information-regarding-control-of-leaf-folder-in-basmati:
+  - text: For control of leaf folder in paddy, spray Ekalux 800 ml (Quinalphos25%
+      EC ) in 100 litres of water per acre
+  utter_faq-agri-rice-b0/information-regarding-control-of-leaf-folder-when-there-are-15-days-left-for-harvesting:
+  - text: No need to spray of any insecticide at this stage when there are 15 days
+      left for harvesting
+  utter_faq-agri-rice-b0/spray-for-the-control-of-grasshopper:
+  - text: For control of grasshopper in paddy, spray 120 GM chess(Pymetrozine 50 WG)
+      or 40 ml confidor(Imidacloprid 200 SL (17.8 % w/w) or Ekalux 800 ml (Quinalphos
+      25% EC ) or 1 liter Chlorpyriphos 20 EC in 100 litres of water per acre
+  utter_faq-agri-rice-b0/information-regarding-the-spray-against-brown-leaf-spot:
+  - text: For control of grasshopper in paddy, spray 120 GM chess(Pymetrozine 50 WG)
+      or 40 ml confidor(Imidacloprid 200 SL (17.8 % w/w) or Ekalux 800 ml (Quinalphos
+      25% EC ) or 1 liter Chlorpyriphos 20 EC in 100 litres of water per acre
+  utter_faq-agri-rice-b0/information-regarding-dose-furadan-in-rice:
+  - text: DOSE FURADAN IN RICE 5KG/ACRE.
+  utter_faq-agri-rice-b0/information-regarding-control-of-dose-of-zice--in-rice:
+  - text: To complete the Zinc deficiency in paddy spray 1 kg Zinc sulphate(21%) in
+      200 liters of water per acre .
+  utter_faq-agri-rice-b0/information--regarding-dying-of-plants-of-paddy:
+  - text: Take proper survey of field and ensure the disease before spray of any pesticide
+      and visit the near agriculture office to make sure the disease.
+  utter_faq-agri-rice-b0/information-regarding--paddy--damaged-in-flood:
+  - text: no need to apply any thing on paddy damaged in flood
+  utter_faq-agri-rice-b0/dose-of-acephate-use-in-paddy-crop:
+  - text: acephate 75% sp @ 1.5 gm/liter of water
+  utter_faq-agri-rice-b0/information-regarding-control-of-termite-in-rice-crop:
+  - text: o Control of termite in paddy apply Chlorpyriphos 20EC @ 1 litter mixing
+      with 25 to 30 kg sand per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-of-control-of-sheath-blight-in-rice:
+  - text: For control of sheath blight in basmati spray 200 ml Amistar Top 325 SC
+      (Azoxystrobin+Difenoconazole) or 80 gram Nativo 75 WG (Tebuconazole+Trifloxystrobin)
+      or 200 ml Folicur/Orius 25 EC (Tebuconazole) or 200 ml Moncerem 250 SC (Pencycuron)
+      in 200 liters of water per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-of-false-smut-in-rice:
+  - text: To control false smut in paddy spray 500 gram kocide(copper hydroxide) 46
+      DF or 200ml Tilt/Bumper 25 EC (propiconazole) in 200 litre of water per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-kernel-smut-in-rice-crop:
+  - text: FOR CONTROL OF KERNEL SMUT IN PADDY SPRAY TILT 25 EC @ 200 ML IN 200 LITRE
+      WATER PER ACRE.
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-fungus-in-basmati:
+  - text: spray amistar top 200 ml or nativo 80 gm in 200 liter
+  utter_faq-agri-rice-b0/information-regarding-the-control-of-fungal-disease-in-basmati:
+  - text: For control of fungal disease in basmati spray 200 ml Amistar Top 325 SC
+      (Azoxystrobin+Difenoconazole) or 80 gram Nativo 75 WG (Tebuconazole+Trifloxystrobin)
+      or 200 ml Folicur/Orius 25 EC (Tebuconazole) or 200 ml Moncerem 250 SC (Pencycuron)
+      in 200 liters of water per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-of-reddish-in-paddy:
+  - text: spray 1kg zinc sulphate in 100 litre of water/acre
+  utter_faq-agri-rice-b0/information-regarding-control-of-farrous-deficiency-in-paddy:
+  - text: To complete the iron deficiency in paddy spray 1 kg ferrous sulphate(19%)
+      in 100 liters of water per acre .
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-anthrachnose-disease-in-rice-crop:
+  - text: THE CONTROL OF ANTHRACNOSE DISEASE IN RICE CROP,PLS SPRAY 500GM SAAF(CARBENDAZIM12%+MANCOZEB63%WP)
+      /ACRE.
+  utter_faq-agri-rice-b0/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy:
+  - text: The best time to spray any chemical in the morning when less dew drops on
+      the leaves of paddy crop or in the evening.
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-sulphur-deficiency-in-paddy:
+  - text: APPLY 75 KG SUPER PHOSPHATE IN 1 ACRE AREA
+  utter_faq-agri-rice-b0/information-regarding-dose-of-urea-for-basmati-rice:
+  - text: Total urea required 130 kg in three equal parts after sowing 4 , 6 9 weeks
+  utter_faq-agri-rice-b0/information-regrading-to-control-of-broadleaf-weeds-in-rice:
+  - text: control broad leaf weeds in paddy spray 30 g per acre Algrip 20 WG (metsulfuron*)
+      or 50 g Sunrice15 WG (ethoxysulfuron) or 40 g Londex 60 DF (bensulfuron methyl)
+      or 16 g Segment 50 DF (azimsulfuron*) in 150 litres of water at 20 days after
+      transplanting.
+  utter_faq-agri-rice-b0/how-to-control-steam-borer-in-paddy-crop:
+  - text: FOR THE CONTROL OF RICE STEMBORER IN PADDY(JHONA) CROP,PLS APPLY 5KG CARTAP
+      HYDROCHLORIDE(PADAN) OR 4KG CHLORANTRANILIPROLE(FARTERA) PER ACRE.
+  utter_faq-agri-rice-b0/information-regarding-which-spray--should-be-done-at-booting-stage-in-paddy:
+  - text: Amistar top 200 ml and nativo 80gm can be done at booting or panicle inition
+      stage
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-army-worm-in-paddy:
+  - text: Spray 400 ml. Ekalux 25EC in 100 lt. of water per acre at evening time.
+  utter_faq-agri-rice-b0/information-regarding-control-of-black-bug-in-paddy:
+  - text: spray 1 liter chloropyriphos or 20 ml fame or 170 gram mortar in 100 liter
+      water in one acre area
+  utter_faq-agri-rice-b0/information-regarding-control-of-nematode-in-basmati-rice:
+  - text: For control nematode in paddy crop use furadan (Carbofuran) 8-10 kg per
+      acre mixed with sand
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-black-spots-on-grains-in-paddy-rice:
+  - text: Spray 200 ml. Tilt 25EC in 200 lt. of water per acre.
+  utter_faq-agri-rice-b0/how-to-control-thirips-in-paddy-crop:
+  - text: PRAY ACEPHATE 250 GM OR ACTARA 40 ML PER ACRE IN 100 LITRE OF WATER
+  utter_faq-agri-rice-b0/how-to-control-of-plant-hoper-in-paddy-crop:
+  - text: The plant hoppers can be controlled by spraying 120 g Chess 50 WG (pymetrozine)
+      or 40 ml Confidor 200 SL/Crocodile 17.8 SL (imidacloprid) or 800 ml Ekalux/Quinguard/Quinalmass
+      25 EC (quinalphos) in 100 litres of water per acre.
+  utter_faq-agri-rice-b0/information-regarding-yellow-rust-in-paddy:
+  - text: Spray- 200 ml tilt in 200 liter water /acre .
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-mangenege-deficiency:
+  - text: SPRAY 1 KG manganese sulphate IN 100 LITER OF WATER PER ACRE .
+  utter_faq-agri-rice-b0/how-to-control-bacterial-blight-disease-in-basmati-rice:
+  - text: OR CONTROL OF BACTERIAL BLIGHT IN PADDY SPRAY 500 GRAM BLITOX (COPPER OXYCHLORIDE)
+      AND 20 GRAM AGRIMYCIN OR 3 GRAM STREPTOCYCLINE IN 200 LITERS OF WATER PER ACRE
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-white-fly-in-paddy-crop:
+  - text: To control white fly in cotton in early stages spray 1 liter nimbecidine
+      per acre in 100 liters of water
+  utter_faq-agri-wheat-b1/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat:
+  - text: For pre-emergence control of weeds in wheat spray 1.5 liters of Stomp 30
+      EC (Pendamethalin) or 60 gram Awkira 85 WG(Pyroxasulfone) or 1 liter of Platform
+      38.5 SE(Pendimethalin 35%+Metribuzin 3.5%) in 200 liters of water per acre within
+      2 days of sowing of wheat.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-pre-emergence-stage-in-wheat:
+  - text: "Pre \u2013 emergent herbicide Pendimethalin 8 - 8.5 mL/L of water in 160-\
+      \ 180 litres of water for one acre of wheat crop at 0-3 days after sowing. Pendimethalin\
+      \ controls both grasses and broadleaved weeds on wheat eco system."
+  utter_faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation:
+  - text: "Syngenta - TOPIK \u2013 [clodinafop-propargyl ] at 0.75 \u2013 1 gm/L of\
+      \ water [or 160 gm per acre ] in160- 180 litres of water for one acre of wheat\
+      \ crop. Whip Super \u2013 [Fenoxaprop-p-ethyl 9.3 %] 100 mL per acre in 160-\
+      \ 180 litres of water for one acre of wheat crop."
+  utter_faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation:
+  - text: For control of grassy leaf weeds in wheat spray Isoprotouron 75 WP (300
+      gram for light soils, 400 gram in medium soils and 500 gram in heavy soils)
+      or 13 gram Leader/SF-10/Safal/Marksulfo 75 WG (Sulfosulfuron) in 150 liters
+      of water per acre before 2-3 days of first irrigation.
+  utter_faq-agri-wheat-b1/how-to-control-of-broad-leaf-weed-in-wheat-crop:
+  - text: For control of broad leaf weeds in wheat spray 250 gram 2,4-D Sodium salt
+      80 WP or 250 ml 2,4-D ethyl ester 38 EC or 10 gram Algrip/Algrip Royal/Markgrip/Makoto
+      (Metsulfuron 20 WP) or 20 gram Aim/Affinity (Carfentrazone-ethyl 40 DF) or 20
+      gram Lanfida (Metsulfuron+Carfentrazone 50 DF in 150 liters of water per acre
+      after first irrigation within 30-35 days of sowing of crop.Don't spray any of
+      above herbicides if any broad leaf crop is sown with wheat.
+  - text: For control of broad leaf weeds in wheat spray 250 g of 2,4 D sodium salt(80%)
+      or 250 ml of 2,4 D ethyl ester (38%), Algrip 20WP 10g, Aim/Affinity 40DF 20g,
+      Lanfida 50DF 20G in 150-200lt water per acre.
+  utter_faq-agri-wheat-b1/how-to-control-phalaris-minor-in-wheat-crop:
+  - text: Spray clodinaphos 15 WP(Topik/rakashak plus )@160 gram or phenoxadin 5 EC
+      (Axil) @400 mililiter or phenoxaprop-p-ethyl 10 EC (puma power) @400 mililiter
+      or salphoslfuran 75 WG (leader/s.f.10) @13 gram dissolve in 200 liter water
+      per acre after 30 -35 days after sowing .
+  - text: FOR THE CONTROL OF GULLI DANDA(PHALARIS MINOR) IN WHEAT CROP,PLS APPLY 160GM
+      CLODINAFOP 15% WP(TOPIK)OR 400ML PINOXADEN 5% EC(AXIAL) MIXED WITH 150LITRE
       OF WATER/ACRE.
-  utter_faq-agri-wheat-b3/can-3086-variety-of-wheat-be-sown-in-saline-soils:
-  - text: NO ANSWER
-  utter_faq-agri-wheat-b3/information-regarding-the-fertilizers-to-be-used-after-spraying-weedicide:
-  - text: NO ANSWER
-  utter_faq-agri-wheat-b3/information-regarding-the-npk-dose-in-acre:
-  - text: SPRAY NPK-19:19:19 1KG PER ACRE
-  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-in-wheat-before-irrigation:
-  - text: UREA-25KG+3KG SULPHUR 80%WDG.
-  utter_faq-agri-wheat-b3/information-regarding-the-batter-growth:
-  - text: spray npk @ 1kg in 100 liters of water / acre.
-  utter_faq-agri-wheat-b3/information-requirement-of-wheat-crop:
-  - text: "It grows best when temperatures are warm, from 70\xB0 to 75\xB0 F (21\xB0\
-      \ to 24\xB0 C), but not too hot. Wheat also needs a lot of sunshine, especially\
-      \ when the grains are filling. Areas with low humidity are better since many\
-      \ wheat diseases thrive in damp weather."
-  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-application:
-  - text: Fertilizers are chemical substances supplied to the crops to increase their
-      productivity. These are used by the farmers daily to increase the crop yield.
-      The fertilizers contain the essential nutrients required by the plants, including
-      nitrogen, potassium, and phosphorus.
-  utter_faq-agri-wheat-b3/information-regarding-dose-of-delta-methrine:
-  - text: SPRAY 160ML/100LITER /ACRE
-  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-sowing-of-wheat:
-  - text: FERT.DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG.
-  utter_faq-agri-wheat-b3/information-regarding-the-foliar-application-of-urea:
-  - text: spray 1.5 kg urea mix in 120 liters of water / acre.
-  utter_faq-agri-wheat-b3/information-regarding-suitable-time-of-1st-irrigation:
-  - text: SUITABLE TIME OF 1ST IRRIGATION IS -AFTER-25 DAYS.
-  utter_faq-agri-wheat-b3/information-regarding-nutrient-management-on-wheat:
-  - text: spray 1 kg NPK 13:0:45 in 100-150 L of water per acre.
-  utter_faq-agri-wheat-b3/information-regarding-broadcasting-of-urea-after-herbicide-spray:
-  - text: 7-8days after spary you can broadcasting urea fertilizer.
-  utter_faq-agri-wheat-b3/extra-water-in-wheat:
-  - text: no recomend of fertilizers.
-  utter_faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap:
-  - text: NO RECOMMANDATION OF SUPERPHOSPHATE IN WHEAT. IF DAP IS NOT AVAILABLE THEN
-      USE OF 150KG SUPER CAN BE DONE TO MEET THE REQUIERMENT OF 55KG DAP
-  utter_faq-agri-wheat-b3/information-regarding-control-of-nitrogen-in-wheat:
-  - text: SPRAY 3 KG UREA MIX IN 100 LITER WATER /ACRE.
-  utter_faq-agri-wheat-b3/information-regarding-expiry-date-of-manganese-sulphate:
-  - text: 5YEARS AFTER MANUFACTURING DATE.
-  utter_faq-agri-wheat-b3/information-regarding-standing-water-in-wheat:
-  - text: NO ANSWER
-  utter_faq-agri-wheat-b3/information-regarding-dose-of-leader-in-an-acre:
-  - text: for control of weeds in wheat, spray 160 gm topik (clodinafop 15 wp) or
-      13 gm leader (sulfosulfuron 75 wg) or 16 gm total (sulfosulfuron+metsulfuron
-      75 wg) in 100 litre water per acre after 30-35 days of sowing
-  utter_faq-agri-wheat-b3/information-regarding-poultry-manure-in-soil-before-wheat-sowing:
-  - text: apply 2.5 tonne per acre Poultry manure in soil before wheat sowing.
-  ? utter_faq-agri-wheat-b3/information-regarding-organic-gibberellic-acid-preparation-with-cow-dung-cakes-to-improve-the-growth
-  : - text: NO ANSWER
-  utter_faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat:
-  - text: urea can be applied 7-9 days after spraying weedicides for the better results
+  utter_faq-agri-wheat-b1/information-regarding-for-the-control-of-herbs-in-wheat-crop:
+  - text: FOR THE CONTROL OF HERBS IN WHEAT CROP,SPRAY 160GM TOPIK+20GM AFFINITY/ACRE.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-narrow-leaf-weeds:
+  - text: SPRAY 160HGM TOPIK IN 150LT WATER/ACRE.
+  - text: SPRAY 400ML AXIAL IN 150LT WATER/ACRE.
+  utter_faq-agri-wheat-b1/information-regarding-nozzle-used-in-herbicide-in-wheat-crop:
+  - text: Nozzle used in herbicide in wheat crop is Flat fan or Flood jet nozzle for
+      pre- emergence and only Flat fan for post- emergence.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-weed-in-non-cropped-area:
+  - text: For control of weed in non cropped area or uncultivated area or free area
+      & The weeds in non-cropped areas like on farm, roads, waterchannels etc. can
+      be controlled by spray of Gramoxone 24 SL (paraquat dichloride) @ 0.25 to 0.5%
+      (250 to 500 ml in 100 litres of water).
+  utter_faq-agri-wheat-b1/information-regarding-post-emergence-weed-control-in-wheat:
+  - text: FOR CONTROL OF WEEDS IN WHEAT, SPRAY 160 GM TOPIK (CLODINAFOP) OR 13 GM
+      LEADER (SULFOSULFURON) OR 400 ML AXIAL (PINOXADEN) IN 100-120 LITRE WATER ER
+      ACRE.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-before-1st-irrigation-stage-in-wheat:
+  - text: For control of weeds in Post-emergence (Before 1st irrigation) stage in
+      wheat spray Isoprotruron 75WP 300-400g or Leader 75WG (sulfosulfuron) 13g in
+      150 lt water per acre.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-after-1st-irrigation-stage-in-wheat:
+  - text: For control of weeds in Post-emergence (After 1st irrigation) stage in wheat
+      spray Topik 15WP (clodinafop)160g ,Axial 5EC (pinoxaden) 400ml ,Puma Power 10EC
+      (fenoxaprop-p-ethyl) 400ml in 150lt water 30-35days.
+  utter_faq-agri-wheat-b1/how-to-control-wild-oat-in-wheat-crop:
+  - text: To control wild oats in wheat spray 400 ml. Axial (Pinoxaden 5EC) in 150
+      lt. of water per acre after 30-35 days after sowing.
+  - text: To control Jangli Javi in wheat spray 400 ml. Axial (Pinoxaden 5EC) or 160
+      gm. Topik or 13 gm. Leader in 150 lt. of water per acre after 30-35 days after
+      sowing.
+  utter_faq-agri-wheat-b1/information-regarding-how-to-control-mixed-weeds-in-wheat:
+  - text: SPRAY (ATLANTIS)3.6 WDG @ 160GM IN 150 LTR OF WATER /ACRE.
+  utter_faq-agri-wheat-b1/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-tellering-stage:
+  - text: Growth regulator used in wheat crop at time of tellering stage spray N:P:K
+      19:19:19 1kg in 120lt water per acre.
+  utter_faq-agri-wheat-b1/kandiali-palak-in-wheat:
+  - text: spray algrip 10 gram in 150 lites of water per acre
+  utter_faq-agri-wheat-b1/how-to-control-medicago-denticulata-in-wheat-crop:
+  - text: spray allgrip 10g in 100liters water per acre.
+  utter_faq-agri-wheat-b1/information-regaridng-dose-of-topik-in-an-acre:
+  - text: 160GM IN 100LT WATER/ACRE.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-nematodes-affected-plant-in-wheat:
+  - text: CONTROL OF NEMATODES AFFECTED PLANT IN WHEAT - APPLY 4KG FURADAN PER ACRE
+      .
+  utter_faq-agri-wheat-b1/information-regarding-the-salt-of-sagun-21-11:
+  - text: SALT OF SAGUN 21-11 IS KLOCINAFOP AND METRIBUZJIN
+  utter_faq-agri-wheat-b1/information-regarding-to-control-of-bathu-in-the-wheat-crop:
+  - text: Spray Algrip/Algrip Royal/Markgrip/ Makoto 20 WP (metsulfuron*) 10 g in
+      150 l water or Aim/Affinity 40 DF (carfentrazone-ethyl*) 20 g in 200 l water
+  utter_faq-agri-wheat-b1/information-regarding-glyphosate-41%SL:
+  - text: glyphosate 41 %SL USE FOR WEED CONTROL
+  utter_faq-agri-wheat-b1/how-to-control-trigoneela-polycerata-in-wheat-crop:
+  - text: spray affinity 40df @ 20g in 200 liters watr per acre.
+  utter_faq-agri-wheat-b1/how-to-control-melilotus-indica-in-wheat-crop:
+  - text: spray allgrip 10g in 100 liters water per acre.
+  utter_faq-agri-wheat-b1/information-regarding-irrigate-the-field-after-herbicide-spray:
+  - text: field should irrigate after 7-8 days after herbicide spray in wheat crop.
+  utter_faq-agri-wheat-b1/how-to-control-malva-neglecta-in-wheat-crop:
+  - text: spray aim 40df @ 20g in 200 liters water per acre.
 config:
   store_entities_as_slots: true
 session_config:
