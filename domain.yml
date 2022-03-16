@@ -10,6 +10,7 @@ intents:
 - goodbye
 - ok
 - faq-agri-rice-b0
+- faq-agri-rice-b1
 - faq-agri-wheat-b1
 responses:
   utter_faq-agri-wheat-b3/information-regarding-dose-of-fertilizers-in-wheat-crop:
@@ -565,6 +566,59 @@ responses:
   utter_faq-agri-rice-b0/information-regarding-for-the-control-of-white-fly-in-paddy-crop:
   - text: To control white fly in cotton in early stages spray 1 liter nimbecidine
       per acre in 100 liters of water
+  utter_faq-agri-rice-b1/information-regarding-the-role-of-regent-in-paddy:
+  - text: it is a insectiside it do not promote growth among plants
+  utter_faq-agri-rice-b1/information-regarding-dose-of-fertilizers-in-rice:
+  - text: Total fertilizer dose in Paddy:- 90 Kg. Urea, 27 Kg. DAP or 75 kg superphosphate
+      or and 20 Kg. Potash per acre. Skip phosphorus application if recommended dose
+      of phosphorus had been applied to the preceding wheat crop and apply muriate
+      of potash on the basis of a soil test. apply DAP or super and potash at the
+      time of puddling,apply urea at first,third and sixth week after transplanting.
+  utter_faq-agri-rice-b1/information-regarding-time-or-date-of-transplanting-of-rice:
+  - text: Time of Date of Transplanting of Rice after 15June.
+  utter_faq-agri-rice-b1/fertilizer-dose-in-rice-after-sowing:
+  - text: add 26kg of urea after 15 days and then after four week
+  utter_faq-agri-rice-b1/information-regarding-mycorrhiza-apply-in-paddy-field:
+  - text: broadcast mychorrihzae 3kg in a one acre
+  utter_faq-agri-rice-b1/information-regarding-control-of-termite-in-paddy:
+  - text: To Control of termite in paddy apply Chlorpyriphos 20EC @ 1 litter mixing
+      with 25 to 30 kg sand per acre.
+  utter_faq-agri-rice-b1/information-regarding-plant-growth-regulator-in-paddy:
+  - text: growth regulator used in Paddy at tillering stage spray NPK 13:0:45 1kg
+      in 100litre of water.
+  utter_faq-agri-rice-b1/information-regarding-dose-of-poultary-yard-manure-in-paddy:
+  - text: dose of poultry yard manure is 2.5 ton per acre in paddy .it saves 55kg
+      urea per acre.
+  utter_faq-agri-rice-b1/information-regarding-problem-of-water-stagnating-in-paddy-crop:
+  - text: No recommendation of any remedy. Drain out the water from the field
+  utter_faq-agri-rice-b1/information-regarding-control-of-pest-in--paddy:
+  - text: for control of pest in paddy apply 1 liter Chlorpyrifos 20 EC mixed with
+      15-20 kg of sand per acre.
+  utter_faq-agri-rice-b1/information-regarding-control-of-hispa-in-paddy:
+  - text: For control of Hispa in Paddy spray 1 liter Chlorpyriphos 20 Ec or 800 ml
+      Ekalaux in 100 liters of water per acre.
+  utter_faq-agri-rice-b1/information-regarding-drainage-problem-in-paddy-feild:
+  - text: braodcast sulphur 80% 4 kg per acre mix with sand
+  utter_faq-agri-rice-b1/information-regading-control-of-rats-in-paddy-feild:
+  - text: Take 1 kg wheat or bajra , 20 gram basmati oil , 20 gram powder sugar ,
+      25 gram zinc phosphoid then mix all of them and make 10 gram of 100 balls .broadcast
+      40 balls per acre .
+  utter_faq-agri-rice-b1/information-regarding-bluegreen-algae-in-paddy:
+  - text: Blue-green algae is good for paddy crop,it helps to fix nitrogen in field.
+  utter_faq-agri-rice-b1/information-regarding-dificency-of-npk-in-rice:
+  - text: SPRAY NPK 19:19:19 @ 1 KG IN 100 LITER/ACRE.
+  utter_faq-agri-rice-b1/information-regarding--application-of-water-after-broadcasting-urea-in-field:
+  - text: DRAIN WATER FROM FIELD AND APPLY UREA THEN IRRIGATION SHOULD BE PROVIDED
+      NEXT DAY
+  ? utter_faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result
+  : - text: 12 hours is sufficient gap between spray of urea and rain for better result.
+  utter_faq-agri-rice-b1/information-regarding-urea-dose-in-paddy-seedlings:
+  - text: BROADCAST 1KG UREA MIX SAND/ACRE
+  utter_faq-agri-rice-b1/rice-leaves-turn-into-the-white-colour:
+  - text: apply 1kg ferrous sulphate into the one acre.
+  utter_faq-agri-rice-b1/information-regarding-broadcast-dap-in-paddy:
+  - text: to complete the deficiency of phosphorous spray 1.5 kg DAP per acre in 100
+      liters of water in paddy crop.
   utter_faq-agri-wheat-b1/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat:
   - text: For pre-emergence control of weeds in wheat spray 1.5 liters of Stomp 30
       EC (Pendamethalin) or 60 gram Awkira 85 WG(Pyroxasulfone) or 1 liter of Platform

@@ -1,0 +1,259 @@
+version: "3.0" 
+nlu: 
+
+- intent: faq-agri-rice-b1/information-regarding-the-role-of-regent-in-paddy
+  examples: |
+    - information regarding the role of regent in paddy?
+    - What role does the regent in paddy?
+    - Is the role of the regent in paddy important?
+    - What is the role of regent in paddy?
+    - The role of the regent in paddy?
+    - What is the role of the regent in paddy?
+    - How does regent work in paddy?
+    - What are the Role of a regent in a paddy bank?
+- intent: faq-agri-rice-b1/information-regarding-dose-of-fertilizers-in-rice
+  examples: |
+    - information regarding dose of fertilizers in rice ?
+    - How can I suck fertilizers into rice?
+    - What is the correct dose of fertilizers in rice?
+    - Do fertilizers make rice?
+    - Does fertilizers increase with the amount of rice?
+    - Is there a reference for dose of fertilizers in rice?
+    - What is the dose of fertilizers in rice?
+    - Information regarding dose of fertilizers in rice?
+    - Do fertilizers work on rice?
+    - What is the dose of fertilizers and its uses in rice?
+    - How much fertilizer can be used on rice?
+    - information regarding fertilizers dose in basmati rice crop?
+    - What is the dose of fertilizer used in Basmati rice?
+    - What is the correct fertilizers dose for basmati rice?
+    - What's the dose of fertilizers for basmati rice?
+    - What are the fertilizers to be used in a basmati rice crop?
+    - Which fertilizers are the best for basmati rice crop?
+- intent: faq-agri-rice-b1/information-regarding-time-or-date-of-transplanting-of-rice
+  examples: |
+    - information regarding time or date of transplanting of rice?
+    - How do I know the time or date of transplantation of rice?
+    - How long before transplanting the rice?
+    - How do I know the date of transplantation of rice?
+    - What information concerning date or time of transplanting of rice?
+    - What information regarding time or date of transplanting rice?
+    - What is the correct time or date to transplant rice?
+    - When does rice transplantation begin?
+    - How can we know about time or date of transplant of rice?
+    - Why does the rice have no seeds?
+    - What is the time/date of transplanting of rice in India?
+- intent: faq-agri-rice-b1/fertilizer-dose-in-rice-after-sowing
+  examples: |
+    - fertilizer dose in rice after sowing?
+    - In what form should fertilizer dose be applied in rice after sowing?
+    - Do nutriers are best to use on rice after sowing?
+    - Do fertilizer tablets are necessary in rice after sowing?
+    - After sowing how much fertilizer is absorbed in rice?
+    - What fertilizer dose is used to fertilize rice after it has dried?
+    - What fertilizer dose is given to rice after sowing?
+    - Is there fertilizer you can give to rice after sowing?
+    - Glucose fertilizer dose in rice after sowing?
+    - Do fertilizer doses in rice after sowing?
+    - How to grow rice after sowing?
+- intent: faq-agri-rice-b1/information-regarding-mycorrhiza-apply-in-paddy-field
+  examples: |
+    - information regarding mycorrhiza apply in paddy field?
+    - How do I learn mycorrhiza in paddy field?
+    - How do I obtain mycorrhiza control information for paddy field?
+    - Is there any application for mycorrhiza study in paddy field?
+    - How can I get more knowledge for mycorrhiza applied in paddy field?
+    - How can the information regarding mycorrhiza apply in paddy field?
+    - How can I get the best information regarding mycorrhiza?
+    - How can I get mycorrhiza information about paddy field?
+    - What information regarding mycorrhiza apply in paddy field?
+    - How will mycorrhiza affect paddy field?
+    - How should the mycorrhizae be treated with Paddy's field?
+- intent: faq-agri-rice-b1/information-regarding-control-of-termite-in-paddy
+  examples: |
+    - information regarding control of termite in paddy ?
+    - What is the best way to control termites in paddy?
+    - What is the best information regarding control of termite in paddy?
+    - How do I control termites in a paddy?
+    - How do we control termites in paddy?
+    - Do termites in Paddy soil get rid of?
+    - What are the ways to control termite in paddy?
+    - How can I control termites in paddy?
+    - What are the control measures for termites in paddy?
+    - What is the best way to control termite infestation in paddy?
+- intent: faq-agri-rice-b1/information-regarding-plant-growth-regulator-in-paddy
+  examples: |
+    - information regarding plant growth regulator in paddy ?
+    - What is the plant growth regulator for paddy?
+    - What is the best information regarding plant growth regulator in paddy?
+    - What is the growth regulator of a paddy?
+    - What is the plant growth regulator in paddy?
+    - What is the information regarding plant growth regulator in paddy?
+    - What is the plant growth regulator used for paddy?
+    - How do you get more information regarding plant growth regulator in paddy?
+    - How do I get plant growth regulator for paddy?
+- intent: faq-agri-rice-b1/information-regarding-dose-of-poultary-yard-manure-in-paddy
+  examples: |
+    - information regarding dose of poultary yard manure in paddy  ?
+    - How much yard manure is needed in paddy?
+    - What is the difference between poultary yard manure and straw straw?
+    - How are Poultary yard manures used in paddy?
+    - Does Poultary yard manure have any harmful chemicals in it?
+    - What is the dose of poultary manure in paddy?
+    - Do we need to use poultary yard manure in paddy?
+    - Do you have any information regarding dose of poultary yard manure in paddy?
+    - Does poultary manure enter the compost?
+    - How much Poultary manure can be used in paddy?
+    - Is there any recommendation about the dosing of poultary yard manure in paddy?
+- intent: faq-agri-rice-b1/information-regarding-problem-of-water-stagnating-in-paddy-crop
+  examples: |
+    - information regarding problem of water stagnating in paddy crop ?
+    - Is water stagnation good for the paddy crop?
+    - What are some tips about water stagnation in paddy crop?
+    - What is the problem of stagnant water in the paddy crop?
+    - Is it possible to solve the problem of water stagnation in paddy crop?
+    - What's the problem of water stagnation in paddy crop?
+    - How do I deal with water stagnation in paddy crop?
+    - How is it possible to fix water stagnation problem of paddy crops?
+    - What is the cause of stagnant water in paddy crop?
+    - In Pakistan, Is there any problem of water stagnation in paddy crop?
+    - What are the reasons for water stagnation in paddy crop?
+- intent: faq-agri-rice-b1/information-regarding-control-of-pest-in--paddy
+  examples: |
+    - information regarding control of pest in  paddy ?
+    - How can I control a pest in rice fields?
+    - How should I control herb pest in paddy?
+    - How do we control pests in paddy?
+    - How do I remove pests on my kale crop?
+    - What is the best way to control a weed in paddy?
+    - How do I get rid of pests from my paddy?
+    - What is the control of pests in paddy?
+    - What should be done for pest control of paddy?
+    - How can I control pests in paddy?
+    - How do I control a pest in paddy?
+- intent: faq-agri-rice-b1/information-regarding-control-of-hispa-in-paddy
+  examples: |
+    - information regarding control of hispa in paddy ?
+    - How can I control hispa in paddy?
+    - What are some useful information regarding control of hispa in paddy?
+    - How can I control my P.A.?
+    - How much do I control mypa infection in paddy?
+    - How do I control hispa in milk?
+    - How do I reduce Hispa in Paddy?
+    - How do I treat hispa in paddy?
+    - How can I control mypa in paddy?
+    - How do you control Hispa infection in paddy?
+    - What are the reasons for the high hispa rate in paddy?
+- intent: faq-agri-rice-b1/information-regarding-drainage-problem-in-paddy-feild
+  examples: |
+    - information regarding drainage problem in paddy feild?
+    - What is the drainage problem in paddy feild?
+    - What is drainage problem in paddy feild?
+    - How do I fix drainage problem in paddy feild?
+    - What is the drainage problem in paddyfield?
+    - What is the problem of drainage in paddy field?
+    - How do I solve drainage problems in paddy feild?
+    - What is drainage problem in Paddy feild?
+    - How do we solve drainage problem in paddy feild?
+    - What are the drainage problems in paddyfield?
+- intent: faq-agri-rice-b1/information-regading-control-of-rats-in-paddy-feild
+  examples: |
+    - information regading control of rats in paddy feild ?
+    - Control of rats in paddy feild?
+    - When should rats be controlled in paddy feild?
+    - How should I control rats in paddy feild?
+    - Control of rats in paddy soil?
+    - Is there any information regading control of rats in paddy feild?
+    - Control of rats in paddyfield?
+    - Why do rats eat hay in paddy feild?
+    - Is there a way to treat rats in paddy feild?
+- intent: faq-agri-rice-b1/information-regarding-bluegreen-algae-in-paddy
+  examples: |
+    - information regarding blue-green algae in paddy?
+    - What are blue-green algae?
+    - How can I identify blue-green algae in paddy?
+    - What is blue green algae in paddy?
+    - What's the colour and description of blue-green algae in paddy?
+    - Are blue-green algae in poop considered to be harmless? If so, what are the facts?
+    - What is blue green algae? How do you remove it?
+    - What are the examples of blue-green algae in paddy?
+    - What is the history of bluegreen algae in paddy?
+    - How do you know the chemistry of blue green algae in paddy?
+    - How does blue green algae of paddy affect the greenery and ozone in water?
+- intent: faq-agri-rice-b1/information-regarding-dificency-of-npk-in-rice
+  examples: |
+    - information regarding dificency of npk in rice?
+    - Is NPK a necessary amino acid in rice?
+    - Is there any data to support NPK in Rice?
+    - Does rice have NPK in it? Is npk in rice good or bad?
+    - What are some interesting differences in NPK (number of particles) for rice?
+    - Is there any evidence for npk in rice?
+    - Does npk in rice increase with rice meal?
+    - If I want to increase NPK in rice, can I substitute rice flour?
+    - Is it possible to get specific information about the npk ratio of rice?
+    - What are the facts regarding the npk in rice?
+    - Is there any evidence for the dificency of NPK in rice?
+- intent: faq-agri-rice-b1/information-regarding--application-of-water-after-broadcasting-urea-in-field
+  examples: |
+    - information regarding  application of water after broadcasting urea in field ?
+    - How do we know about the application of water after broadcasting urea in field?
+    - What is the information regarding application of water after broadcasting urea in field?
+    - How is applying water after broadcasting urea in field?
+    - How do I apply water after washing urea in field?
+    - What is the application of water after the broadcast of urea in field?
+    - What is the application of water after broadcasting of urea in field?
+    - How is the application of water after the urea harvesting?
+    - How can I apply water after water is broadcasting?
+    - What is the application of water after broadcasting urea in field?
+- intent: faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result
+  examples: |
+    - information regarding the sufficient time gap between the application of urea and rain for better result?
+    - Do urea and rain need to be applied at the same time?
+    - What is the time gap between the application of urea and the urea-powder for good result?
+    - What is the sufficient time between application of urea and rain for better result?
+    - How long is the time gap between application of urea and rain?
+    - How do you determine the time gap between application of urea and rain for better result?
+    - Is there sufficient time gap between application of urea and rain for best result?
+    - How long does it take to process urea in the rain when the time between application is equal to the time for a well-reacted urine solution?
+    - Is there sufficient time gap between urea application and rain?
+    - What is the time difference between urea and rain for good result in the application of urea or the resultant?
+    - Why is the time gap between application of urea and rain for better result not observed?
+- intent: faq-agri-rice-b1/information-regarding-urea-dose-in-paddy-seedlings
+  examples: |
+    - information regarding urea dose in paddy seedlings?
+    - How much urea dose in a seedling?
+    - Is there any information regarding urea dose in paddy seedlings?
+    - What are the details about the urea dose in paddy seedlings?
+    - Why is urea a problem in the seedlings?
+    - How is urea dose measured in paddy seedlings?
+    - Can you get the urea dose of paddy seedlings?
+    - How do I determine urea dose in paddy seedlings?
+    - How much urea dose should paddy seedlings receive?
+    - How does the administration of urea in paddy seedlings sputter?
+    - How many urea doses is in a paddy seedling?
+- intent: faq-agri-rice-b1/rice-leaves-turn-into-the-white-colour
+  examples: |
+    - rice leaves turn into the white colour?
+    - How do rice leaves turn white?
+    - Why do rice leaves turn white?
+    - How can rice leaf turn to white or yellow?
+    - Can the rice leaf turn into white?
+    - Why do rice leaves turn white in colour after drying?
+    - Are the whiter leaves from rice turning to white?
+    - How can you make a rice leaf white?
+    - Rice leaves turn into white colour?
+    - Why do rice leaves turn yellow in colour?
+    - How does rice turn into white colour?
+- intent: faq-agri-rice-b1/information-regarding-broadcast-dap-in-paddy
+  examples: |
+    - information regarding broadcast dap in paddy ?
+    - How does broadcast dap change in paddy?
+    - How can I get broadcast dap and dp for paddy?
+    - What is the DAP for broadcasting in Paddy?
+    - How do I get the broadcast daps in paddy?
+    - What is the procedure of broadcast dap in paddy?
+    - What is broadcast dap in paddy?
+    - What is the information regarding broadcast daps in paddy?
+    - How many days after broadcast dap in paddy?
+    - Why broadcast dap in paddy?
+    - How is broadcast dap system in paddy card?
