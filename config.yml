@@ -62,6 +62,10 @@ pipeline:
     epochs: 100
     retrieval_intent: faq-agri-rice-b1
 
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-rice-b2
+
   - name: FallbackClassifier
     threshold: 0.90
     ambiguity_threshold : 0.1

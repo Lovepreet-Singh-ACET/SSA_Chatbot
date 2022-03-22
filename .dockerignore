@@ -1,2 +1,4 @@
 *.xlsx
 *.csv
+/CSV/
+/Py_scripts

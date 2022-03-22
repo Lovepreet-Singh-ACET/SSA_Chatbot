@@ -1,4 +1,4 @@
 /models/
 *.csv
-.rasa/
+/.rasa/
 /CSV/

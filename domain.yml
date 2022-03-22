@@ -12,6 +12,7 @@ intents:
 - faq-agri-rice-b0
 - faq-agri-rice-b1
 - faq-agri-wheat-b1
+- faq-agri-rice-b2
 responses:
   utter_faq-agri-wheat-b3/information-regarding-dose-of-fertilizers-in-wheat-crop:
   - text: Varieties of Wheat are-Unnat PBW 343(Yield-23.2 quintal),Unnat PBW 550(Yield-23
@@ -716,6 +717,60 @@ responses:
   - text: field should irrigate after 7-8 days after herbicide spray in wheat crop.
   utter_faq-agri-wheat-b1/how-to-control-malva-neglecta-in-wheat-crop:
   - text: spray aim 40df @ 20g in 200 liters water per acre.
+  utter_faq-agri-rice-b2/information-regarding-sowing-time-of--basmati:
+  - text: 15-30 june sowing time of basmati rice .
+  utter_faq-agri-rice-b2/sowing-time-of-direct-seedling-of-basmati:
+  - text: For direct Sowing of Rice 1-15 June is best time for sowing.
+  utter_faq-agri-rice-b2/sowing-seaosn-of-basmati:
+  - text: sowing season of the basmati start from the first july.
+  utter_faq-agri-rice-b2/information-regarding-time-of-nursery-sowing:
+  - text: The basmati nursery sowing is start from 1st june.
+  utter_faq-agri-rice-b2/information-regarding-for-the-suitable-sowing-time-of-paddyjhona:
+  - text: THE SUITABLE SOWING TIME OF PADDY(JHONA) IS -NORMAL & HYBRID VARIETIES-15
+      TO 25MAY & BASMATI VARIETIES-FIRST WEEK OF JUNE .
+  utter_faq-agri-rice-b2/informtion-regarding-application-of-padan-in-paddy-nursery:
+  - text: no recommendation of padan/regent/fertera or any granular insecticides in
+      paddy.but recommended in basmati if attack of stem borer and leaf folder not
+      for growth.
+  utter_faq-agri-rice-b2/information-regarding-the-detail-of-hybrid-paddy-cultivation:
+  - text: The cultivation of hybrid paddy in Punjab is prohibited by the government
+      of Punjab because it has high percentage of broken grains which create problem
+      in marketing due to quality measurement.
+  utter_faq-agri-rice-b2/information-regarding-seed-treatment-of-basmati-seedlings:
+  - text: SEED TREATED WITH BAVESTEIN 20GM MIX WITH 1GM STEPTOCYCLINE IN 10 LITRE
+      OF WATER
+  utter_faq-agri-rice-b2/information-regarding-for-the-seed-treatment-of-paddyjhona:
+  - text: SOAK THE SELECTED SEED IN 10 LITRE OF WATER CONTIANING 20GM BAVISTIN & 1
+      GRAM STREPTOCYCLIN
+  utter_faq-agri-rice-b2/information-regarding-planting-time-of-basmati-crop:
+  - text: PLANTING TIME OF BASMATI:-10 JULY.
+  utter_faq-agri-rice-b2/information-regarding-plantation-of-basmati-rice:
+  - text: MID OF JUNE
+  utter_faq-agri-rice-b2/information-regarding-the-sowing-time-of-rice-in-punjab:
+  - text: THE SOWING TIME OF RICE IN PUNJAB IS STARTING FROM 1st OF june
+  utter_faq-agri-rice-b2/number-of-rice-plant-require-in-one-one-square-meter:
+  - text: 33 plant require for one sqruare meter.
+  utter_faq-agri-rice-b2/information-regarding-moisture-content-of-rice:
+  - text: Moisture content should be 14 % of paddy to sell in mandi
+  utter_faq-agri-rice-b2/information-regarding-for-the-control-of-weeds-in-paddyjhona-crop:
+  - text: FOR THE CONTROL OF WEEDS IN PADDY NURSERY SPRAY 120 ML NOMINY GOLD PER ACRE
+      AFTER 15-25 DAYS OF SOWING.
+  utter_faq-agri-rice-b2/information-regarding-when-to-use-weedcide-just-after-transplantation:
+  - text: BROADCAST 600 ML RIFIT MIXED WITH 60 KG SAND IN STANDING WATER AFTER 3 DAYS
+      OF TRANSPLANTING
+  utter_faq-agri-rice-b2/information-regarding-control-of-weeds-in-paddy:
+  - text: To control weeds in paddy spray nominee gold/macho (Bispyribac-sodium 10%
+      SC) 100 ml in 150 liters of water per acre(0.66 ml per liter of water) and irrigation
+      may be applied one day after spray.
+  utter_faq-agri-rice-b2/telll-me-control-weeed-in-blank--field:
+  - text: SPRAY GLYPHOSATE 4 LTR / HEC
+  utter_faq-agri-rice-b2/information-regarding-spacing-in-direct-seeded-rice:
+  - text: Spacing in Direct Seeded Rice row to row spacing is 20cm and Depth is 2-3cm.
+  utter_faq-agri-rice-b2/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-paddy:
+  - text: DRENCH THE SEEDLINGS WITH WATER SPRAYER TANK
+  utter_faq-agri-rice-b2/information-regarding-application-of--pre-emergence-weedicide:
+  - text: take proper survey to ensure the disease or nutrient deficiency or visit
+      the near agriculture office.
 config:
   store_entities_as_slots: true
 session_config:

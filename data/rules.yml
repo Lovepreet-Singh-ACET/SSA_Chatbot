@@ -77,3 +77,8 @@ rules:
   steps:
   - intent: faq-agri-rice-b1
   - action : action_viz_faq
+
+- rule: for rice batch 2
+  steps:
+  - intent: faq-agri-rice-b2
+  - action : action_viz_faq
