@@ -749,7 +749,7 @@ responses:
   utter_faq-agri-rice-b2/information-regarding-the-sowing-time-of-rice-in-punjab:
   - text: THE SOWING TIME OF RICE IN PUNJAB IS STARTING FROM 1st OF june
   utter_faq-agri-rice-b2/number-of-rice-plant-require-in-one-one-square-meter:
-  - text: 33 plant require for one sqruare meter.
+  - text: 66 plant require for one sqruare meter.
   utter_faq-agri-rice-b2/information-regarding-moisture-content-of-rice:
   - text: Moisture content should be 14 % of paddy to sell in mandi
   utter_faq-agri-rice-b2/information-regarding-for-the-control-of-weeds-in-paddyjhona-crop:

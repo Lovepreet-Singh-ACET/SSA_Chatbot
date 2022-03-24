@@ -2,3 +2,4 @@
 *.csv
 /.rasa/
 /CSV/
+/test_results/

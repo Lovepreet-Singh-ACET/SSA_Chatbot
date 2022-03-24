@@ -4,7 +4,7 @@ nlu:
 - intent: faq-agri-rice-b2/information-regarding-sowing-time-of--basmati
   examples: |
     - information regarding sowing time of  basmati?
-    - How did basmati get sowing time?
+    - What is the sowing time of basmati rice
     - Is sowing time of basmati known or not?
     - What is the sowing time of basmati?
     - When will the sowing time be for basmati?

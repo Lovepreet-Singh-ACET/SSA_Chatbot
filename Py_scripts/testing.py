@@ -1,11 +1,11 @@
 """
-This file is used to test the questions present in the faq spreadsheet
+This file is used to test the questions
 """
 import requests
 import json
 import pandas as pd
 
-data = pd.read_csv("/home/ubuntu/SSA/SSA_Chatbot/CSV/test_set_rice_b1.csv")
+data = pd.read_csv("/home/ubuntu/SSA/SSA_Chatbot/CSV/test_set_rice_b2.csv")
 # print(data)
 question_list = []
 original_answer_list = []
@@ -45,5 +45,4 @@ for index, row in data.iterrows():
         pass
 
 df = pd.DataFrame({"question": question_list, "bot_answer": bot_answer_list, "orginal_answer": original_answer_list , "confidence": confidence_list, "Correct": correct_pred_or_not})
-
-df.to_csv("results.csv", index=False)
+df.to_csv("/home/ubuntu/SSA/SSA_Chatbot/test_results/test_set_rice_b2_results.csv", index=False)
