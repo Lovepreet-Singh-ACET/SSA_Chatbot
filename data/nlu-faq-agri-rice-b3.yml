@@ -1,0 +1,232 @@
+version: "3.0" 
+nlu: 
+
+- intent: faq-agri-rice-b3/information-regarding-application-of-farmyard-manure-before-paddy-transplanting
+  examples: |
+    - information regarding application of farmyard manure before paddy transplanting ?
+    - How does apply farmyard manure before paddy transplanting?
+    - How do I know if I can apply manure to farmyard after pddy transplantation?
+    - Is it possible to apply farmyard manure before transplanting the of the paddy?
+    - What information do you have regarding application of farmyard manure before paddy transplanting?
+    - How do I apply farmyard manure before the paddy transplantation?
+    - Information regarding application of farmyard manure before paddy transplantation?
+    - How should I apply farmyard manure before paddy transplanting?
+    - application of farmyard manure before paddy transplantation?
+- intent: faq-agri-rice-b3/infroamtion-regarding-biofertilizer-treatment-of-paddy-nuresery-before-transplanting
+  examples: |
+    - information regarding biofertilizer treatment of paddy nuresery before transplanting ?
+    - How to do biofertilizer treatment of paddy nuresery before transplant?
+    - Is it necessary to do biofertilizer treatment of paddy nuresery before transplanting?
+    - Info regarding biofertilizer treatment of paddy nuresery before transplant?
+    - quantity of biofertilizer to apply on paddy nuresery before transplant?
+    - How much biofertilizer can be used to treat paddy nuresery before transplant?
+    - What are the biofertilizers used for paddy nuresery before transplant?
+    - Is the biofertilizer treatment of paddy nuresery before transplanting safe?
+    - Is biofertilizer therapy of paddy nuresery prior to transplanting recommended?
+    - information regarding biofertilizer used during transplation?
+    - Is biofertilizer used during transplation beneficial?
+    - What is biofertilizer used during transplation of paddy?
+    - In what way biofertilizer used in transplation?
+    - What is the use of biofertilizer during transplation of paddy?
+    - What are the biofertilizers used in transplation?
+    - How do we know regarding biofertilizer used during transplation?
+    - Biofertilizer used before transplation of paddy?
+- intent: faq-agri-rice-b3/information-regarding-water-management-in-transplanted-paddy-or-basmati
+  examples: |
+    - information regarding water management in transplanted paddy or basmati ?
+    - How can I manage water in transplanted paddy or basmati?
+    - water management of transplanted paddy or basmati information?
+    - What are some water management practices for transplanted paddy or basmati?
+    - How is water management done in transplanted paddy or basmati?
+    - Information regarding water management in transplanted paddy or basmati?
+    - How do transplanted paddy and basmati soils perform their water management?
+    - How is water management of an Indian paddy or basmati plant maintained?
+    - Water management information for transplanted paddy or basmati?
+- intent: faq-agri-rice-b3/information-regarding-the-best-method-of-puddling-in-paddy
+  examples: |
+    - information regarding the best method of puddling in paddy?
+    - What is the best way to puddle in paddy?
+    - Is there any method to puddle with paddy?
+    - How can I puddle in a paddy?
+    - Which is the best method to puddle in paddy?
+    - How do I start puddling my rice field?
+    - What are the best ways to puddle rice?
+    - How can I puddle my paddy field?
+    - What is the best method for puddling in a paddy?
+    - What are the best ways of puddling in rice?
+- intent: faq-agri-rice-b3/information-regarding--cultural-practices-in-paddy-before-burrying-of-dhaincha
+  examples: |
+    - information regarding cultural practices in paddy before burrying of dhaincha?
+    - What are some religious practices practiced in Paddy before the dhaincha?
+    - How do we know regarding cultural practices in paddy before the Burrying of Dhaincha?
+    - What are some of the cultural practices Paddy before Burrying of Dhaincha?
+    - What are some cultural practices during paddy before dhaincha?
+    - What is the culture of Paddy before dhaincha?
+    - What is the cultural practice of paddy before the dhaincha burried in field?
+- intent: faq-agri-rice-b3/information-regarding-storage-of-paddy-after-harvesting
+  examples: |
+    - information regarding storage of paddy after harvesting.
+    - What is the way to store paddy after harvesting?
+    - How do I store fresh paddy after harvest?
+    - How do you store paddy after harvest?
+    - How do you store rice after harvest?
+    - What should be the storage method for paddy after harvest?
+    - How can I store rice or paddy after harvest?
+    - How are paddy harvests stored?
+    - How can I store paddy after it's harvest?
+    - what is the safe way to store paddy after harvest?
+- intent: faq-agri-rice-b3/information-regarding-land-preparation--for-paddy-transplanting-field
+  examples: |
+    - information regarding land preparation for paddy transplanting field?
+    - What are the best land preparation methods for paddy transplantation field?
+    - Is there any land preparation required for paddy transplantation field?
+    - How do I prepare the field for paddy transplantation?
+    - What are the best methods of land preparation for paddy transplanting field?
+    - How do I do land preparation for paddy transplantation?
+    - What is land preparation method for paddy transplanting and how do I prepare it?
+    - What is the information regarding paddy transplantation field?
+- intent: faq-agri-rice-b3/information-regarding-spacing-between-plant-to-plant-in-basmati
+  examples: |
+    - information regarding spacing between plant to plant in basmati ?
+    - What is the spacing between plant to plant in basmati?
+    - In Basmati and other soils, what is the spacing between plants varies?
+    - What are the spacing requirements between plant and plant in basmati?
+    - What are the reasons for spacing between plants in Basmatis?
+    - How can I determine spacing between plants in basmati?
+    - What is the spacing between plant and plant in Basmati?
+    - information regarding spacing in rice or paddy?
+    - What is the spacing of basmati rice?
+    - How much spacing is required in basmati rice plants?
+    - what is spacing in basmati plants?
+    - What is the importance of spacing in basmati?
+    - How can you tell me about the spacing in basmati stone?
+    - What is the information regarding spacing in basmati?
+    - How do I know the spacing of a rice plants?
+    - What is the spacing in rice?
+- intent: faq-agri-rice-b3/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy
+  examples: |
+    - information regarding the best time of day to spray any chemical on paddy?
+    - When is the best time to spray a chemical on paddy?
+    - Is it best to spray chemicals on a paddy in morning?
+    - The best time of day to spray any chemical on rice?
+    - which is the best time to spray chemical over rice plants?
+    - Why is it the best time of day to spray on paddy?
+    - What is the best time to spray chemicals on paddy?
+    - What is the best time of the day to spray a chemical on paddy?
+    - What is the best time of day to spray a chemical on the rice plant?
+- intent: faq-agri-rice-b3/information--regarding-straw-management-of-rice
+  examples: |
+    - information  regarding straw management of rice ?
+    - How do you manage the straw in rice?
+    - Information regarding straw management of rice?
+    - What is straw management of rice?
+    - How can straw be managed in rice?
+    - What is the straw management for rice?
+    - What are straw management techniques used for rice?
+    - How are straw management guidelines related to rice?
+    - how can the straws in rice managed?
+- intent: faq-agri-rice-b3/information-regarding-root-treatment-of-paddy-nusery-before-transplanting
+  examples: |
+    - information regarding root treatment of paddy nusery before transplanting ?
+    - What are some information regarding root treatment of paddy nusery before transplanting?
+    - Is it necessary to treat rice root in nusery before transplanting?
+    - What is the procedure for root treatment of rice seeds before transplanting?
+    - How do I use root treatment in paddy nusery before transplanting?
+    - What is best root treatment technique for paddy nusery transplantation?
+    - How can we transplant paddy nusery root before transplantation?
+    - What is best treatment for rice root in nusery before transplantation?
+    - What is the information regarding root treatment of rice nusery before transplant?
+    - What is the root treatment for paddy before transplanting?
+    - how to do root treatment of paddy before transplanting
+- intent: faq-agri-rice-b3/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown
+  examples: |
+    - information regarding can seedling of paddy can be sown in same land where previous year it has sown ?
+    - Is it possible that seedling of paddy can be sown in the same land where it has sown last year?
+    - Can seedling of paddy be sown in same land where previous year it has sown?
+    - Can seedlings of rice be sown in same field where previous year it has sown?
+    - Do seedling of paddy can be sown in same land where previous year it has sown?
+    - Can rice seedlings be sown in the same land where previous year it has sown?
+    - can seedling of paddy be sown in same land where previous year it has sown?
+    - can I sown seedlings of rice on the same field where rice was sown previously
+- intent: faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-alkali-soil
+  examples: |
+    - information regarding the cultivation of paddy in alkali soil ?
+    - How can I plant paddy in alkali soil?
+    - What is the best information about cultivation of paddy in alkali soil?
+    - What are the ways following which I can plant paddy in alkali soil?
+    - how can i do cultivation of paddy in alkali soil?
+    - How can you grow paddy in alkali soil?
+    - Can paddy be grown in alkali soil?
+    - Information concerning the cultivation of paddy in alkali soil?
+    - How can I grow paddy in alkaline soil?
+    - to plant rice in alkali soil what should be done?
+- intent: faq-agri-rice-b3/information-regarding-application-of-oil-cakes-in-paddy
+  examples: |
+    - information regarding application of oil cakes in paddy ?
+    - What is the method of applying oil cakes to paddy?
+    - How do I apply oil cakes in paddy?
+    - Can I apply oil cakes in a paddy?
+    - When is oil cake applied in Paddy?
+    - how can oil cakes be applied in rice crop
+    - is it possible to apply oil cakes to rice or paddy
+    - in paddy crop how can i apply oil cake
+- intent: faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-poor-quality-water
+  examples: |
+    - information regarding the cultivation of paddy in poor quality water ?
+    - Are the cultivators of Rice growing in poor water?
+    - Information regarding the cultivation of Rice in poor quality water?
+    - What is the information regarding the cultivation of paddy in poor quality water?
+    - What are the requirements to grow paddy in poor quality water (Karabakh)?
+    - How do I plant paddy in poor quality water?
+    - How do I cultivate rice in poor quality water?
+    - Do we have any information regarding the cultivation of paddy in poor quality water?
+    - is it possible to cultivate rice in poor quailty water
+    - can I get good quality rice if cultivated with poor quality water
+- intent: faq-agri-rice-b3/how-to-increase-the-water-absorbing-capacity-of-soil
+  examples: |
+    - how to increase the water absorbing capacity of soil ?
+    - How can I increase the water absorption capacity of soil?
+    - How do I increase the water absorbing capacity of soil?
+    - How to increase the water absorbing capacity of soil?
+    - What are some ways to increase the water absorbing capacity of soil?
+    - How do I increase water absorbing capacity of soil?
+    - How can we increase the water absorbing capacity of soil?
+    - How can I increase water absorbing capacity in soil?
+    - what are the ways to increase what absorbing capabilities of soil
+    - can water absorbing power of soil be increased.
+- intent: faq-agri-rice-b3/information-regarding-application-of-booster-for-paddy-crop
+  examples: |
+    - information regarding application of booster for paddy crop?
+    - What is the application of boosters for paddy crops?
+    - How is a booster for rice crop application?
+    - What is the application of booster for rice crop?
+    - How do I apply boosters for paddy crops?
+    - How does a booster for paddy crop work?
+    - What is a requirement for the application of booster in rice crop?
+    - How can I apply booster for paddy crop?
+    - do i need to apply booster in paddy crop
+    - should I apply booster in rice crop
+- intent: faq-agri-rice-b3/information-regarding-application-of-urea-in-paddy-after-transplanting
+  examples: |
+    - information regarding application of urea in paddy after transplanting?
+    - How long should I wait before application of urea in paddy after transplantation?
+    - What are some advantages of applying urea in a paddy after transplanting?
+    - How can we use urea after transplantation in paddy after it has been completely dried?
+    - What is the application of urea in paddy after transplanting?
+    - can i apply urea after the transplantation of paddy crop
+    - is it recommended to spray urea after transplanting rice crop?
+    - do we need to spray urea after rice plan transplanting and if so how much should i spray
+    - in paddy should i apply urea after transplantation is done
+- intent: faq-agri-rice-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application-in-paddy
+  examples: |
+    - information regarding the gap between the herbicide spray and urea application in paddy ?
+    - How could I estimate the gap between herbicide spray and urea application in paddy?
+    - What is the relationship between herbicide spraying and urea application in paddy?
+    - How can I know the gap between herbicide spray and urea application in pddy?
+    - Tell me regarding the time gap between the herbicide spray and urea application in paddy?
+    - What are the differences between herbicide and urea application in paddy?
+    - should there be any time difference between herbicide spray and urea application in paddy?
+    - What is the time difference between herbicide spray and urea application in paddy?
+    - what amount of time gap should be between herbicide spray and urea in rice
+    - In rice plants how much time gap should be there in the herbicide spray and urea spray?
+    - i want to know after how much time gap should i spray urea after herbicide is sprayed.
