@@ -12,6 +12,9 @@ nlu:
     - What are the sowing time spectra of Basmati?
     - How much sowing time is available in basmati?
     - What is sowing time for Basmati?
+    - when should i sow rice crop
+    - what could be the best time to sow rice
+    - when to sow basmati seeds?
 - intent: faq-agri-rice-b2/sowing-time-of-direct-seedling-of-basmati
   examples: |
     - sowing time of direct seedling of basmati?
@@ -28,15 +31,15 @@ nlu:
 - intent: faq-agri-rice-b2/sowing-seaosn-of-basmati
   examples: |
     - sowing seaosn of basmati?
+    - in which season should i sow basmati rice
     - What is the sowing seaosn of basmati?
-    - Sowing seaosn of basmati?
     - What is the merits of sowing seaosn of basmatis?
     - How do you sow seaosn of basmati?
-    - Sowing Seaosn of basmati?
     - Sowing Seaosn of basmati seeds?
+    - in which month to sow basmati?
     - How do you start sowing seaosn of basmati?
     - What are the ways of sowing seaosn in basmati?
-    - Sowing Seaosn of Basmati?
+    - which season is for Sowing Basmati?
 - intent: faq-agri-rice-b2/information-regarding-time-of-nursery-sowing
   examples: |
     - information regarding time of nursery sowing?

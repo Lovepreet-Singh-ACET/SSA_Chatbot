@@ -1,0 +1,38 @@
+version: "3.0" 
+intents: 
+  - faq-agri-rice-b4
+responses:
+  utter_faq-agri-rice-b4/information-regarding-hydroponic-technique: 
+  - text: No Answer
+  utter_faq-agri-rice-b4/information-regarding--how-to-manage-water-in-nursery-seedling: 
+  - text: In the paddy nursery seedling just have to make optimum moisture in the feild
+  utter_faq-agri-rice-b4/information-regarding-how-to-manage-water-in-booting-stage: 
+  - text: Optimum moisture should be maintained at booting stage
+  utter_faq-agri-rice-b4/information-regarding-to-improve-the-drainage-of-water: 
+  - text: Take a soil test, apply fertilizers according to soil test to improve the drainage of soil.
+  utter_faq-agri-rice-b4/information-regarding-thiamethoxam-25--wg-chemical--is-used-for: 
+  - text: Thiamethoxam 25 % WG is used for insecticide not for fungus control.
+  utter_faq-agri-rice-b4/information-regarding-technical-names-of-folicur-and-chloro: 
+  - text: folicur is tebuconazole and in chloro is chloropyriphos.
+  utter_faq-agri-rice-b4/information-regarding-best-time-for--fodder-crop: 
+  - text: No Answer
+  utter_faq-agri-rice-b4/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didnt-sprout: 
+  - text: giving excess irrigation to seed result into poor sprouting
+  utter_faq-agri-rice-b4/information-regarding-paddy-commom-seed-storage-in-home: 
+  - text: PADDY (COMMON) CAN BE STORED IN HOME UPTO 2 YEARS AND PADDY (HYBRID) IS NOT SUITABLE FOR STORAGE.
+  utter_faq-agri-rice-b4/information-regarding-waste-decomposer-use-in-paddy-straw: 
+  - text: FOR PREPARING WASTE DECOMPOSER TAKE 2 KG JAGGERY AND ONE BOTTLE OF WASTE DECOMPOSER ADDED IN 200 LITER OF WATER. AFTER 5 DAYS THE MIXTURE TURNS CREAMY . THE MIXTURE COULD BE PREPARED AGAIN FROM PREVIOUS MIXTURE BY TAKING 20 LITERS OF PREVIOUS MIXTURE.
+  utter_faq-agri-rice-b4/information-regarding-the-how-to-remove-the-water-from-paddy-field: 
+  - text: Remove the water from field manually it damages the crop if crop is properly dipped in the water.
+  utter_faq-agri-rice-b4/information-regarding-standing-water-in-paddy-field: 
+  - text: standing water more than 1-2 days leads to growth retardation in paddy field.
+  utter_faq-agri-rice-b4/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water: 
+  - text: If the crop is properly dip in the water for long time than it can become harmful for crop but if the level of water below the height of crop then it can survive.
+  utter_faq-agri-rice-b4/information-regarding-the-submission-of-farms-to-the-agricultural-office-if-you-do-not-burn-the-paddy-straw: 
+  - text: No Answer
+  utter_faq-agri-rice-b4/information-regarding-preventing-the-paddy-field-from-cracks: 
+  - text: The prevent the paddy field from cracking apply the irrigation before the field develop cracks.
+  utter_faq-agri-rice-b4/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field: 
+  - text: To remove wheat stubble burning ash from paddy nursery field apply light irrigation and remove the water from other side of the field . 
+  utter_faq-agri-rice-b4/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil: 
+  - text: No any special variety of paddy is recommended by Punjab Agricultural University Ludhiana for light textured soil.

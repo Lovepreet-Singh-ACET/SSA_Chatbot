@@ -4,6 +4,7 @@ intents:
 - faq-agri-wheat-b2
 - faq-agri-wheat-b5
 - faq-agri-wheat-b4
+- faq-agri-rice-b4
 - faq-hort-dummycrop-b0
 - faq-agri-wheat-b0
 - greet
@@ -20,8 +21,8 @@ responses:
       quintal), PBW 1 zinc(Yield-22.5 quintal), PBW 725(Yield-22.9 quintal), PBW 677(Yield-22.4
       quintal), HD 3086(Yield-23 quintal),HD 2967(Yield-21.4 quintal), WH 1105(Yield-23.1
       quintal), PBW 621(Yield-21.1 quintal) and PBW 550(Yield-20.8 quintal).
-  ? utter_faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it
-  : - text: 10TH DAY AFTER 1ST IRRIGATION IS SUITABLE TIME OF THE MAGANESE SULPHATE
+  utter_faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it:
+  - text: 10TH DAY AFTER 1ST IRRIGATION IS SUITABLE TIME OF THE MAGANESE SULPHATE
         SPRAY IN WHEAT & DOSE PER ACRE OF IT IS 1KG IN 150 LITER OF WATER / ACRE.
   utter_faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat:
   - text: TOTAL DOSE OF UREA IN WHEAT IS-90-110KG/ACRE
@@ -173,8 +174,8 @@ responses:
       75 wg) in 100 litre water per acre after 30-35 days of sowing
   utter_faq-agri-wheat-b3/information-regarding-poultry-manure-in-soil-before-wheat-sowing:
   - text: apply 2.5 tonne per acre Poultry manure in soil before wheat sowing.
-  ? utter_faq-agri-wheat-b3/information-regarding-organic-gibberellic-acid-preparation-with-cow-dung-cakes-to-improve-the-growth
-  : - text: NO ANSWER
+  utter_faq-agri-wheat-b3/information-regarding-organic-gibberellic-acid-preparation-with-cow-dung-cakes-to-improve-the-growth:
+  - text: NO ANSWER
   utter_faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat:
   - text: urea can be applied 7-9 days after spraying weedicides for the better results
   utter_faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat:
@@ -197,8 +198,8 @@ responses:
       days 5th irrigation 100-105 days 6th irrigation 115-120 days
   utter_faq-agri-wheat-b5/information-regarding-place-of-soil-test:
   - text: no answer
-  ? utter_faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation
-  : - text: "Scrap away surface litter and make a V-shaped cut with a khurpa to a\
+  utter_faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation:
+  - text: "Scrap away surface litter and make a V-shaped cut with a khurpa to a\
         \ depth of 6 inches. Remove about 1\u201D thick uniform slice of soil from\
         \ one side of the cut. Similarly, collect samples from 7 to 8 places in the\
         \ field of uniform texture and uniform fertility. Put the samples in a clean\
@@ -228,6 +229,52 @@ responses:
   - text: 4ml dose is recomended for per kg seed.
   utter_faq-agri-wheat-b4/information-regarding-dose-of-raxil-for-wheat-seed-treatment:
   - text: RAXIL DOSE-1GM/KG.
+  utter_faq-agri-rice-b4/information-regarding-hydroponic-technique:
+  - text: No Answer
+  utter_faq-agri-rice-b4/information-regarding--how-to-manage-water-in-nursery-seedling:
+  - text: In the paddy nursery seedling just have to make optimum moisture in the
+      feild
+  utter_faq-agri-rice-b4/information-regarding-how-to-manage-water-in-booting-stage:
+  - text: Optimum moisture should be maintained at booting stage
+  utter_faq-agri-rice-b4/information-regarding-to-improve-the-drainage-of-water:
+  - text: Take a soil test, apply fertilizers according to soil test to improve the
+      drainage of soil.
+  utter_faq-agri-rice-b4/information-regarding-thiamethoxam-25--wg-chemical--is-used-for:
+  - text: Thiamethoxam 25 % WG is used for insecticide not for fungus control.
+  utter_faq-agri-rice-b4/information-regarding-technical-names-of-folicur-and-chloro:
+  - text: folicur is tebuconazole and in chloro is chloropyriphos.
+  utter_faq-agri-rice-b4/information-regarding-best-time-for--fodder-crop:
+  - text: No Answer
+  utter_faq-agri-rice-b4/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didnt-sprout:
+  - text: giving excess irrigation to seed result into poor sprouting
+  utter_faq-agri-rice-b4/information-regarding-paddy-commom-seed-storage-in-home:
+  - text: PADDY (COMMON) CAN BE STORED IN HOME UPTO 2 YEARS AND PADDY (HYBRID) IS
+      NOT SUITABLE FOR STORAGE.
+  utter_faq-agri-rice-b4/information-regarding-waste-decomposer-use-in-paddy-straw:
+  - text: FOR PREPARING WASTE DECOMPOSER TAKE 2 KG JAGGERY AND ONE BOTTLE OF WASTE
+      DECOMPOSER ADDED IN 200 LITER OF WATER. AFTER 5 DAYS THE MIXTURE TURNS CREAMY
+      . THE MIXTURE COULD BE PREPARED AGAIN FROM PREVIOUS MIXTURE BY TAKING 20 LITERS
+      OF PREVIOUS MIXTURE.
+  utter_faq-agri-rice-b4/information-regarding-the-how-to-remove-the-water-from-paddy-field:
+  - text: Remove the water from field manually it damages the crop if crop is properly
+      dipped in the water.
+  utter_faq-agri-rice-b4/information-regarding-standing-water-in-paddy-field:
+  - text: standing water more than 1-2 days leads to growth retardation in paddy field.
+  utter_faq-agri-rice-b4/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water:
+  - text: If the crop is properly dip in the water for long time than it can become
+      harmful for crop but if the level of water below the height of crop then it
+      can survive.
+  utter_faq-agri-rice-b4/information-regarding-the-submission-of-farms-to-the-agricultural-office-if-you-do-not-burn-the-paddy-straw:
+  - text: No Answer
+  utter_faq-agri-rice-b4/information-regarding-preventing-the-paddy-field-from-cracks:
+  - text: The prevent the paddy field from cracking apply the irrigation before the
+      field develop cracks.
+  utter_faq-agri-rice-b4/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field:
+  - text: To remove wheat stubble burning ash from paddy nursery field apply light
+      irrigation and remove the water from other side of the field .
+  utter_faq-agri-rice-b4/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil:
+  - text: No any special variety of paddy is recommended by Punjab Agricultural University
+      Ludhiana for light textured soil.
   utter_faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop:
   - text: dummy answer for horticulture.
   utter_faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop:
@@ -612,8 +659,8 @@ responses:
   utter_faq-agri-rice-b1/information-regarding--application-of-water-after-broadcasting-urea-in-field:
   - text: DRAIN WATER FROM FIELD AND APPLY UREA THEN IRRIGATION SHOULD BE PROVIDED
       NEXT DAY
-  ? utter_faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result
-  : - text: 12 hours is sufficient gap between spray of urea and rain for better result.
+  utter_faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result:
+  - text: 12 hours is sufficient gap between spray of urea and rain for better result.
   utter_faq-agri-rice-b1/information-regarding-urea-dose-in-paddy-seedlings:
   - text: BROADCAST 1KG UREA MIX SAND/ACRE
   utter_faq-agri-rice-b1/rice-leaves-turn-into-the-white-colour:
@@ -805,14 +852,11 @@ responses:
       the leaves of paddy crop or in the evening.
   utter_faq-agri-rice-b3/information--regarding-straw-management-of-rice:
   - text: use MB plough to manage the rice straw.it can be easily decompose.
-  ? utter_faq-agri-rice-b3/information-regarding-that-what-we-can-do-if-the-age-of-paddy-seedling-is-more-than-40-days-before-transplanting
-  : - text: Apply 3.25 kg urea per kanal to the paddy nursery to keep it immature
-        if the transplanting of paddy is not possible before the 40 days.
   utter_faq-agri-rice-b3/information-regarding-root-treatment-of-paddy-nusery-before-transplanting:
   - text: Root treatment of paddy nusery before transplanting 2 gm bavistan in 1 litre
       of water for 6 hour before sown.
-  ? utter_faq-agri-rice-b3/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown
-  : - text: Yes, you can
+  utter_faq-agri-rice-b3/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown:
+  - text: Yes, you can
   utter_faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-alkali-soil:
   - text: Apply 7.5 kg Super phosphate, 3.25 kg urea, 5 kg zinc sulphate 21% or 3
       kg Zinc sulphate 33% per kanal at before sowing and apply 3.25 kg urea after

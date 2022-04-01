@@ -63,6 +63,7 @@ nlu:
     - What are some cultural practices during paddy before dhaincha?
     - What is the culture of Paddy before dhaincha?
     - What is the cultural practice of paddy before the dhaincha burried in field?
+    - how to operate in paddy before burying of dhaincha?
 - intent: faq-agri-rice-b3/information-regarding-storage-of-paddy-after-harvesting
   examples: |
     - information regarding storage of paddy after harvesting.
@@ -90,10 +91,10 @@ nlu:
     - information regarding spacing between plant to plant in basmati ?
     - What is the spacing between plant to plant in basmati?
     - In Basmati and other soils, what is the spacing between plants varies?
-    - What are the spacing requirements between plant and plant in basmati?
+    - What is the distance requirements between plant and plant in basmati?
     - What are the reasons for spacing between plants in Basmatis?
     - How can I determine spacing between plants in basmati?
-    - What is the spacing between plant and plant in Basmati?
+    - What is the required distance between plant and plant in Basmati?
     - information regarding spacing in rice or paddy?
     - What is the spacing of basmati rice?
     - How much spacing is required in basmati rice plants?
@@ -103,28 +104,31 @@ nlu:
     - What is the information regarding spacing in basmati?
     - How do I know the spacing of a rice plants?
     - What is the spacing in rice?
+    - arrangement between plant to plant in basmati ?
+    - distance between plant to plant in basmati ?
 - intent: faq-agri-rice-b3/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy
   examples: |
     - information regarding the best time of day to spray any chemical on paddy?
     - When is the best time to spray a chemical on paddy?
     - Is it best to spray chemicals on a paddy in morning?
     - The best time of day to spray any chemical on rice?
-    - which is the best time to spray chemical over rice plants?
+    - which is the best time to spray chemical fertilizer over rice plants?
     - Why is it the best time of day to spray on paddy?
     - What is the best time to spray chemicals on paddy?
     - What is the best time of the day to spray a chemical on paddy?
-    - What is the best time of day to spray a chemical on the rice plant?
+    - What is the best time of day to spray a chemical fertilizer on the rice plant?
 - intent: faq-agri-rice-b3/information--regarding-straw-management-of-rice
   examples: |
     - information  regarding straw management of rice ?
     - How do you manage the straw in rice?
     - Information regarding straw management of rice?
-    - What is straw management of rice?
-    - How can straw be managed in rice?
+    - What is straw management of paddy?
+    - How can straw be managed in paddy?
     - What is the straw management for rice?
     - What are straw management techniques used for rice?
     - How are straw management guidelines related to rice?
     - how can the straws in rice managed?
+    - how to manage the straw which is the byproduct of paddy
 - intent: faq-agri-rice-b3/information-regarding-root-treatment-of-paddy-nusery-before-transplanting
   examples: |
     - information regarding root treatment of paddy nusery before transplanting ?
@@ -145,9 +149,11 @@ nlu:
     - Can seedling of paddy be sown in same land where previous year it has sown?
     - Can seedlings of rice be sown in same field where previous year it has sown?
     - Do seedling of paddy can be sown in same land where previous year it has sown?
-    - Can rice seedlings be sown in the same land where previous year it has sown?
+    - Can rice seedlings be sown in the same land where last year it has sown?
     - can seedling of paddy be sown in same land where previous year it has sown?
     - can I sown seedlings of rice on the same field where rice was sown previously
+    - is it possible for seedling the paddy on the same land in the corresponding adjacent years
+    - can we do rice seedling in the same land for two years continuously
 - intent: faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-alkali-soil
   examples: |
     - information regarding the cultivation of paddy in alkali soil ?
@@ -166,10 +172,11 @@ nlu:
     - What is the method of applying oil cakes to paddy?
     - How do I apply oil cakes in paddy?
     - Can I apply oil cakes in a paddy?
-    - When is oil cake applied in Paddy?
-    - how can oil cakes be applied in rice crop
-    - is it possible to apply oil cakes to rice or paddy
+    - When is press cake applied in Paddy?
+    - how can press cakes be applied in rice crop
+    - is it possible to apply press cakes to rice or paddy
     - in paddy crop how can i apply oil cake
+    - implementation of press cakes in paddy?
 - intent: faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-poor-quality-water
   examples: |
     - information regarding the cultivation of paddy in poor quality water ?

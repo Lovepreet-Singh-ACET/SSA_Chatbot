@@ -116,8 +116,8 @@ nlu:
     - How do I deal with water stagnation in paddy crop?
     - How is it possible to fix water stagnation problem of paddy crops?
     - What is the cause of stagnant water in paddy crop?
-    - In Pakistan, Is there any problem of water stagnation in paddy crop?
-    - What are the reasons for water stagnation in paddy crop?
+    - water has stopped in paddy crop how to deal with it.
+    - water not flowing in rice will it be a problem.
 - intent: faq-agri-rice-b1/information-regarding-control-of-pest-in--paddy
   examples: |
     - information regarding control of pest in  paddy ?
@@ -160,26 +160,26 @@ nlu:
   examples: |
     - information regading control of rats in paddy feild ?
     - Control of rats in paddy feild?
-    - When should rats be controlled in paddy feild?
-    - How should I control rats in paddy feild?
-    - Control of rats in paddy soil?
-    - Is there any information regading control of rats in paddy feild?
+    - When should mouse be controlled in rice feild?
+    - How should I control mouse in paddy feild?
+    - Control of mouse in paddy soil?
+    - Is there any information regading control of rats in rice feild?
     - Control of rats in paddyfield?
-    - Why do rats eat hay in paddy feild?
-    - Is there a way to treat rats in paddy feild?
+    - how to get rid of mice from rice field
+    - Is there a way to treat rats in rice feild?
+    - how to control rat in rice crop area
 - intent: faq-agri-rice-b1/information-regarding-bluegreen-algae-in-paddy
   examples: |
     - information regarding blue-green algae in paddy?
-    - What are blue-green algae?
+    - What are the recommended ways to remove blue-green algae?
     - How can I identify blue-green algae in paddy?
     - What is blue green algae in paddy?
-    - What's the colour and description of blue-green algae in paddy?
-    - Are blue-green algae in poop considered to be harmless? If so, what are the facts?
-    - What is blue green algae? How do you remove it?
-    - What are the examples of blue-green algae in paddy?
-    - What is the history of bluegreen algae in paddy?
-    - How do you know the chemistry of blue green algae in paddy?
-    - How does blue green algae of paddy affect the greenery and ozone in water?
+    - can i use any spary to kill the blue green algae from rice
+    - What is blue green algae? How do you remove it from my paddy or rice field?
+    - what can be done to get rid of blue green algae from rice crop
+    - how to remove blue green algae from rice crop
+    - how to control algae in paddy crop
+    - How does blue green algae of paddy affect the crop
 - intent: faq-agri-rice-b1/information-regarding-dificency-of-npk-in-rice
   examples: |
     - information regarding dificency of npk in rice?
