@@ -11,6 +11,7 @@ intents:
 - goodbye
 - ok
 - faq-agri-rice-b0
+- faq-hort-chilli-b0
 - faq-agri-rice-b1
 - faq-agri-wheat-b1
 - faq-agri-rice-b2
@@ -21,8 +22,8 @@ responses:
       quintal), PBW 1 zinc(Yield-22.5 quintal), PBW 725(Yield-22.9 quintal), PBW 677(Yield-22.4
       quintal), HD 3086(Yield-23 quintal),HD 2967(Yield-21.4 quintal), WH 1105(Yield-23.1
       quintal), PBW 621(Yield-21.1 quintal) and PBW 550(Yield-20.8 quintal).
-  utter_faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it:
-  - text: 10TH DAY AFTER 1ST IRRIGATION IS SUITABLE TIME OF THE MAGANESE SULPHATE
+  ? utter_faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it
+  : - text: 10TH DAY AFTER 1ST IRRIGATION IS SUITABLE TIME OF THE MAGANESE SULPHATE
         SPRAY IN WHEAT & DOSE PER ACRE OF IT IS 1KG IN 150 LITER OF WATER / ACRE.
   utter_faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat:
   - text: TOTAL DOSE OF UREA IN WHEAT IS-90-110KG/ACRE
@@ -174,8 +175,8 @@ responses:
       75 wg) in 100 litre water per acre after 30-35 days of sowing
   utter_faq-agri-wheat-b3/information-regarding-poultry-manure-in-soil-before-wheat-sowing:
   - text: apply 2.5 tonne per acre Poultry manure in soil before wheat sowing.
-  utter_faq-agri-wheat-b3/information-regarding-organic-gibberellic-acid-preparation-with-cow-dung-cakes-to-improve-the-growth:
-  - text: NO ANSWER
+  ? utter_faq-agri-wheat-b3/information-regarding-organic-gibberellic-acid-preparation-with-cow-dung-cakes-to-improve-the-growth
+  : - text: NO ANSWER
   utter_faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat:
   - text: urea can be applied 7-9 days after spraying weedicides for the better results
   utter_faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat:
@@ -198,8 +199,8 @@ responses:
       days 5th irrigation 100-105 days 6th irrigation 115-120 days
   utter_faq-agri-wheat-b5/information-regarding-place-of-soil-test:
   - text: no answer
-  utter_faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation:
-  - text: "Scrap away surface litter and make a V-shaped cut with a khurpa to a\
+  ? utter_faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation
+  : - text: "Scrap away surface litter and make a V-shaped cut with a khurpa to a\
         \ depth of 6 inches. Remove about 1\u201D thick uniform slice of soil from\
         \ one side of the cut. Similarly, collect samples from 7 to 8 places in the\
         \ field of uniform texture and uniform fertility. Put the samples in a clean\
@@ -264,8 +265,8 @@ responses:
   - text: If the crop is properly dip in the water for long time than it can become
       harmful for crop but if the level of water below the height of crop then it
       can survive.
-  utter_faq-agri-rice-b4/information-regarding-the-submission-of-farms-to-the-agricultural-office-if-you-do-not-burn-the-paddy-straw:
-  - text: No Answer
+  ? utter_faq-agri-rice-b4/information-regarding-the-submission-of-farms-to-the-agricultural-office-if-you-do-not-burn-the-paddy-straw
+  : - text: No Answer
   utter_faq-agri-rice-b4/information-regarding-preventing-the-paddy-field-from-cracks:
   - text: The prevent the paddy field from cracking apply the irrigation before the
       field develop cracks.
@@ -615,6 +616,80 @@ responses:
   utter_faq-agri-rice-b0/information-regarding-for-the-control-of-white-fly-in-paddy-crop:
   - text: To control white fly in cotton in early stages spray 1 liter nimbecidine
       per acre in 100 liters of water
+  utter_faq-hort-chilli-b0/information-regarding-red-beetle-control-in-chllies:
+  - text: spray [Napthyl Acetic Acid 4.5 SL (4.5 % w/w)] 400 ml /acre mix 100 ltr
+      water
+  utter_faq-hort-chilli-b0/information-regarding-insectpest-in-chillies:
+  - text: SPRAY MALATHION @400ML IN 100-125 LITRE WATER PER ACRE.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-mites-in-chilli:
+  - text: CONTROL MITES IN CHILIES SPRAY ACTARA 3 GRAM OR CONFIDOOR 4 ML / 10 LTR
+      WATER
+  utter_faq-hort-chilli-b0/information-regarding-control-of-spider-mites-in-chiili:
+  - text: Spray of 200 ml Rogor 30 EC in 100 liter of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-diamondback-moth-in-chilll:
+  - text: For the control of Diamond-back moth in chilli spray 420ml Spinosad 2.5SC
+      or 70gm Proclaim 5SG(emamectin benzoate) or 130ml Avant 15.8EC(indoxacarb) using
+      80-100lt of water.
+  utter_faq-hort-chilli-b0/information-regarding-to-control-of-root-rot-in-chilli:
+  - text: Control of root rot in chillies - Broadcast 500g SAAF (12% carbendazim 63%
+      WP mancozeb ) with sand
+  utter_faq-hort-chilli-b0/information-regarding-how-to-control-stem-rot-in-chillies:
+  - text: CONTROL STEM ROT BY SPRAYING OF 300GM SAAF IN 100LITRE WATER/ACRE IN CHILLI(MIRCH).
+  utter_faq-hort-chilli-b0/how-to-control-of-yellow-spots-in-chillies:
+  - text: APPLY SIXER 1/2 KG PER 120 LITRE OF WTAER PER ACRE
+  utter_faq-hort-chilli-b0/information-regarding-control-of-catrepiller-in-chilies:
+  - text: spray coragen 1 ml in 2 liter of water for control of caterpillar
+  utter_faq-hort-chilli-b0/information-regarding-control-sundi-in-chillies:
+  - text: spray coragen @ 40gm in 150LTR of water per acre .
+  utter_faq-hort-chilli-b0/information-regarding-control-of-thrips-in-chilles:
+  - text: To control thrips in Chili spray 560 ml Malathion 50 EC or 200 ml rogor
+      per acre in 100-liters water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-birds-in-chillies:
+  - text: Use crackers to avoid attack of birds in chillies or cover it with muslin
+      cloth
+  utter_faq-hort-chilli-b0/information-regarding-control-of-leaf-spot-in-chilli-crop:
+  - text: Control of Leaf spot in Chilli crop spray 200g Indofil M-45 in 100lt water
+      per acre.
+  utter_faq-hort-chilli-b0/information-regarding-for-the-control-of-damping-off-disease-in-chillies--crop:
+  - text: FOR THE CONTROL OF DAMPING OFF DISEASE IN CHILLIES CROP,PLEASE SPRAY- 400GM
+      M-45 IN 150LITRE WATER/ACRE.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-chilli-anthracnose:
+  - text: spray 750 gram indofil M-45 in 200-250 litre water per acre.
+  utter_faq-hort-chilli-b0/how-to-control-of-phomopsis-blight-of-chilli:
+  - text: spray 200gm zineb with 100 liter water/acre
+  utter_faq-hort-chilli-b0/information-regarding-control-of-leaf-caurl-in-chilli:
+  - text: FOR CONTROL OF LEAF CURL VIRUS IN CHILLIES SPRAY 1 LITER NIMBICIDINE NEEM
+      OIL IN 100 LITERS OF WATER PER ACRE
+  utter_faq-hort-chilli-b0/information-regarding-white-fly-in-chilies:
+  - text: spray rogor 250 ml or confidor 40 ml in 100 liter of water per acre
+  utter_faq-hort-chilli-b0/information-regarding-dose-of-urea-in-chilli:
+  - text: DOSE OF UREA FOR CHILLI 55 KG/ACRE.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-fungal-disease-in-chilies:
+  - text: For control of fungal disease in chillies spray 750 gram Blitox in 250 liters
+      of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-dryness-in-chilli-due-to-rainfall:
+  - text: no need to spray on the crop wait for some time the plants hale itself
+  utter_faq-hort-chilli-b0/information-regarding-how-to-control-white-grub-in-chilies:
+  - text: choloropyriphos 1.5 liter mixed with 10 kg sand per acre
+  utter_faq-hort-chilli-b0/information-regarding-the-recommendation-of-manganese-in-chilli:
+  - text: spray Manganese Sulphate 500g in 100 litres of water per acre 2-3 days before
+      on sunny days.
+  utter_faq-hort-chilli-b0/information-regarding-deficiensy-of-macro-nutrients-in-chili:
+  - text: USE SPRAY N:P:K-19:19:19/1KG IN 100 LITRES OF WATER.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-mosaic-in-chilli-crop:
+  - text: spray 400 ml malathion per acre in 100 litres of water for the avoid of
+      chilli mosaic virus
+  utter_faq-hort-chilli-b0/information-regarding-for-the-control-of-shoot-borer-in-chillies-crop:
+  - text: FOR THE CONTROL OF SHOOT BORER IN CHILLIES CROP,PLS SPRAY-CYPERMETHRIN-250ML
+      OR CARTAP HYDROCHLORIDE(POWDER)-250GM IN 160LITRE WATER/ACRE.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-jassid-in-chilli:
+  - text: spray 400 ml malathion 50 EC in 100-125 litre of water.
+  utter_faq-hort-chilli-b0/information-regarding-growth-regulator-used-in-chilli-crop:
+  - text: Growth Regulator used in Chilli crop spray in May-June of Napthalene acetic
+      acid (NAA) 4g in 10-15ml ethyl alcohal per liter or Planofix 1ml in 4.5lt water
+      at 10days interval.
+  utter_faq-hort-chilli-b0/information-regarding-transplanting--time-of-chillies-crops:
+  - text: THE TRANSPLANTING TIME OF CHILLIES IS FEB. - MARCH .
   utter_faq-agri-rice-b1/information-regarding-the-role-of-regent-in-paddy:
   - text: it is a insectiside it do not promote growth among plants
   utter_faq-agri-rice-b1/information-regarding-dose-of-fertilizers-in-rice:
@@ -659,8 +734,8 @@ responses:
   utter_faq-agri-rice-b1/information-regarding--application-of-water-after-broadcasting-urea-in-field:
   - text: DRAIN WATER FROM FIELD AND APPLY UREA THEN IRRIGATION SHOULD BE PROVIDED
       NEXT DAY
-  utter_faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result:
-  - text: 12 hours is sufficient gap between spray of urea and rain for better result.
+  ? utter_faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result
+  : - text: 12 hours is sufficient gap between spray of urea and rain for better result.
   utter_faq-agri-rice-b1/information-regarding-urea-dose-in-paddy-seedlings:
   - text: BROADCAST 1KG UREA MIX SAND/ACRE
   utter_faq-agri-rice-b1/rice-leaves-turn-into-the-white-colour:
@@ -855,8 +930,8 @@ responses:
   utter_faq-agri-rice-b3/information-regarding-root-treatment-of-paddy-nusery-before-transplanting:
   - text: Root treatment of paddy nusery before transplanting 2 gm bavistan in 1 litre
       of water for 6 hour before sown.
-  utter_faq-agri-rice-b3/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown:
-  - text: Yes, you can
+  ? utter_faq-agri-rice-b3/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown
+  : - text: Yes, you can
   utter_faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-alkali-soil:
   - text: Apply 7.5 kg Super phosphate, 3.25 kg urea, 5 kg zinc sulphate 21% or 3
       kg Zinc sulphate 33% per kanal at before sowing and apply 3.25 kg urea after
