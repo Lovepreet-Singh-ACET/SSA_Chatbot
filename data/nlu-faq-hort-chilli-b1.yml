@@ -1,0 +1,203 @@
+version: "3.0" 
+nlu: 
+
+- intent: faq-hort-chilli-b1/information-regarding-potash-requirement-in-chilli
+  examples: |
+    - information regarding potash requirement in chilli?
+    - How much potash is required in chilli?
+    - what amount of potash should be sprayed in chilli
+    - info regarding what amount of potash is required for chilli crop
+    - amount of potash required in chillies crop
+    - does of potash required for the chillies crop
+    - what amount of potash is required in chilli
+    - How potash can be used in chilli?
+    - What are the potash requirements of chilli?
+    - potash does for chillies?
+- intent: faq-hort-chilli-b1/information-regarding-dose-of-urea-in-an-acre-of-chillies
+  examples: |
+    - information regarding dose of urea in an acre of chillies?
+    - What is the dose of urea in chillies?
+    - What amount of urea is required in chillies?
+    - How much urea should be sprayed in the chillies crop?
+    - amount of urea needed in chillies crop
+    - does of urea that is needed by the chillies crop
+    - Tell me the urea does requirement of chilli
+    - inform me about the total urea required in chillies crop per acre of land
+    - How much urea should be sprayed in chillies crop per acre?
+    - info regarding the quantity of urea required by chillies in a acre
+    - How much urea is should be sprayed in an acre crop of chillies?
+- intent: faq-hort-chilli-b1/information-regarding-defloration-in-chilli
+  examples: |
+    - information regarding defloration in chilli?
+    - What are the causes of defloration of chilli?
+    - can you give info regarding defloration of chilli?
+    - can I get some info regarding defloration in chilli?
+    - how can i control defloration in chilli?
+    - What is the correct way to stop defloration in chilli crop?
+    - can i stop defloration in chilli?
+    - What are the ways to stop defloration in chilli?
+    - How do I reduce the defloraton in chilli
+    - How should i decrease the defloration in chilli?
+    - stop defloration in chilli
+- intent: faq-hort-chilli-b1/information-regarding-caterpiler-attack-in-chillies
+  examples: |
+    - information regarding caterpiler attack in chillies?
+    - What is the method to stop caterpiler attack in chillies?
+    - What is the info available to stop caterpiler attack in chillies?
+    - how to handle the caterpiler in chillie crop
+    - How do you prevent caterpillar attack in chillies?
+    - What is the prevention method of caterpiler attack
+    - caterpiler attack prevention in the chillies crop?
+    - Which insecticide should be used to kill caterpillers in chillies crop
+    - can I prevent caterpiler attack in chillies?
+    - How do I prevent caterpiler attack in chillies?
+- intent: faq-hort-chilli-b1/information-regarding-for-the-fert-dose-in-chilly-at-sowing-time
+  examples: |
+    - information regarding for the fert dose in chilly at sowing time?
+    - fertiliser dose at sowing time of chillies crop?
+    - What is the information regarding for the Fertilizer dose in chilly at sowing time?
+    - what amount of fertilizer should be sprayed at the time of sowing in chillies
+    - Fertilizer dose in chilly at sowing time?
+    - does of fertilizer to be sprayed in chillies at the time of sowing
+    - Can you help me with the dose amount of fertilizer in chillies around the sowing time
+    - At the sowing time of chillies how much fertilizer is required to sprayed
+    - I want to know the amount of fertilizer to be sprayed in chillies at sowing time
+    - could you please tell me the quantity of fertilizer to spray at the sowing time of chillies
+- intent: faq-hort-chilli-b1/information-regarding-burning-of-fruit-of-chilly
+  examples: |
+    - information regarding burning of fruit of chilly?
+    - How do you control burning of chilly fruit?
+    - What to do for stoping the burning of chilli fruit?
+    - can I get information regarding the prevention of burning of chilly fruit?
+    - what can be done to prevent chilli fruits to be burned
+    - control measures to prevent chilli fruit from burning
+    - in what way can I stop the burning of chillie fruit in my feild
+    - is there any way to stop the burning of chillie fruit
+    - What is the information regarding burning of fruit of chilli?
+    - do you know how can i control the fruit burning problem of chilli crop
+    - What is the information regarding burning of fruit of chilly?
+- intent: faq-hort-chilli-b1/information-regarding-manganese-deficiency-in-chillies
+  examples: |
+    - information regarding manganese deficiency in chillies?
+    - What are some guidelines regarding manganese in chillies?
+    - how can i fullfil the manganese deficiency in chilli crop
+    - can I get some info regarding manganese deficiency in chillies?
+    - What is the best source for manganese to control its deficiency in chillies?
+    - how can i restore the manganese content in a deficient chilli crop
+    - how to fullfil the deficieny of manganese in chilli crop which has deficieny of it
+    - How can I prevent manganese deficiency in chillies?
+    - what should be sprayed to control the deficieny of manganese in chillies crop
+    - my chilli crop is manganese deficient how can i recover it
+    - How do I prevent a manganese deficiency in chillies?
+- intent: faq-hort-chilli-b1/what-are-some-of-the-deficiency-symptoms-in-chilly-crop
+  examples: |
+    - what are some of the deficiency symptoms in chilly crop?
+    - What are the symptoms in deficiency in chillies crop?
+    - What are some of the deficiency symptoms in chilly crop?
+    - tell me some deficiency symptoms that can be seen in chilli crop?
+    - which deficiency symptoms can be seen in chillies crop 
+    - What are some of the deficiency symptoms in the chilly crop?
+    - are there any noticeable symtoms of deficiency in chillies
+    - What are some deficiency symptoms of the chilli crop?
+    - symptoms of deficiency in chilli crop?
+- intent: faq-hort-chilli-b1/information-regarding-how-to-control-iron-deficiency-in-chilli
+  examples: |
+    - information regarding how to control iron deficiency in chilli?
+    - How can you control iron deficiency in chilli?
+    - How can I control iron deficiency in chilli?
+    - How can I reduce the iron deficiency in chilli?
+    - how to reduce the deficiency of iron in chilli?
+    - what can be done to improve the iron content of chilli crop
+    - How do I avoid iron deficiency in chilli?
+    - which spray i should use to correct the iron deficiency of chillies
+    - What's the best way to treat iron deficiency?
+    - How can I prevent iron deficiency in chilli?
+
+# information regarding spacing distance for chillies?
+- intent: faq-hort-chilli-b1/information-regarding-to-method-of-plant-spacing-chillies
+  examples: |
+    - information regarding to method of plant spacing chillies?
+    - information regarding spacing distance for chillies?
+    - information regarding for the planting distance in chilli?
+    - What should be the planting distance in chilli crop?
+    - could you please inform me about the planting distance for chilli?
+    - What is the planting distance in chilli?
+    - How much plant distance of should be there in chilli plant?
+    - What is the distance betweeen plants of chilli?
+    - On how much distance should chilli plants be placed in field
+    - What must be the planting distance for chilli?
+    - tell me the planting distance in chilli seeds?
+- intent: faq-hort-chilli-b1/how-to-control-thirips-in-chilli-crop
+  examples: |
+    - how to control thirips in chilli crop ?
+    - How can I control thirips in chilli crop?
+    - How should I control thirips in chilli crop?
+    - How can we control thirips in chilli crop?
+    - How to control thirips in chilli crop?
+    - How can you control chilli thirips?
+    - How can you control thirips in chilli crops?
+    - What can be done to control thirips in chilli crop?
+    - what can be sprayed to control thirips in chilli plant
+    - From the chilli plant how can I get rid of thrips
+- intent: faq-hort-chilli-b1/information-regarding-growth-regulator-used-in-chilli-crop-after-sucking-pest-attack
+  examples: |
+    - information regarding growth regulator used in chilli crop after sucking pest attack?
+    - which growth regulator should be used in chilli crop after sucking pest attack?
+    - growth regulator to be used for Chilli crop after sucking pest attack?
+    - tell me about the growth regulator used after the attack of sucking pest in chilli plants
+    - inform me about the name of growth regulator to be used in chilli plant after sucking pest attacked the plants
+    - name of growth regulator used when sucking pest attacked chilli plant
+    - What is the information about growth regulator used in chilli crop after sucking pest attack?
+    - Growth Regulator used in chilli crop after sucking pest attack?
+    - How is growth regulator used in chilli crop after sucking pest attack?
+    - The growth regulator used in chilli crop after sucking pest attack?
+    - How does growth regulator is used in chilli crop after sucking pest attack?
+- intent: faq-hort-chilli-b1/information-ragarding-nutrient-management-in-chillies
+  examples: |
+    - information regarding nutrient management in chillies?
+    - How do I monitor nutrient management of chillies?
+    - What is the nutritional management for chillies?
+    - Where can I get more detailed information on nutrition management of chillies?
+    - What are the details about nutrient management in chillies?
+    - How can nutrient management in chillies be regulated?
+    - how can i do nutrient management for the chillies plant
+    - How can I know if my nutrient management is correct in chillies?
+    - How does it affect nutrient management in chillies?
+    - What are some information regarding nutrient management in chillies?
+    - What is the nutrient management of chillies?
+- intent: faq-hort-chilli-b1/information-regarding-for-the-control-of-aphids-in-chilli-crop
+  examples: |
+    - information regarding for the control of aphids in chilli crop?
+    - What is the best way to control aphids in a Chilli crop?
+    - What is the list of aphid removal chemicals in chilli crop?
+    - Where can I found the best information for the control of aphids in chilli crop?
+    - In what ways is control of aphids on chilli crop best done?
+    - How do I control aphids in chilli crop?
+    - How can I control aphids in chilli crop?
+    - How can we control aphids in chilli crop?
+    - What should be done to control aphids in chilli crop?
+    - How can aphids be treated in chilli crop?
+- intent: faq-hort-chilli-b1/how-to-control-of-larvae-in-chilli
+  examples: |
+    - how to control of larvae in chilli?
+    - How do I control larvae of chilli worm?
+    - How do I control larvae from chilli?
+    - How to control larvae in chilli?
+    - How do I control larvae in chilli?
+    - How do you control larvae in chilli?
+    - what can I co to control larvae in chilli?
+    - what could be done to control the larvae in a chilli?
+    - How can I control larvae and weed in chilli?
+- intent: faq-hort-chilli-b1/information-regarding-for-the-control-of-flower-drop-in-chillimirch-crop
+  examples: |
+    - information regarding for the control of flower drop in chilli(mirch) crop?
+    - How can we control flower drop in chilli crop?
+    - What can be done to stop flower drop in chilli oat crop?
+    - In red chilli crop, can the control be done on flower drop?
+    - How can I control flower drop in chilli crop?
+    - Why hasn't India removed any flower drop in chilli crop?
+    - Is there any information regarding for control of flower drop in chilli(mirch) crop?
+    - How do we control flower drop in crop in chilli?
+    - Is there any application to control and control flower drop in chilli?
+    - How can the control of flower drop in chilli(mirch) crop is done?
+    - How do I prevent flower drop in chilli crop?

@@ -93,7 +93,13 @@ rules:
   - intent: faq-agri-rice-b4
   - action : action_viz_faq
 
+# Chillies
 - rule: for chilli batch b0
   steps:
   - intent: faq-hort-chilli-b0
+  - action : action_viz_faq
+
+- rule: for chilli batch b1
+  steps:
+  - intent: faq-hort-chilli-b1
   - action : action_viz_faq

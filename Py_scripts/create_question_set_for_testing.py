@@ -3,8 +3,8 @@ import yaml
 import os
 import pandas as pd
 
-nlu_file_names = [ "/home/ubuntu/SSA/SSA_Chatbot/data/nlu-faq-agri-wheat-b5.yml" ]
-domain_file_names = ["/home/ubuntu/SSA/SSA_Chatbot/domain-grp/domain-agri-wheat-b5.yml"]
+nlu_file_names = [ "/home/ubuntu/SSA/SSA_Chatbot/data/nlu-faq-hort-chilli-b0.yml" ]
+domain_file_names = ["/home/ubuntu/SSA/SSA_Chatbot/domain-grp/domain-hort-chilli-b0.yml"]
 
 questions_list = []
 intent_names = []
@@ -57,7 +57,7 @@ df = pd.DataFrame(
     { "questoions": sentences,
       "answers": answer_list
       })
-df.to_csv("/home/ubuntu/SSA/SSA_Chatbot/CSV/test_set_wheat_b5.csv", index=False)
+df.to_csv("/home/ubuntu/SSA/SSA_Chatbot/CSV/test_set_chilli_b0.csv", index=False)
 
 # print(len(questions_list), len(answer_list), len(second_answer_list))
 # print(answer_list)

@@ -1,0 +1,36 @@
+version: "3.0" 
+intents: 
+  - faq-hort-chilli-b1
+responses:
+  utter_faq-hort-chilli-b1/information-regarding-potash-requirement-in-chilli: 
+  - text: No Answer
+  utter_faq-hort-chilli-b1/information-regarding-dose-of-urea-in-an-acre-of-chillies: 
+  - text: DOSE OF UREA IN AN ACRE OF CHILLIES IS 55 KG.
+  utter_faq-hort-chilli-b1/information-regarding-defloration-in-chilli: 
+  - text: spray 50 ml planofix in 200 liter of water petr acre.
+  utter_faq-hort-chilli-b1/information-regarding-caterpiler-attack-in-chillies: 
+  - text: SUMICIDIN 20 EC 100 ML WITH 100 LITER WATER SPRAY PER ACRE
+  utter_faq-hort-chilli-b1/information-regarding-for-the-fert-dose-in-chilly-at-sowing-time: 
+  - text: APPLY 40 KG UREA 20KG POTASH AND 55 KG DAP.
+  utter_faq-hort-chilli-b1/information-regarding-burning-of-fruit-of-chilly: 
+  - text: spray naphthlin 4ml in 1 litre water per acre.
+  utter_faq-hort-chilli-b1/information-regarding-manganese-deficiency-in-chillies: 
+  - text: spray Manganese Sulphate 500g in 100 litres of water per acre 2-3 days before on sunny days.
+  utter_faq-hort-chilli-b1/what-are-some-of-the-deficiency-symptoms-in-chilly-crop: 
+  - text: No Answer
+  utter_faq-hort-chilli-b1/information-regarding-how-to-control-iron-deficiency-in-chilli: 
+  - text: No Answer
+  utter_faq-hort-chilli-b1/information-regarding-to-method-of-plant-spacing-chillies: 
+  - text: Row to row distance is 60 cm. and plant to plant distance is 45 cm.
+  utter_faq-hort-chilli-b1/how-to-control-thirips-in-chilli-crop: 
+  - text: To control thrips in Chili spray 560 ml Malathion 50 EC or 200 ml rogor per acre in 100-liters water per acre.
+  utter_faq-hort-chilli-b1/information-regarding-growth-regulator-used-in-chilli-crop-after-sucking-pest-attack: 
+  - text: growth regulator used in chilli crop after sucking pest attack spary N:P:K 19:19:19 1kg in 100lt water per acre.
+  utter_faq-hort-chilli-b1/information-ragarding-nutrient-management-in-chillies: 
+  - text: Spray N:P:K (13:0:45) 1 kg in 100 liters of water per acre for the nutrient management in chilli
+  utter_faq-hort-chilli-b1/information-regarding-for-the-control-of-aphids-in-chilli-crop: 
+  - text: For control of Aphids in chilli spray 400ml Malathion 50EC in 100lt water per acre.
+  utter_faq-hort-chilli-b1/how-to-control-of-larvae-in-chilli: 
+  - text: SAPRAY 800 ML EKALUX 25 EC IN 150 LITER OF WATER/ACRE
+  utter_faq-hort-chilli-b1/information-regarding-for-the-control-of-flower-drop-in-chillimirch-crop: 
+  - text: For control of flower dropping in chillies spray 1 ml Planofix per 4.5 liters of water.
