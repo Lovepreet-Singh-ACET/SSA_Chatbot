@@ -1,0 +1,142 @@
+version: "3.0"
+
+intents:
+  - faq-agri-wheat-b0-pun
+
+responses:
+  utter_faq-agri-wheat-b0-pun/control-of-weeds-in-wheat:
+  - text: 45 ਦਿਨਾਂ ਦੇ ਬਾਅਦ ਹਰਬਿਕਸਾਈਡ ਦੀ ਕੋਈ ਸਪਰੇਅ ਸਿਫਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਸੀ.
+  utter_faq-agri-wheat-b0-pun/how-to-control-of-root-weevil-in-wheat-crop:
+  - text: ਮੈਂ ਕਿਜ਼ਨ ਨੂੰ ਦੱਸਿਆ 1 ਥਿਓਡਨ 35 EC ਦਾ ਲੀਟਰ @ IN 2 ਵਾਟਰ ਐਂਡ ਮਿਕਸ 20 ਕਿਲੋਗ੍ਰਾਮ ਦੇ ਮਿੱਟੀ ਅਤੇ ਬ੍ਰਾਡਕਾਸਟ ਦੇ ਆਪਣੇ ਏਕੜ ਵਿੱਚ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-aphid-in-wheat:
+  - text: ਕਣਕ ਐਫਿਡ ਦਾ ਨਿਯੰਤਰਣ ਸਪਰੇਅ ਰੋਗਰ (ਡੈਮੇਥੋਆਇਟ) @ 1 ਮਿ.ਲੀ. / 1 lt ਪਾਣੀ ਹੈ
+  utter_faq-agri-wheat-b0-pun/how-to-control-of-yellow-rust-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਪੀਲੇ ਜੰਗਾਲ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 200 ਲੀਟਰ ਵਿਚ ਟਿਲਟ 25 ਈ ਸੀ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ) 200 ਮਿ.ਲੀ. ਜਾਂ ਨੈਟਿਵੋ 75 ਡਬਲਯੂ ਜੀ (ਟ੍ਰਾਈਫਲੋਕਸੈਸਟ੍ਰੋਬਿਨ + ਟੇਬੂਕੋਨਾਜ਼ੋਲ) 120 ਗ੍ਰਾਮ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/control-of-stem-borer-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਕਣਕ ਦੇ ਸਟੈਮ ਬੋਰਰ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ, ਉਗਣ ਤੋਂ ਬਾਅਦ ਹਰ 20 ਦਿਨਾਂ ਦੇ ਅੰਤਰਾਲ ਤੇ ਫਾਈਪਰੋਨਿਲ 0.3% ਜੀਆਰ @ 8 ਕਿਲੋਗ੍ਰਾਮ / ਏਕੜ ਦਾ ਪ੍ਰਸਾਰਣ ਕੀਤਾ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-termite:
+  - text: ਬ੍ਰਾਡਕਾਸਟ 1 ਲਿਟਰ ਕਲੋਰੋਪਾਈਰਿਪੋਸ 20 EC ਮਿਕਸ ਸਟੈਂਡ ਨਾਲ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-army-worm-in-wheat-crop:
+  - text: ਕਣਕ ਵਿਚ ਫੌਜ ਦੇ ਕੀੜੇ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਏਕਲਕਸ 25 ਈਸੀ (ਕੁਆਨਲਫੋਸ) @ 400 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-brown-leaf-in-wheat-crop:
+  - text: ਫਸਲ ਨੂੰ ਨੈਟੀਵੋ 75 ਡਬਲਯੂਜੀ (ਟ੍ਰਾਈਫਲੋਕਸੈਸਟ੍ਰੋਬਿਨ + ਟੇਬੂਕੋਨਾਜ਼ੋਲ) @ 120 ਗ੍ਰਾਮ ਜਾਂ ਟਿਲਟ 25 ਈਸੀ / ਚਮਕਦਾਰ 25 ਈਸੀ / ਬੰਪਰ 25 ਈ ਸੀ / ਸਟੀਲ 25 ਈ ਸੀ / ਕੰਪਾਸ 25 ਈ ਸੀ / ਮਾਰਕਸੋਲ 25 ਈ ਸੀ (ਪ੍ਰੋਪਿਕਨਜ਼ੋਲ) @ ਜਿਵੇਂ ਹੀ ਬਿਮਾਰੀ ਵੇਖੀ ਜਾਂਦੀ ਹੈ 200 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ 200 ਮਿ.ਲੀ.
+  utter_faq-agri-wheat-b0-pun/control-of-kernel-smut-in-wheat-crop:
+  - text: ਸਪਰਾ ਟਿਲਟ @ 200 ਐਮਐਲ 100 ਲੀਟਰ ਵਾਟਰ ਪਰ ਏਕੜ ਦੇ
+  utter_faq-agri-wheat-b0-pun/control-of-black-hopper-in-crop:
+  - text: ਸਪਰਾ ਮੋਨੋਕਿਲ @ 10 ਜੀ.ਐੱਮ. 100 ਲੀਟਰ ਵਾਟਰ ਪਰ ਏਕੜ ਦੇ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat:
+  - text: 40 ਕਿਲੋ ਬੀਜ ਦਾ ਇਲਾਜ 13 ਮਿ.ਲੀ. ਰੈਕਸਿਲ ਆਸਾਨ/ਓਰੀਅਸ <ਟੀਏਜੀ 1> ਐਫਐਸ 400 ਮਿ.ਲੀ. ਪਾਣੀ ਜਾਂ 120 ਗ੍ਰਾਮ ਵਿਟਾਵੈਕਸ ਪਾਵਰ 75 ਡਬਲਯੂਐਸ ਜਾਂ 80 ਕਿਲੋ ਵਿਟਾਵੈਕਸ 75 ਡਬਲਯੂਪੀ ਜਾਂ 40 ਗ੍ਰਾਮ ਬੀਜ <ਟੀਏਜੀ 1> ਡੀਐਸ / ਐਕਸਜ਼ੋਲ <ਟੀਏਜੀ 1> ਡੀਐਸ ਪ੍ਰਤੀ 40 ਕਿਲੋ ਬੀਜ
+  utter_faq-agri-wheat-b0-pun/how-to-control-of-powdery-mildew-in-wheat-crop:
+  - text: ਨੈਟਿਵੋ 75 ਡਬਲਯੂਜੀ (ਟ੍ਰਾਈਫਲੋਕਸੈਸਟ੍ਰੋਬਿਨ + ਟੇਬੂਕੋਨਾਜ਼ੋਲ) @ 120 ਗ੍ਰਾਮ ਜਾਂ ਟਿਲਟ 25 ਈਸੀ (ਪ੍ਰੋਪਿਕੋਨਾਜ਼ੋਲ) @ 200 ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 200 ਮਿ.ਲੀ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-tella-in-wheat:
+  - text: ਮੈਂ 100 ਐਲ ਟੀ ਆਰ ਵਾਟਰ / ਏਸੀਆਰਈ ਵਿਚ ਸਪਰਾ ਮੋਨੋਕ੍ਰੋਟੋਪਸ @ 200 ਐਮਐਲ ਨੂੰ ਦੱਸਿਆ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-karnal-bunt-in-wheat:
+  - text: ਕਣਕ ਦੇ ਸਪਰੇਅ 200 ਮਿ.ਲੀ. ਟਿਲਟ / ਬੰਪਰ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ 25 ਈਸੀ) ਜਾਂ 200 ਮਿ.ਲੀ. ਫੋਲਿਕੁਰ / ਵਿਚ ਕਰਨਲ ਬੰਟ ਦੇ ਨਿਯੰਤਰਣ ਲਈ/ਫਸਲਾਂ ਦੇ ਕੰਨ ਦੇ ਉਭਾਰ ਦੇ ਪੜਾਅ 'ਤੇ 200 ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ ਓਰੀਅਸ 25 ਈਸੀ (ਟੇਬੂਕੋਨਾਜ਼ੋਲ).
+  utter_faq-agri-wheat-b0-pun/control-of-cutworm-in-wheat:
+  - text: ਕਲੋਰਪਾਈਰੀਫੋਸ ਨਾਲ ਮਿੱਟੀ ਦਾ ਇਲਾਜ ਕਰੋ ਜਿਵੇਂ ਕਿ. ਡੁੱਬਣ ਤੋਂ ਪਹਿਲਾਂ 10% ਜੀ @ 20 ਕਿਲੋ / ਹੈਕਟੇਅਰ
+  utter_faq-agri-wheat-b0-pun/control-of-green-hopper-in-wheat-crop.:
+  - text: ਸਪਰਾ ਰੋਜਰ @ 200 ਐਮਐਲ 100 ਲੀਟਰ ਵਾਟਰ ਪਰ ਏਕੜ ਦੇ 100 ਲੀਟਰ ਵਿੱਚ.
+  utter_faq-agri-wheat-b0-pun/control-of-rats-in-wheat-field:
+  - text: ਜ਼ਿੰਕ ਫਾਸਫੇਟ @ 25 ਗ੍ਰਾਮ 1 ਕਿਲੋਗ੍ਰਾਮ ਕਣਕ ਦੇ aata + 100 gm ਸਰ੍ਹੋਂ ਦੇ ਤੇਲ ਤੇ ਲਾਗੂ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/control-of-leaf-folder-in-wheat-crop:
+  - text: ਸਪਰੇਅ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ 100 ਮਿ.ਲੀ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-leaf-curl-in-wheat:
+  - text: ਸਪਰੇਅ ਐਕਟਿਰਾ 70 ਗ੍ਰਾਮ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ
+  utter_faq-agri-wheat-b0-pun/information-regarding-root-rot-of-wheat:
+  - text: ਮੈਕਸਿਮ 4 ਐਫਐਸ 0.08 ਤੋਂ 0.16 ਫਲ ਓਜ਼ / 100 ਐਲਬੀ ਬੀਜ ਦੇ ਨਾਲ ਨਾਲ ਇੱਕ ਰੰਗਤ ਬੀਜ ਦੀ ਰੌਸ਼ਨੀ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰੇਗੀ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-black-rust-in-wheat.:
+  - text: ਕਣਕ ਦੇ ਜੰਗਾਲ ਦੁਆਰਾ ਹੋਏ ਨੁਕਸਾਨ ਨੂੰ ਜ਼ੀਨੇਬ ਜਾਂ ਮੇਨਕੋਜ਼ੇਬ 75 ਡਬਲਯੂਪੀ ਦਾ ਛਿੜਕਾਅ ਕਰਕੇ ਘੱਟ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ.
+  utter_faq-agri-wheat-b0-pun/farmer-asks-about-the-yellow-smut-in-wheat:
+  - text: TILT @ 200GM ਨੂੰ 200 T WATER / ACRE ਵਿੱਚ ਵਧਾਓ.
+  utter_faq-agri-wheat-b0-pun/regarding-yellowing-of-plants-of-wheat-due-to-heavy-irrigation:
+  - text: ਸਪਰਾ ਯੂਰੀਆ 3 ਕੇਜੀ ਇਨ 100 ਲਿਟਰ ਵਾਟਰ ਪਰ ਏਕੜ
+  utter_faq-agri-wheat-b0-pun/info-regarding-the-yellowing-of-new-leaves:
+  - text: ਅਪ੍ਰੈਲ 50-100 ਕਿਲੋਗ੍ਰਾਮ ਜ਼ਿਪਸੁਮ / ਏਕੜ.
+  utter_faq-agri-wheat-b0-pun/info-regarding-yellowing-of-leaves-in-urea-deficiency:
+  - text: ਯੂਰੀਆ 2 ਸ਼ਾਮ ਦੇ ਸਮੇਂ 100 ਲੀਟਰ ਪਾਣੀ ਦੇ ਸਪਰੇਅ ਵਿਚ
+  utter_faq-agri-wheat-b0-pun/information-regarding-yellowing-of-leaves-in-wheat-crop-due-to-heavy-irrigation:
+  - text: ਸਪਰਾ 3 KG UREA 100 LITRE WATER PER ACRE ਵਿੱਚ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-rodent-in-wheat:
+  - text: ਚੂਹੇ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ 1 ਕਿਲੋਗ੍ਰਾਮ ਕਣਕ ਦਾ ਆਟਾ, 20 ਮਿ.ਲੀ. ਸਬਜ਼ੀ ਦਾ ਤੇਲ, 20 ਗ੍ਰਾਮ ਚੀਨੀ ਅਤੇ 25 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਫਾਸਫਾਈਡ ਦਾ ਮਿਸ਼ਰਣ ਬਣਾਉਂਦੇ ਹਨ ਫਿਰ ਖੇਤਾਂ ਵਿੱਚ ਛੇਕ ਦੇ ਨੇੜੇ ਰੱਖੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-pink-stem-borer-in-wheat:
+  - text: ਕੋਲੇਜਨ 18.5 ਐਸਸੀ (ਕਲੋਰੋਆਨ ਟ੍ਰੈਨਿਲਿਪ੍ਰੋਲ) @ 50 ਮਿ.ਲੀ. ਦੀ ਸਪਰੇਅਰ ਸਪਰੇਅ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 80-100 l ਪਾਣੀ ਲਾਗੂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ.
+  utter_faq-agri-wheat-b0-pun/tell-me-control-top-borer-in-sugarcane:
+  - text: ਏਕਲਕਸ <ਟੀਏਜੀ 1> ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਲਾਗੂ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-loose-smut-in-wheat:
+  - text: 40 ਕਿਲੋ ਬੀਜ ਦਾ ਇਲਾਜ 13 ਮਿ.ਲੀ. ਰੈਕਸਿਲ ਈਜ਼ੀ/ਓਰੀਅਸ <ਟੀਏਜੀ 1> ਐਫਐਸ 400 ਮਿ.ਲੀ. ਪਾਣੀ ਜਾਂ 120 ਗ੍ਰਾਮ ਵਿਟਾਵੈਕਸ ਪਾ powderਡਰ 75 ਡਬਲਯੂਐਸ ਜਾਂ 80 ਜੀ ਵਿਟਾਵੈਕਸ 75 ਡਬਲਯੂਪੀ ਜਾਂ 40 ਗ੍ਰਾਮ ਬੀਜ @ ਡੀਐਸ/ ਐਕਸਜ਼ੋਲ <ਟੀਏਜੀ 1> ਡੀਐਸ ਜਾਂ 80 ਮਿ.ਲੀ. ਨਿਓਨਿਕਸ 20 ਐਫਐਸ ਪ੍ਰਤੀ 40 ਕਿਲੋ ਬੀਜ
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-caterpillar-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਕੈਟਰਪਿਲਰ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਏਕਲਕਸ 25 ਈ ਸੀ (ਕੁਆਨਲਫੋਸ) @ 400 ਮਿ.ਲੀ. ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/how-to-control-pink-caterpillar-in-wheat-crop:
+  - text: ਸਪਰੇਅ ਕੁਇਨੋਲੋਫੋਸ 25ec @ 800 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਵਿਚ.
+  utter_faq-agri-wheat-b0-pun/control-of-gram-caterpillar-in-whaet:
+  - text: ਸਪਰੇਅ ਕੁਇਨੋਲੋਫੋਸ 25ec @ 800 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਵਿਚ.
+  utter_faq-agri-wheat-b0-pun/control-of-leaf-cutting-caterpillar-in-wheat:
+  - text: ਸਪਰਾ 300ML ਕਲੋਰਪਾਈਰਿਪੋਸ 20 ਈਸੀ 100LT ਵਾਟਰ / ਏਸੀਆਰਈ ਵਿੱਚ.
+  utter_faq-agri-wheat-b0-pun/how-to-control-root-caterpillar-in-wheat-crop:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫੋਸ ਦਾ ਪ੍ਰਸਾਰਣ @ 15 ਕਿਲੋ ਸੁੱਕੀ ਰੇਤ / ਏਕੜ ਵਿਚ 1.5 ਲੀਟਰ .
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-american-caterpillar-in-wheat:
+  - text: XYZ ਜਵਾਬ
+  utter_faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-hairy-caterpillar-wheat-crop:
+  - text: ਹੇਅਰ ਕੈਟਰਪਿਲਰ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਜਦੋਂ ਕਿ ਕ੍ਰੌਪ ਪੀਐਲਐਸ ਸਪਰੇਅ 800ML ਏਕਾਲਕਸ ਪਰ ਏਸੀਆਰ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop:
+  - text: ਸਪਰੇਅ ਏਕਲਕਸ 25 ਈ ਸੀ (ਕੁਆਇਨਲਫੋਸ) @ 800 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ.
+  utter_faq-agri-wheat-b0-pun/dose-of-npk-for-wheat:
+  - text: ਕਣਕ ਵਿਚ ਐਨ ਪੀ ਕੇ 19:19:19 ਦੀ ਖੁਰਾਕ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ 1 ਕਿਲੋਗ੍ਰਾਮ ਹੈ
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-fungus-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 20 ਕਿਲੋਗ੍ਰਾਮ ਰੇਤ ਵਿਚ 500 ਗ੍ਰਾਮ ਪ੍ਰਸਾਰਣ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-jassid-in-wheat:
+  - text: ਕਾਰਬਰੀਲ ਦਾ ਇੱਕ ਸਪਰੇਅ (ਸੇਵਿਨ 50 ਡਬਲਯੂ. ਪੀ.) @ 2.5 ਕਿਲੋਗ੍ਰਾਮ / ਹੈਕਟੇਅਰ 600-800 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਭੰਗ ਹੋ ਗਿਆ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-spray-for-plant-hopper:
+  - text: ਈਕਾਲਕਸ 0.5 ਲੀਟਰ ਵਾਟਰ ਪਰ ਏਕੜ ਦੇ 150 ਲੀਟਰ ਵਿਚ
+  utter_faq-agri-wheat-b0-pun/information-regarding-pest-control-in-wheat-crop:
+  - text: 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ ਕਲੋਰਪਾਈਰੀਫੋਸ @ 400 ਮਿ.ਲੀ. ਦਾ ਸਪਰੇਅ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-thrips-in-wheat-crop:
+  - text: ਕਨਫੀਡਰ @ 80-100 ਐਮਐਲ ਜਾਂ ਏਕਤਰ @ 80-100 ਗ੍ਰਾਮ ਨੂੰ 150 ਲੀਟਰ ਪਾਣੀ / ਏਸੀਆਰਈ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-head-blight-in-wheat:
+  - text: ਸਪਰੇਅ ਬਲਿਟੌਕਸ @ 500 ਗ੍ਰਾਮ ਮਿਸ਼ਰਣ 200 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿੱਚ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-telachepa-in-wheat:
+  - text: ਸਪਰੇਅ ਰੋਗੋਰ @ 250 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-red-beetle:
+  - text: ਵਾਧੇ ਦੇ ਸਪਰੇਅ ਐਨ ਪੀ ਕੇ 13:00:45 1 ਕਿਲੋਗ੍ਰਾਮ / ਏਕੜ ਲਈ 50-100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਸੇਵਿਨ / ਹੈਕਸਾਵਿਨ 50 ਡਬਲਯੂਪੀ (ਕਾਰਬੈਰਲ) ਦਾ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-shoot-borer-in-wheat-crop:
+  - text: ਏਪੀਪੀਐਲ 5 ਸੀਜੀ ਰੀਜੈਂਟ ਜਾਂ ਪੈਡਨ ਮਿਕਸ ਸੈਂਡਲੀ ਜਾਂ ਯੂਰੀਆ / ਏਕੜ ਦੇ ਨਾਲ
+  utter_faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-white-grub-in-wheat-crop:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫੋਸ 40 ਮਿ.ਲੀ. / 15 ਲੀਟਰ ਪਾਣੀ ਦੀ ਖਾਈ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-molya-disease-in-wheat:
+  - text: ਸਪਰੇਅ ਫਰਦਾਨ 3 ਜੀ @ 13 ਕਿਲੋਗ੍ਰਾਮ / ਏਕੜ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-nematode-in-wheat:
+  - text: ਫਰਦਾਨ 3 ਜੀ 13 ਕੇ ਜੀ / ਏਕੜ ਐਪਲੀ ਮਿੱਟੀ ਦੇ ਬਿਜਾਈ ਸਮੇਂ ਕਲੋਰਪਾਈਰੀਫੋਸ 1.25 ਲੀਟਰ ਸਿੱਧੇ ਮਿੱਟੀ ਵਿੱਚ ਲਾਗੂ ਹੁੰਦੇ ਹਨ
+  utter_faq-agri-wheat-b0-pun/information-about-ballworm-control-in-wheat:
+  - text: ਸਪਰੇਅ ਏਕਾਲਕਸ 400 ਗ੍ਰਾਮ 200 ਲੀਟਰ ਪਾਣੀ / ਏਸਰ ਦੇ ਨਾਲ
+  utter_faq-agri-wheat-b0-pun/information-regarding-how-to-control-sundi-in-wheat-crop:
+  - text: ਈਕਾਲਕਸ 25 ਈਸੀ 800 ਐਮਐਲ 100 ਲਿਟਰ ਵਾਟਰ / ਏਸੀਆਰ
+  utter_faq-agri-wheat-b0-pun/how-to-control-amrican-sundi-in-wheat-crop:
+  - text: 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ @ 400 ਐਮਐਲ ਵਿਚ ਮੋਨੋਕਿਲ @ 400 ਐਮਐਲ ਦੀ ਸਪਰੇਅ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-gob-wali-sundi:
+  - text: ਮੋਨੋਕ੍ਰੋਟੋਫੌਸ 560 ਐਮਐਲ ਪਰ ਏਕੜ
+  utter_faq-agri-wheat-b0-pun/information-regarding-green-sundi-in-wheat?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਸਪਰੇਅ ਕੁਇਨਲਫੋਰਸ 400 ਮਿ.ਲੀ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-yellowing-of-leaves-due-to-potash-deficiency:
+  - text: ਸਪਰਾ ਐਨ ਪੀ ਕੇ 19:19:19 1 ਕੇਜੀ ਇਨ 100 ਲਿਟਰੇ ਵਾਟਰ ਪਰ ਏਕੜ
+  utter_faq-agri-wheat-b0-pun/information-regarding-how-to-control-black-mosquito-in-wheat:
+  - text: ਸਪਰੇਅ 150 ਮਿ.ਲੀ. ਰੋਗਰ ਜਾਂ ਮੈਟਾਸੀਸਟੌਕਸ 80-100 lt ਵਿੱਚ. ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ ਦਾ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-ddvp-remedy-spray-in-wheat:
+  - text: ddvp ਸਪਰੇਅ ਲਈ pau ਤੋਂ ਕੋਈ ਸਿਫਾਰਸ਼ ਨਹੀਂ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-white-leaves-in-wheat:
+  - text: ਸਪਰੇਅ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ 1 ਕਿਲੋਗ੍ਰਾਮ ਫੇਰਸ ਸਲਫੇਟ
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-hill-bunt-in-wheat:
+  - text: ਸਪਰਾ ਟਿਲਟ @ 200ML ਮਿਕਸ 200 ਲੀਟਰ ਵਾਟਰ / ਏਸੀਆਰ ਦੇ
+  utter_faq-agri-wheat-b0-pun/information-regarding-to-avoid-the-toxic-effect-of-overdose-fertilizer-spray:
+  - text: ਖਾਦ (ਡੀਏਪੀ) ਸਪਰੇਅ ਦੇ ਮਾੜੇ ਪ੍ਰਭਾਵਾਂ ਤੋਂ ਫਸਲਾਂ ਦੀ ਸਥਿਤੀ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਹਲਕੀ ਸਿੰਚਾਈ ਲਾਗੂ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-use-of-confidor-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਐਫਿਡ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 80-100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ 20 ਗ੍ਰਾਮ ਐਕਟਾਰਾ 25 ਡਬਲਯੂ ਜੀ (ਥਿਆਮੇਥੋਕਸਮ) ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-shootfly-in-wheat:
+  - text: ਸਪਰੇਅ ਈਕਲਕ @ 800 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 120 ਲੀਟਰ ਪਾਣੀ ਵਿਚ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-trichoderma:
+  - text: ਸਪਰਾ 2 ਗ੍ਰਾਮ 1 ਲਿਟਰੇ ਵਾਟਰ ਅਤੇ ਇਹ 6 ਮੋਲਰ ਖੇਤਰ ਵਿੱਚ ਮਹੀਨੇ ਦੇ ਲਈ ਫੀਲਡ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-hardiness-of-soil:
+  - text: ਏਪੀਲੀ ਸਲਫਰ @ 3 ਕੇਜੀ / ਏਸੀਆਰਈ. 2014
+  utter_faq-agri-wheat-b0-pun/information-regarding-atlantis-spray-in-wheat-crop:
+  - text: ਐਟਲਾਂਟਿਸ ਦਾ ਡੋਜ਼ਰ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ 160 ਗ੍ਰਾਮ ਹੈ
+  utter_faq-agri-wheat-b0-pun/protection-against-larvae-in-wheat:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ekalux 800 ਮਿ.ਲੀ.

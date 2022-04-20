@@ -2,3 +2,5 @@
 *.csv
 /CSV/
 /Py_scripts
+/test_results/
+/pun_data

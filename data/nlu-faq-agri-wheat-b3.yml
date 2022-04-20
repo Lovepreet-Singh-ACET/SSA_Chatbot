@@ -1365,20 +1365,6 @@ nlu:
     - How do we broadcast urea after herbicide spray?
     - How should I be informed regarding broadcasting of urea after herbicide sprays?
 
-# extra water in wheat
-- intent: faq-agri-wheat-b3/extra-water-in-wheat
-  examples: |
-    - extra water in wheat?
-    - Why is there extra water in wheat?
-    - How much extra water is needed to grow wheat?
-    - How much extra water is needed to make a wheat?
-    - Is there extra water in wheat?
-    - Is water a good protein in wheat?
-    - What is the addition of water to wheat?
-    - Why is extra water needed in wheat?
-    - Why is extra water used in wheat?
-    - How can I remove extra water from my wheat?
-
 # super phosphate as alternative of dap
 - intent: faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap
   examples: |

@@ -1,0 +1,46 @@
+version: "3.0"
+
+intents:
+  - faq-agri-rice-b1-pun
+
+responses:
+  utter_faq-agri-rice-b1-pun/information-regarding-the-role-of-regent-in-paddy?:
+  - text: ਇਹ ਇਕ ਕੀਟਨਾਸ਼ਕ ਹੈ ਜੋ ਪੌਦਿਆਂ ਵਿਚ ਵਾਧੇ ਨੂੰ ਉਤਸ਼ਾਹਤ ਨਹੀਂ ਕਰਦਾ
+  utter_faq-agri-rice-b1-pun/information-regarding-dose-of-fertilizers-in-rice-?:
+  - text: ਪੈਡੀ ਵਿੱਚ ਕੁੱਲ ਖਾਦ ਦੀ ਖੁਰਾਕ - 90 ਕਿਲੋਗ੍ਰਾਮ. ਯੂਰੀਆ, 27 ਕਿਲੋਗ੍ਰਾਮ. ਡੀਏਪੀ ਜਾਂ 75 ਕਿਲੋ ਸੁਪਰਫੋਸਫੇਟ ਜਾਂ 20 ਕਿਲੋਗ੍ਰਾਮ. ਪੋਟਾਸ਼ ਪ੍ਰਤੀ ਏਕੜ. ਫਾਸਫੋਰਸ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਛੱਡੋ ਜੇ ਫਾਸਫੋਰਸ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਖੁਰਾਕ ਨੂੰ ਪਿਛਲੇ ਕਣਕ ਦੀ ਫਸਲ ਤੇ ਲਾਗੂ ਕੀਤਾ ਗਿਆ ਸੀ ਅਤੇ ਮਿੱਟੀ ਦੇ ਟੈਸਟ ਦੇ ਅਧਾਰ ਤੇ ਪੋਟਾਸ਼ ਦੇ ਮੁਰਿਏਟ ਨੂੰ ਲਾਗੂ ਕੀਤਾ ਗਿਆ ਸੀ. ਸਪੌਡਿੰਗ ਦੇ ਸਮੇਂ ਡੀਏਪੀ ਜਾਂ ਸੁਪਰ ਅਤੇ ਪੋਟਾਸ਼ ਲਾਗੂ ਕਰੋ, ਪਹਿਲੇ, ਤੀਜੇ ਅਤੇ ਛੇਵੇਂ ਹਫਤੇ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਬਾਅਦ ਯੂਰੀਆ ਲਾਗੂ ਕਰੋ.
+  utter_faq-agri-rice-b1-pun/information-regarding-time-or-date-of-transplanting-of-rice?:
+  - text: 15 ਜੂਨ ਤੋਂ ਬਾਅਦ ਰਾਈਸ ਦੇ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਦੀ ਮਿਤੀ ਦਾ ਸਮਾਂ.
+  utter_faq-agri-rice-b1-pun/In-what-form-should-fertilizer-dose-be-applied-in-rice-after-sowing?:
+  - text: 15 ਦਿਨਾਂ ਬਾਅਦ ਅਤੇ ਫਿਰ ਚਾਰ ਹਫ਼ਤਿਆਂ ਬਾਅਦ 26 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ ਸ਼ਾਮਲ ਕਰੋ
+  utter_faq-agri-rice-b1-pun/information-regarding-mycorrhiza-apply-in-paddy-field?:
+  - text: ਇਕ ਏਕੜ ਵਿਚ ਮਾਈਕੋਰਰੀਹਜ਼ੇ 3 ਕਿਲੋਗ੍ਰਾਮ ਦਾ ਪ੍ਰਸਾਰਣ
+  utter_faq-agri-rice-b1-pun/information-regarding-control-of-termite-in-paddy-?:
+  - text: ਝੋਨੇ ਵਿਚ ਟਰਮੀਟ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਲਈ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 ਈਸੀ @ <ਟੀਏਜੀ 1> ਕੂੜਾ 25 ਤੋਂ 30 ਕਿਲੋ ਰੇਤ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ ਮਿਲਾਓ.
+  utter_faq-agri-rice-b1-pun/information-regarding-plant-growth-regulator-in-paddy-?:
+  - text: ਵਿਕਾਸ ਰੈਗੂਲੇਟਰ ਝੋਨੇ ਵਿੱਚ ਟਿਲਰਿੰਗ ਸਟੇਜ ਸਪਰੇਅ ਐਨਪੀਕੇ 13 <ਟੀਏਜੀ 1> 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 45 1 ਕਿਲੋਗ੍ਰਾਮ.
+  utter_faq-agri-rice-b1-pun/information-regarding-dose-of-poultary-yard-manure-in-paddy--?:
+  - text: ਪੋਲਟਰੀ ਵਿਹੜੇ ਦੀ ਖਾਦ ਦੀ ਖੁਰਾਕ ਝੋਨੇ ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ 2.5 ਟਨ ਹੈ .ਇਹ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 55 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ ਦੀ ਬਚਤ ਕਰਦਾ ਹੈ.
+  utter_faq-agri-rice-b1-pun/information-regarding-problem-of-water-stagnating-in-paddy-crop-?:
+  - text: ਪੋਲਟਰੀ ਵਿਹੜੇ ਦੀ ਖਾਦ ਦੀ ਖੁਰਾਕ ਝੋਨੇ ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ 2.5 ਟਨ ਹੈ .ਇਹ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 55 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ ਦੀ ਬਚਤ ਕਰਦਾ ਹੈ.
+  utter_faq-agri-rice-b1-pun/information-regarding-control-of-pest-in--paddy-?:
+  - text: ਝੋਨੇ ਵਿਚ ਕੀੜੇ ਦੇ ਨਿਯੰਤਰਣ ਲਈ 1 ਲੀਟਰ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 EC ਲਾਗੂ ਕਰੋ ਜਿਸ ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 15-20 ਕਿਲੋਗ੍ਰਾਮ ਰੇਤ ਹੈ.
+  utter_faq-agri-rice-b1-pun/information-regarding-control-of-hispa-in-paddy-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਹਿਸਪਾ ਦੀ ਰੋਕਥਾਮ ਲਈ 1 ਲੀਟਰ ਕਲੋਰਪਾਈਰੀਫਾਸ 20 ਈਸੀ ਜਾਂ 800 ਮਿਲੀਲਿਟਰ ਏਕਲੌਕਸ ਨੂੰ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b1-pun/information-regarding-drainage-problem-in-paddy-feild?:
+  - text: ਰੇਤ ਦੇ ਨਾਲ ਪ੍ਰਤੀ ਏਕੜ ਮਿਸ਼ਰਣ ਪ੍ਰਤੀ ਸਲਫਰ 80% 4 ਕਿਲੋਗ੍ਰਾਮ
+  utter_faq-agri-rice-b1-pun/information-regading-control-of-rats-in-paddy-feild-?:
+  - text: 1 ਕਿਲੋ ਕਣਕ ਜਾਂ ਬਾਜਰਾ , 20 ਗ੍ਰਾਮ ਬਾਸਮਤੀ ਦਾ ਤੇਲ , 20 ਗ੍ਰਾਮ ਪਾਊਡਰ ਚੀਨੀ , 25 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਫਾਸਫਾਈਡ ਇਨ੍ਹਾਂ ਸਾਰਿਆਂ ਨੂੰ ਮਿਲਾ ਕੇ 10 ਗ੍ਰਾਮ ਦੀਆਂ 100 ਗੇਂਦਾਂ ਬਣਾ ਲਓ .40 ਗੇਂਦਾਂ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਪ੍ਰਸਾਰਿਤ ਕਰੋ .
+  utter_faq-agri-rice-b1-pun/information-regarding-blue-green-algae-in-paddy?:
+  - text: ਨੀਲੀ-ਹਰੇ ਐਲਗੀ ਝੋਨੇ ਦੀ ਫਸਲ ਲਈ ਵਧੀਆ ਹੈ, ਇਹ ਖੇਤਰ ਵਿਚ ਨਾਈਟ੍ਰੋਜਨ ਨੂੰ ਠੀਕ ਕਰਨ ਵਿਚ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ.
+  utter_faq-agri-rice-b1-pun/information-regarding-dificency-of-npk-in-rice?:
+  - text: ਸਪਰਾ ਐਨਪੀਕੇ 19:19:19 @ 1 ਕੇਜੀ ਇਨ 100 ਲਿਟਰ / ਏਕੜ.
+  utter_faq-agri-rice-b1-pun/information-regarding--application-of-water-after-broadcasting-urea-in-field-?:
+  - text: ਫੀਲਡ ਅਤੇ ਏਪੀਲੀ ਯੂਰੀਆ ਤੋਂ ਡਰੇਨ ਵਾਟਰ ਫਿਰ ਅਗਲੇ ਦਿਨ ਨੂੰ ਪ੍ਰਵਾਨਗੀ ਦਿੱਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ
+  utter_faq-agri-rice-b1-pun/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result?:
+  - text: ਬਿਹਤਰ ਨਤੀਜੇ ਲਈ ਯੂਰੀਆ ਅਤੇ ਮੀਂਹ ਦੇ ਸਪਰੇਅ ਵਿਚਕਾਰ 12 ਘੰਟੇ ਕਾਫ਼ੀ ਪਾੜਾ ਹੈ.
+  utter_faq-agri-rice-b1-pun/information-regarding-urea-dose-in-paddy-seedlings?:
+  - text: ਬ੍ਰਾਡਕਾਸਟ 1 ਕੇਜੀ ਯੂਰੀਆ ਮਿਕਸ ਸੈਂਡ / ਏਕੜ
+  utter_faq-agri-rice-b1-pun/rice-leaves-turn-into-the-white-colour?:
+  - text: ਇੱਕ ਏਕੜ ਵਿੱਚ 1 ਕਿਲੋਗ੍ਰਾਮ ਫੇਰਸ ਸਲਫੇਟ ਲਗਾਓ.
+  utter_faq-agri-rice-b1-pun/information-regarding-broadcast-dap-in-paddy-?:
+  - text: ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਫਾਸਫੋਰਸ ਸਪਰੇਅ 1.5 ਕਿਲੋ ਡੀਏਪੀ ਪ੍ਰਤੀ ਏਕੜ ਦੀ ਘਾਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ.

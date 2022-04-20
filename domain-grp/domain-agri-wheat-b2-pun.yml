@@ -1,0 +1,20 @@
+version: "3.0"
+
+intents:
+  - faq-agri-wheat-b2-pun
+
+responses:
+  utter_faq-agri-wheat-b2-pun/information-regarding-sowing-time-of-wheat?:
+  - text: ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਅਕਤੂਬਰ ਦੇ 4 ਵੇਂ ਹਫ਼ਤੇ ਤੋਂ ਨਵੰਬਰ ਦੇ 4 ਵੇਂ ਹਫ਼ਤੇ ਤੱਕ ਹੁੰਦਾ ਹੈ.
+  utter_faq-agri-wheat-b2-pun/sowing-time-for-early-sowing-varieties?:
+  - text: ਪਿਛਲੇ ਹਫ਼ਤੇ ਦੇ ਪਿਛਲੇ ਹਫਤੇ ਲਈ ਅਕਤੂਬਰ ਦਾ ਆਖਰੀ ਹਫ਼ਤਾ.
+  utter_faq-agri-wheat-b2-pun/late-varieties-of-wheat?:
+  - text: ਵ੍ਹਾਈਟ ਦੇ ਲੇਟ ਸਾਵਿੰਗ ਦੀਆਂ ਕਿਸਮਾਂ ਪੀਬੀਡਬਲਯੂ 509, ਪੀਬੀਡਬਲਯੂ 590, ਪੀਬੀਡਬਲਯੂ 373
+  utter_faq-agri-wheat-b2-pun/information-regarding-suitable-varieties-of-wheat-&-its-seed-rate-?:
+  - text: ਵ੍ਹਾਈਟ ਦੀ ਸਥਿਰ ਵੈਰੀਟੀਜ਼ -ਪੀਬੀਡਬਲਯੂ -550, ਐਚਡੀ -2967 ਅਤੇ ਐਚਡੀ -2851 ਅਤੇ ਆਈਟੀਐਸ ਨੇ ਰੇਟ -40 ਕੇਜੀ ਵੇਖੀ.
+  utter_faq-agri-wheat-b2-pun/information-about-best-varieties-for-running-season?:
+  - text: ਰਨਿੰਗ ਸੀਸਨ ਲਈ ਜ਼ਰੂਰੀ ਵੈਰੀਟੀਜ਼ ਹਨ - ਪੀਬੀਡਬਲਯੂ -550, ਐਚਡੀ -2967 ਅਤੇ ਐਚਡੀ -2851.
+  utter_faq-agri-wheat-b2-pun/sowing-time-of-wheat-after-Nov?:
+  - text: ਦਸੰਬਰ ਦੇ 4 ਵੇਂ ਹਫ਼ਤੇ ਦੇ ਨੰਬਰ ਦੀ 4 ਵੇਂ ਹਫ਼ਤੇ.
+  utter_faq-agri-wheat-b2-pun/sowing-time-of-late-varieties-of-wheat-in-sandy-soils?:
+  - text: 15 ਨਵੰਬਰ ਤੋਂ ਬਾਅਦ

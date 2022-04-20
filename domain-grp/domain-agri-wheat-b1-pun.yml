@@ -1,0 +1,60 @@
+version: "3.0"
+
+intents:
+  - faq-agri-wheat-b1-pun
+
+responses:
+  utter_faq-agri-wheat-b1-pun/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat-?:
+  - text: ਕਣਕ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ 1.5 ਲੀਟਰ ਸਟੌਪ 30 ਈਸੀ (ਪੈਂਡਾਮੇਥਾਲਿਨ) ਜਾਂ 60 ਗ੍ਰਾਮ ਆਵਕੀਰਾ 85 ਡਬਲਯੂਜੀ (ਪਾਇਰੋਕਸਾਸਲਫੋਨ) ਜਾਂ 1 ਲੀਟਰ ਪਲੇਟਫਾਰਮ 38.5 ਐਸਈ (ਪੈਂਡੀਮੇਥਾਲਿਨ 35% ਮੀਟਰਿਬਿਊਜ਼ਿਨ) ਪ੍ਰਤੀ 320 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ। ਕਣਕ ਦੀ ਬਿਜਾਈ ਤੋਂ 2 ਦਿਨਾਂ ਦੇ ਅੰਦਰ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-how-to-control-weeds-at-sowing-time-(pre-emergence)-in-wheat?:
+  - text: ਬਿਜਾਈ ਤੋਂ 0-3 ਦਿਨਾਂ ਬਾਅਦ ਇੱਕ ਏਕੜ ਕਣਕ ਦੀ ਫ਼ਸਲ ਲਈ ਪੂਰਵ-ਉਭਰਦੇ ਨਦੀਨਨਾਸ਼ਕ ਪੈਂਡੀਮੇਥਾਲਿਨ 8 - 8.5 ਮਿਲੀਲਿਟਰ/ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ 160-180 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਦਿਓ। ਪੇਂਡੀਮੇਥਾਲਿਨ ਕਣਕ ਦੇ ਈਕੋ ਸਿਸਟਮ 'ਤੇ ਘਾਹ ਅਤੇ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਨੂੰ ਕੰਟਰੋਲ ਕਰਦੀ ਹੈ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation-?:
+  - text: ਸਿੰਜੈਂਟਾ - TOPIK - [ਕਲੋਡੀਨਾਫੌਪ-ਪ੍ਰੋਪਾਰਜੀਲ] 0.75 - 1 ਗ੍ਰਾਮ/ਲੀਟਰ ਪਾਣੀ [ਜਾਂ 160 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ] ਵਿੱਚ 160-180 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਇੱਕ ਏਕੜ ਕਣਕ ਦੀ ਫ਼ਸਲ ਲਈ। ਵ੍ਹਿਪ ਸੁਪਰ - ਇੱਕ ਏਕੜ ਕਣਕ ਦੀ ਫ਼ਸਲ ਲਈ 100 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 160-180 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪਾਓ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation?:
+  - text: ਕਣਕ ਵਿੱਚ ਘਾਹ ਵਾਲੇ ਪੱਤਿਆਂ ਵਾਲੇ ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਆਈਸੋਪ੍ਰੋਟੋਰੋਨ 75 ਡਬਲਯੂਪੀ (ਹਲਕੀ ਮਿੱਟੀ ਲਈ 300 ਗ੍ਰਾਮ, ਦਰਮਿਆਨੀ ਮਿੱਟੀ ਵਿੱਚ 400 ਗ੍ਰਾਮ ਅਤੇ ਭਾਰੀ ਮਿੱਟੀ ਵਿੱਚ 500 ਗ੍ਰਾਮ) ਜਾਂ 13 ਗ੍ਰਾਮ ਲੀਡਰ/ਐਸਐਫ-10/ਸੈਫਲ/ਮਾਰਕਸਲਫੋ 75 ਡਬਲਯੂਜੀ (ਸਲਫਿਊਰੋਨ 500) ਇਨਫਲੋਸ 13 ਗ੍ਰਾਮ ਸਪਰੇਅ ਕਰੋ। ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ 2-3 ਦਿਨ ਪਹਿਲਾਂ ਪਾਓ।
+  utter_faq-agri-wheat-b1-pun/broad-leaf-weed-control-of-wheat?:
+  - text: ਕਣਕ ਵਿੱਚ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ 250 ਗ੍ਰਾਮ 2,4-ਡੀ ਸੋਡੀਅਮ ਲੂਣ 80 ਡਬਲਯੂਪੀ ਜਾਂ 250 ਮਿਲੀਲੀਟਰ 2,4-ਡੀ ਈਥਾਈਲ ਐਸਟਰ 38 ਈਸੀ ਜਾਂ 10 ਗ੍ਰਾਮ ਐਲਗ੍ਰਿਪ/ਐਲਗ੍ਰਿਪ ਰਾਇਲ/ਮਾਰਕਗ੍ਰਿੱਪ/ਮਕੋਟੋ (ਮੇਟਸਫੂਰੋਨ 20 ਡਬਲਯੂਪੀ ਜਾਂ 20 ਡਬਲਯੂਪੀ) ਦਾ ਛਿੜਕਾਅ ਕਰੋ। ਫਸਲ ਦੀ ਬਿਜਾਈ ਤੋਂ 30-35 ਦਿਨਾਂ ਦੇ ਅੰਦਰ-ਅੰਦਰ ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ ਗ੍ਰਾਮ ਏਮ/ਐਫੀਨਿਟੀ (ਕਾਰਫੈਂਟਰਾਜ਼ੋਨ-ਈਥਾਈਲ 40 ਡੀਐਫ) ਜਾਂ 20 ਗ੍ਰਾਮ ਲੈਨਫੀਡਾ (ਮੈਟਸਲਫੂਰੋਨ ਕਾਰਫੈਂਟਰਾਜ਼ੋਨ 50 ਡੀਐਫ 150 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ। ਜੇਕਰ ਕੋਈ ਹੋਵੇ ਤਾਂ ਉਪਰੋਕਤ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਨਦੀਨਨਾਸ਼ਕ ਦਾ ਛਿੜਕਾਅ ਨਾ ਕਰੋ। ਚੌੜੇ ਪੱਤਿਆਂ ਵਾਲੀ ਫ਼ਸਲ ਕਣਕ ਨਾਲ ਬੀਜੀ ਜਾਂਦੀ ਹੈ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-how-to-control-the-phalaris-minor-in-the-wheat-crop-?:
+  - text: ਕਲੋਡੀਨਾਫੋਸ 15 ਡਬਲਯੂਪੀ (ਟੌਪਿਕ/ਰਾਕਸ਼ਾਕ ਪਲੱਸ) @ 160 ਗ੍ਰਾਮ ਜਾਂ ਫੀਨੋਕਸੈਡੀਨ 5 ਈਸੀ (ਐਕਸਿਲ) @ 400 ਮਿਲੀਲੀਟਰ ਜਾਂ ਫੀਨੋਕਸਾਪਰੋਪ-ਪੀ-ਈਥਾਈਲ 10 ਈਸੀ (ਪਿਊਮਾ ਪਾਵਰ) @ 400 ਮਿਲੀਲੀਟਰ ਜਾਂ ਸੈਲਫੋਸਲਫੂਰਾਨ @ 400 ਮਿਲੀਲੀਟਰ ਜਾਂ ਸਲਫੋਸਲਫਿਊਰਾਨ 75 ਐੱਸ/130 (ਐਕਸਿਲ) ਦੀ ਸਪਰੇਅ ਕਰੋ। ਬਿਜਾਈ ਤੋਂ 30-35 ਦਿਨਾਂ ਬਾਅਦ ਛੋਲਿਆਂ ਨੂੰ 200 ਲਿਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ ਘੋਲ ਦਿਓ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-for-the-control-of-herbs-in-wheat-crop?:
+  - text: ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਜੜੀ ਬੂਟੀਆਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, 160 ਗ੍ਰਾਮ ਟੋਪਿਕ 20 ਗ੍ਰਾਮ ਐਫੀਨਿਟੀ/ਏਕੜ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b1-pun/tell-me-the-way-to-control-the-narrow-leaf-weeds?:
+  - text: 150 ਲਿਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 160HGM ਟੋਪਿਕ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-nozzle-used-in-herbicide-in-wheat-crop-?:
+  - text: ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਨਾਸ਼ਕ ਵਿੱਚ ਵਰਤੀ ਜਾਂਦੀ ਨੋਜ਼ਲ ਪਹਿਲਾਂ ਤੋਂ ਪੈਦਾ ਹੋਣ ਲਈ ਫਲੈਟ ਫੈਨ ਜਾਂ ਫਲੱਡ ਜੈਟ ਨੋਜ਼ਲ ਹੈ ਅਤੇ ਉਭਰਨ ਤੋਂ ਬਾਅਦ ਲਈ ਸਿਰਫ ਫਲੈਟ ਫੈਨ ਹੈ।
+  utter_faq-agri-wheat-b1-pun/how-we-can-control-the-weeds-in-non-cropped-area:
+  - text: ਗੈਰ ਫਸਲੀ ਖੇਤਰ ਜਾਂ ਗੈਰ ਕਾਸ਼ਤ ਵਾਲੇ ਖੇਤਰ ਜਾਂ ਖਾਲੀ ਖੇਤਰ ਵਿੱਚ ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਅਤੇ ਗੈਰ ਫਸਲੀ ਖੇਤਰਾਂ ਜਿਵੇਂ ਕਿ ਖੇਤਾਂ, ਸੜਕਾਂ, ਪਾਣੀ ਦੇ ਨਾਲੇ ਆਦਿ ਵਿੱਚ ਨਦੀਨਾਂ ਨੂੰ ਗ੍ਰਾਮੌਕਸੋਨ 24 ਐਸਐਲ (ਪੈਰਾਕੁਆਟ ਡਾਈਕਲੋਰਾਈਡ) @ 0.25 ਤੋਂ 0.5% ਦੀ ਸਪਰੇਅ ਦੁਆਰਾ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 250 ਤੋਂ 500 ਮਿ.ਲੀ.)
+  utter_faq-agri-wheat-b1-pun/information-regarding-post-emergence-weed-control-in-wheat:
+  - text: ਕਣਕ ਵਿੱਚ ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, 160 ਗ੍ਰਾਮ ਟੋਪਿਕ (ਕਲੋਡੀਨਾਫੌਪ) ਜਾਂ 13 ਗ੍ਰਾਮ ਲੀਡਰ (ਸਲਫੋਸਲਫਰੋਨ) ਜਾਂ 400 ਐਮ.ਐਲ. ਐਕਸੀਅਲ (ਪਿਨੋਕਸਡੇਨ) ਨੂੰ 100-120 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-control-of-weeds-in-post--emergence-(before-1st-irrigation)-stage-in-wheat-?:
+  - text: ਕਣਕ ਦੇ ਉੱਗਣ ਤੋਂ ਬਾਅਦ (ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ) ਅਵਸਥਾ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ ਆਈਸੋਪ੍ਰੋਟ੍ਰੂਰੋਨ 75 ਡਬਲਯੂਪੀ 300-400 ਗ੍ਰਾਮ ਜਾਂ ਲੀਡਰ 75 ਡਬਲਯੂਜੀ (ਸਲਫੋਸਲਫੂਰੋਨ) 13 ਗ੍ਰਾਮ ਨੂੰ 150 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-control-of-weeds-in-post--emergence-(after-1st-irrigation)-stage-in-wheat-?:
+  - text: ਉੱਗਣ ਤੋਂ ਬਾਅਦ (ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ) ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਕਣਕ ਵਿੱਚ ਟੋਪਿਕ 15 ਡਬਲਯੂਪੀ (ਕਲੋਡੀਨਾਫੌਪ) 160 ਗ੍ਰਾਮ, ਐਕਸੀਅਲ 5 ਈ ਸੀ (ਪਿਨੋਕਸੈਡਨ) 400 ਮਿ.ਲੀ., ਪਿਊਮਾ ਪਾਵਰ 10 ਈ ਸੀ (ਫੇਨੋਕਸਾਪਰੋਪ-ਪੀ-ਈਥਾਈਲ) 400 ਮਿ.ਲੀ. 153 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ 53 ਲਿਟਰ ਦਿਨ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b1-pun/how-to-control-wild-oat-in-wheat-crop?:
+  - text: ਕਣਕ ਦੇ ਸਪਰੇਅ ਵਿਚ ਜੰਗਲੀ ਜਵੀ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ 400 ਮਿ.ਲੀ. ਐਕਸਿਅਲ (ਪਿੰਨੋਕਸਡੇਨ 5 ਈ ਸੀ) 150 ਐਲ ਟੀ ਵਿਚ. ਬਿਜਾਈ ਤੋਂ ਬਾਅਦ 30-35 ਦਿਨਾਂ ਬਾਅਦ ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ ਦਾ.
+  utter_faq-agri-wheat-b1-pun/information-regarding-how-to-control-mixed-weeds-in-wheat?:
+  - text: ਸਪਰਾ (ਐਟਲਾਂਟਿਸ) 3.6 ਡਬਲਯੂਡੀਜੀ @ 160 ਜੀ ਐਮ 150 ਲੀਟਰ ਵਾਟਰ / ਏਸੀਆਰਈ ਵਿਚ.
+  utter_faq-agri-wheat-b1-pun/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-tellering-stage?:
+  - text: ਦੱਸਣ ਵਾਲੇ ਪੜਾਅ ਦੇ ਸਪਰੇਅ ਐਨ ਪੀ ਕੇ 19:19:19 120 ਐਲ ਟੀ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਵਰਤਿਆ ਜਾਂਦਾ ਵਾਧਾ ਰੈਗੂਲੇਟਰ.
+  utter_faq-agri-wheat-b1-pun/information-regarding-how-to-control-kandiali-palak-in-wheat?:
+  - text: ਸਪਰੇਅ ਐਲਗ੍ਰਿਪ 10 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ ਦੇ 150 ਲਾਈਟ ਵਿਚ
+  utter_faq-agri-wheat-b1-pun/procedure-to-control-the-medicago-denticulata-in-wheat-crop?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਐਲਗ੍ਰਿਪ 10 ਗ੍ਰਾਮ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b1-pun/information-regaridng-dose-of-topik-in-an-acre?:
+  - text: 160GM 100LT ਵਾਟਰ / ਏਕੜ ਵਿੱਚ.
+  utter_faq-agri-wheat-b1-pun/information-regarding-control-of-nematodes-affected-plant-in-wheat?:
+  - text: ਵ੍ਹਾਈਟ ਵਿੱਚ ਨੈਮੇਟਡਜ਼ ਦੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਪਲਾਂਟ ਦਾ ਨਿਯੰਤਰਣ - ਏਪੀਲੀ 4 ਕੇਜੀ ਫੁਰਦਾਨ ਪਰ ਏਕੜ .
+  utter_faq-agri-wheat-b1-pun/information-regarding-the-salt-of-sagun-21-11?:
+  - text: ਸਾਗਨ ਦੀ ਸਾਲਟ 21-11 ਕੋਲੋਕਿਨਫੌਪ ਅਤੇ ਮੈਟ੍ਰਿਬੂਜਿਨ
+  utter_faq-agri-wheat-b1-pun/information-regarding--control-of-chenopodium-album?:
+  - text: ਸਪਰੇਅ ਐਲਗ੍ਰਿਪ / ਐਲਗ੍ਰਿਪ ਰਾਇਲ / ਮਾਰਕਗ੍ਰਿਪ / ਮਕੋਟੋ 20 ਡਬਲਯੂਪੀ (ਮੈਟਸੁਲਫੂਰਨ *) 10 ਗ੍ਰਾਮ 150 ਐਲ ਪਾਣੀ ਜਾਂ ਐਮੀ / ਐਫੀਨੀਟੀ 40 ਡੀਐਫ (ਕਾਰਫੈਂਟ੍ਰਜ਼ੋਨ-ਈਥਾਈਲ *) 20 ਗ੍ਰਾਮ 200 ਐਲ ਪਾਣੀ
+  utter_faq-agri-wheat-b1-pun/information-regarding-glyphosate-41%sl?:
+  - text: ਫੀਡ ਕੰਟਰੋਲ ਲਈ ਗਲਾਈਫੋਸੇਟ 41% ਐਸ ਐਲ ਦੀ ਵਰਤੋਂ
+  utter_faq-agri-wheat-b1-pun/tell-me-how-to-control-trigonella-polycerata-in-wheat-crop?:
+  - text: ਸਪਰੇਅ ਐਫੀਨੀਟੀ 40 ਡੀ ਐੱਫ @ 20 ਜੀ 200 ਲੀਟਰ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ.
+  utter_faq-agri-wheat-b1-pun/how-to-control-melilotus-indica-in-wheat-crop?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਐਲਗ੍ਰਿਪ 10 ਗ੍ਰਾਮ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b1-pun/information-regarding-irrigate-the-field-after-herbicide-spray?:
+  - text: ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਸਪਰੇਅ ਤੋਂ ਕੁਝ ਦਿਨਾਂ ਬਾਅਦ ਖੇਤ ਨੂੰ 7 - 8 ਤੋਂ ਬਾਅਦ ਸਿੰਜਾਈ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ.
+  utter_faq-agri-wheat-b1-pun/how-to-control-malva-neglecta-in-wheat-crop?:
+  - text: ਸਪਰੇਅ ਦਾ ਟੀਚਾ 40df @ 20g ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ.

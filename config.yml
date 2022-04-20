@@ -82,6 +82,47 @@ pipeline:
     epochs: 100
     retrieval_intent: faq-hort-chilli-b1
 
+# punjabi
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-wheat-b0-pun # for faq-agri-wheat-b0 (plant protection)
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-wheat-b1-pun # for faq-agri-wheat-b1 (weed management)
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-wheat-b2-pun 
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-wheat-b3-pun
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-wheat-b4-pun
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-wheat-b5-pun
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-rice-b0-pun
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-rice-b1-pun
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-rice-b2-pun
+
+  - name: ResponseSelector
+    epochs: 100
+    retrieval_intent: faq-agri-rice-b3-pun
+
   - name: FallbackClassifier
     threshold: 0.90
     ambiguity_threshold : 0.1

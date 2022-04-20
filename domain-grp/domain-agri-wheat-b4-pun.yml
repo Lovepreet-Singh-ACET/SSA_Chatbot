@@ -1,0 +1,14 @@
+version: "3.0"
+
+intents:
+  - faq-agri-wheat-b4-pun
+
+responses:
+  utter_faq-agri-wheat-b4-pun/information-regarding-to-the-seed-treatment-of-wheat-?:
+  - text: ਰੈਕਿਲ @ 1 ਜੀ.ਐੱਮ. / ਕੇ.ਜੀ. ਜਾਂ ਬਾਵਿਸਟੀਨ @ 2.5 ਜੀ.ਐੱਮ. / ਕੇ.ਜੀ. ਨਾਲ ਚਿੱਟੇ ਦੀ ਬੀਜ ਨੂੰ ਬਣਾਓ.
+  utter_faq-agri-wheat-b4-pun/tell-me-about-seed-treatment-for-termite-protection:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫੋਜ਼ 20 ਈ.ਸੀ. 4 m.l. ਜਾਂ ਰੀਜੈਂਟ 5% 6 m.l. / ਕਿਲੋਗ੍ਰਾਮ ਬੀਜ
+  utter_faq-agri-wheat-b4-pun/dose-of-chlorpyriphos-for-seed-treatment?:
+  - text: ਪ੍ਰਤੀ ਕਿਲੋ ਬੀਜ ਲਈ 4 ਮਿ.ਲੀ. ਖੁਰਾਕ ਦੁਬਾਰਾ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ.
+  utter_faq-agri-wheat-b4-pun/information-regarding-dose-of-raxil-for-wheat-seed-treatment?:
+  - text: ਰੈਕਿਲ ਡੌਸ -1 ਜੀ.ਐੱਮ. / ਕੇ.ਜੀ.

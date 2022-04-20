@@ -103,3 +103,54 @@ rules:
   steps:
   - intent: faq-hort-chilli-b1
   - action : action_viz_faq
+
+# punjabi
+- rule: for Plant-Protection(batch 0) (Punjabi)
+  steps:
+  - intent: faq-agri-wheat-b0-pun
+  - action : action_viz_faq
+
+- rule: for weed management(batch 1) (Punjabi)
+  steps:
+  - intent: faq-agri-wheat-b1-pun
+  - action : action_viz_faq
+
+- rule: for batch 2 (Punjabi)
+  steps:
+  - intent: faq-agri-wheat-b2-pun
+  - action : action_viz_faq
+
+- rule: for batch 3 (Punjabi)
+  steps:
+  - intent: faq-agri-wheat-b3-pun
+  - action : action_viz_faq
+
+- rule: for batch 4 (Punjabi)
+  steps:
+  - intent: faq-agri-wheat-b4-pun
+  - action : action_viz_faq
+
+- rule: for batch 5 (Punjabi)
+  steps:
+  - intent: faq-agri-wheat-b5-pun
+  - action : action_viz_faq
+
+- rule: for rice batch 0 (Punjabi)
+  steps:
+  - intent: faq-agri-rice-b0-pun
+  - action : action_viz_faq
+
+- rule: for rice batch 1 (Punjabi)
+  steps:
+  - intent: faq-agri-rice-b1-pun
+  - action : action_viz_faq
+
+- rule: for rice batch 2 (Punjabi)
+  steps:
+  - intent: faq-agri-rice-b2-pun
+  - action : action_viz_faq
+
+- rule: for rice batch 3 (Punjabi)
+  steps:
+  - intent: faq-agri-rice-b3-pun
+  - action : action_viz_faq

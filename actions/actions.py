@@ -82,7 +82,7 @@ class ActionVizFaq(Action):
                         None: "No-option"}
 
         # to get a slot value (here --> slot is intent_button)
-        print("\n","Under viz faq slots value is ",tracker.slots['intent_button']) 
+        print("\n","Current Slots Value is: ",tracker.slots['intent_button']) 
         
         if tracker.slots['intent_button'] ==None:
             slot_value_clicked = mapped_intent[tracker.slots['intent_button']]
@@ -95,30 +95,30 @@ class ActionVizFaq(Action):
 
         # to get intent of user message
         _intent=tracker.latest_message['intent'].get('name')
-        print("Intent of user message predicted by Rasa ",_intent)
+        print("\nIntent of user message predicted by Rasa: ",_intent)
 
-        print(tracker.latest_message['text']) # to get user typed message 
+        print("\nUser Message",tracker.latest_message['text']) # to get user typed message 
 
         intent_found = json.dumps(tracker.latest_message['response_selector'][_intent]['ranking'][0]['intent_response_key'], indent=4)
         
         second_intent_found = json.dumps(tracker.latest_message['response_selector'][_intent]['ranking'][1]['intent_response_key'], indent=4)
         second_retrieval_intent_confidence = tracker.latest_message['response_selector'][_intent]['ranking'][1]['confidence']*100
-        print("Second Intent: ", second_intent_found, "\nConfidence: ", second_retrieval_intent_confidence)
+        print("\nSecond Intent: ", second_intent_found, "\nConfidence: ", second_retrieval_intent_confidence)
         # print('tracker latest message', tracker.latest_message['response_selector'])
         # print(' ')
         # print('---', tracker.latest_message['response_selector'].keys())
         # print('   ')
-        print("retrieval we found (i.e intent response key ) ",intent_found)
+        print("\nretrieval we found (i.e intent response key ) ",intent_found)
 
         # confidence of retrieval intent we found
         retrieval_intent_confidence = tracker.latest_message['response_selector'][_intent]['response']['confidence']*100
-        print(f"retrieval_intent_confidence we found was {retrieval_intent_confidence}")
+        print(f"\nretrieval_intent_confidence we found was {retrieval_intent_confidence}")
         if retrieval_intent_confidence < 80:
             dispatcher.utter_message(text="I couldn't understant can you please repharse it")
             return [SlotSet(key = "intent_button", value= [str(_intent[:-3])] ) ]
 
         
-        print(_intent, slot_value_clicked[0])
+        print("Intent: ", _intent,"Slot Clicked: ", slot_value_clicked[0])
         if str(tracker.latest_message['text']) == str('https://forms.gle/Fk1TxTzAteigKFG87'):
             dispatcher.utter_message(text='You can fill and submit the Google form')
 
@@ -136,7 +136,7 @@ class ActionVizFaq(Action):
             dispatcher.utter_message(response = intent_found) # use response for defining intent name
             print(retrieval_intent_confidence - second_retrieval_intent_confidence)
             if retrieval_intent_confidence - second_retrieval_intent_confidence <= 5:
-                print("in")
+                # print("in")
                 dispatcher.utter_message(text="One more possible solution could be as below")
                 dispatcher.utter_message(response=f'utter_{eval(second_intent_found)}')
                 dispatcher.utter_message(text="Take decison as per your choice")
@@ -157,6 +157,7 @@ class ActionVizFaq(Action):
             
             tracker.slots['intent_button'] = _intent[:-3]
             
-            print(f"Now slot value is {tracker.slots['intent_button']}","\n")
+            print(f"\nNow slot value is {tracker.slots['intent_button']}","\n")
+            print("---------------------------------------------------------")
 
         return [SlotSet(key = "intent_button", value= [str(_intent[:-3])] ) ] # setting slot values

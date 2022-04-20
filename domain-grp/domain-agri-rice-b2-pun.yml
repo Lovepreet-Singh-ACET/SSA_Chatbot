@@ -1,0 +1,48 @@
+version: "3.0"
+
+intents:
+  - faq-agri-rice-b2-pun
+
+responses:
+  utter_faq-agri-rice-b2-pun/information-regarding-sowing-time-of--basmati?:
+  - text: 15-30 ਜੂਨ ਬਾਸਮਤੀ ਚਾਵਲ ਦਾ ਬਿਜਾਈ ਦਾ ਸਮਾਂ .
+  utter_faq-agri-rice-b2-pun/sowing-time-of-direct-seedling-of-basmati?:
+  - text: ਚਾਵਲ ਦੀ ਸਿੱਧੀ ਬਿਜਾਈ ਲਈ 1 -15 ਜੂਨ ਬਿਜਾਈ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਹੈ.
+  utter_faq-agri-rice-b2-pun/sowing-season-of-basmati?:
+  - text: ਬਾਸਮਤੀ ਦਾ ਬਿਜਾਈ ਦਾ ਮੌਸਮ ਪਹਿਲੇ ਜੁਲਾਈ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-time-of-nursery-sowing?:
+  - text: ਬਾਸਮਤੀ ਨਰਸਰੀ ਬਿਜਾਈ ਪਹਿਲੀ ਜੂਨ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦੀ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-for-the-suitable-sowing-time-of-paddy(jonna)-?:
+  - text: ਪੈਡੀ (ਜੋਨਾ) ਦਾ ਸਥਿਰ ਸਮਾਂ -ਨੋਰਮਲ ਅਤੇ ਹਾਈਬ੍ਰਿਡ ਵੈਰੀਟੀਜ਼ -15 ਤੋਂ 25 ਮਈ ਅਤੇ ਬਾਸਮੈਟੀ ਵੈਰੀਟੀਜ਼-ਫਾਇਰਸਟ ਵੀਕ ਆਫ ਜੂਨ ਹੈ .
+  utter_faq-agri-rice-b2-pun/information-regarding-application-of-padan-in-paddy-nursery-?:
+  - text: ਪੈਡਾਨ / ਰੀਜੈਂਟ / ਫੇਟੇਰਾ ਜਾਂ ਝੋਨੇ ਵਿਚ ਕਿਸੇ ਵੀ ਦਾਣੇਦਾਰ ਕੀਟਨਾਸ਼ਕਾਂ ਦੀ ਕੋਈ ਸਿਫਾਰਸ਼ ਨਹੀਂ. ਪਰ ਜੇ ਸਟੈਮ ਬੋਰਰ ਅਤੇ ਪੱਤੇ ਫੋਲਡਰ ਦਾ ਹਮਲਾ ਵਿਕਾਸ ਲਈ ਨਹੀਂ ਹੁੰਦਾ ਤਾਂ ਬਾਸਮਤੀ ਵਿਚ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-the-detail-of-hybrid-paddy-cultivation-?:
+  - text: ਪੰਜਾਬ ਵਿਚ ਹਾਈਬ੍ਰਿਡ ਝੋਨੇ ਦੀ ਕਾਸ਼ਤ ਪੰਜਾਬ ਸਰਕਾਰ ਦੁਆਰਾ ਵਰਜਿਤ ਹੈ ਕਿਉਂਕਿ ਇਸ ਵਿਚ ਟੁੱਟੇ ਹੋਏ ਅਨਾਜ ਦੀ ਉੱਚ ਪ੍ਰਤੀਸ਼ਤਤਾ ਹੈ ਜੋ ਗੁਣਵੱਤਾ ਦੇ ਮਾਪ ਕਾਰਨ ਮਾਰਕੀਟਿੰਗ ਵਿਚ ਸਮੱਸਿਆ ਪੈਦਾ ਕਰਦੇ ਹਨ.
+  utter_faq-agri-rice-b2-pun/information-regarding-seed-treatment-of-basmati-seedlings?:
+  - text: ਵਾਟਰ ਦੇ 10 ਲੀਟਰ ਵਿਚ 1 ਜੀ.ਐੱਮ. ਸਟੇਪਟੋਕਾਈਕਲਾਈਨ ਦੇ ਨਾਲ ਬਾਵੇਸਟਿਨ 20 ਜੀ.ਐਮ.ਆਈ.ਐਕਸ ਨਾਲ ਤਿਆਰ ਕੀਤਾ ਗਿਆ
+  utter_faq-agri-rice-b2-pun/information-regarding-for-the-seed-treatment-of-paddy(jhona)?:
+  - text: 20 ਜੀ.ਐੱਮ. ਬਾਵਿਸਟੀਨ ਅਤੇ 1 ਗ੍ਰਾਮ ਸਟ੍ਰੈਪਟੋਕਾਈਕਲਿਨ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਵਾਲੇ ਪਾਣੀ ਦੇ 10 ਲੀਟਰ ਵਿੱਚ ਬੀਜਿਆ ਗਿਆ
+  utter_faq-agri-rice-b2-pun/information-regarding-planting-time-of-basmati-crop?:
+  - text: ਬਾਸਮਤੀ ਦਾ ਪਲ ਲਗਾਉਣ ਦਾ ਸਮਾਂ -10 ਜੁਲਾਈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-plantation-of-basmati-rice?:
+  - text: ਜੂਨ
+  utter_faq-agri-rice-b2-pun/information-regarding-the-sowing-time-of-rice-in-punjab.?:
+  - text: ਪੁੰਜਾਬ ਵਿੱਚ ਰਾਈਸ ਦਾ ਆਖਰੀ ਸਮਾਂ ਜੂਨ ਦੇ ਪਹਿਲੇ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ
+  utter_faq-agri-rice-b2-pun/number-of-rice-plant-require-in-one-one-square-meter?:
+  - text: 66 ਪੌਦੇ ਲਈ ਇਕ ਵਰਗ ਮੀਟਰ ਦੀ ਜ਼ਰੂਰਤ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-moisture-content-of-rice:
+  - text: ਨਮੀ ਵਾਲੀ ਸਮੱਗਰੀ ਮੈਂਡੀ ਵਿਚ ਵੇਚਣ ਲਈ ਝੋਨੇ ਦਾ 14% ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ
+  utter_faq-agri-rice-b2-pun/information-regarding-for-the-control-of-weeds-in-paddy(jhona)-crop?:
+  - text: ਪੈਡੀ ਨੂਰਸਰੀ ਸਪਰੇਅ ਵਿਚ 120 ਐਮਐਲ ਨੋਮੀਨੀ ਗੋਲਡ ਪਰ ਏਕੜ ਵਿਚ 15-25 ਦਿਨਾਂ ਦੇ ਬਾਅਦ.
+  utter_faq-agri-rice-b2-pun/information-regarding-when-to-use-weedcide-just-after-transplantation-?:
+  - text: ਬ੍ਰਾਡਕਾਸਟ 600 ਐਮਐਲ ਰਿਫਿਟ 60 ਕੇਜੀ ਸੈਂਡ ਨਾਲ 3 ਟ੍ਰੈਨਸਪਲੈਂਟਿੰਗ ਦੇ ਦਿਨ ਤੋਂ ਬਾਅਦ ਸਟੈਂਡਿੰਗ ਵਾਟਰ ਵਿਚ ਮਿਲਾਇਆ ਗਿਆ
+  utter_faq-agri-rice-b2-pun/information-regarding-control-of-weeds-in-paddy-?:
+  - text: ਝੋਨੇ ਦੇ ਸਪਰੇਅ ਨਾਮਜ਼ਦ ਸੋਨੇ / ਮਾਚੋ (ਬਿਸਪੀਰੀਬੈਕ-ਸੋਡੀਅਮ 10% ਵਿੱਚ ਬੂਟੀ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ% ਐਸਸੀ) 150 ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ (0.66 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ) ਵਿਚ 100 ਮਿ.ਲੀ. ਅਤੇ ਸਪਰੇਅ ਤੋਂ ਇਕ ਦਿਨ ਬਾਅਦ ਸਿੰਚਾਈ ਲਾਗੂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ.
+  utter_faq-agri-rice-b2-pun/telll-me-control-weeed-in-blank--field:
+  - text: ਸਪਰਾ ਗਲਾਈਫੋਸੇਟ 4 LTR / HEC
+  utter_faq-agri-rice-b2-pun/information-regarding-spacing-in-direct-seeded-rice?:
+  - text: ਸਿੱਧੀ ਦਰਜਾ ਪ੍ਰਾਪਤ ਚਾਵਲ ਦੀ ਕਤਾਰ ਵਿਚ ਕਤਾਰ ਵਿਚ ਸਪੇਸਿੰਗ 20 ਸੈਮੀ ਹੈ ਅਤੇ ਡੂੰਘਾਈ 2 -3 ਸੈਮੀ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-paddy-?:
+  - text: ਵਾਟਰ ਸਪਰੇਅਰ ਟੈਂਕ ਨਾਲ ਬੀਜ ਦੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਲੱਭੋ
+  utter_faq-agri-rice-b2-pun/information-regarding-application-of--pre-emergence-weedicide?:
+  - text: ਬਿਮਾਰੀ ਜਾਂ ਪੌਸ਼ਟਿਕ ਘਾਟ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਜਾਂ ਨੇੜਲੇ ਖੇਤੀਬਾੜੀ ਦਫਤਰ ਦਾ ਦੌਰਾ ਕਰਨ ਲਈ ਸਹੀ ਸਰਵੇਖਣ ਕਰੋ.

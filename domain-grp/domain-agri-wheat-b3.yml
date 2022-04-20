@@ -171,8 +171,6 @@ responses:
   - text: spray 1 kg NPK 13:0:45 in 100-150 L of water per acre.
   utter_faq-agri-wheat-b3/information-regarding-broadcasting-of-urea-after-herbicide-spray: 
   - text: 7-8days after spary you can broadcasting urea fertilizer.
-  utter_faq-agri-wheat-b3/extra-water-in-wheat:
-  - text: no recomend of fertilizers.
   utter_faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap: 
   - text: NO RECOMMANDATION OF SUPERPHOSPHATE IN WHEAT. IF DAP IS NOT AVAILABLE THEN USE OF 150KG SUPER CAN BE DONE TO MEET THE REQUIERMENT OF 55KG DAP
   utter_faq-agri-wheat-b3/information-regarding-control-of-nitrogen-in-wheat:

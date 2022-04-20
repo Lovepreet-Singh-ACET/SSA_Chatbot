@@ -345,7 +345,7 @@ nlu:
     - How can we irrigate the field after herbicide spray?
     - Can you irrigate the field after herbicide spray?
     - How should I irrigate my field after herbicide spray?
-    - 
+    - After herbicide spray, can i irrigate my feild
 
 # malva neglecta control
 - intent: faq-agri-wheat-b1/how-to-control-malva-neglecta-in-wheat-crop

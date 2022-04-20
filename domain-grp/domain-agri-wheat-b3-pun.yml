@@ -1,0 +1,108 @@
+version: "3.0"
+
+intents:
+  - faq-agri-wheat-b3-pun
+
+responses:
+  utter_faq-agri-wheat-b3-pun/information-regarding-dose-of-fertilizers-in-wheat-crop-?:
+  - text: ਕਣਕ ਦੀਆਂ ਕਿਸਮਾਂ ਹਨ-ਉਨਾਟ ਪੀਬੀਡਬਲਯੂ 343 (ਉਪਜ-23.2 ਕੁਇੰਟਲ), ਉਨਾਤ ਪੀਬੀਡਬਲਯੂ 550 (ਉਪਜ-23 ਕੁਇੰਟਲ), ਪੀਬੀਡਬਲਯੂ 1 ਜ਼ਿੰਕ (ਉਪਜ-22.5 ਕੁਇੰਟਲ), ਪੀਬੀਡਬਲਯੂ 725 (ਉਪਜ-22.9 ਪੀ.22.7 ਕੁਇੰਟਲ), ਪੀ.ਬੀ.ਡਬਲਯੂ. ਕੁਇੰਟਲ), HD 3086 (ਉਪਜ-23 ਕੁਇੰਟਲ), HD 2967 (ਉਪਜ-21.4 ਕੁਇੰਟਲ), WH 1105 (ਉਪਜ-23.1 ਕੁਇੰਟਲ), PBW 621 (ਉਪਜ-21.1 ਕੁਇੰਟਲ) ਅਤੇ PBW-520 (Yield-8 ਕੁਇੰਟਲ)।
+  utter_faq-agri-wheat-b3-pun/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat-&-dose--per-acre-of-it?:
+  - text: ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ 10ਵਾਂ ਦਿਨ ਕਣਕ ਵਿੱਚ ਮੈਗਨੀਜ਼ ਸਲਫੇਟ ਸਪਰੇਅ ਦਾ ਢੁਕਵਾਂ ਸਮਾਂ ਹੈ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-total-dose-of-urea-in-wheat-?:
+  - text: ਕਣਕ ਵਿੱਚ ਯੂਰੀਆ ਦੀ ਕੁੱਲ ਖੁਰਾਕ 90-110 ਕਿਲੋਗ੍ਰਾਮ/ਏਕੜ ਹੈ
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-fertilizer.-dose-at-the-time-of-wheat-sowing?:
+  - text: ਕਣਕ ਦੀ ਬਿਜਾਈ ਦੇ ਸਮੇਂ FERT. ਡੋਜ਼।-DAP-55KG,MOP-25KG
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-control-of-sulphur-deficiency-in-wheat-?:
+  - text: ਗੰਧਕ ਦੀ ਘਾਟ ਵਾਲੀਆਂ ਜ਼ਮੀਨਾਂ ਵਿੱਚ ਜ਼ਮੀਨ ਦੀ ਤਿਆਰੀ ਸਮੇਂ 100 ਕਿਲੋ ਜਿਪਸਮ ਪ੍ਰਤੀ ਏਕੜ ਪਾਓ ਪਰ ਜੇਕਰ ਫਾਸਫੋਰਸ ਨੂੰ ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਸਿੰਗਲ ਸੁਪਰਫਾਸਫੇਟ ਦੇ ਰੂਪ ਵਿੱਚ ਲਗਾਇਆ ਜਾਵੇ ਤਾਂ ਜਿਪਸਮ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ। ਗੰਧਕ ਦੀ ਘਾਟ ਹੋਣ 'ਤੇ ਖੜ੍ਹੀ ਫ਼ਸਲ ਵਿੱਚ ਜਿਪਸਮ ਵੀ ਲਗਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।
+  utter_faq-agri-wheat-b3-pun/how-many-spray-of-manganese-are-required-in-the-wheat-crop-?:
+  - text: 1ਲੀ ਛਿੜਕਾਅ 1ਲੀ ਸਿੰਚਾਈ ਤੋਂ 2-4 ਦਿਨ ਪਹਿਲਾਂ ਅਤੇ 3 ਸਪਰੇਅ ਹਫਤਾਵਾਰੀ ਅੰਤਰਾਲਾਂ ਤੋਂ ਬਾਅਦ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-zinc-deficiency-in-wheat-crop?:
+  - text: ਕਣਕ ਦੇ ਪੱਤਿਆਂ ਵਿੱਚ ਜ਼ਿੰਕ ਦੀ ਕਮੀ ਦੇ ਲੱਛਣ ਮੱਧਮ ਪ੍ਰਸਾਰਣ ਵਿੱਚ ਪੀਲੇ ਹੋ ਜਾਣ ਲਈ 25 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ (21%) ਜਾਂ 1 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ 500 ਗ੍ਰਾਮ ਅਣਸਲੇਕਡ ਚੂਨੇ ਨੂੰ 200 ਲਿਟਰ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-on-dose-of-dap-in-wheat-crop?:
+  - text: ਕਣਕ ਵਿੱਚ ਡੀਏਪੀ ਦੀ ਖੁਰਾਕ 55 ਕਿਲੋ ਪ੍ਰਤੀ ਏਕੜ ਹੈ
+  utter_faq-agri-wheat-b3-pun/information-regarding-deficiency-of-manganese-in-wheat:
+  - text: ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ 3-4 ਦਿਨ ਪਹਿਲਾਂ ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ 1 ਕਿਲੋ 200 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-wheat-seed-germination-after-rain-?:
+  - text: ਕੋਈ ਉੱਤਰ ਨਹੀਂ
+  utter_faq-agri-wheat-b3-pun/information-reagarding-dose-of-urea-after-first-irrigation-?:
+  - text: 50 ਕਿਲੋ ਯੂਰੀਆ/ਏਕੜ ਲਾਗੂ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-control-of-potassium-deficiency-in-wheat-?:
+  - text: ਕਣਕ ਵਿੱਚ ਪੋਟਾਸ਼ੀਅਮ ਦੀ ਕਮੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ 1 ਕਿਲੋ ਪੋਟਾਸ਼ੀਅਮ ਨਾਈਟ੍ਰੇਟ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days-?:
+  - text: ਫਿਰ ਜਦੋਂ ਨਮੀ ਦਾ ਪੱਧਰ ਅਨੁਕੂਲ ਹੋਵੇ ਤਾਂ ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ ਯੂਰੀਆ ਪਾਓ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-dose-of-potash-in-wheat?:
+  - text: ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਪੋਟਾਸ਼ ਦੀ ਖੁਰਾਕ:- 20 ਕਿਲੋ/ਏਕੜ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-application-of-gypsum-?:
+  - text: ਇਹ ਮਿੱਟੀ ਨੂੰ ਜੋੜਨ ਵਾਲੇ ਅਤੇ ਖਾਦ ਵਜੋਂ ਕੰਮ ਕਰਦਾ ਹੈ। ਖਣਿਜ ਵਿੱਚ ਪੌਦਿਆਂ ਦੇ ਸਿਹਤਮੰਦ ਵਿਕਾਸ ਲਈ ਜ਼ਰੂਰੀ ਦੋ ਮੁੱਖ ਤੱਤ ਹੁੰਦੇ ਹਨ - ਕੈਲਸ਼ੀਅਮ ਅਤੇ ਸਲਫਰ। ਜਦੋਂ ਕਿ ਕੈਲਸ਼ੀਅਮ ਜੜ੍ਹਾਂ ਰਾਹੀਂ ਪੌਸ਼ਟਿਕ ਤੱਤਾਂ ਨੂੰ ਜਜ਼ਬ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ, ਗੰਧਕ ਫਸਲਾਂ ਦੇ ਸਮੁੱਚੇ ਉਤਪਾਦਨ ਵਿੱਚ ਸੁਧਾਰ ਕਰਦਾ ਹੈ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-total-fertilizers-dose-in-wheat?:
+  - text: ਕਣਕ ਵਿੱਚ ਖਾਦਾਂ ਦੀ ਕੁੱਲ ਖੁਰਾਕ:- 110 ਕਿਲੋਗ੍ਰਾਮ। ਯੂਰੀਆ, 55 ਕਿ.ਗ੍ਰਾ. ਡੀਏਪੀ, 20 ਕਿਲੋਗ੍ਰਾਮ। ਪੋਟਾਸ਼ ਪ੍ਰਤੀ ਏਕੜ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-method-of-fertilizer-application-in-wheat-?:
+  - text: ਅੱਧੀ (55 ਕਿਲੋ) ਨਾਈਟ੍ਰੋਜਨ ਦੀ ਖੁਰਾਕ ਅਤੇ ਪੂਰੀ (55 ਕਿਲੋ) ਡੀਏਪੀ ਅਤੇ ਪੋਟਾਸ਼ (20 ਕਿਲੋ) ਬਿਜਾਈ ਦੇ ਸਮੇਂ ਅਤੇ ਬਾਕੀ (55 ਕਿਲੋ) ਨਾਈਟ੍ਰੋਜਨ ਪਹਿਲੀ ਸਿੰਚਾਈ 'ਤੇ ਪਾਓ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-deficiency-of-nitrogen-in-wheat-?:
+  - text: NPK 19:19:19 ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 1KG ਤੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-fertilizer-dosage-before-1st-irrigation?:
+  - text: ਕਣਕ-ਯੂਰੀਆ-25 ਕਿਲੋ 3 ਕਿਲੋ ਸਲਫਰ ਵਿੱਚ ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ ਖਾਦ ਦੀ ਖੁਰਾਕ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application?:
+  - text: ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਛਿੜਕਾਅ ਤੋਂ 2 ਦਿਨ ਬਾਅਦ ਯੂਰੀਆ ਦਾ ਪ੍ਰਸਾਰਣ ਕਰੋ
+  utter_faq-agri-wheat-b3-pun/information-regarding-deficiency-of-zinc-sulphate-in-wheat-crops-?:
+  - text: ਕਣਕ ਦੀ ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ 25 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ/ਏਕੜ ਪਾਓ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-control-of-phosphorous-deficiency-in-wheat-?:
+  - text: NPK 0:52:34 ਤੇ 1KG 200 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/dose-of-mop-in-wheat?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ ਲਈ 20 ਕਿਲੋ ਐਮ.ਓ.ਪੀ.
+  utter_faq-agri-wheat-b3-pun/dose-of-urea-for-foliar-spray?:
+  - text: 3 ਕਿਲੋ ਯੂਰੀਆ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਪਾਓ।
+  utter_faq-agri-wheat-b3-pun/control-of-iron-deficiency-in-wheat:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 150 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 150 ਗ੍ਰਾਮ ਚੀਲੇਟਿਡ ਆਇਰਨ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-improving-the-quality-of-wheat-grains?:
+  - text: ਕਣਕ ਦੀ ਫ਼ਸਲ ਦੀ ਗੁਣਵੱਤਾ ਨੂੰ ਸੁਧਾਰਨ ਲਈ 120 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 2 ਕਿਲੋ NPK (13:0:45) ਪ੍ਰਤੀ ਏਕੜ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/deficiency-manganese-sulphate-in-wheat?:
+  - text: 1 ਕਿਲੋ ਮੈਸਨੀਜ਼ ਸਲਫੇਟ/100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ।
+  utter_faq-agri-wheat-b3-pun/foliar-spray-of-manganese-in-wheat?:
+  - text: 1 ਕਿਲੋ ਮੈਸਨੀਜ਼ ਸਲਫੇਟ/100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-biofertilizer-in-wheat-?:
+  - text: ਇਕ ਏਕੜ ਬੀਜ ਨੂੰ ਟੀਕਾ ਲਗਾਓ ਜਿਸ ਵਿਚ 500 ਗ੍ਰਾਮ ਕਨਸੋਰਟੀਅਮ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ ਅਤੇ ਇਕ ਲੀਟਰ ਪਾਣੀ ਦੀ ਪੱਕਾ ਦੇ ਫਰਸ਼ 'ਤੇ ਹੈ. ਇਸ ਨੂੰ ਛਾਂ ਵਿਚ ਸੁੱਕਣ ਦਿਓ ਅਤੇ ਤੁਰੰਤ ਬਿਜਾਈ ਕਰੋ.
+  utter_faq-agri-wheat-b3-pun/application-of-single-super-phosphate-in-wheat?:
+  - text: ਹਿ Humਮਿਕ ਐਸਿਡ ਦੇ ਨਾਲ ਸਿੰਗਲ ਸੁਪਰਫੋਸਫੇਟ ਦੀ ਵਰਤੋਂ ਕੈਲਕ੍ਰੀਅਸ ਮਿੱਟੀ ਵਿੱਚ ਵਿਕਾਸ, ਉਪਜ ਅਤੇ ਫਾਸਫੋਰਸ ਅਪਟੈਕ ਆਫ ਕਣਕ (ਟ੍ਰਿਟਿਕਮ ਐਸਟੀਵਮ ਐਲ.) ਵਿੱਚ ਸੁਧਾਰ ਕਰਦੀ ਹੈ.
+  utter_faq-agri-wheat-b3-pun/information-regarding--management-of-alkali-soil-?:
+  - text: ਖਾਰੀ ਮਿੱਟੀ ਦੀਆਂ ਸਥਿਤੀਆਂ ਲਈ, ਮਿੱਟੀ ਦੇ ਟੈਸਟ ਦੇ ਅਨੁਸਾਰ ਐਪਲੀਕੇਸ਼ ਜਿਪਸਮ. ਅਤੇ ਹਰੇ ਰੰਗ ਦੇ ਇਲਾਜ ਲਈ ਧੇਂਚਾ ਮਦਦਗਾਰ ਹੈ. ਸਿਫਾਰਸ਼ ਨਾਲੋਂ ਵਧੇਰੇ ਯੂਰੀਆ
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-fertilizer-requirement-in-wheat-sown-with-happy-seeder?:
+  - text: ਬਾਰਸੀਮ ਵਿੱਚ ਵਰਤੀ ਜਾਂਦੀ ਕੁੱਲ ਖਾਦ ਦੀ ਖੁਰਾਕ 22 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ, 185 ਕਿਲੋਗ੍ਰਾਮ ਸੁਪਰਫੋਸਫੇਟ ਪ੍ਰਤੀ ਏਕੜ ਹੈ.
+  utter_faq-agri-wheat-b3-pun/urea-dose-at-sowing-time-?:
+  - text: ਫਰਟ. ਬਿਜਾਈ ਦੇ ਸਮੇਂ ਦੀ ਸਥਿਤੀ ਵਿਚ ਖੁਰਾਕ. - ਡੈਪ -55 ਕੇਜੀ, ਐਮਓਪੀ -25 ਕੇਜੀ ਅਤੇ ਯੂਰੀਆ -20 ਕੇਜੀ
+  utter_faq-agri-wheat-b3-pun/information-regarding-application-of-manures-?:
+  - text: ਖਾਦ ਜੈਵਿਕ ਪਦਾਰਥ ਅਤੇ ਪੌਸ਼ਟਿਕ ਤੱਤ, ਜਿਵੇਂ ਕਿ ਨਾਈਟ੍ਰੋਜਨ, ਜੋ ਕਿ ਮਿੱਟੀ ਦੇ ਬੈਕਟੀਰੀਆ, ਫੰਜਾਈ ਅਤੇ ਹੋਰ ਜੀਵਾਣੂਆਂ ਦੁਆਰਾ ਵਰਤੇ ਜਾਂਦੇ ਹਨ, ਜੋੜ ਕੇ ਮਿੱਟੀ ਦੀ ਉਪਜਾ ਸ਼ਕਤੀ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਂਦੇ ਹਨ. ਫਿਰ ਉੱਚ ਜੀਵ ਫੰਜਾਈ ਅਤੇ ਬੈਕਟੀਰੀਆ ਨੂੰ ਜੀਵਨ ਦੀ ਇੱਕ ਲੜੀ ਵਿੱਚ ਖੁਆਉਂਦੇ ਹਨ ਜਿਸ ਵਿੱਚ ਮਿੱਟੀ ਦੇ ਭੋਜਨ ਦੀ ਵੈੱਬ ਹੁੰਦੀ ਹੈ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-difference-between-ssp-and-dap?:
+  - text: ਐਸਐਸਪੀ ਅਤੇ ਡੀਏਪੀਐਸਲਿੰਗ ਸੁਪਰ ਫਾਸਫੇਟ - ਐਸ -12%, ਸੀਏ -19%, ਪੀ 2 ਓ 5-16% ਅਤੇ ਡੀ ਅਮੋਨੀਅਮ ਫਾਸਫੇਟ - ਪੀ 2 ਓ 5-46%, ਐਨ 2-18% ਵਿਚਕਾਰ ਅੰਤਰ%.
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-npk-dose-in-acre?:
+  - text: ਸਪਰੇਅ ਐਨਪੀਕੇ -19:19:19 1 ਕੇਜੀ ਪੀ ਆਰ ਏਕੜ
+  utter_faq-agri-wheat-b3-pun/before-irrigation-tell-me-the-information-regarding-of-fertilizer-dose-in-wheat-.:
+  - text: ਯੂਰੀਆ 25 ਕੇਜੀ + 3 ਕੇਜੀ ਸਲਫਰ 80% ਡਬਲਯੂਡੀਜੀ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-batter-growth-?:
+  - text: ਸਪਰੇਅ ਐਨ ਪੀ ਕੇ @ 1 ਕਿਲੋਗ੍ਰਾਮ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ.
+  utter_faq-agri-wheat-b3-pun/information-requirement-of-wheat-crop?:
+  - text: ਇਹ ਸਭ ਤੋਂ ਵਧੀਆ ਹੁੰਦਾ ਹੈ ਜਦੋਂ ਤਾਪਮਾਨ ਗਰਮ ਹੁੰਦਾ ਹੈ, 70 ° ਤੋਂ 75 ° F (21 ° ਤੋਂ 24 ° C) ਤੱਕ, ਪਰ ਬਹੁਤ ਗਰਮ ਨਹੀਂ ਹੁੰਦਾ. ਕਣਕ ਨੂੰ ਵੀ ਬਹੁਤ ਸਾਰੀਆਂ ਧੁੱਪ ਦੀ ਜ਼ਰੂਰਤ ਹੁੰਦੀ ਹੈ, ਖ਼ਾਸਕਰ ਜਦੋਂ ਅਨਾਜ ਭਰ ਰਹੇ ਹੁੰਦੇ ਹਨ. ਘੱਟ ਨਮੀ ਵਾਲੇ ਖੇਤਰ ਬਿਹਤਰ ਹਨ ਕਿਉਂਕਿ ਬਹੁਤ ਸਾਰੀਆਂ ਕਣਕ ਦੀਆਂ ਬਿਮਾਰੀਆਂ ਗਿੱਲੇ ਮੌਸਮ ਵਿੱਚ ਪ੍ਰਫੁੱਲਤ ਹੁੰਦੀਆਂ ਹਨ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-fertilizer-application-?:
+  - text: ਖਾਦ ਰਸਾਇਣਕ ਪਦਾਰਥ ਹਨ ਜੋ ਫਸਲਾਂ ਨੂੰ ਆਪਣੀ ਉਤਪਾਦਕਤਾ ਵਧਾਉਣ ਲਈ ਸਪਲਾਈ ਕਰਦੇ ਹਨ. ਇਹ ਫਸਲਾਂ ਦੇ ਝਾੜ ਨੂੰ ਵਧਾਉਣ ਲਈ ਹਰ ਰੋਜ਼ ਕਿਸਾਨਾਂ ਦੁਆਰਾ ਵਰਤੇ ਜਾਂਦੇ ਹਨ. ਖਾਦ ਵਿਚ ਪੌਦਿਆਂ ਦੁਆਰਾ ਲੋੜੀਂਦੇ ਜ਼ਰੂਰੀ ਪੌਸ਼ਟਿਕ ਤੱਤ ਹੁੰਦੇ ਹਨ, ਜਿਸ ਵਿਚ ਨਾਈਟ੍ਰੋਜਨ, ਪੋਟਾਸ਼ੀਅਮ ਅਤੇ ਫਾਸਫੋਰਸ ਸ਼ਾਮਲ ਹੁੰਦੇ ਹਨ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-dose-of-Deltamethrin?:
+  - text: ਸਪਰੇਅ 160ML / 100LITER / ACRE
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-foliar-application-of-urea-?:
+  - text: ਸਪਰੇਅ 1.5 ਕਿਲੋ ਯੂਰੀਆ 120 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ ਮਿਸ਼ਰਣ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-suitable-time-of-1st-irrigation?:
+  - text: 1 ਵੀਂ ਆਈਆਰਜੀਏਸ਼ਨ ਦਾ ਉਚਿਤ ਸਮਾਂ -AFter-25 ਦਿਨ ਹੈ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-nutrient-management-on-wheat-?:
+  - text: ਸਪਰੇਅ 1 ਕਿਲੋਗ੍ਰਾਮ NPK 13 0 45 ਵਿੱਚ 100-150 L ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-broadcasting-of-urea-after-herbicide-spray?:
+  - text: 7 -8 ਦਿਨ ਸਪਰੀ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਯੂਰੀਆ ਖਾਦ ਦਾ ਪ੍ਰਸਾਰਣ ਕਰ ਸਕਦੇ ਹੋ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-d.a.p?:
+  - text: ਵ੍ਹਾਈਟ ਵਿਚ ਸੁਪਰਫੋਸਫੇਟ ਦੀ ਕੋਈ ਸਿਫਾਰਸ਼ ਨਹੀਂ. ਜੇ ਡੈਪ ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਤਾਂ 150 ਕਿਲੋਗ੍ਰਾਮ ਸੁਪਰ ਦੀ ਵਰਤੋਂ 55 ਕੇਜੀ ਡੈਪ ਦੀ ਜ਼ਰੂਰਤ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ
+  utter_faq-agri-wheat-b3-pun/information-regarding-control-of-nitrogen-in-wheat-?:
+  - text: ਸਪਰਾ 3 KG ਯੂਰੀਆ ਮਿਕਸ 100 ਲਿਟਰ ਵਾਟਰ / ACRE ਵਿੱਚ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-expiry-date-of-manganese-sulphate?:
+  - text: ਮੈਨੂਫੈਕਚਰਿੰਗ ਡੇਟ ਤੋਂ ਬਾਅਦ 5 ਸਾਲ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-dose-of-leader-in-an-acre?:
+  - text: ਕਣਕ ਵਿਚ ਬੂਟੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਸਪਰੇਅ 160 ਗ੍ਰਾਮ ਟਾਪਿਕ (ਕਲੋਡੀਨਾਫੌਪ 15 ਡਬਲਯੂਪੀ) ਜਾਂ 13 ਗ੍ਰਾਮ ਲੀਡਰ (ਸਲਫੋਸੁਲਫੂਰਨ 75 ਡਬਲਯੂਜੀ) ਜਾਂ 16 ਗ੍ਰਾਮ ਕੁੱਲ (ਸਲਫੋਸਲਫੂਰਨ + ਮੈਟਸੁਲਫੂਰਨ 75 ਡਬਲਯੂਜੀ) ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ 30-35 ਦਿਨਾਂ ਬਾਅਦ ਬਿਜਾਈ
+  utter_faq-agri-wheat-b3-pun/information-regarding-poultry-manure-in-soil-before-wheat-sowing?:
+  - text: ਕਣਕ ਦੀ ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ ਮਿੱਟੀ ਵਿਚ 2.5 ਟਨ ਪ੍ਰਤੀ ਏਕੜ ਪੋਲਟਰੀ ਖਾਦ ਲਗਾਓ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-application-of-urea-after-weedicides-in-wheat?:
+  - text: ਯੂਰੀਆ ਬਿਹਤਰ ਨਤੀਜਿਆਂ ਲਈ ਬੂਟੀਸਾਈਡਾਂ ਦਾ ਛਿੜਕਾਅ ਕਰਨ ਦੇ ਦਿਨਾਂ ਬਾਅਦ 7 - 9 ਲਾਗੂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ

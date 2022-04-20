@@ -1,0 +1,26 @@
+version: "3.0"
+
+intents:
+  - faq-agri-wheat-b5-pun
+
+responses:
+  utter_faq-agri-wheat-b5-pun/recommended-time-of-irrigation-of-wheat:
+  - text: ਬਿਜਾਈ ਤੋਂ ਬਾਅਦ ਸਿੰਚਾਈ ਦੇ ਅੰਤਰਾਲ ਦੀ ਸੰਖਿਆ (ਦਿਨਾਂ ਵਿੱਚ) ਪਹਿਲੀ ਸਿੰਚਾਈ 20-25 ਦਿਨ ਦੂਜੀ ਸਿੰਚਾਈ 40-45 ਦਿਨ ਤੀਜੀ ਸਿੰਚਾਈ 60-65 ਦਿਨ ਚੌਥੀ ਸਿੰਚਾਈ 80-85 ਦਿਨ 5ਵੀਂ ਸਿੰਚਾਈ ਦਿਨ-101515 ਦਿਨ 5ਵੀਂ-101515 ਦਿਨ
+  utter_faq-agri-wheat-b5-pun/information-regarding-place-of-soil-test-?:
+  - text: ਕੋਈ ਉੱਤਰ ਨਹੀਂ
+  utter_faq-agri-wheat-b5-pun/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation?:
+  - text: ਸਤਹੀ ਕੂੜਾ ਕੱਢ ਦਿਓ ਅਤੇ ਖੁਰਪਾ ਨਾਲ 6 ਇੰਚ ਦੀ ਡੂੰਘਾਈ ਤੱਕ V-ਆਕਾਰ ਦਾ ਕੱਟ ਬਣਾਓ। ਕੱਟ ਦੇ ਇੱਕ ਪਾਸੇ ਤੋਂ ਮਿੱਟੀ ਦਾ ਲਗਭਗ 1” ਮੋਟਾ ਇਕਸਾਰ ਟੁਕੜਾ ਹਟਾਓ। ਇਸੇ ਤਰ੍ਹਾਂ ਇਕਸਾਰ ਬਣਤਰ ਅਤੇ ਇਕਸਾਰ ਉਪਜਾਊ ਸ਼ਕਤੀ ਦੇ ਖੇਤਰ ਵਿਚ 7 ਤੋਂ 8 ਥਾਵਾਂ ਤੋਂ ਨਮੂਨੇ ਇਕੱਠੇ ਕਰੋ। ਨਮੂਨਿਆਂ ਨੂੰ ਇੱਕ ਸਾਫ਼ ਬਾਲਟੀ ਵਿੱਚ ਪਾਓ ਅਤੇ ਇਸ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲਾਓ। ਇੱਕ ਕੱਪੜੇ ਦੇ ਥੈਲੇ ਵਿੱਚ ਲਗਭਗ ਅੱਧਾ ਕਿਲੋ ਮਿੱਟੀ ਲਓ।
+  utter_faq-agri-wheat-b5-pun/information-regarding-protection-of-stored-grains-from-insect--pest-attack-?:
+  - text: ਐਲੂਮੀਨੀਅਮ ਫੋਫਾਈਡ ਦੀਆਂ ਗੋਲੀਆਂ ਨੂੰ ਕੰਟੇਨਰ ਵਿੱਚ ਰੱਖੋ ਅਤੇ ਹਵਾ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਰੱਖੋ ਅਤੇ 25-30 ਦਿਨਾਂ ਲਈ ਨਾ ਖੋਲ੍ਹੋ
+  utter_faq-agri-wheat-b5-pun/regarding-depth-of-seed-sown-of-wheat:
+  - text: ਕਣਕ ਵਿੱਚ ਮਿੱਟੀ ਵਿੱਚ ਬੀਜ ਦੀ 4-6 ਸੈਂਟੀਮੀਟਰ ਡੂੰਘਾਈ।
+  utter_faq-agri-wheat-b5-pun/information-regarding-waste-decomposer-?:
+  - text: ਵੇਸਟ ਡੀਕੰਪੋਜ਼ਰ ਨੂੰ ਐਮਾਜ਼ਾਨ ਸਾਈਟ 'ਤੇ ਆਨਲਾਈਨ ਖਰੀਦਿਆ ਜਾ ਸਕਦਾ ਹੈ
+  utter_faq-agri-wheat-b5-pun/information-regarding-calcium-deficiency-in-soil?:
+  - text: ਕਣਕ ਵਿੱਚ ਕੈਲਸ਼ੀਅਮ ਦੀ ਕਮੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ 0.5 ਕਿਲੋ ਕੈਲਸ਼ੀਅਮ ਨਾਈਟ੍ਰੇਟ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b5-pun/information-regarding-salt-content-in-soil?:
+  - text: ਜਿਪਸਮ 2-3 ਥੈਲੇ ਮਿੱਟੀ ਵਿੱਚ ਪਾਓ।
+  utter_faq-agri-wheat-b5-pun/information-regarding-use-of-neem-spray-as-insecticide?:
+  - text: 1 ਕਿਲੋ ਨਿੰਮ ਦੀਆਂ ਪੱਤੀਆਂ ਨੂੰ 5 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾ ਕੇ ਵਰਤੋ
+  utter_faq-agri-wheat-b5-pun/information-regarding-vertical-conveyor-reaper-?:
+  - text: ਵਰਟੀਕਲ ਕਨਵੇਅਰ ਰੀਪਰ ਮੁੱਖ ਤੌਰ 'ਤੇ ਕਣਕ ਅਤੇ ਚੌਲਾਂ ਦੀ ਕਟਾਈ ਦਾ ਕੰਮ ਕਰਦਾ ਹੈ।
