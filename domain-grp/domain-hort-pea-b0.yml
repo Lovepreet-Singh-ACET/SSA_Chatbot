@@ -1,0 +1,102 @@
+version: "3.0" 
+intents: 
+  - faq-hort-pea-b0
+responses:
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-pea-leaf-miner-attack-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-caterpiler-in-peas: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-control-of-caterpiller-in-peas: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-control-of-borer-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-damping-off-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-leaf-caterpillar--attack-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/how-to-control-pod-borer-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-fugal-problem-in-peas: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-the-protection-of-peas-from-sunlight: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-pea-stem-borer-attack-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-yellowing-of-pea-plants: 
+  - text: 
+  utter_faq-hort-pea-b0/how-to-control-yellowing-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-brown-spot-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/how-to-control-thirps-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/how-to-pest-control-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-control-of-powdery-mildew-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/how-to-control-powdry-mildew-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/how-to-control-of-flower-droping-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-control-of-termite-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/how-to-control-termite-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-rust-disease-attack-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-control-of-rust-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-the-yellow-rust-in-peas: 
+  - text: 
+  utter_faq-hort-pea-b0/how-to-control-of-rust-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-rats-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-for-the-deficiency-of-potash-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-insects-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-aphids-in-peas: 
+  - text: 
+  utter_faq-hort-pea-b0/information-rgearding-for-the-control-of-grasshopper-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-control-of-blight-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/how-to-control-blight-in-peas: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-control-of-leaf-curl-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-leaf-curl-disease-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-for-the-sowing-time-of-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/control-of-rotting-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-control-of-rotting-in-peas: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-for-control-of-root-rot-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-seed-treatment-in-pea-crop: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-growth-of-peas: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-proper-growth-of-pes: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-better-yeild-and-growth-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-weeds-in-peas: 
+  - text: 
+  utter_faq-hort-pea-b0/control-of-weeds-in-pea-after-40-days-of-sowing: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-temperature-requirement-for-pea-germination: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-total-fertilizers-dose-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-the-defficiency-of-sulphur-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-nutrient-requirement-at-flowering-stage-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-defficiency-of-iron-in-pea: 
+  - text: 
+  utter_faq-hort-pea-b0/information-regarding-the-water-apllication-in-pea: 
+  - text: 

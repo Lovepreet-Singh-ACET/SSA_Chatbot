@@ -1,0 +1,54 @@
+version: "3.0"
+#Plant protection
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hii
+    - hlo
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: ok
+  examples: |
+    - yes
+    - y
+    - yeah
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+    - perfectly said
+    - hey thanks
+    - Ok
+    - OK sure
+    - ok
+    - okay
+    - done
+    - its over form my side
+    - Done
+    - yes its' over
+    - okay its done
+
+- intent: goodbye
+  examples: |
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later

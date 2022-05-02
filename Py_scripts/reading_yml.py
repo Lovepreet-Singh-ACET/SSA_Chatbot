@@ -4,22 +4,18 @@ import os
 import pandas as pd
 
 nlu_file_names = [
-    "nlu-faq-agri-rice-b0.yml",
-    "nlu-faq-agri-rice-b1.yml",
-    "nlu-faq-agri-rice-b2.yml",
-    "nlu-faq-agri-rice-b3.yml"
+    "nlu-faq-hort-chilli-b0.yml",
+    "nlu-faq-hort-chilli-b1.yml"
 ]
 domain_file_names = [
-    "domain-agri-rice-b0.yml",
-    "domain-agri-rice-b1.yml",
-    "domain-agri-rice-b2.yml",
-    "domain-agri-rice-b3.yml"
+    "domain-hort-chilli-b0.yml",
+    "domain-hort-chilli-b1.yml"
 ]
 
 questions_list = []
 intent_names = []
 for filename in nlu_file_names:
-    if "agri" in filename:
+    if "agri" in filename or "hort" in filename:
         print(filename)
 
         with open("data/{}".format(filename)) as file:
@@ -38,7 +34,7 @@ print("Domain")
 answer_list = []
 second_answer_list = []
 for filename in domain_file_names:
-    if "agri" in filename:
+    if "agri" in filename or "hort" in filename:
         print(filename)
         
         with open("domain-grp/{}".format(filename)) as file:
@@ -61,7 +57,7 @@ for filename in domain_file_names:
                         # print(doc[i]["examples"].split("\n")[0])
 
 df = pd.DataFrame({"questoions": questions_list, "answers": answer_list, "second_answer": second_answer_list})
-df.to_csv("CSV/Added_Questions_Set_paddy_b0123_combined.csv", index=False)
+df.to_csv("CSV/Added_Questions_Set_chilli_b01_combined.csv", index=False)
 
-# print(len(questions_list), len(answer_list), len(second_answer_list))
+print(len(questions_list), len(answer_list), len(second_answer_list))
 # print(answer_list)

@@ -3,8 +3,8 @@ import yaml
 import os
 import pandas as pd
 
-nlu_file_names = [ "/home/ubuntu/SSA/SSA_Chatbot/data/nlu-faq-agri-wheat-b0.yml" ]
-domain_file_names = ["/home/ubuntu/SSA/SSA_Chatbot/domain-grp/domain-agri-wheat-b0.yml"]
+nlu_file_names = [ "/home/ubuntu/SSA/SSA_Chatbot/data/nlu-faq-hort-chilli-b1.yml" ]
+domain_file_names = ["/home/ubuntu/SSA/SSA_Chatbot/domain-grp/domain-hort-chilli-b1.yml"]
 
 questions_list = []
 intent_names = []
@@ -50,7 +50,7 @@ for filename in domain_file_names:
                     # print(doc[i]["examples"].split("\n")[0])
 
 
-with open("/home/ubuntu/SSA/SSA_Chatbot/CSV/question_wheat_b0.txt", "w") as question_file:
+with open("/home/ubuntu/SSA/SSA_Chatbot/CSV/question_chilli_b1.txt", "w") as question_file:
     for question in sentences:
         # print(question)
         question_file.write(question.strip())
@@ -58,7 +58,7 @@ with open("/home/ubuntu/SSA/SSA_Chatbot/CSV/question_wheat_b0.txt", "w") as ques
         question_file.write("\n")
 print("question written")
 
-with open("/home/ubuntu/SSA/SSA_Chatbot/CSV/answers_wheat_b0.txt", "w") as answer_file:
+with open("/home/ubuntu/SSA/SSA_Chatbot/CSV/answers_chilli_b1.txt", "w") as answer_file:
     for answer in answer_list:
         answer_file.write(answer.strip())
         answer_file.write("\n")

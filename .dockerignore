@@ -4,3 +4,8 @@
 /Py_scripts
 /test_results/
 /pun_data
+/domain-grp
+/pun_data
+/test_results
+build-domain.py
+SSA.html

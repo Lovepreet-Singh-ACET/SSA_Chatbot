@@ -9,15 +9,8 @@ import os
 from rasa_sdk.events import SlotSet
 from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
-from fuzzywuzzy import fuzz
-# from gensim.models import KeyedVectors
-# from spellcheck import correction , master_dic_dataset_name,entity_mapper, dict_of_domain_ids, dataset_name_in_api, datset_name_and_ds_api_name
-# import numpy as np
-# from gensim import models
-# import time
-# from textblob import TextBlob
-# from sklearn.metrics.pairwise import cosine_similarity
-# import sys
+# from fuzzywuzzy import fuzz
+from textblob import TextBlob
 
 
 # This is a simple example for a custom action which utters "Hello World!"
@@ -103,7 +96,6 @@ class ActionVizFaq(Action):
         
         second_intent_found = json.dumps(tracker.latest_message['response_selector'][_intent]['ranking'][1]['intent_response_key'], indent=4)
         second_retrieval_intent_confidence = tracker.latest_message['response_selector'][_intent]['ranking'][1]['confidence']*100
-        print("\nSecond Intent: ", second_intent_found, "\nConfidence: ", second_retrieval_intent_confidence)
         # print('tracker latest message', tracker.latest_message['response_selector'])
         # print(' ')
         # print('---', tracker.latest_message['response_selector'].keys())
@@ -112,7 +104,8 @@ class ActionVizFaq(Action):
 
         # confidence of retrieval intent we found
         retrieval_intent_confidence = tracker.latest_message['response_selector'][_intent]['response']['confidence']*100
-        print(f"\nretrieval_intent_confidence we found was {retrieval_intent_confidence}")
+        print(f"\nRetrieval_intent_confidence we found was {retrieval_intent_confidence}")
+        # print("\nSecond Intent: ", second_intent_found, "\nConfidence: ", second_retrieval_intent_confidence)
         if retrieval_intent_confidence < 80:
             dispatcher.utter_message(text="I couldn't understant can you please repharse it")
             return [SlotSet(key = "intent_button", value= [str(_intent[:-3])] ) ]
@@ -134,7 +127,7 @@ class ActionVizFaq(Action):
             intent_found = f'utter_{eval(intent_found)}'
             print('after adding utter we found -- ', intent_found)
             dispatcher.utter_message(response = intent_found) # use response for defining intent name
-            print(retrieval_intent_confidence - second_retrieval_intent_confidence)
+            # print("Difference: ",retrieval_intent_confidence - second_retrieval_intent_confidence)
             if retrieval_intent_confidence - second_retrieval_intent_confidence <= 5:
                 # print("in")
                 dispatcher.utter_message(text="One more possible solution could be as below")
@@ -161,3 +154,43 @@ class ActionVizFaq(Action):
             print("---------------------------------------------------------")
 
         return [SlotSet(key = "intent_button", value= [str(_intent[:-3])] ) ] # setting slot values
+
+class ActionLanguageDetectorRetrieval(Action):
+
+    def name(self) -> Text:
+        return "action_language_detector_retrieval"
+
+    def run(self, dispatcher: CollectingDispatcher,
+            tracker: Tracker,
+            domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+        
+        print('Language detector for Retrieval')
+        # to get intent of user message
+        _intent=tracker.latest_message['intent'].get('name')
+        print("Intent of user message predicted by Rasa ",_intent)
+
+        text = tracker.latest_message['text'] # to get user typed message
+        lang = TextBlob(text)
+        lang = lang.detect_language()
+        print("Language of user message is ",lang)
+        if lang == _intent[-2:]:
+            # print(lang,_intent[-2:])
+            # dispatcher.utter_message(f"Your message is in {lang}")
+            ls_of_lang_intent = []
+            intent_found = json.dumps(tracker.latest_message['response_selector'][_intent]['ranking'], indent=4)
+            print(intent_found)
+            intent_found = json.loads(intent_found)
+            for lang_finder_iter in intent_found:
+                print(lang_finder_iter['intent_response_key'])
+                if lang_finder_iter['intent_response_key'].split('/',1)[0][-2:] == lang:
+                    ls_of_lang_intent.append(lang_finder_iter)
+            print("\n","ls_of_lang_intent",ls_of_lang_intent)
+            
+        #     # sorting needed to get the highest confidence intent
+        print("retrieval we found (i.e intent response key ) ",ls_of_lang_intent[0]['intent_response_key'])
+        intent_found = ls_of_lang_intent[0]['intent_response_key']
+
+        intent_found = 'utter_'+str(intent_found)
+        print('after adding utter we found -- ', intent_found)
+        dispatcher.utter_message(response=intent_found)
+        return [SlotSet('language', lang)]
