@@ -48,7 +48,7 @@ class ActionSlotSetter(Action):
         print(tracker.slots['intent_button'], "------------------------------")
         if tracker.slots['intent_button'] == None:
             print("\n","slots value is ",tracker.slots['intent_button'])
-            dispatcher.utter_message(text="Hi!! Welcome to SSA Punjab Bot. How can I help you??",buttons=buttons)
+            dispatcher.utter_message(text="Hi! Welcome to Farmerapp chatbot. For any queries related to crop, vegetation, etc, please select a topic from the below options.",buttons=buttons)
         else:
             print("\n","Now slots value is ",tracker.slots['intent_button'])
             dispatcher.utter_message(text="Yes you are good to go")
@@ -107,7 +107,7 @@ class ActionVizFaq(Action):
         print(f"\nRetrieval_intent_confidence we found was {retrieval_intent_confidence}")
         # print("\nSecond Intent: ", second_intent_found, "\nConfidence: ", second_retrieval_intent_confidence)
         if retrieval_intent_confidence < 80:
-            dispatcher.utter_message(text="I couldn't understant can you please repharse it")
+            dispatcher.utter_message(text="I couldn't understand. Can you please rephrase it?")
             return [SlotSet(key = "intent_button", value= [str(_intent[:-3])] ) ]
 
         

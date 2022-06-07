@@ -18,6 +18,7 @@ intents:
 - faq-agri-rice-b0
 - faq-hort-chilli-b1
 - faq-hort-chilli-b0
+- faq-hort-pea-b0
 - faq-agri-rice-b1
 - faq-agri-wheat-b1
 - faq-agri-wheat-b4-pun
@@ -30,10 +31,10 @@ intents:
 responses:
   utter_faq-agri-wheat-b2-pun/information-regarding-sowing-time-of-wheat?:
   - text: "\u0A2C\u0A3F\u0A1C\u0A3E\u0A08 \u0A26\u0A3E \u0A38\u0A2E\u0A3E\u0A02 \u0A05\
-      \u0A15\u0A24\u0A42\u0A2C\u0A30 \u0A26\u0A47 4 \u0A35\u0A47\u0A02 \u0A39\u0A2B\
+      \u0A15\u0A24\u0A42\u0A2C\u0A30 \u0A26\u0A47 4\u0A35\u0A47\u0A02 \u0A39\u0A2B\
       \u0A3C\u0A24\u0A47 \u0A24\u0A4B\u0A02 \u0A28\u0A35\u0A70\u0A2C\u0A30 \u0A26\u0A47\
-      \ 4 \u0A35\u0A47\u0A02 \u0A39\u0A2B\u0A3C\u0A24\u0A47 \u0A24\u0A71\u0A15 \u0A39\
-      \u0A41\u0A70\u0A26\u0A3E \u0A39\u0A48."
+      \ 4\u0A35\u0A47\u0A02 \u0A39\u0A2B\u0A3C\u0A24\u0A47 \u0A24\u0A71\u0A15 \u0A39\
+      \u0A41\u0A70\u0A26\u0A3E \u0A39\u0A48\u0964"
   utter_faq-agri-wheat-b2-pun/sowing-time-for-early-sowing-varieties?:
   - text: "\u0A2A\u0A3F\u0A1B\u0A32\u0A47 \u0A39\u0A2B\u0A3C\u0A24\u0A47 \u0A26\u0A47\
       \ \u0A2A\u0A3F\u0A1B\u0A32\u0A47 \u0A39\u0A2B\u0A24\u0A47 \u0A32\u0A08 \u0A05\
@@ -1253,8 +1254,8 @@ responses:
       per acre after transplanting mixed with 100kg FYM .if not available then buy
       it from online.
   utter_faq-agri-rice-b0/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy:
-  - text: Broadcast 2 lt. Chlorpyriphos 20EC mix 2 lt. water and mix in 30 kg. dry
-      sand per acre in standing water.
+  - text: Broadcast 2 lt. Chlorpyriphos 20EC mix 2 l water and mix in 30 kg dry sand
+      per acre in standing water.
   utter_faq-agri-rice-b0/information-regarding-how-to-control-stem-rot-in-paddy:
   - text: control Stem rot in paddy Spray the affected crop with 200 ml Amistar Top
       325 SC (azoxystrobin + difenconazole) per acre in 200 litres of water, at the
@@ -1475,6 +1476,92 @@ responses:
       at 10days interval.
   utter_faq-hort-chilli-b0/information-regarding-transplanting--time-of-chillies-crops:
   - text: THE TRANSPLANTING TIME OF CHILLIES IS FEB. - MARCH .
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-pea-leaf-miner-attack-in-pea-crop:
+  - text: Spray 300-400ml metasystox 30EC in 150lt water per acre
+  utter_faq-hort-pea-b0/information-regarding-caterpiler-in-peas:
+  - text: To control of caterpillar in pea crop spray 70gm proclaim (emamectin benzoate),
+      100 ml Sumicidin (fenvalerate) or 130 ml avaunt(indoxacarb 15.8 EC) or 60 ml
+      coragen in 100 litres of water per acre.
+  utter_faq-hort-pea-b0/information-regarding-control-of-borer-in-pea:
+  - text: Spray coragen 60 ml in 120 litres of water for one acre
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-damping-off-in-pea:
+  - text: SPRAY BAVISTIN ( CARBENDAZIM) @ 200GM IN 200 LITTERS OF WATER / ACRE.
+  utter_faq-hort-pea-b0/how-to-control-pod-borer-in-pea-crop:
+  - text: When infestation is in initial stage, take spray of Carbaryl@900gm/100Ltr
+      of water per acre. If necessary repeat the spray after 15 days. In case of severe
+      infestation take spray of Chlorpyriphos@1 Ltr or Acephate@800 gm in 100 Ltrs
+      of water per acre with manually operated knapsack sprayer.
+  utter_faq-hort-pea-b0/information-regarding-fugal-problem-in-peas:
+  - text: Spray indofil M 45 400gm in 200L of water per acre in feild of pea
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-pea-stem-borer-attack-in-pea-crop:
+  - text: SPRAY ROGER(DIMEHOATE ) 400 ML IN 80-100 LITRE WATER
+  utter_faq-hort-pea-b0/information-regarding-yellowing-of-pea-plants:
+  - text: SPRAY MICRO-NUTREINT 1KG IN 100 LITRE OF WATER/ ACRE
+  utter_faq-hort-pea-b0/information-regarding-brown-spot-in-pea-crop:
+  - text: BLITOX 50wp 300G WITH 100LITER WATER MIX AND SPRAY PER ACRE
+  utter_faq-hort-pea-b0/how-to-control-thirps-in-pea-crop:
+  - text: spray 400ml rogar 30EC dimethode
+  utter_faq-hort-pea-b0/how-to-pest-control-in-pea-crop:
+  - text: SPRAY CYPERMETHRIN 20 EC 80-100 ML IN 150 LITER NOF WATER FOR 1 ACER
+  utter_faq-hort-pea-b0/information-regarding-control-of-powdery-mildew-in-pea:
+  - text: FOR CONTROL OF POWDERY MILDEW IN PEAS, SPRAY 80 ML KARATHANE OR 600 GM SULFEX
+      IN 200 LITRE WATER PER ACRE
+  utter_faq-hort-pea-b0/how-to-control-of-flower-droping-in-pea-crop:
+  - text: Spray 1 ml. Planofix in 4.5 lt. of water.
+  utter_faq-hort-pea-b0/information-regarding-control-of-termite-in-pea:
+  - text: APPLY THIMET @ 3KG / ACRE FOR THE CONTROL OF TERMITE IN PEA .
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-rust-disease-attack-in-pea-crop:
+  - text: control of Rust in Pea spray 400g Indofil M-45 in 200lt water per acre.
+  utter_faq-hort-pea-b0/information-regarding-the-yellow-rust-in-peas:
+  - text: SPRAY 400 GM INDOFIL M-45 IN 200 LITRES OF WATER PER ACRE FOR THE YELLOW
+      RUST IN PEAS
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-rats-in-pea:
+  - text: APPLY ZINC PHOSPHIDE FOR THE CONTROL THE CONTROL OF RATS.
+  utter_faq-hort-pea-b0/information-regarding-for-the-deficiency-of-potash-in-pea:
+  - text: use spray n:p:k-13:0:45/1kg in 100 litres of water.
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-insects-in-pea:
+  - text: For control of insects in pea spray 300 ml Malathion 50 EC in 100 liters
+      of water per acre.
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-aphids-in-peas:
+  - text: SPRAY ROGOR 150 ML IN 100 LITRE WATER PER ACRE
+  utter_faq-hort-pea-b0/information-rgearding-for-the-control-of-grasshopper-in-pea:
+  - text: For control of grasshopper in pea spray 800ml Ekalaux in 80-100 liter of
+      water per acre.
+  utter_faq-hort-pea-b0/information-regarding-control-of-blight-in-pea:
+  - text: spray blitox @ 250gm mix in 100 liters of water / acre .
+  utter_faq-hort-pea-b0/information-regarding-control-of-leaf-curl-in-pea:
+  - text: SPRAY SAAF(UPL) @ 500GM IN 150LTR OF WATER PER ACRE .
+  utter_faq-hort-pea-b0/information-regarding-for-the-sowing-time-of-pea:
+  - text: sowing time of Pea from Mid october to Mid november.
+  utter_faq-hort-pea-b0/control-of-rotting-in-pea:
+  - text: SPRAY 300GM INDOFIL M-45 IN 100LT WATER/ACRE.
+  utter_faq-hort-pea-b0/information-regarding-for-control-of-root-rot-in-pea:
+  - text: For control of root rot in peas drench the field with 3 gram Bavistin 50
+      WP (Carbendazim) per liter water.
+  utter_faq-hort-pea-b0/information-regarding-seed-treatment-in-pea-crop:
+  - text: Apply 8 tonnes FYM ,45 KG urea and 155kg single superphosphate in pea crop.
+  utter_faq-hort-pea-b0/information-regarding-growth-of-peas:
+  - text: To improve the growth of pea crop spray 1KG powder NPK (19:19:19) per acre
+      in 100 liters of water(@10 gram per liter).
+  utter_faq-hort-pea-b0/information-regarding-better-yeild-and-growth-in-pea:
+  - text: SPRAY NPK 13:0:45 1 KG IN 100 LITRE WATER
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-weeds-in-peas:
+  - text: For control of weeds in peas spray Stomp 30EC (pendimethalin) @ 1 litre
+      with in 2days of sowing in 200lt water per acre.
+  utter_faq-hort-pea-b0/control-of-weeds-in-pea-after-40-days-of-sowing:
+  - text: MANUAL WEEDING SHOULD BE DONE, NO RECOMMENDATION OF HERBICIDE.
+  utter_faq-hort-pea-b0/information-regarding-temperature-requirement-for-pea-germination:
+  - text: SOWING TEMPERATURE FOR PEA IS 25-30 DEGREE CELCIUS
+  utter_faq-hort-pea-b0/information-regarding-total-fertilizers-dose-in-pea:
+  - text: ADD 45 KG OF UREA AND 155 KG SINGLE SUPER PHOSPHATE AT THE TIME OF SOWING
+      .
+  utter_faq-hort-pea-b0/information-regarding-the-defficiency-of-sulphur-in-pea:
+  - text: APPLY SULPHUR @ 3KG / ACRE.
+  utter_faq-hort-pea-b0/information-regarding-nutrient-requirement-at-flowering-stage-in-pea:
+  - text: Nutrient requirement at flowering stage in pea- Spray 1 kg NPK 13 00 45
+      IN 100 LITRE WATER PER ACRE.
+  utter_faq-hort-pea-b0/information-regarding-defficiency-of-iron-in-pea:
+  - text: SPRAY FEROUS SULPHAT @ 500GM IN 100 LITTERS OF WATER/ACRE.
   utter_faq-agri-rice-b1/information-regarding-the-role-of-regent-in-paddy:
   - text: it is a insectiside it do not promote growth among plants
   utter_faq-agri-rice-b1/information-regarding-dose-of-fertilizers-in-rice:
@@ -1645,40 +1732,45 @@ responses:
   - text: "\u0A30\u0A48\u0A15\u0A3F\u0A32 \u0A21\u0A4C\u0A38 -1 \u0A1C\u0A40.\u0A10\
       \u0A71\u0A2E. / \u0A15\u0A47.\u0A1C\u0A40."
   utter_faq-agri-rice-b0-pun/information-regarding-phosphorus-deficincy-in-paddy?:
-  - text: "\u0A1D\u0A4B\u0A28\u0A47 \u0A26\u0A40 \u0A2B\u0A38\u0A32 \u0A38\u0A2A\u0A30\
-      \u0A47\u0A05 1KG \u0A2A\u0A3E powder\u0A21\u0A30 \u0A10\u0A28\u0A2A\u0A40\u0A15\
-      \u0A47 (0:52:34) \u0A35\u0A3F\u0A1A \u0A2B\u0A3E\u0A38\u0A2B\u0A4B\u0A30\u0A38\
-      \ \u0A26\u0A40 \u0A18\u0A3E\u0A1F \u0A28\u0A42\u0A70 \u0A2A\u0A42\u0A30\u0A3E\
-      \ \u0A15\u0A30\u0A28 \u0A32\u0A08 100 \u0A32\u0A40\u0A1F\u0A30 \u0A2A\u0A3E\u0A23\
-      \u0A40 (@ 10 \u0A17\u0A4D\u0A30\u0A3E\u0A2E \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A32\
-      \u0A40\u0A1F\u0A30) \u0A35\u0A3F\u0A1A \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A0F\
-      \u0A15\u0A5C."
+  - text: "\u0A1D\u0A4B\u0A28\u0A47 \u0A26\u0A40 \u0A2B\u0A3C\u0A38\u0A32 \u0A35\u0A3F\
+      \u0A71\u0A1A \u0A2B\u0A3E\u0A38\u0A2B\u0A4B\u0A30\u0A38 \u0A26\u0A40 \u0A18\u0A3E\
+      \u0A1F \u0A28\u0A42\u0A70 \u0A2A\u0A42\u0A30\u0A3E \u0A15\u0A30\u0A28 \u0A32\
+      \u0A08 1 \u0A15\u0A3F\u0A32\u0A4B\u0A17\u0A4D\u0A30\u0A3E\u0A2E \u0A2A\u0A3E\
+      \u0A0A\u0A21\u0A30 NPK (0:52:34) \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A0F\u0A15\
+      \u0A5C \u0A28\u0A42\u0A70 100 \u0A32\u0A40\u0A1F\u0A30 \u0A2A\u0A3E\u0A23\u0A40\
+      \ (@10 \u0A17\u0A4D\u0A30\u0A3E\u0A2E \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A32\u0A40\
+      \u0A1F\u0A30) \u0A35\u0A3F\u0A71\u0A1A \u0A18\u0A4B\u0A32 \u0A15\u0A47 \u0A1B\
+      \u0A3F\u0A5C\u0A15\u0A3E\u0A05 \u0A15\u0A30\u0A4B\u0964"
   utter_faq-agri-rice-b0-pun/information-regarding-potassium-deficiency-in-paddy-crop:
-  - text: "\u0A1D\u0A4B\u0A28\u0A47 \u0A26\u0A40 \u0A2B\u0A38\u0A32 \u0A38\u0A2A\u0A30\
-      \u0A47\u0A05 1KG \u0A2A\u0A3E powder\u0A21\u0A30 \u0A10\u0A28\u0A2A\u0A40\u0A15\
-      \u0A47 (0:52:34) \u0A35\u0A3F\u0A1A \u0A2B\u0A3E\u0A38\u0A2B\u0A4B\u0A30\u0A38\
-      \ \u0A26\u0A40 \u0A18\u0A3E\u0A1F \u0A28\u0A42\u0A70 \u0A2A\u0A42\u0A30\u0A3E\
-      \ \u0A15\u0A30\u0A28 \u0A32\u0A08 100 \u0A32\u0A40\u0A1F\u0A30 \u0A2A\u0A3E\u0A23\
-      \u0A40 (@ 10 \u0A17\u0A4D\u0A30\u0A3E\u0A2E \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A32\
-      \u0A40\u0A1F\u0A30) \u0A35\u0A3F\u0A1A \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A0F\
-      \u0A15\u0A5C."
+  - text: "\u0A1D\u0A4B\u0A28\u0A47 \u0A26\u0A40 \u0A2B\u0A3C\u0A38\u0A32 \u0A35\u0A3F\
+      \u0A71\u0A1A \u0A2A\u0A4B\u0A1F\u0A3E\u0A38\u0A3C\u0A40\u0A05\u0A2E \u0A26\u0A40\
+      \ \u0A15\u0A2E\u0A40 \u0A28\u0A42\u0A70 \u0A2A\u0A42\u0A30\u0A3E \u0A15\u0A30\
+      \u0A28 \u0A32\u0A08 1 \u0A15\u0A3F\u0A32\u0A4B\u0A17\u0A4D\u0A30\u0A3E\u0A2E\
+      \ \u0A2A\u0A3E\u0A0A\u0A21\u0A30 NPK (0:52:34) \u0A2A\u0A4D\u0A30\u0A24\u0A40\
+      \ \u0A0F\u0A15\u0A5C \u0A28\u0A42\u0A70 100 \u0A32\u0A40\u0A1F\u0A30 \u0A2A\u0A3E\
+      \u0A23\u0A40 (10 \u0A17\u0A4D\u0A30\u0A3E\u0A2E \u0A2A\u0A4D\u0A30\u0A24\u0A40\
+      \ \u0A32\u0A40\u0A1F\u0A30) \u0A35\u0A3F\u0A71\u0A1A \u0A18\u0A4B\u0A32 \u0A15\
+      \u0A47 \u0A1B\u0A3F\u0A5C\u0A15\u0A3E\u0A05 \u0A15\u0A30\u0A4B\u0964 \u0A38\u0A2A\
+      \u0A30\u0A47\u0A05 \u0A16\u0A5C\u0A4D\u0A39\u0A47 \u0A2A\u0A3E\u0A23\u0A40 \u0A1C\
+      \u0A3E\u0A02 \u0A18\u0A71\u0A1F \u0A2A\u0A3E\u0A23\u0A40 \u0A35\u0A3E\u0A32\u0A40\
+      \u0A06\u0A02 \u0A38\u0A25\u0A3F\u0A24\u0A40\u0A06\u0A02 \u0A35\u0A3F\u0A71\u0A1A\
+      \ \u0A15\u0A40\u0A24\u0A40 \u0A1C\u0A3E \u0A38\u0A15\u0A26\u0A40 \u0A39\u0A48\
+      \u0964"
   utter_faq-agri-rice-b0-pun/information-regarding-weed-control-in-pady:
   - text: "\u0A2C\u0A3E\u0A38\u0A2E\u0A24\u0A40 \u0A1C\u0A3E\u0A02 \u0A1D\u0A4B\u0A28\
-      \u0A47 \u0A26\u0A47 \u0A38\u0A2A\u0A30\u0A47\u0A05 \u0A28\u0A3E\u0A2E\u0A1C\u0A3C\
-      \u0A26 \u0A38\u0A4B\u0A28\u0A47 / \u0A2E\u0A3E\u0A1A\u0A4B (\u0A2C\u0A3F\u0A38\
-      \u0A2A\u0A40\u0A30\u0A40\u0A2C\u0A48\u0A15-\u0A38\u0A4B\u0A21\u0A40\u0A05\u0A2E\
-      \ 10% \u0A10\u0A38\u0A38\u0A40) 100 \u0A2E\u0A3F\u0A32\u0A40\u0A32\u0A40\u0A1F\
-      \u0A30 \u0A35\u0A3F\u0A1A 150 \u0A32\u0A40\u0A1F\u0A30 / \u0A35\u0A3F\u0A1A\
-      \ \u0A2C\u0A42\u0A1F\u0A40 \u0A28\u0A42\u0A70 \u0A28\u0A3F\u0A2F\u0A70\u0A24\
-      \u0A30\u0A3F\u0A24 \u0A15\u0A30\u0A28 \u0A32\u0A08/20 \u0A26\u0A3F\u0A28\u0A3E\
-      \u0A02 \u0A26\u0A47 \u0A1F\u0A4D\u0A30\u0A3E\u0A02\u0A38\u0A2A\u0A32\u0A3E\u0A02\
-      \u0A1F \u0A15\u0A30\u0A28 \u0A24\u0A4B\u0A02 \u0A2C\u0A3E\u0A05\u0A26 \u0A2A\
-      \u0A3E\u0A23\u0A40 \u0A26\u0A3E \u0A0F\u0A15\u0A5C (0.66 \u0A2E\u0A3F.\u0A32\
-      \u0A40. \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A32\u0A40\u0A1F\u0A30 \u0A2A\u0A3E\
-      \u0A23\u0A40). \u0A2E\u0A3F\u0A71\u0A1F\u0A40 \u0A26\u0A40 \u0A15\u0A3F\u0A38\
-      \u0A2E \u0A26\u0A47 \u0A05\u0A28\u0A41\u0A38\u0A3E\u0A30 2 - 3 \u0A26\u0A3F\u0A28\
-      \u0A3E\u0A02 \u0A2C\u0A3E\u0A05\u0A26 \u0A38\u0A3F\u0A70\u0A1A\u0A3E\u0A08 \u0A32\
-      \u0A3E\u0A17\u0A42 \u0A15\u0A30\u0A4B."
+      \u0A47 \u0A35\u0A3F\u0A71\u0A1A \u0A28\u0A26\u0A40\u0A28\u0A3E\u0A02 \u0A26\u0A40\
+      \ \u0A30\u0A4B\u0A15\u0A25\u0A3E\u0A2E \u0A32\u0A08 \u0A28\u0A4B\u0A2E\u0A40\
+      \u0A28\u0A40 \u0A17\u0A4B\u0A32\u0A21/\u0A2E\u0A3E\u0A1A\u0A4B (\u0A2C\u0A3F\
+      \u0A38\u0A2A\u0A3E\u0A08\u0A30\u0A40\u0A2C\u0A48\u0A15-\u0A38\u0A4B\u0A21\u0A40\
+      \u0A05\u0A2E 10% \u0A10\u0A38.\u0A38\u0A40.) 100 \u0A2E\u0A3F\u0A32\u0A40\u0A32\
+      \u0A40\u0A1F\u0A30 150 \u0A32\u0A40\u0A1F\u0A30/\u0A0F\u0A15\u0A5C (0.66 \u0A2E\
+      \u0A3F\u0A32\u0A40\u0A32\u0A40\u0A1F\u0A30 \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A32\
+      \u0A40\u0A1F\u0A30 \u0A2A\u0A3E\u0A23\u0A40) \u0A2A\u0A3E\u0A23\u0A40 \u0A35\
+      \u0A3F\u0A71\u0A1A 20 \u0A26\u0A3F\u0A28\u0A3E\u0A02 \u0A2C\u0A3E\u0A05\u0A26\
+      \ \u0A1B\u0A3F\u0A5C\u0A15\u0A3E\u0A05 \u0A15\u0A30\u0A4B\u0964 \u0A2E\u0A3F\
+      \u0A71\u0A1F\u0A40 \u0A26\u0A40 \u0A15\u0A3F\u0A38\u0A2E \u0A05\u0A28\u0A41\u0A38\
+      \u0A3E\u0A30 2-3 \u0A26\u0A3F\u0A28\u0A3E\u0A02 \u0A2C\u0A3E\u0A05\u0A26 \u0A38\
+      \u0A3F\u0A70\u0A1A\u0A3E\u0A08 \u0A15\u0A30\u0A4B\u0964"
   utter_faq-agri-rice-b0-pun/infprmation-regarding-control-blb-in-rice-crops-?:
   - text: "\u0A1D\u0A4B\u0A28\u0A47 \u0A35\u0A3F\u0A71\u0A1A \u0A2C\u0A40\u0A10\u0A32\
       \u0A2C\u0A40 \u0A26\u0A47 \u0A28\u0A3F\u0A2F\u0A70\u0A24\u0A30\u0A23 \u0A32\u0A08\
@@ -1729,12 +1821,13 @@ responses:
       \u0A40\u0A26\u0A4B."
   utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy?:
   - text: "\u0A2A\u0A4D\u0A30\u0A38\u0A3E\u0A30\u0A23 2 lt. \u0A15\u0A32\u0A4B\u0A30\
-      \u0A2A\u0A3E\u0A08\u0A30\u0A40\u0A2B\u0A4B\u0A38 20 \u0A08\u0A38\u0A40 \u0A2E\
-      \u0A3F\u0A15\u0A38 2 lt. \u0A2A\u0A3E\u0A23\u0A40 \u0A05\u0A24\u0A47 30 \u0A15\
-      \u0A3F\u0A32\u0A4B\u0A17\u0A4D\u0A30\u0A3E\u0A2E \u0A35\u0A3F\u0A71\u0A1A \u0A30\
-      \u0A32\u0A3E\u0A13. \u0A16\u0A5C\u0A4D\u0A39\u0A47 \u0A2A\u0A3E\u0A23\u0A40\
-      \ \u0A35\u0A3F\u0A71\u0A1A \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A0F\u0A15\u0A5C\
-      \ \u0A16\u0A41\u0A38\u0A3C\u0A15 \u0A30\u0A47\u0A24."
+      \u0A2A\u0A3E\u0A08\u0A30\u0A40\u0A2B\u0A4B\u0A38 20EC \u0A28\u0A42\u0A70 2 \u0A32\
+      \u0A40\u0A1F\u0A30 \u0A2A\u0A3E\u0A23\u0A40 \u0A35\u0A3F\u0A71\u0A1A \u0A2E\u0A3F\
+      \u0A32\u0A3E \u0A15\u0A47 30 \u0A15\u0A3F\u0A32\u0A4B \u0A38\u0A41\u0A71\u0A15\
+      \u0A40 \u0A30\u0A47\u0A24 \u0A2A\u0A4D\u0A30\u0A24\u0A40 \u0A0F\u0A15\u0A5C\
+      \ \u0A26\u0A47 \u0A39\u0A3F\u0A38\u0A3E\u0A2C \u0A28\u0A3E\u0A32 \u0A16\u0A5C\
+      \u0A4D\u0A39\u0A47 \u0A2A\u0A3E\u0A23\u0A40 \u0A35\u0A3F\u0A71\u0A1A \u0A2E\u0A3F\
+      \u0A32\u0A3E \u0A26\u0A3F\u0A13\u0964"
   utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-stem-rot-in-paddy?:
   - text: "\u0A1D\u0A4B\u0A28\u0A47 \u0A35\u0A3F\u0A1A \u0A38\u0A1F\u0A48\u0A2E \u0A30\
       \u0A4B\u0A1F \u0A28\u0A42\u0A70 \u0A28\u0A3F\u0A2F\u0A70\u0A24\u0A30\u0A3F\u0A24\

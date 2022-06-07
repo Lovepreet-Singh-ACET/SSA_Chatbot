@@ -5,7 +5,7 @@ intents:
 
 responses:
   utter_faq-agri-wheat-b2-pun/information-regarding-sowing-time-of-wheat?:
-  - text: ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਅਕਤੂਬਰ ਦੇ 4 ਵੇਂ ਹਫ਼ਤੇ ਤੋਂ ਨਵੰਬਰ ਦੇ 4 ਵੇਂ ਹਫ਼ਤੇ ਤੱਕ ਹੁੰਦਾ ਹੈ.
+  - text: ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਅਕਤੂਬਰ ਦੇ 4ਵੇਂ ਹਫ਼ਤੇ ਤੋਂ ਨਵੰਬਰ ਦੇ 4ਵੇਂ ਹਫ਼ਤੇ ਤੱਕ ਹੁੰਦਾ ਹੈ।
   utter_faq-agri-wheat-b2-pun/sowing-time-for-early-sowing-varieties?:
   - text: ਪਿਛਲੇ ਹਫ਼ਤੇ ਦੇ ਪਿਛਲੇ ਹਫਤੇ ਲਈ ਅਕਤੂਬਰ ਦਾ ਆਖਰੀ ਹਫ਼ਤਾ.
   utter_faq-agri-wheat-b2-pun/late-varieties-of-wheat?:

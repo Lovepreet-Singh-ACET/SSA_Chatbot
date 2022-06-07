@@ -3,100 +3,72 @@ intents:
   - faq-hort-pea-b0
 responses:
   utter_faq-hort-pea-b0/information-regarding-for-the-control-of-pea-leaf-miner-attack-in-pea-crop: 
-  - text: 
+  - text: Spray 300-400ml metasystox 30EC in 150lt water per acre
   utter_faq-hort-pea-b0/information-regarding-caterpiler-in-peas: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-control-of-caterpiller-in-peas: 
-  - text: 
+  - text: To control of caterpillar in pea crop spray 70gm proclaim (emamectin benzoate), 100 ml Sumicidin (fenvalerate) or 130 ml avaunt(indoxacarb 15.8 EC) or 60 ml coragen in 100 litres of water per acre.
   utter_faq-hort-pea-b0/information-regarding-control-of-borer-in-pea: 
-  - text: 
+  - text: Spray coragen 60 ml in 120 litres of water for one acre
   utter_faq-hort-pea-b0/information-regarding-the-control-of-damping-off-in-pea: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-leaf-caterpillar--attack-in-pea-crop: 
-  - text: 
-  utter_faq-hort-pea-b0/how-to-control-pod-borer-in-pea-crop: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-fugal-problem-in-peas: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-the-protection-of-peas-from-sunlight: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-pea-stem-borer-attack-in-pea-crop: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-yellowing-of-pea-plants: 
-  - text: 
-  utter_faq-hort-pea-b0/how-to-control-yellowing-in-pea-crop: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-brown-spot-in-pea-crop: 
-  - text: 
-  utter_faq-hort-pea-b0/how-to-control-thirps-in-pea-crop: 
-  - text: 
+  - text: SPRAY BAVISTIN ( CARBENDAZIM) @ 200GM IN 200 LITTERS OF WATER / ACRE.
+  utter_faq-hort-pea-b0/information-regarding-fugal-problem-in-peas:
+  - text: Spray indofil M 45 400gm in 200L of water per acre in feild of pea
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-pea-stem-borer-attack-in-pea-crop:
+  - text: SPRAY ROGER(DIMEHOATE ) 400 ML IN 80-100 LITRE WATER
+  utter_faq-hort-pea-b0/information-regarding-yellowing-of-pea-plants:
+  - text: SPRAY MICRO-NUTREINT 1KG IN 100 LITRE OF WATER/ ACRE
+  utter_faq-hort-pea-b0/information-regarding-brown-spot-in-pea-crop:
+  - text: BLITOX 50wp 300G WITH 100LITER WATER MIX AND SPRAY PER ACRE
+  utter_faq-hort-pea-b0/how-to-control-thirps-in-pea-crop:
+  - text: spray 400ml rogar 30EC dimethode
   utter_faq-hort-pea-b0/how-to-pest-control-in-pea-crop: 
-  - text: 
+  - text: SPRAY CYPERMETHRIN 20 EC 80-100 ML IN 150 LITER NOF WATER FOR 1 ACER
   utter_faq-hort-pea-b0/information-regarding-control-of-powdery-mildew-in-pea: 
-  - text: 
-  utter_faq-hort-pea-b0/how-to-control-powdry-mildew-in-pea-crop: 
-  - text: 
+  - text: FOR CONTROL OF POWDERY MILDEW IN PEAS, SPRAY 80 ML KARATHANE OR 600 GM SULFEX IN 200 LITRE WATER PER ACRE
   utter_faq-hort-pea-b0/how-to-control-of-flower-droping-in-pea-crop: 
-  - text: 
+  - text: Spray 1 ml. Planofix in 4.5 lt. of water.
   utter_faq-hort-pea-b0/information-regarding-control-of-termite-in-pea: 
-  - text: 
-  utter_faq-hort-pea-b0/how-to-control-termite-in-pea-crop: 
-  - text: 
+  - text: APPLY THIMET @ 3KG / ACRE FOR THE CONTROL OF TERMITE IN PEA .
   utter_faq-hort-pea-b0/information-regarding-for-the-control-of-rust-disease-attack-in-pea-crop: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-control-of-rust-in-pea: 
-  - text: 
+  - text: control of Rust in Pea spray 400g Indofil M-45 in 200lt water per acre.
   utter_faq-hort-pea-b0/information-regarding-the-yellow-rust-in-peas: 
-  - text: 
-  utter_faq-hort-pea-b0/how-to-control-of-rust-in-pea-crop: 
-  - text: 
+  - text: SPRAY 400 GM INDOFIL M-45 IN 200 LITRES OF WATER PER ACRE FOR THE YELLOW RUST IN PEAS
   utter_faq-hort-pea-b0/information-regarding-the-control-of-rats-in-pea: 
-  - text: 
+  - text: APPLY ZINC PHOSPHIDE FOR THE CONTROL THE CONTROL OF RATS.
   utter_faq-hort-pea-b0/information-regarding-for-the-deficiency-of-potash-in-pea: 
-  - text: 
+  - text: use spray n:p:k-13:0:45/1kg in 100 litres of water.
   utter_faq-hort-pea-b0/information-regarding-the-control-of-insects-in-pea: 
-  - text: 
+  - text: For control of insects in pea spray 300 ml Malathion 50 EC in 100 liters of water per acre.
   utter_faq-hort-pea-b0/information-regarding-the-control-of-aphids-in-peas: 
-  - text: 
+  - text: SPRAY ROGOR 150 ML IN 100 LITRE WATER PER ACRE
   utter_faq-hort-pea-b0/information-rgearding-for-the-control-of-grasshopper-in-pea: 
-  - text: 
+  - text: For control of grasshopper in pea spray 800ml Ekalaux in 80-100 liter of water per acre.
   utter_faq-hort-pea-b0/information-regarding-control-of-blight-in-pea: 
-  - text: 
-  utter_faq-hort-pea-b0/how-to-control-blight-in-peas: 
-  - text: 
+  - text: spray blitox @ 250gm mix in 100 liters of water / acre .
   utter_faq-hort-pea-b0/information-regarding-control-of-leaf-curl-in-pea: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-leaf-curl-disease-in-pea-crop: 
-  - text: 
+  - text: SPRAY SAAF(UPL) @ 500GM IN 150LTR OF WATER PER ACRE .
   utter_faq-hort-pea-b0/information-regarding-for-the-sowing-time-of-pea: 
-  - text: 
+  - text: sowing time of Pea from Mid october to Mid november.
   utter_faq-hort-pea-b0/control-of-rotting-in-pea: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-control-of-rotting-in-peas: 
-  - text: 
+  - text: SPRAY 300GM INDOFIL M-45 IN 100LT WATER/ACRE.
   utter_faq-hort-pea-b0/information-regarding-for-control-of-root-rot-in-pea: 
-  - text: 
+  - text: For control of root rot in peas drench the field with 3 gram Bavistin 50 WP (Carbendazim) per liter water.
   utter_faq-hort-pea-b0/information-regarding-seed-treatment-in-pea-crop: 
-  - text: 
+  - text: Apply 8 tonnes FYM ,45 KG urea and 155kg single superphosphate in pea crop.
   utter_faq-hort-pea-b0/information-regarding-growth-of-peas: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-proper-growth-of-pes: 
-  - text: 
+  - text: To improve the growth of pea crop spray 1KG powder NPK (19:19:19) per acre in 100 liters of water(@10 gram per liter).
   utter_faq-hort-pea-b0/information-regarding-better-yeild-and-growth-in-pea: 
-  - text: 
+  - text: SPRAY NPK 13:0:45 1 KG IN 100 LITRE WATER
   utter_faq-hort-pea-b0/information-regarding-the-control-of-weeds-in-peas: 
-  - text: 
+  - text: For control of weeds in peas spray Stomp 30EC (pendimethalin) @ 1 litre with in 2days of sowing in 200lt water per acre.
   utter_faq-hort-pea-b0/control-of-weeds-in-pea-after-40-days-of-sowing: 
-  - text: 
+  - text: MANUAL WEEDING SHOULD BE DONE, NO RECOMMENDATION OF HERBICIDE.
   utter_faq-hort-pea-b0/information-regarding-temperature-requirement-for-pea-germination: 
-  - text: 
+  - text: SOWING TEMPERATURE FOR PEA IS 25-30 DEGREE CELCIUS
   utter_faq-hort-pea-b0/information-regarding-total-fertilizers-dose-in-pea: 
-  - text: 
+  - text: ADD 45 KG OF UREA AND 155 KG SINGLE SUPER PHOSPHATE AT THE TIME OF SOWING .
   utter_faq-hort-pea-b0/information-regarding-the-defficiency-of-sulphur-in-pea: 
-  - text: 
+  - text: APPLY SULPHUR @ 3KG / ACRE.
   utter_faq-hort-pea-b0/information-regarding-nutrient-requirement-at-flowering-stage-in-pea: 
-  - text: 
+  - text: Nutrient requirement at flowering stage in pea- Spray 1 kg NPK 13 00 45 IN 100 LITRE WATER PER ACRE.
   utter_faq-hort-pea-b0/information-regarding-defficiency-of-iron-in-pea: 
-  - text: 
-  utter_faq-hort-pea-b0/information-regarding-the-water-apllication-in-pea: 
-  - text: 
+  - text: SPRAY FEROUS SULPHAT @ 500GM IN 100 LITTERS OF WATER/ACRE.

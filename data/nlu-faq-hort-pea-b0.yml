@@ -3,137 +3,104 @@ nlu:
 
 - intent: faq-hort-pea-b0/information-regarding-for-the-control-of-pea-leaf-miner-attack-in-pea-crop
   examples: |
-    - information regarding for the control of pea leaf miner attack in pea crop?
-    - How does pea leaf miner attack pea crop?
-    - Is there any surveillance on pea leaf miner attack?
-    - What are the pea leaf miner attack data in pea crop?
-    - Is there any information regarding for the control of pea leaf miner attack in pea crop?
-    - What are the data regarding the control of pea leaf miner attack in pea crop?
-    - How can I stop a leaf miner from planting pea crop?
-    - How much plant protection was there for the control of pea leaf miner attack?
-    - When should the control be for a pea leaf miner attack?
-    - How do I stop pea leaf miner attack in pea crop?
+    - information regarding for the control leaf miner attack in pea crop?
+    - How does leaf miner attack controlled in pea crop?
+    - Is there any way to control pea leaf miner attack?
+    - What are the the ways to control leaf miner attack in pea crop?
+    - Is there any information regarding for the control of leaf miner attack in pea crop?
+    - How can I stop a leaf miner attack in pea?
+    - control of pea leaf miner attack?
+    - leaf minier attack in pea crop
+    - How do I stop pea leaf miner attack
     - What are pea leaf miner attacks?
 - intent: faq-hort-pea-b0/information-regarding-caterpiler-in-peas
   examples: |
     - information regarding caterpiler in peas?
-    - Information regarding caterpiler in peas?
-    - How do you use caterpiler in peas?
-    - What are the information about caterpiler in peas?
-    - How do caterpiler in peas works?
-    - What is the information regarding caterpiler in peas?
-    - What are the details about caterpiler in peas?
-    - Are caterpilers included in the peas?
-    - What is caterpiler in peas?
-    - How do we get information on caterpiler in peas?
-    - What is the best caterpiler supplier in India?
-- intent: faq-hort-pea-b0/information-regarding-control-of-caterpiller-in-peas
-  examples: |
-    - information regarding control of caterpiller in peas?
-    - How can I control caterpiller in pea?
-    - How do you control caterpillers in peas?
-    - How can I prevent caterpiller from forming in potato?
-    - How can I control caterpiller?
+    - How do you control caterpiler in peas?
+    - How to kill caterpiler in pea crop?
+    - How can I prevent caterpiller from forming in pea?
     - How do I control caterpiller in peas?
     - How is caterpiller control effective for peas?
-    - How does caterpiller control in a lentil?
-    - How do you control caterpillers?
-    - How can I control caterpiller in potato?
-    - How can caterpiller be controlled on corn?
-- intent: faq-hort-pea-b0/information-regarding-control-of-borer-in-pea
-  examples: |
-    - information regarding control of borer in pea ?
-    - How is borer control in pea?
-    - How can I control borer in pea?
-    - How is the control of borer in peas?
-    - How can you control the borer in potatoes?
-    - Is there any information regarding control of borer in pea?
-    - What is the control of borers in pea?
-    - How do I control borer in a pom?
-    - How do I control borer in soybean?
-    - What is the effective treatment of borers in pea?
-    - Are there any hygienic solutions for controlling borer in corn?
-- intent: faq-hort-pea-b0/information-regarding-the-control-of-damping-off-in-pea
-  examples: |
-    - information regarding the control of damping off in pea ?
-    - How can we control the damping off of white pea (inodized water)?
-    - How do I control damping in peas?
-    - Can we control the damping off of green leaf?
-    - What is the control of damping off in potato flour?
-    - How are damping offs regulated in pea?
-    - What are the ways of controlling damping off in peas?
-    - Is there a method to control damping in pea?
-    - Can we control damping off in pea?
-    - What is the control of damping off in Pea?
-    - How do we remove damping off in pea?
-- intent: faq-hort-pea-b0/information-regarding-for-the-control-of-leaf-caterpillar--attack-in-pea-crop
-  examples: |
+    - what can be sprayed to control caterpiler in pea
+    - caterpiller prevention in pea crop
+    - how to get rid of caterpillers from my pea vegetable crop
     - information regarding for the control of leaf caterpillar  attack in pea crop?
     - How can I control leaf caterpillar attack in pea crop?
     - What is the method of control of leaf caterpillar attack on pea crop?
     - How to control leaf caterpillars in pea crop?
     - How do you control leaf caterpillar attack in pea crop?
-    - How does the leaf caterpillar attack pea crop grow?
+    - How does the leaf caterpillar attack pea crop growth?
     - How do I control leaf caterpillar attacks in pea crop?
-    - How can leaf caterpillars attack pea crops?
-    - How can the leaf caterpillars attack pea crops?
-    - Can you help us with information concerning leaf caterpillar attack in pea crop?
-    - How can leaf caterpillar attack pea crop?
-- intent: faq-hort-pea-b0/how-to-control-pod-borer-in-pea-crop
+    - How can caterpillars attack pea crops?
+    - Can you help me with information concerning stopping leaf caterpillar attack in pea crop?
+
+- intent: faq-hort-pea-b0/information-regarding-control-of-borer-in-pea
   examples: |
+    - information regarding control of borer in pea ?
+    - How is borer controlled in pea?
+    - How can I control borer in pea?
+    - How I can control of borer in peas?
+    - How can you control the borer in potatoes?
+    - Is there any information regarding control of borer in pea?
+    - What is the control of borers in pea?
+    - What is the effective treatment of borers in pea?
+    - Are there any hygienic solutions for controlling borer in pea?
+    - what spray should be used to get rid of borer
     - how to control pod borer in pea crop ?
     - How can I control pod borer in pea crop?
     - How do we control pod borer in pea crop?
-    - How do you control pod borer in pea crop?
     - How to control pod borer in pea crop?
-    - How do you control pod borer from growing on pea plant?
+    - control pod borer from growing on pea plant?
     - How do I control pod borer in pea crop?
     - How can I control Pod borer in pea crop?
-    - How do I control pod borer?
+    - methods to control pod borer from growing in pea vegetable?
+    - killing pod borer in pea crop
+    - spray used to get rid of pod borer in pea
+- intent: faq-hort-pea-b0/information-regarding-the-control-of-damping-off-in-pea
+  examples: |
+    - information regarding the control of damping of in pea ?
+    - How can we control the damping of pea?
+    - How do I control damping in peas?
+    - Can we control the damping of green pea?
+    - What is the control of damping of in peas crop?
+    - How are damping contolled in pea vegetable?
+    - What are the ways of controlling damping of peas?
+    - Is there a method to control damping pea crop?
+    - Can we control damping of in pea?
+    - What is the control of damping of in Pea?
+    - How do we remove damping of from pea crop?
+
 - intent: faq-hort-pea-b0/information-regarding-fugal-problem-in-peas
   examples: |
-    - information regarding fugal problem in peas ?
-    - Why do peas have a fugal problem when they are cooked?
-    - How can I prevent fugal fugal problem in peas?
-    - What is fugal problem in peas?
-    - What is the reason for lack of soil in peas?
-    - Does peas have fugal problem?
-    - What is the fugal problem with peas?
-    - Do peas have a fugal problem?
-    - What is fugal problem of peas?
-    - Is fugal problem in beans any problem for the bacteria?
-    - What is fugal problem in mutton?
-- intent: faq-hort-pea-b0/information-regarding-the-protection-of-peas-from-sunlight
-  examples: |
-    - information regarding the protection of peas from sunlight?
-    - How do we protect peas from sunlight?
-    - What is the best information regarding the protection of peas from sunlight?
-    - What should I do to protect my peas from sunlight?
-    - How do I protect a pea from sun exposure?
-    - How safe is a pea crop from sunlight?
-    - How should I protect my peas from the sun?
-    - How can I protect a pea from sunlight?
-    - How are peas protected from sunlight?
-    - What are the protection precautions for peas from the sun?
+    - information regarding fugal problem in peas?
+    - How can I prevent fugal problem in peas?
+    - What is the way to prevent fugal problem in peas?
+    - method to control pea fungal problem
+    - peas have fugal problem how to control it?
+    - how to prevent pea crop from fungus
+    - please suggest way to get rid of fugal problem in pea?
+    - What is the method to control fugal problem of peas?
+    - Is fugal problem in peas controllable?
+    - What is fugal problem in pea vegetable crop?
 - intent: faq-hort-pea-b0/information-regarding-for-the-control-of-pea-stem-borer-attack-in-pea-crop
   examples: |
-    - information regarding for the control of pea stem borer attack in pea crop?
-    - What are some of the methods of control of pea shoot borers in pea crop?
-    - How do I control the Pea stem borer attack in a pea crop?
-    - How to control pea borer by tree?
-    - How to control the pea crop stem borers?
-    - How can a pea stem borer attack pea crop?
+    - information regarding for the control of stem borer attack in pea crop?
+    - What are some of the methods of control of stem borers in pea crop?
+    - How do I control the stem borer attack in a pea vegetable
+    - How to control stem borer from pea?
+    - How to control the pea crop from stem borers?
+    - How can a stem borer attack in pea crop avoided?
     - In the control of pea stem borer attack in pea crop?
-    - Is there any information regarding for the control of pea stem borer attack in pea crop?
-    - What are the reasons for the Pea Boar Defining Anomaly?
-    - The pea stem borers have a serious attack on Pea crop, can you shed any light?
+    - control of stem borer attack in pea crop?
+    - What are the methods for controlling stem borer in pea crop
+    - stem borers control measure in pea crop
     - How can I control pea borer attack?
 - intent: faq-hort-pea-b0/information-regarding-yellowing-of-pea-plants
   examples: |
     - information regarding yellowing of pea plants?
-    - How does it affect pea plants if they are yellowing rapidly?
+    - How does it affect pea plants if they are yellowing?
     - How do I prevent pea plants from yellowing?
-    - What is the possible cause of the yellowing of pea plants?
+    - What is the possible prevention of the yellowing of pea plants?
     - How can I avoid pea plant yellowing?
     - How do you prevent pea plants from yellowing?
     - How do you prevent pea plant from yellowing easily?
@@ -141,29 +108,26 @@ nlu:
     - What is the reason for yellowing pea plants?
     - How can I prevent yellowing of pea plants?
     - How can we avoid the yellowing of pea plants?
-- intent: faq-hort-pea-b0/how-to-control-yellowing-in-pea-crop
-  examples: |
     - how to control yellowing in pea crop ?
     - What are the ways to control the yellowing of peas?
-    - How do I reduce pea crop yellowing with vinegar?
+    - How do I reduce pea crop yellowing?
     - How do you control pea crop yellowing?
     - How to control yellowing in pea crop?
-    - How can I control yellowing in pea crop?
-    - How can I control yellowing and die off of pea crop?
-    - How do I control yellowing on the cotton crop?
+    - control yellowing in pea crop?
     - How do I prevent yellowing in pea crop?
     - How do I control yellowing in pea crop?
-    - How to stop yellowing of pea crops if it is raining frequently?
+    - stop yellowing of pea crops?
 - intent: faq-hort-pea-b0/information-regarding-brown-spot-in-pea-crop
   examples: |
     - information regarding brown spot in pea crop?
     - What is the brown spot in pea crop?
     - What is the information regarding brown spot in pea crop?
     - How do I avoid brown spots in a pea crop?
-    - What is brown spot in pea crop?
-    - What is the difference between brown spots and brown spots in pea crop?
-    - What is brown spot? When should it appear in a pea crop?
-    - How can I spot brown spots on pea?
+    - What is prevention of brown spot in pea crop?
+    - What is brown spot? how to recover pea from it?
+    - How can I stop brown spots on pea to grow?
+    - methods to save pea crop from brown spots
+    - saving pea crop from getting brown spoted
 - intent: faq-hort-pea-b0/how-to-control-thirps-in-pea-crop
   examples: |
     - how to control thirps in pea crop ?
@@ -172,9 +136,9 @@ nlu:
     - How can I control thirps in pea crop?
     - How do I control thirps in a pea crop?
     - How to control thirps in pea crop?
-    - How do I control thirps in Pea crop?
     - What is the best way to control thirps in pea crop?
     - How do I control thirps in pea crop?
+    - thrip control methods for pea crop?
 - intent: faq-hort-pea-b0/how-to-pest-control-in-pea-crop
   examples: |
     - how to pest control in pea crop ?
@@ -191,27 +155,23 @@ nlu:
   examples: |
     - information regarding control of powdery mildew in pea?
     - Is there any effective way of controlling powdery mildew in a pea?
-    - What is powdery mildew control? How can I control it?
+    - What is powdery mildew control? How can I control it in pea?
     - What is Powdery mildew control in pea?
-    - How do you control powdery mildew in beans?
+    - How do you control powdery mildew to occure in pea fields?
     - How do I control powdery mildew in pea?
     - What are the best ways to control powdery mildew in peas?
     - How does powdery mildew in pea get rid of?
     - Control of powdery mildew in grapes?
-    - What is the best way to prevent powdery mildew from growing in your seed?
+    - What is the best way to prevent powdery mildew from growing in your pea crop?
     - What are some information regarding control of powdery mildew in pea?
-- intent: faq-hort-pea-b0/how-to-control-powdry-mildew-in-pea-crop
-  examples: |
     - how to control powdry mildew in pea crop ?
     - What are some ways to control powdry mildew from pea crop?
     - How can I control powdry mildew in pea crop?
     - How can you control powdry mildew in a pea crop?
     - How can I control powdry mildew in a pea crop?
-    - How do I control powdry mildew?
     - How should I control powdry mildew in corn?
     - What should I do about powdry mildew in pea crop?
     - How do I control powdry mildew in pea crop?
-    - How do you control powdry mildew in pea crop?
 - intent: faq-hort-pea-b0/how-to-control-of-flower-droping-in-pea-crop
   examples: |
     - how to control of flower droping in pea crop?
@@ -235,14 +195,11 @@ nlu:
     - Are termites common in pea? Are there any other ways to control them?
     - What are the best ways to control termites in pea?
     - How can we control termites in pea?
-- intent: faq-hort-pea-b0/how-to-control-termite-in-pea-crop
-  examples: |
     - how to control termite in pea crop ?
     - How do I control termite in pea crop?
-    - How do I control termites in a pea crop?
     - How to control termite in pea crop?
     - What is the best way to control termite from the pea crop?
-    - How can I control termite infestation from crop?
+    - How can I control termite infestation from crop of pea?
     - How can I control termites in my crops?
     - What should I do to control termites in pea crop?
     - How do I control termites in pea crop?
@@ -259,8 +216,6 @@ nlu:
     - rust disease attack in pea crop?
     - How can we control rust disease attack in pea crop?
     - Is there any information regarding for the control of rust disease attack in pea crop?
-- intent: faq-hort-pea-b0/information-regarding-control-of-rust-in-pea
-  examples: |
     - information regarding control of rust in pea?
     - How do I control rust in pea?
     - How can I control rust in pea?
@@ -276,28 +231,14 @@ nlu:
   examples: |
     - information regarding the yellow rust in peas?
     - What are the yellow rust in corn? How can I get some information regarding the yellow rust in corn?
-    - How do I prevent yellow rust from forming on white peas?
-    - How do I get a yellow rust in peas?
+    - How do I prevent yellow rust from forming on peas?
+    - How do I get rid yellow rust in peas?
     - What can rust be caused by yellow rust on a pea?
     - How do you get rid of yellow rusty peas?
     - Where can I find data on yellow rust in peas?
-    - Why does yellow rust grow in peas?
-    - What is yellow rust in peas?
-    - What is rust in peas?
-    - Can you help me with information about the yellow rust in peas?
-- intent: faq-hort-pea-b0/how-to-control-of-rust-in-pea-crop
-  examples: |
-    - how to control of rust in pea crop?
-    - What can be done to control rust in a pea crop?
-    - How to control pea rust in pea crop?
-    - How can I control rust and rust on pea crop?
-    - How can I control rust from pea crop?
-    - How do you control rust in pea crop?
-    - How do you control rust on pea crop?
-    - How can I control rust in a crop?
-    - What is the best way to control rust in pea crop?
-    - How do I control the rust in pea crops?
-    - How do I control rust from pea crop?
+    - Why does yellow rust grow in peas how can i control it?
+    - control of yellow rust in peas?
+    - Can you help me with information about the yellow rust prevention in peas?
 - intent: faq-hort-pea-b0/information-regarding-the-control-of-rats-in-pea
   examples: |
     - information regarding the control of rats in pea?
@@ -313,16 +254,14 @@ nlu:
 - intent: faq-hort-pea-b0/information-regarding-for-the-deficiency-of-potash-in-pea
   examples: |
     - information regarding for the deficiency of potash in pea?
-    - How can we find the potash in a pea?
-    - What is the potash in a pea?
-    - Which is the best potash in a pea?
-    - What is the truth regarding potash in pea?
-    - How can potash be added to a pint of potato?
-    - How can potash be reabsorbed into a cup of boiled peas?
-    - What is the reason for the deficiency of potash in pea?
-    - How do you determine if potash can be found in a pea?
-    - Is potash present in pea?
-    - What is the reason for potash in pea?
+    - How can we add potash in a pea to remove its deficiency?
+    - What is the way to add potash in a pea?
+    - Which is the best method to add potash in a pea?
+    - regarding potash deficiency improvement in pea?
+    - what should be done to make sure potash deficiency is recoverd in pea crop
+    - What is the method for normalizing the deficiency of potash in pea?
+    - what can be sprayed to improve the potash contents in pea
+    - potash recovery in pea crop
 - intent: faq-hort-pea-b0/information-regarding-the-control-of-insects-in-pea
   examples: |
     - information regarding the control of insects in pea ?
@@ -333,7 +272,6 @@ nlu:
     - What are the control methods for insects in a pea?
     - Is there a way to control insects that feed on peas?
     - What are the controls against insects in peas?
-    - Which insects are safe to eat as food?
     - What is the best information regarding the control of insects in pea?
     - How do we control insects in pea?
 - intent: faq-hort-pea-b0/information-regarding-the-control-of-aphids-in-peas
@@ -351,16 +289,16 @@ nlu:
 - intent: faq-hort-pea-b0/information-rgearding-for-the-control-of-grasshopper-in-pea
   examples: |
     - information rgearding for the control of grasshopper in pea?
-    - Information rgearding for the control of grasshoppers in pea?
-    - Information rgearding for the control of grasshopper in pea?
-    - Is rgearding for the control of grasshopper in pea?
+    - control of grasshoppers in pea?
+    - controlling grasshopper in crop of pea?
+    - rgearding for the control of grasshopper in pea?
     - What are the steps to control grasshopper in pea?
-    - How can I remove grasshopper?
+    - How can I remove grasshopper from pea fields?
     - Where can I get more information rgearding for the control of grasshoppers in pea?
     - Information about grasshopper in pea?
     - How do you control grasshopper in pea?
     - Knowledge rgearding for the control of grasshopper in pea?
-    - Control of grasshopper in pea?
+    - Control methods for grasshopper in pea?
 - intent: faq-hort-pea-b0/information-regarding-control-of-blight-in-pea
   examples: |
     - information regarding control of blight in pea?
@@ -374,15 +312,11 @@ nlu:
     - What is the way to control blight in pea?
     - How can a plant control blight in a pea?
     - What are the best tips on preventing blight in peas?
-- intent: faq-hort-pea-b0/how-to-control-blight-in-peas
-  examples: |
     - how to control blight in peas ?
     - How can I control blight in peas?
     - How do I stop blight in green peas?
-    - How can I control blight in poas?
     - How do I control blight in peas?
     - How can I control blight on peas plants?
-    - How can I control blight on peas?
 - intent: faq-hort-pea-b0/information-regarding-control-of-leaf-curl-in-pea
   examples: |
     - information regarding control of leaf curl in pea?
@@ -395,8 +329,6 @@ nlu:
     - What are the differences between leaf curl in pea?
     - How should I reduce leaf curl in pea?
     - What is the control of leaf curl in Pea?
-- intent: faq-hort-pea-b0/information-regarding-for-the-control-of-leaf-curl-disease-in-pea-crop
-  examples: |
     - information regarding for the control of leaf curl disease in pea crop?
     - How can I control leaf curl disease in pea crop?
     - How do I control leaf curl disease in pea crop?
@@ -407,7 +339,6 @@ nlu:
     - What are the prevention methods for leaf curl disease in pea crop?
     - How can the leaf curl disease be controlled in a pea crop?
     - How can I control leaf curl disease in a pea crop?
-    - What are the symptoms of leaf curl disease in pea crop?
 - intent: faq-hort-pea-b0/information-regarding-for-the-sowing-time-of-pea
   examples: |
     - information regarding for the sowing time of pea?
@@ -427,15 +358,11 @@ nlu:
     - How do I stop rotting on a pea?
     - What are some methods to reduce rotting of peas?
     - How can you control rotting in pea?
-    - How can I control rotting in the pea?
     - What is the control of rotting in pea?
     - What is the best way to control rotting in pea?
     - How can rotting be controlled in potato?
-    - How can I control rotting in peas?
     - What are the methods for controlling rotting in rice?
     - Can rotting be controlled with peas?
-- intent: faq-hort-pea-b0/information-regarding-control-of-rotting-in-peas
-  examples: |
     - information regarding control of rotting in peas
     - What can be done with regard to control of rotting in peas?
     - Information regarding control of rotting in peas.
@@ -477,26 +404,20 @@ nlu:
     - information regarding growth of peas?
     - What is the information regarding the growth of peas?
     - What are some tips and information regarding growth of peas?
-    - What are the signs for growth of peas?
     - What is the information regarding growth of peas?
     - What is the information on the growth of peas?
     - What information regarding growth of peas?
     - How can I get information about the growth of peas?
     - How is the growth of peas monitored?
     - What is the best information regarding the growth of peas?
-- intent: faq-hort-pea-b0/information-regarding-proper-growth-of-pes
-  examples: |
-    - information regarding proper growth of pes?
-    - What are proper methods to grow pes?
-    - What should I know about proper growth of pes?
-    - What is the proper manner to grow pes?
-    - How do I increase the pes population?
-    - What are the proper tips and information regarding the growth of pes?
-    - How can I learn proper growth of pes?
-    - How should I grow pes?
-    - How do you maintain proper growth of pes?
-    - How can I increase the pes?
-    - How do I grow pes?
+    - information regarding proper growth of pea?
+    - What are proper methods to grow pea?
+    - What should I know about proper growth of pea?
+    - What is the proper manner to grow pea?
+    - How can proper growth of pea made possible?
+    - How should I grow pea?
+    - How do you maintain proper growth of pea?
+    - How can I increase the pea?
 - intent: faq-hort-pea-b0/information-regarding-better-yeild-and-growth-in-pea
   examples: |
     - information regarding better yeild and growth in pea ?
@@ -513,7 +434,6 @@ nlu:
 - intent: faq-hort-pea-b0/information-regarding-the-control-of-weeds-in-peas
   examples: |
     - information regarding the control of weeds in peas ?
-    - Information regarding the control of weeds in peas?
     - How do you control weeds in peas?
     - What are the controls for weeds in potatoes?
     - How can we control weeds in peas?
@@ -525,16 +445,16 @@ nlu:
 - intent: faq-hort-pea-b0/control-of-weeds-in-pea-after-40-days-of-sowing
   examples: |
     - control of weeds in pea after 40 days of sowing?
-    - Can we control weeds after we sow?
-    - How can I control weeds in pea after 16 days of sowing?
+    - Can we control weeds after 40 days of sowing pea?
+    - How can I control weeds in pea after 40 days of sowing?
     - How do I control weed in pea after 40 days of sowing?
-    - Is there any control of weeds in pea after 3 days of sowing?
+    - Is there any control of weeds in pea after 40 days of sowing?
     - How do I control weeds in pea after 40 days of sowing?
     - Can I control weeds in soybean after sowing after 40 days?
     - Can weeds in pea be controlled after 40 days of sowing?
-    - How can weed control in the pea?
+    - How can weed be controlled in peas after 40 days?
     - After 40 days weed control for pea seeding?
-    - What is the best way to control weeds in pea after sowing?
+    - What is the best way to control weeds in pea after 40 days of sowing?
 - intent: faq-hort-pea-b0/information-regarding-temperature-requirement-for-pea-germination
   examples: |
     - information regarding temperature requirement for pea germination?
@@ -546,7 +466,7 @@ nlu:
     - How do I know the required temperature for pea germination?
     - What is the minimum temperature to make peas germination easy?
     - What is the exact temperature for pea germination in India?
-    - Why temperature requirements are required to germination?
+    - temperature requirements required for the germination of pea?
     - What are the temperature requirement when germination of peas depends upon it?
 - intent: faq-hort-pea-b0/information-regarding-total-fertilizers-dose-in-pea
   examples: |
@@ -563,53 +483,40 @@ nlu:
     - How can I calculate total fertilizers dose in peas?
 - intent: faq-hort-pea-b0/information-regarding-the-defficiency-of-sulphur-in-pea
   examples: |
-    - information regarding the defficiency of sulphur in pea ?
+    - information regarding the deficiency of sulphur in pea ?
     - Is there any information regarding defficacy of sulphur in pea?
-    - What is the defficiency of sulphur in pea?
-    - Does sulphur be used in corn?
-    - How can I know whether the sulphur is available in the food as raw material?
-    - Is it possible to calculate defficiency of sulphur content in pea?
-    - How do I calculate the efficiency of sulphur in rice?
-    - How does sulfur in pea? Is there any defficiency of the sulphur in the pea?
-    - How does the sulphur in rice affect the productivity and the water in a pea?
-    - Besides sulphur in peas, what are some information about sulphur in peas?
-    - What is the sulphur content in pea?
+    - What is the deficiency of sulphur in pea?
+    - how to fullfil the sulphur deficiency
+    - how to resolve the issue of sulphur deficiency in pea crop
+    - Is it possible to remove deficiency of sulphur content in pea?
+    - How do I fullfil the deficiency of sulphur in pea?
+    - is there any spary that can be used to correct the sulphur content of pea
+    - what is the way to reduce sulphur deficiency in peas
+    - please tell me how to handle the deficiency of sulphur in pea
+    - can you let me know how can i correct the sulphur deficiency in peas
 - intent: faq-hort-pea-b0/information-regarding-nutrient-requirement-at-flowering-stage-in-pea
   examples: |
     - information regarding nutrient requirement at flowering stage in pea ?
-    - When a pea should produce fertilizer at the flowering stage?
-    - How can the food store nutrient at flowering stage when pea is tender and nutritious?
+    - what is the nuterient requirement of pea at the flowering stage?
+    - how to fullfil the nuterient requirement of pea at the flowering stage
     - What is nutrient requirement at flowering stage of pea?
-    - What are the requirements of nutrient during flowering stages of pea?
+    - What are the requirements of nutrient during flowering stage of pea?
     - What is the nutrient requirement for a pea in the flowering stage?
-    - How do you know nutrient requirement at flowering stage for pea (dried)?
+    - How do you know nutrient requirement at flowering stage for pea?
     - What is the need of nutrient at the flowering stage in a pea?
     - What is the nutritional requirements of pea during flowering stages?
     - What are the nutritional requirements in the flowering stage?
     - Is there any specific information regarding nutrient requirement in peas?
 - intent: faq-hort-pea-b0/information-regarding-defficiency-of-iron-in-pea
   examples: |
-    - information regarding defficiency of iron in pea ?
-    - What are some interesting facts about iron use in pea?
-    - What is the calculation of efficiency of iron in pea?
-    - What is the defficiency of iron in pea?
-    - What is the iron defficiency of pea in India?
-    - What is the value of iron in potato?
-    - How much iron is in peas compared with water?
-    - What are some examples of defficiency of iron in pea?
-    - How efficient is iron and how many grams per 100g is a grain per 100g?
-    - How many iron a day?
-    - How can iron be used in a pea?
-- intent: faq-hort-pea-b0/information-regarding-the-water-apllication-in-pea
-  examples: |
-    - information regarding the water apllication in pea ?
-    - Water apllication in pea? What is the information regarding the water apllication in pea?
-    - What is the apllication of water in pea?
-    - What is the water application in a boiled pea?
-    - What is the water content of pea?
-    - How can water be taken from beans in order to make them suitable for consumption?
-    - What are the water soluble properties of pea?
-    - What is the information regarding water aplication in pea?
-    - How do I know of the water apllication on a pea plant?
-    - What are the specifics regarding water in peas?
-    - How can we know the water in pea?
+    - information regarding deficiency of iron in pea ?
+    - how to overcome the iron deficiency in pea
+    - what should be sprayed to remove the deficiency of iron in pea
+    - i want to know how can i remove iron deficiency of pea crop
+    - which spray can be used to fullfil iron defi in pea crop
+    - pea crop is deficient in iron content how to correct it
+    - what can be done to correct the iron contents in my pea crop
+    - what are some possible solution to overcome iron deficiency
+    - how iron deficincy can be corrected in pea
+    - pea crop is deficient in iron how to resolve it
+    - please tell me how to remove iron deficiency in pea crop

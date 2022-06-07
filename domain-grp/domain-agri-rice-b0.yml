@@ -15,7 +15,7 @@ responses:
   utter_faq-agri-rice-b0/information-regarding-fungicide-for-paddy--root-rot: 
   - text: To control root rot disease in basmati ,seed and seedling treatment is mandatory. Smear the seeds with talc formulation of Trichoderma harzianum @ 15 g/kg of seed immediately before sowing and seedling root dip for 6 hrs with T. harzianum @ 15 g/litre of water before transplanting.broadcast 2 kg trichoderma harzianum per acre after transplanting mixed with 100kg FYM .if not available then buy it from online.
   utter_faq-agri-rice-b0/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy: 
-  - text: Broadcast 2 lt. Chlorpyriphos 20EC mix 2 lt. water and mix in 30 kg. dry sand per acre in standing water.
+  - text: Broadcast 2 lt. Chlorpyriphos 20EC mix 2 l water and mix in 30 kg dry sand per acre in standing water.
   utter_faq-agri-rice-b0/information-regarding-how-to-control-stem-rot-in-paddy: 
   - text: control Stem rot in paddy Spray the affected crop with 200 ml Amistar Top 325 SC (azoxystrobin + difenconazole) per acre in 200 litres of water, at the boot and ear-emergence stages.
   utter_faq-agri-rice-b0/how-to-control-root-caterpilar-in-paddy-crop: 
