@@ -14,6 +14,7 @@ nlu:
     - What are the technical aspects of hydroponics technique?
     - What are the technical details of hydroponic technique?
     - What are hydroponic techniques? How can you apply them?
+
 - intent: faq-agri-rice-b4/information-regarding--how-to-manage-water-in-nursery-seedling
   examples: |
     - information regarding  how to manage water in nursery seedling ?
@@ -25,6 +26,7 @@ nlu:
     - How do I manage water in a nursery seedling?
     - How do I manage water in nursery seedlings?
     - How do I manage irrigation water?
+
 - intent: faq-agri-rice-b4/information-regarding-how-to-manage-water-in-booting-stage
   examples: |
     - information regarding how to manage water in booting stage  ?
@@ -38,6 +40,7 @@ nlu:
     - How do you manage water at a booting stage?
     - How do you manage water in the booting stage?
     - How should I manage water during the booting stages?
+
 - intent: faq-agri-rice-b4/information-regarding-to-improve-the-drainage-of-water
   examples: |
     - information regarding to improve the drainage of water?
@@ -51,6 +54,7 @@ nlu:
     - How can we improve the drainage of water?
     - Information regarding to improve the drainage of water?
     - How can I improve the drainage of water?
+
 - intent: faq-agri-rice-b4/information-regarding-thiamethoxam-25--wg-chemical--is-used-for
   examples: |
     - information regarding thiamethoxam 25 % wg chemical  is used for?
@@ -62,6 +66,7 @@ nlu:
     - How is thiamethoxam 25 % wg chemical used for?
     - What can I get information about thiamethoxam 25 % wg chemical for?
     - How does thiamethoxamine be used?
+
 - intent: faq-agri-rice-b4/information-regarding-technical-names-of-folicur-and-chloro
   examples: |
     - information regarding technical names of folicur and chloro?
@@ -75,6 +80,7 @@ nlu:
     - What are the technical names for folicur and chloro?
     - What are the technical names of folicur and chloro?
     - How can I change the technical name for folicur and chloro?
+
 - intent: faq-agri-rice-b4/information-regarding-best-time-for--fodder-crop
   examples: |
     - information regarding best time for  fodder crop?
@@ -88,6 +94,7 @@ nlu:
     - How is the best time to crop fodder crops?
     - Exactly what is best time to plant fodder crop?
     - When is the best time to grow fodder crop?
+
 - intent: faq-agri-rice-b4/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didnt-sprout
   examples: |
     - information regarding  paddy seed have been sown for 6 days seed didn't sprout ?
@@ -101,6 +108,7 @@ nlu:
     - How is paddy seed for 6 days seed didn't sprout?
     - What information regarding paddy seed have been sown for 6 days seed didn't sprout?
     - Paddy seeds have been sown for 6 days seed didn't sprout?
+
 - intent: faq-agri-rice-b4/information-regarding-paddy-commom-seed-storage-in-home
   examples: |
     - information regarding paddy (commom) seed storage in home ?
@@ -114,6 +122,7 @@ nlu:
     - Which seed storage facility is best for paddy seeds?
     - What is the best way to store seeds at home?
     - How do I store seeds at home in paddy, mum?
+
 - intent: faq-agri-rice-b4/information-regarding-waste-decomposer-use-in-paddy-straw
   examples: |
     - information regarding waste decomposer use in paddy straw ?
@@ -132,6 +141,7 @@ nlu:
     - Is there information regarding processing of waste decomposer?
     - What is the information regarding process of waste decomposer?
     - How do you get information regarding processing of waste decomposer?
+
 - intent: faq-agri-rice-b4/information-regarding-the-how-to-remove-the-water-from-paddy-field
   examples: |
     - information regarding the how to remove the water from paddy field ?
@@ -143,6 +153,7 @@ nlu:
     - How can you remove water from a paddy field?
     - How to remove water from paddy field?
     - How to remove water from a paddy field?
+
 - intent: faq-agri-rice-b4/information-regarding-standing-water-in-paddy-field
   examples: |
     - information regarding standing water in paddy field?
@@ -156,6 +167,7 @@ nlu:
     - How can you improve standing water at a paddy field?
     - What are the basic requirements for preserving stand water in paddy field?
     - How can I keep up with standing water in paddy field?
+
 - intent: faq-agri-rice-b4/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water
   examples: |
     - information regarding that how many days paddy crop can survive in the water ?
@@ -169,6 +181,7 @@ nlu:
     - How many days paddy can survive in the water?
     - How many days do paddy crops survive in water?
     - How many days can paddy crop survive in water?
+
 - intent: faq-agri-rice-b4/information-regarding-the-submission-of-farms-to-the-agricultural-office-if-you-do-not-burn-the-paddy-straw
   examples: |
     - information regarding the submission of farms to the agricultural office if you do not burn the paddy straw ?
@@ -182,6 +195,7 @@ nlu:
     - What if you don't burn the paddy straw?
     - What are the best ways to submit a farm to the agriculture office if you don't burn paddy straw?
     - If you burn your paddy straw, how do you know if you are submitting farms to the agricultural office if you don't burn it?
+
 - intent: faq-agri-rice-b4/information-regarding-preventing-the-paddy-field-from-cracks
   examples: |
     - information regarding preventing the paddy field from cracks  ?
@@ -194,6 +208,7 @@ nlu:
     - How do we prevent paddy fields from cracking?
     - How to prevent a paddy field from cracking?
     - What is the best way to keep the paddy field from cracking?
+
 - intent: faq-agri-rice-b4/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field
   examples: |
     - information regarding how to remove wheat stubble burning ash from paddy nursery field ?
@@ -207,6 +222,7 @@ nlu:
     - How do I remove ash from paddy nursery field?
     - How can we remove wheat stubble burning ash from paddy nursery field?
     - How can I remove ash from a paddy nursery field?
+
 - intent: faq-agri-rice-b4/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil
   examples: |
     - information regarding the selection of variety of paddy for light textured soil ?

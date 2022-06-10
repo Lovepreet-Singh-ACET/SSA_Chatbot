@@ -1,0 +1,36 @@
+version: "3.0"
+
+intents:
+  - faq-agri-rice-b4-pun
+
+responses:
+  utter_faq-agri-rice-b4-pun/information-regarding-hydroponic-technique-?:
+  - text: ਕੋਈ ਉੱਤਰ ਨਹੀਂ
+  utter_faq-agri-rice-b4-pun/information-regarding--how-to-manage-water-in-nursery-seedling-?:
+  - text: ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਵਿਚ ਬੀਜ ਨੂੰ ਸਿਰਫ ਖੇਤਰ ਵਿਚ ਸਰਵੋਤਮ ਨਮੀ ਬਣਾਉਣਾ ਪੈਂਦਾ ਹੈ
+  utter_faq-agri-rice-b4-pun/information-regarding-how-to-manage-water-in-booting-stage--?:
+  - text: ਬੂਟ ਕਰਨ ਦੇ ਪੜਾਅ 'ਤੇ ਅਨੁਕੂਲ ਨਮੀ ਬਣਾਈ ਰੱਖਣੀ ਚਾਹੀਦੀ ਹੈ
+  utter_faq-agri-rice-b4-pun/information-regarding-to-improve-the-drainage-of-water?:
+  - text: ਮਿੱਟੀ ਦਾ ਟੈਸਟ ਲਓ, ਮਿੱਟੀ ਦੇ ਨਿਕਾਸ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਦੇ ਅਨੁਸਾਰ ਖਾਦ ਲਗਾਓ.
+  utter_faq-agri-rice-b4-pun/information-regarding-thiamethoxam-25-%-wg-chemical--is-used-for?:
+  - text: ਥਿਆਮੇਥੋਕਸਮ 25 % ਡਬਲਯੂਜੀ ਦੀ ਵਰਤੋਂ ਕੀਟਨਾਸ਼ਕ ਲਈ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਨਾ ਕਿ ਉੱਲੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-technical-names-of-folicur-and-chloro?:
+  - text: ਫੋਲਿਕੁਰ ਟੀਬੂਕੋਨਾਜ਼ੋਲ ਹੈ ਅਤੇ ਕਲੋਰੋ ਵਿਚ ਕਲੋਰੋਪਾਈਰੀਫੋਸ ਹੈ.
+  utter_faq-agri-rice-b4-pun/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didn't-sprout-?:
+  - text: ਬੀਜ ਨੂੰ ਵਧੇਰੇ ਸਿੰਚਾਈ ਦੇਣਾ ਮਾੜੇ ਫੁੱਟਣ ਦਾ ਨਤੀਜਾ ਹੈ
+  utter_faq-agri-rice-b4-pun/information-regarding-paddy-(commom)-seed-storage-in-home-?:
+  - text: ਝੋਨਾ (ਆਮ) 2 ਸਾਲ ਤੱਕ ਘਰ ਵਿੱਚ ਸਟੋਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਝੋਨਾ (ਹਾਈਬ੍ਰਿਡ) ਸਟੋਰੇਜ ਲਈ ਢੁਕਵਾਂ ਨਹੀਂ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-waste-decomposer-use-in-paddy-straw-?:
+  - text: ਵੇਸਟ ਡੀਕੰਪੋਜ਼ਰ ਨੂੰ ਤਿਆਰ ਕਰਨ ਲਈ 2 ਕਿਲੋ ਗੁੜ ਅਤੇ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਇੱਕ ਬੋਤਲ ਵੇਸਟ ਡੀਕੰਪੋਜ਼ਰ ਲਓ। 5 ਦਿਨਾਂ ਬਾਅਦ ਮਿਸ਼ਰਣ ਕ੍ਰੀਮੀ ਹੋ ਜਾਂਦਾ ਹੈ। ਪਿਛਲੇ ਮਿਸ਼ਰਣ ਦੇ 20 ਲੀਟਰ ਲੈ ਕੇ ਮਿਸ਼ਰਣ ਨੂੰ ਪਿਛਲੇ ਮਿਸ਼ਰਣ ਤੋਂ ਦੁਬਾਰਾ ਤਿਆਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-the-how-to-remove-the-water-from-paddy-field-?:
+  - text: ਖੇਤ ਵਿੱਚੋਂ ਪਾਣੀ ਨੂੰ ਹੱਥੀਂ ਕੱਢੋ ਜੇਕਰ ਫ਼ਸਲ ਨੂੰ ਪਾਣੀ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਡੁਬੋਇਆ ਜਾਵੇ ਤਾਂ ਇਹ ਫ਼ਸਲ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਂਦਾ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-standing-water-in-paddy-field?:
+  - text: 1-2 ਦਿਨਾਂ ਤੋਂ ਵੱਧ ਪਾਣੀ ਖੜ੍ਹਾ ਰਹਿਣ ਨਾਲ ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਵਾਧਾ ਰੁਕ ਜਾਂਦਾ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water-?:
+  - text: ਜੇਕਰ ਫ਼ਸਲ ਨੂੰ ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਪਾਣੀ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਡੁਬੋਇਆ ਜਾਵੇ ਤਾਂ ਇਹ ਫ਼ਸਲ ਲਈ ਨੁਕਸਾਨਦਾਇਕ ਹੋ ਸਕਦੀ ਹੈ ਪਰ ਜੇਕਰ ਪਾਣੀ ਦਾ ਪੱਧਰ ਉੱਚਾਈ ਤੋਂ ਹੇਠਾਂ ਜਾਵੇ ਤਾਂ ਫ਼ਸਲ ਬਚ ਸਕਦੀ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-preventing-the-paddy-field-from-cracks--?:
+  - text: ਝੋਨੇ ਦੇ ਖੇਤ ਨੂੰ ਫਟਣ ਤੋਂ ਰੋਕਣ ਲਈ ਖੇਤ ਵਿੱਚ ਤਰੇੜਾਂ ਪੈਦਾ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਸਿੰਚਾਈ ਕਰੋ।
+  utter_faq-agri-rice-b4-pun/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field-?:
+  - text: ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਦੇ ਖੇਤ ਤੋਂ ਕਣਕ ਦੀ ਤੂੜੀ ਬਲਦੀ ਸੁਆਹ ਨੂੰ ਹਟਾਉਣ ਲਈ ਹਲਕੀ ਸਿੰਚਾਈ ਲਾਗੂ ਕਰੋ ਅਤੇ ਪਾਣੀ ਨੂੰ ਖੇਤ ਦੇ ਦੂਜੇ ਪਾਸੇ ਤੋਂ ਹਟਾ ਦਿਓ .
+  utter_faq-agri-rice-b4-pun/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil-?:
+  - text: ਪੰਜਾਬ ਐਗਰੀਕਲਚਰਲ ਯੂਨੀਵਰਸਿਟੀ ਲੁਧਿਆਣਾ ਵੱਲੋਂ ਹਲਕੀ ਬਣਤਰ ਵਾਲੀ ਮਿੱਟੀ ਲਈ ਝੋਨੇ ਦੀ ਕਿਸੇ ਵਿਸ਼ੇਸ਼ ਕਿਸਮ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ।

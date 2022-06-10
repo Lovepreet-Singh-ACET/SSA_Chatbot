@@ -9,6 +9,7 @@ nlu:
     - tell me the recommended time for irrigation of wheat
     - When should wheat be irrigated
     - let me know the best time for wheat irrigation
+
 - intent: faq-agri-wheat-b5/information-regarding-place-of-soil-test
   examples: |
     - information regarding place of soil test ?

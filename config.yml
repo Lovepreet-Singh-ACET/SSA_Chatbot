@@ -125,6 +125,10 @@ pipeline:
 
   - name: ResponseSelector
     epochs: 100
+    retrieval_intent: faq-agri-rice-b4-pun
+
+  - name: ResponseSelector
+    epochs: 100
     retrieval_intent: faq-hort-pea-b0
 
   - name: FallbackClassifier

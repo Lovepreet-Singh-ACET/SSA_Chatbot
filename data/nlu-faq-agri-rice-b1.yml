@@ -11,6 +11,7 @@ nlu:
     - What is the role of the regent in paddy?
     - How does regent work in paddy?
     - What are the Role of a regent in a paddy bank?
+
 - intent: faq-agri-rice-b1/information-regarding-dose-of-fertilizers-in-rice
   examples: |
     - information regarding dose of fertilizers in rice ?
@@ -30,6 +31,7 @@ nlu:
     - What's the dose of fertilizers for basmati rice?
     - What are the fertilizers to be used in a basmati rice crop?
     - Which fertilizers are the best for basmati rice crop?
+
 - intent: faq-agri-rice-b1/information-regarding-time-or-date-of-transplanting-of-rice
   examples: |
     - information regarding time or date of transplanting of rice?
@@ -43,6 +45,7 @@ nlu:
     - How can we know about time or date of transplant of rice?
     - Why does the rice have no seeds?
     - What is the time/date of transplanting of rice in India?
+
 - intent: faq-agri-rice-b1/fertilizer-dose-in-rice-after-sowing
   examples: |
     - fertilizer dose in rice after sowing?
@@ -56,6 +59,7 @@ nlu:
     - Glucose fertilizer dose in rice after sowing?
     - Do fertilizer doses in rice after sowing?
     - How to grow rice after sowing?
+
 - intent: faq-agri-rice-b1/information-regarding-mycorrhiza-apply-in-paddy-field
   examples: |
     - information regarding mycorrhiza apply in paddy field?
@@ -69,6 +73,7 @@ nlu:
     - What information regarding mycorrhiza apply in paddy field?
     - How will mycorrhiza affect paddy field?
     - How should the mycorrhizae be treated with Paddy's field?
+
 - intent: faq-agri-rice-b1/information-regarding-control-of-termite-in-paddy
   examples: |
     - information regarding control of termite in paddy ?
@@ -81,6 +86,7 @@ nlu:
     - How can I control termites in paddy?
     - What are the control measures for termites in paddy?
     - What is the best way to control termite infestation in paddy?
+
 - intent: faq-agri-rice-b1/information-regarding-plant-growth-regulator-in-paddy
   examples: |
     - information regarding plant growth regulator in paddy ?
@@ -92,6 +98,7 @@ nlu:
     - What is the plant growth regulator used for paddy?
     - How do you get more information regarding plant growth regulator in paddy?
     - How do I get plant growth regulator for paddy?
+
 - intent: faq-agri-rice-b1/information-regarding-dose-of-poultary-yard-manure-in-paddy
   examples: |
     - information regarding dose of poultary yard manure in paddy  ?
@@ -105,6 +112,7 @@ nlu:
     - Does poultary manure enter the compost?
     - How much Poultary manure can be used in paddy?
     - Is there any recommendation about the dosing of poultary yard manure in paddy?
+
 - intent: faq-agri-rice-b1/information-regarding-problem-of-water-stagnating-in-paddy-crop
   examples: |
     - information regarding problem of water stagnating in paddy crop ?
@@ -118,6 +126,7 @@ nlu:
     - What is the cause of stagnant water in paddy crop?
     - water has stopped in paddy crop how to deal with it.
     - water not flowing in rice will it be a problem.
+
 - intent: faq-agri-rice-b1/information-regarding-control-of-pest-in--paddy
   examples: |
     - information regarding control of pest in  paddy ?
@@ -131,6 +140,7 @@ nlu:
     - What should be done for pest control of paddy?
     - How can I control pests in paddy?
     - How do I control a pest in paddy?
+
 - intent: faq-agri-rice-b1/information-regarding-control-of-hispa-in-paddy
   examples: |
     - information regarding control of hispa in paddy ?
@@ -144,6 +154,7 @@ nlu:
     - How can I control mypa in paddy?
     - How do you control Hispa infection in paddy?
     - What are the reasons for the high hispa rate in paddy?
+
 - intent: faq-agri-rice-b1/information-regarding-drainage-problem-in-paddy-feild
   examples: |
     - information regarding drainage problem in paddy feild?
@@ -156,6 +167,7 @@ nlu:
     - What is drainage problem in Paddy feild?
     - How do we solve drainage problem in paddy feild?
     - What are the drainage problems in paddyfield?
+
 - intent: faq-agri-rice-b1/information-regading-control-of-rats-in-paddy-feild
   examples: |
     - information regading control of rats in paddy feild ?
@@ -168,6 +180,7 @@ nlu:
     - how to get rid of mice from rice field
     - Is there a way to treat rats in rice feild?
     - how to control rat in rice crop area
+
 - intent: faq-agri-rice-b1/information-regarding-bluegreen-algae-in-paddy
   examples: |
     - information regarding blue-green algae in paddy?
@@ -180,6 +193,7 @@ nlu:
     - how to remove blue green algae from rice crop
     - how to control algae in paddy crop
     - How does blue green algae of paddy affect the crop
+
 - intent: faq-agri-rice-b1/information-regarding-dificency-of-npk-in-rice
   examples: |
     - information regarding dificency of npk in rice?
@@ -193,6 +207,7 @@ nlu:
     - Is it possible to get specific information about the npk ratio of rice?
     - What are the facts regarding the npk in rice?
     - Is there any evidence for the dificency of NPK in rice?
+
 - intent: faq-agri-rice-b1/information-regarding--application-of-water-after-broadcasting-urea-in-field
   examples: |
     - information regarding  application of water after broadcasting urea in field ?
@@ -205,6 +220,7 @@ nlu:
     - How is the application of water after the urea harvesting?
     - How can I apply water after water is broadcasting?
     - What is the application of water after broadcasting urea in field?
+
 - intent: faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result
   examples: |
     - information regarding the sufficient time gap between the application of urea and rain for better result?
@@ -218,6 +234,7 @@ nlu:
     - Is there sufficient time gap between urea application and rain?
     - What is the time difference between urea and rain for good result in the application of urea or the resultant?
     - Why is the time gap between application of urea and rain for better result not observed?
+
 - intent: faq-agri-rice-b1/information-regarding-urea-dose-in-paddy-seedlings
   examples: |
     - information regarding urea dose in paddy seedlings?
@@ -231,6 +248,7 @@ nlu:
     - How much urea dose should paddy seedlings receive?
     - How does the administration of urea in paddy seedlings sputter?
     - How many urea doses is in a paddy seedling?
+
 - intent: faq-agri-rice-b1/rice-leaves-turn-into-the-white-colour
   examples: |
     - rice leaves turn into the white colour?
@@ -244,6 +262,7 @@ nlu:
     - Rice leaves turn into white colour?
     - Why do rice leaves turn yellow in colour?
     - How does rice turn into white colour?
+
 - intent: faq-agri-rice-b1/information-regarding-broadcast-dap-in-paddy
   examples: |
     - information regarding broadcast dap in paddy ?

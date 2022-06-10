@@ -125,9 +125,6 @@ responses:
   utter_faq-agri-wheat-b0/information-regarding-control-of-black-rust-in-wheat:
   - text: Damage by wheat rust may be minimized by spraying Zineb or Mencozeb 75 WP. 
 
-  utter_faq-agri-wheat-b0/farmer-asks-about-the-yellow-smut-in-wheat:
-  - text: SPRAY THE TILT @ 200GM IN 200 T OF WATER/ACRE. #2011
-
   utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-heavy-irrigation:
   - text: SPRAY UREA 3KG IN 100 LITRE WATER PER ACRE #2019
 
@@ -288,6 +285,7 @@ responses:
 actions:
 - action_slot_setter
 - action_viz_faq
+- action_general
 
 forms: {}
 e2e_actions: []

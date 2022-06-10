@@ -12,7 +12,7 @@ nlu:
     - control of pea leaf miner attack?
     - leaf minier attack in pea crop
     - How do I stop pea leaf miner attack
-    - What are pea leaf miner attacks?
+    - What are ways to stop pea leaf miner attacks?
 - intent: faq-hort-pea-b0/information-regarding-caterpiler-in-peas
   examples: |
     - information regarding caterpiler in peas?
@@ -58,17 +58,17 @@ nlu:
     - spray used to get rid of pod borer in pea
 - intent: faq-hort-pea-b0/information-regarding-the-control-of-damping-off-in-pea
   examples: |
-    - information regarding the control of damping of in pea ?
-    - How can we control the damping of pea?
-    - How do I control damping in peas?
-    - Can we control the damping of green pea?
-    - What is the control of damping of in peas crop?
-    - How are damping contolled in pea vegetable?
-    - What are the ways of controlling damping of peas?
-    - Is there a method to control damping pea crop?
-    - Can we control damping of in pea?
-    - What is the control of damping of in Pea?
-    - How do we remove damping of from pea crop?
+    - information regarding the control of damping off in pea ?
+    - How can we control the damping-off pea?
+    - How do I control damping off peas?
+    - Can we control the damping-off green pea?
+    - What is the control of damping off in peas crop?
+    - How are damping off pea contolled?
+    - What are the ways of controlling damping off peas?
+    - Is there a method to control damping-off pea crop?
+    - Can we control damping off in pea?
+    - What is the control of damping off in Pea?
+    - How do we remove damping off from pea crop?
 
 - intent: faq-hort-pea-b0/information-regarding-fugal-problem-in-peas
   examples: |
@@ -81,7 +81,7 @@ nlu:
     - please suggest way to get rid of fugal problem in pea?
     - What is the method to control fugal problem of peas?
     - Is fugal problem in peas controllable?
-    - What is fugal problem in pea vegetable crop?
+    - What is control measure for fugal problem in pea vegetable crop?
 - intent: faq-hort-pea-b0/information-regarding-for-the-control-of-pea-stem-borer-attack-in-pea-crop
   examples: |
     - information regarding for the control of stem borer attack in pea crop?
@@ -183,6 +183,8 @@ nlu:
     - How do I control the drop of flowers in pea crop?
     - How do I control for flower drop in pea crop?
     - How can we control flower drop in pea crop?
+    - flower dropping control of pea
+    - pea flower dropping control measure
 - intent: faq-hort-pea-b0/information-regarding-control-of-termite-in-pea
   examples: |
     - information regarding control of termite in pea ?
@@ -249,8 +251,8 @@ nlu:
     - Is there any control method for pea?
     - Can the use of rats in pea be used?
     - What is the best method of producing rats in a pea?
-    - Do you use any chemical to control rats in pea?
-    - How was the control of rats in pea?
+    - can I use any chemical to control rats in pea?
+    - control of rats in pea?
 - intent: faq-hort-pea-b0/information-regarding-for-the-deficiency-of-potash-in-pea
   examples: |
     - information regarding for the deficiency of potash in pea?
@@ -282,10 +284,10 @@ nlu:
     - How can I control aphids in peas?
     - What are the effects of aphids on a potato?
     - How do you control aphids in peas?
-    - What is the best place to learn about the control of aphids in peas?
+    - aphid control in pea
     - How can we control aphids in vegetable seed?
     - How can we control the aphids in peas?
-    - How can I control aphids in my cotton?
+    - How can I control aphids in my pea vegi?
 - intent: faq-hort-pea-b0/information-rgearding-for-the-control-of-grasshopper-in-pea
   examples: |
     - information rgearding for the control of grasshopper in pea?
@@ -294,7 +296,7 @@ nlu:
     - rgearding for the control of grasshopper in pea?
     - What are the steps to control grasshopper in pea?
     - How can I remove grasshopper from pea fields?
-    - Where can I get more information rgearding for the control of grasshoppers in pea?
+    - can I get more information rgearding for the control of grasshoppers in pea?
     - Information about grasshopper in pea?
     - How do you control grasshopper in pea?
     - Knowledge rgearding for the control of grasshopper in pea?
@@ -345,13 +347,13 @@ nlu:
     - What information regarding the sowing time of peas?
     - What information regarding the sowing time of pea?
     - What information are required for the sowing time of pea?
-    - What are the seeds' sowing times?
+    - What is the pea seeds sowing times?
     - What information regarding sown time of pea?
     - How do I know about the sowing time of pea?
     - How could I know about sowing time?
-    - What is the sowing time for peas? What are the possible varieties?
+    - What is the sowing time for peas?
     - How can I determine for sowing time of pea seeds?
-    - How do you get a forecast for the sowing time of pea?
+    - the sowing time of pea vegitable?
 - intent: faq-hort-pea-b0/control-of-rotting-in-pea
   examples: |
     - control of rotting in pea?
@@ -359,20 +361,19 @@ nlu:
     - What are some methods to reduce rotting of peas?
     - How can you control rotting in pea?
     - What is the control of rotting in pea?
-    - What is the best way to control rotting in pea?
-    - How can rotting be controlled in potato?
-    - What are the methods for controlling rotting in rice?
+    - What is the best way to control rotting in pea vegetable?
+    - How can rotting be controlled in pea vegi?
+    - What are the methods for controlling rotting in pea crop?
     - Can rotting be controlled with peas?
     - information regarding control of rotting in peas
     - What can be done with regard to control of rotting in peas?
     - Information regarding control of rotting in peas.
-    - I know information regarding control of rotting in peas.
+    - I want information regarding control of rotting in peas vegetable.
     - What are the controls against rotting in peas?
-    - What should be done for rotting in peas?
+    - What should be done for control of rotting in peas?
     - Information concerning control of rotting in peas.
-    - What are some methods of control of rotting hen in rice?
-    - Information regarding control of rotting in peas, if applicable, about rotting in peas.
-    - Control of rotting in kale seeds (Norwegian)
+    - What are some methods of control of rotting in pea vegetable?
+    - Information regarding control of rotting in pea
     - How can I stop rotting in peas?
 - intent: faq-hort-pea-b0/information-regarding-for-control-of-root-rot-in-pea
   examples: |
@@ -430,7 +431,7 @@ nlu:
     - What is a better yeild and growth of peas?
     - What is best information regarding better yeild and growth in pea?
     - What are some good tips regarding yeild in pea?
-    - How can I determine which is the best yeild and growth in pea?
+    - How can I get the best yeild and growth in pea?
 - intent: faq-hort-pea-b0/information-regarding-the-control-of-weeds-in-peas
   examples: |
     - information regarding the control of weeds in peas ?

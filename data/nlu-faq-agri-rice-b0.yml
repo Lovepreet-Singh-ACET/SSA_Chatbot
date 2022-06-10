@@ -31,6 +31,7 @@ nlu:
     - What are the sources of potassium in paddy crop?
     - What are the advantages of using potassium deficiency in paddy crop?
     - What will the potassium deficiency be in paddy crop?
+
 - intent: faq-agri-rice-b0/information-regarding-weed-control-in-pady
   examples: |
     - information regarding weed control in paddy
@@ -62,6 +63,7 @@ nlu:
     - How do I control blb in paddy crop?
     - by spraying what can i get rid of blb from rice crop
     - how can i get rid of blb from paddy crop
+
 - intent: faq-agri-rice-b0/information-regarding-to-boron-deficiency-in-paddy
   examples: |
     - information regarding to boron deficiency in paddy ?
@@ -83,6 +85,7 @@ nlu:
     - information  regarding root rot in paddy or basmati?
     - How can root rot be treated in basmati or paddy fields?
     - How do I prevent root rot in paddy or basmati?
+
 - intent: faq-agri-rice-b0/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy
   examples: |
     - information regarding how to control white caterpillars in roots of paddy?
@@ -96,6 +99,7 @@ nlu:
     - can I control the white caterpillars in roots of paddy?
     - How do I control white caterpillars in rice?
     - help me out in controlling the white caterpillars in the roots of rice
+
 - intent: faq-agri-rice-b0/information-regarding-how-to-control-stem-rot-in-paddy
   examples: |
     - information regarding how to control stem rot in paddy?
@@ -107,6 +111,7 @@ nlu:
     - What is the best way to control the stem rot in paddy?
     - How can I control rot in my paddy?
     - How do you control rot in the stem in paddy?
+
 - intent: faq-agri-rice-b0/how-to-control-root-caterpilar-in-paddy-crop
   examples: |
     - how to control root caterpilar in paddy crop ?
@@ -134,6 +139,7 @@ nlu:
     - Where can I find the control of larvae in paddy roots?
     - How are a few larvae controlled in paddy root?
     - What are the basic information regarding control of larvae in paddy roots?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-leaf-folder-in-basmati
   examples: |
     - information regarding control of leaf folder in basmati ?
@@ -147,6 +153,7 @@ nlu:
     - Is leaf folder management still applicable for basmati?
     - How can I control leaf folder in Basmati?
     - How do I make leaf folder in basmati?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-leaf-folder-when-there-are-15-days-left-for-harvesting
   examples: |
     - information regarding control of leaf folder when there are 15 days left for harvesting ?
@@ -160,6 +167,7 @@ nlu:
     - How can we control leaf folders when there are 15 days left for harvesting?
     - How can I control leaf folder when there are 15 days to harvest?
     - How do I control leaf folder if there are 10 days left for harvesting in the autumn?
+
 - intent: faq-agri-rice-b0/spray-for-the-control-of-grasshopper
   examples: |
     - spray for the control of grasshopper in rice
@@ -176,6 +184,7 @@ nlu:
     - info about the spray to control grasshopper in rice crop
     - information regarding the spray to control grasshopper
     - tell me the spray to control grasshopper
+
 - intent: faq-agri-rice-b0/information-regarding-the-spray-against-brown-leaf-spot
   examples: |
     - information regarding the spray against brown leaf spot?
@@ -202,6 +211,7 @@ nlu:
     - Why is furadan in rice toxic?
     - How do we measure furadan dosage in rice?
     - What is furadan to do in rice?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-dose-of-zice--in-rice
   examples: |
     - information regarding dose of zinc  in rice
@@ -215,6 +225,7 @@ nlu:
     - info regarding control for dose of zinc in paddy
     - What is the dose of zinc in paddy crop?
     - how much zinc to be sprayed in the rice field
+
 - intent: faq-agri-rice-b0/information--regarding-dying-of-plants-of-paddy
   examples: |
     - information  regarding dying of plants of paddy?
@@ -228,6 +239,7 @@ nlu:
     - How do you feed plants of paddy?
     - How do I die of paddy plants?
     - How do you find information regarding dying of paddy plants?
+
 - intent: faq-agri-rice-b0/information-regarding--paddy--damaged-in-flood
   examples: |
     - information regarding  paddy  damaged in flood ?
@@ -241,6 +253,7 @@ nlu:
     - How do I find out about the paddy damage that occurred as a result of a flood?
     - If there is any information regarding paddy damage in flood?
     - How can I find out paddy damage in flood?
+
 - intent: faq-agri-rice-b0/dose-of-acephate-use-in-paddy-crop
   examples: |
     - dose of acephate use in paddy crop ..?
@@ -254,6 +267,7 @@ nlu:
     - Do acephate and paddy seeds interact with each other?
     - How much acephate is used in a paddy crop?
     - What is the use of acephate in paddy crop?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-termite-in-rice-crop
   examples: |
     - information regarding control of termite in rice crop
@@ -267,6 +281,7 @@ nlu:
     - Currently no information regarding control of termite in rice crop. Currently rice crop is contaminated.
     - Information regarding control of termite in rice crop. rice in India.
     - What are termites and termite control measures in rice crop?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-control-of-sheath-blight-in-rice
   examples: |
     - information regarding control of control of sheath blight in rice?
@@ -278,6 +293,7 @@ nlu:
     - What is the possible treatment for sheath blight in rice?
     - How can you control sheath blight in rice?
     - How do I get rid of sheath blight in rice?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-false-smut-in-rice
   examples: |
     - information regarding control of false smut in rice?
@@ -291,6 +307,7 @@ nlu:
     - How can you control smut in rice?
     - How can a rice plant control false smut?
     - How can we control smut in rice?
+
 - intent: faq-agri-rice-b0/information-regarding-control-kernel-smut-in-rice-crop
   examples: |
     - information regarding control kernel smut in rice crop?
@@ -318,6 +335,7 @@ nlu:
     - How do you control for fungus control fungus in basmati?
     - Information regarding for the control fungus in basmati?
     - What is the control fungus of basmati?
+
 - intent: faq-agri-rice-b0/information-regarding-the-control-of-fungal-disease-in-basmati
   examples: |
     - information regarding the control of fungal disease in basmati?
@@ -331,6 +349,7 @@ nlu:
     - How do I control fungal disease in basmati?
     - Is there any information regarding the control of fungal disease in basmati?
     - Is there any information regarding control of fungal disease in basmati?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-reddish-in-paddy
   examples: |
     - information regarding control of reddish in paddy?
@@ -344,6 +363,7 @@ nlu:
     - How can I control the yellow colour in paddy?
     - How can I control reddish in paddy?
     - How can you control reddish plant in paddy?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-farrous-deficiency-in-paddy
   examples: |
     - information regarding control of farrous deficiency in paddy?
@@ -360,6 +380,7 @@ nlu:
     - How can I control the iron deficiency in paddy?
     - Identify the problems of iron deficiency in paddy?
     - How can we control iron deficiency in paddy soils?
+
 - intent: faq-agri-rice-b0/information-regarding-for-the-control-of-anthrachnose-disease-in-rice-crop
   examples: |
     - information regarding for the control of anthrachnose disease in rice crop?
@@ -372,6 +393,7 @@ nlu:
     - How do I control anthrachnose disease in rice crop?
     - How can the anthrachnose disease be controlled in rice crop?
     - How can I prevent anthrachnose disease in rice crops?
+
 - intent: faq-agri-rice-b0/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy
   examples: |
     - information regarding the best time of day to spray any chemical on paddy?
@@ -384,6 +406,7 @@ nlu:
     - What is the best time to spray on paddy?
     - What is the best time to spray chemical vapor on paddy?
     - How early in the morning can we spray any chemical on paddy?
+
 # - intent: faq-agri-rice-b0/information-regarding-bad-effect-of-weedicide-in-paddy-crop
 #   examples: |
 #     - information regarding bad effect of weedicide in paddy crop.
@@ -397,6 +420,7 @@ nlu:
 #     - Despite the use of the bad weedicides in paddy crop, why does the bad effect continue even after application. In my situation, the weedicide is being used with heavy dose for 3 days. Where can we get this information?
 #     - What is the use of weedicide on your paddy crop?
 #     - What are the negative effects of weedicide on a paddy crop?
+
 - intent: faq-agri-rice-b0/information-regarding-how-to-control-sulphur-deficiency-in-paddy
   examples: |
     - information regarding how to control sulphur deficiency in paddy?
@@ -409,6 +433,7 @@ nlu:
     - How can paddy be controlled for sulphur deficiency?
     - How should I control sulphur in paddy?
     - How do we control sulphur deficiency in paddy?
+
 - intent: faq-agri-rice-b0/information-regarding-dose-of-urea-for-basmati-rice
   examples: |
     - information regarding dose of urea for basmati rice?
@@ -422,6 +447,7 @@ nlu:
     - Do we really need urea in basmati rice?
     - How much urea is in basmati rice?
     - What is the usual dose of urea for basmati rice?
+
 - intent: faq-agri-rice-b0/information-regrading-to-control-of-broadleaf-weeds-in-rice
   examples: |
     - information regrading to control of broadleaf weeds in rice?
@@ -434,6 +460,7 @@ nlu:
     - How does the use of broadleaf weed control improve rice rice?
     - Is there a way to control rice from broadleaf weeds?
     - How do we control the broadleaf weed in rice?
+
 - intent: faq-agri-rice-b0/how-to-control-steam-borer-in-paddy-crop
   examples: |
     - how to control steam borer in paddy crop ?
@@ -442,6 +469,7 @@ nlu:
     - How can I control steam borer in paddy crop?
     - How do I control steam borer in paddy crop?
     - How to control steam borer in paddy crop?
+
 - intent: faq-agri-rice-b0/information-regarding-which-spray--should-be-done-at-booting-stage-in-paddy
   examples: |
     - information regarding which spray  should be done at booting stage in paddy ?
@@ -464,6 +492,7 @@ nlu:
     - How do I get army worm into my paddy?
     - How can I control army worms in paddy?
     - How do I control the army worm in paddy?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-black-bug-in-paddy
   examples: |
     - information regarding control of black bug in paddy ?
@@ -477,6 +506,7 @@ nlu:
     - How can the Black Bug be managed in Paddy?
     - Is there any other possible way to control black bug in paddy?
     - Is there any information on control of black bug in paddy?
+
 - intent: faq-agri-rice-b0/information-regarding-control-of-nematode-in-basmati-rice
   examples: |
     - information regarding control of nematode in basmati rice?
@@ -504,6 +534,7 @@ nlu:
     - How can I control the brown spots on rice?
     - How can you control black spots on rice grains?
     - How can I control black spots on rice grains?
+
 - intent: faq-agri-rice-b0/how-to-control-thirips-in-paddy-crop
   examples: |
     - how to control thirips in paddy crop ?
@@ -523,6 +554,7 @@ nlu:
     - What is the control of plant hoper in paddy crop?
     - How can I control the hoper in paddy crop?
     - How do I control hoper plant in paddy crop?
+
 - intent: faq-agri-rice-b0/information-regarding-yellow-rust-in-paddy
   examples: |
     - information regarding yellow rust in paddy?
@@ -536,19 +568,22 @@ nlu:
     - How do I get Yellow rust from a paddy?
     - What is the colour of yellow rust in paddy?
     - How can I get yellow rust in paddy?
+
 - intent: faq-agri-rice-b0/information-regarding-for-the-control-of-mangenege-deficiency
   examples: |
-    - information regarding for the control of mangenege deficiency ?
-    - Is there any control or treatment for mangenege deficiency?
-    - How do I prevent mangenege defect?
-    - How to control mangenege deficiency?
-    - How can you control your mangenege deficiency?
-    - Where may I get information regarding for the control of mangenege deficiency?
-    - How can a mangenege deficiency be controled?
-    - How do I control Mangenege deficiency?
-    - Information regarding for the control of Mangenege deficiency?
-    - Is there a solution for control of Mangenege Deficiency?
+    - information regarding for the control of manganese deficiency?
+    - Information on how to fight manganese deficiency in rice?
+    - Is there any control or treatment for manganese deficiency?
+    - How do I prevent manganese defect?
+    - How to control manganese deficiency?
+    - How can you control your manganese deficiency?
+    - Where may I get information regarding for the control of manganese deficiency?
+    - How can a manganese deficiency be controled?
+    - How do I control manganese deficiency?
+    - Information regarding for the control of manganese deficiency?
+    - Is there a solution for control of manganese Deficiency?
     - How do I control mangenege deficit?
+
 - intent: faq-agri-rice-b0/how-to-control-bacterial-blight-disease-in-basmati-rice
   examples: |
     - how to control bacterial blight disease in basmati rice?
@@ -558,6 +593,7 @@ nlu:
     - How can you control bacterial blight in basmati rice?
     - How do I control bacterial blight disease in basmati rice?
     - How can you control bacteria on basmati rice?
+
 - intent: faq-agri-rice-b0/information-regarding-for-the-control-of-white-fly-in-paddy-crop
   examples: |
     - information regarding for the control of white fly in paddy crop

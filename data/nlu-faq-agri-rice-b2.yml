@@ -15,6 +15,7 @@ nlu:
     - when should i sow rice crop
     - what could be the best time to sow rice
     - when to sow basmati seeds?
+
 - intent: faq-agri-rice-b2/sowing-time-of-direct-seedling-of-basmati
   examples: |
     - sowing time of direct seedling of basmati?
@@ -28,6 +29,7 @@ nlu:
     - How long do direct seedlings of basmati require to sow?
     - How much sowing time does direct seedling of basmati take?
     - The sowing time of the direct seedling of basmati is 15-21 days?
+
 - intent: faq-agri-rice-b2/sowing-seaosn-of-basmati
   examples: |
     - sowing seaosn of basmati?
@@ -40,6 +42,7 @@ nlu:
     - How do you start sowing seaosn of basmati?
     - What are the ways of sowing seaosn in basmati?
     - which season is for Sowing Basmati?
+
 - intent: faq-agri-rice-b2/information-regarding-time-of-nursery-sowing
   examples: |
     - information regarding time of nursery sowing?
@@ -53,6 +56,7 @@ nlu:
     - How and when does nursery sowing occur?
     - How is nursery sowing time decided?
     - What is the time of nursery seedling?
+
 - intent: faq-agri-rice-b2/information-regarding-for-the-suitable-sowing-time-of-paddyjhona
   examples: |
     - information regarding for the suitable sowing time of paddy(jhona) ?
@@ -80,6 +84,7 @@ nlu:
     - Application for application of padan in paddy nursery is underway?
     - Is application of padan required for paddy nursery?
     - How can I apply Padan in paddy nursery?
+
 - intent: faq-agri-rice-b2/information-regarding-the-detail-of-hybrid-paddy-cultivation
   examples: |
     - information regarding the detail of hybrid paddy cultivation ?
@@ -92,6 +97,7 @@ nlu:
     - How will hybrid paddy cultivation in India be done?
     - What are some basic information about hybrid paddy cultivation?
     - Information regarding the detail of hybrid paddy cultivation?
+
 - intent: faq-agri-rice-b2/information-regarding-seed-treatment-of-basmati-seedlings
   examples: |
     - information regarding seed treatment of basmati seedlings?
@@ -105,6 +111,7 @@ nlu:
     - Seed treatment: How to keep basmati seedlings healthy?
     - What is the best seed treatment method?
     - Information regarding the treatment of basmati seedlings?
+
 - intent: faq-agri-rice-b2/information-regarding-for-the-seed-treatment-of-paddyjhona
   examples: |
     - information regarding for the seed treatment of paddy(jhona)?
@@ -118,6 +125,7 @@ nlu:
     - What information regarding for the seed treatment of paddy(jhona)?
     - When will you make Seed Treatment for Paddy(jhona)?
     - How do you get seed treatment of paddy(jhona) plant?
+
 - intent: faq-agri-rice-b2/information-regarding-planting-time-of-basmati-crop
   examples: |
     - information regarding planting time of basmati crop?
@@ -131,6 +139,7 @@ nlu:
     - What are the information regarding planting time for basmati crop?
     - What are some important information regarding planting time of basmati crop?
     - How do you know the time for planting of basmati rice?
+
 - intent: faq-agri-rice-b2/information-regarding-plantation-of-basmati-rice
   examples: |
     - information regarding plantation of basmati rice?
@@ -144,6 +153,7 @@ nlu:
     - How do I know about plantation of basmati rice?
     - How can I get information regarding plantation of basmati rice?
     - What is the knowledge regarding plantation of basmati rice?
+
 - intent: faq-agri-rice-b2/information-regarding-the-sowing-time-of-rice-in-punjab
   examples: |
     - information regarding the sowing time of rice in punjab.?
@@ -157,6 +167,7 @@ nlu:
     - How would you estimate the sowing time of rice in punjab?
     - What is the sowing time of rice in punjab?
     - How is the sowing time of rice calculated in punjab?
+
 - intent: faq-agri-rice-b2/number-of-rice-plant-require-in-one-one-square-meter
   examples: |
     - number of rice plant require in one one square meter?
@@ -169,6 +180,7 @@ nlu:
     - How many rice plants are needed to produce 1 square meter?
     - What are the number of rice plants in one square meter?
     - What is the number of rice plants for a one square meter?
+
 - intent: faq-agri-rice-b2/information-regarding-moisture-content-of-rice
   examples: |
     - information regarding moisture content of rice
@@ -195,6 +207,7 @@ nlu:
     - Is there any control weeds in paddy(jhona) crop?
     - How do you control weeds in your paddy (jhona) crop?
     - How can I control weeds in crop of Paddy(jhona)?
+
 - intent: faq-agri-rice-b2/information-regarding-when-to-use-weedcide-just-after-transplantation
   examples: |
     - information regarding when to use weedcide just after transplantation ?
@@ -208,6 +221,7 @@ nlu:
     - How do I use weedcide after transplantation?
     - What is weedcide used for before transplantation?
     - Is weedcide safe to use just after transplant?
+
 - intent: faq-agri-rice-b2/information-regarding-control-of-weeds-in-paddy
   examples: |
     - information regarding control of weeds in paddy ?
@@ -220,6 +234,7 @@ nlu:
     - How do I control weeds in paddy?
     - What is the best information on the control of weeds in paddy?
     - What is the best way to control weeds in paddy?
+
 - intent: faq-agri-rice-b2/telll-me-control-weeed-in-blank--field
   examples: |
     - telll me control weeed in blank  field
@@ -233,6 +248,7 @@ nlu:
     - Telll me control weeed in blank field field. telll me weeed in box field.
     - Telll me control weeed in blank field blank. rdgd, to telll me control weeed in blank field blank. rdgd, to telll me control weeed in blank field blank. rdgd. telll me control weeed. in blank field
     - Telll me control weeed in blank field fields, telll me hd and pass out control useed in line. blank field fields, telll me control weeed in blank field field fields, telll me control weeed in blank field fields. blank field field fields, telll me control we
+
 - intent: faq-agri-rice-b2/information-regarding-spacing-in-direct-seeded-rice
   examples: |
     - information regarding spacing in direct seeded rice?
@@ -245,6 +261,7 @@ nlu:
     - How is spaced seed for rice differed?
     - Is spacing needed for direct seeded rice?
     - How can I determine the spacing for direct seeded rice?
+
 - intent: faq-agri-rice-b2/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-paddy
   examples: |
     - information regarding measures to tackle overdose usage of pretlachlor in paddy ?
@@ -258,6 +275,7 @@ nlu:
     - How can I tackle pretlachlor in Paddy?
     - What are the measures which are entrusted to curb overdose use of pretlachlor in a paddy?
     - What is the treatment for overdose of pretlachlor in paddy?
+
 - intent: faq-agri-rice-b2/information-regarding-application-of--pre-emergence-weedicide
   examples: |
     - information regarding application of  pre emergence weedicide?
