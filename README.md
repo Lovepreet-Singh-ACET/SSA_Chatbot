@@ -25,7 +25,7 @@ Once the environment is created you can activate it using
 After activating the environment you can install rasa by using
     
     > python -m pip install --upgrade pip  # to upgrade the pip version
-    > pip install rasa
+    > pip install rasa == 3.0.6
 
 To check that rasa is working or not you can run the below command
 > rasa --version
@@ -70,10 +70,12 @@ There are multiple important things to note in order to understand the workflow.
 
 ### Process followed
 1. First using the s-bert transformer we narrow down the number of unique questions based on sentence similarity.
-2. Using the unique sentences from above step we compare the new sentences with already added data to get questions which are not yet ingested in the model (Levenshtein Distance is used for the comparison here).
-3. With the help of T-5 transformer we get parapharse examples for each unique question
-4. Generate NLU and DOMAIN files
-5. Execute 'build-domain.py`
-6. Train model
-
-Apart from these steps we are doing one addtional check by taking the top words and the words at a distance of 1 from these top words on both sides in sentence which helps in identifying which queryTypes have same questions.
+2. Using the unique sentences from above step we compare the new sentences with already added data to get questions which are not yet ingested in the model (Levenshtein Distance is used for the comparison here). `**Note:** use only in case there already is some data added for the crop in cosideration`
+3. Use clustering to cluster similer questions together after doing the above to steps. It makes easier to select the good quality question and delete the ones which are not required.
+4. With the help of T-5 transformer we get parapharse examples for each unique question
+5. Generate NLU and DOMAIN files add them to the data and domain-grp directories respectivly.
+6. Check the NLU file for parapharase questions quality and update those examples which are not good.
+7. Fill up the domain file with answers from the dataset(Use the most recent answer by sorting based on the year)
+8. Execute 'build-domain.py` scrip to make domain.yml from
+9. Train model
+10. Run and test it
