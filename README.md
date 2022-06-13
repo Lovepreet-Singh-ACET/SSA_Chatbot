@@ -69,7 +69,7 @@ There are multiple important things to note in order to understand the workflow.
 - When new data for nlu and domian is added to the above described directories we have to execute the `build-domain.py` script which will make sure that all the responses are being considered by rasa while training.
 
 ### Process followed
-<img style="display: block;margin-left: auto;margin-right: auto;width: 80%;" src=pipeline.png>
+<p style="text-align:center;"><img src=pipeline.png alt="Logo"></p>
 
 1. First using the s-bert transformer we narrow down the number of unique questions based on sentence similarity.
 2. Using the unique sentences from above step we compare the new sentences with already added data to get questions which are not yet ingested in the model (Levenshtein Distance is used for the comparison here). `**Note:** use only in case there already is some data added for the crop in cosideration`
