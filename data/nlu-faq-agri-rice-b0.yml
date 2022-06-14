@@ -47,6 +47,8 @@ nlu:
     - How can I control weed from basmati rice?
     - How can we control weed from basmati rice?
     - How can I cntrl weeds in basmati rice?
+    - how can I control weeds in rice
+    - how can i control weeds in paddy
 
 - intent: faq-agri-rice-b0/infprmation-regarding-control-blb-in-rice-crops
   examples: |
@@ -406,20 +408,6 @@ nlu:
     - What is the best time to spray on paddy?
     - What is the best time to spray chemical vapor on paddy?
     - How early in the morning can we spray any chemical on paddy?
-
-# - intent: faq-agri-rice-b0/information-regarding-bad-effect-of-weedicide-in-paddy-crop
-#   examples: |
-#     - information regarding bad effect of weedicide in paddy crop.
-#     - What are the facts about the effects of weedicide on the paddy crop?
-#     - What are the harmful effects of weedicides on a paddy crop?
-#     - Is weedicide harmful for crop?
-#     - Is weedicide harmful for Paddy crop?
-#     - What is the bad effect of weedicide in paddy crop.?
-#     - Why is there weedicide bad effect on paddy crop?
-#     - What are the effects of weedicide on a paddy crop?
-#     - Despite the use of the bad weedicides in paddy crop, why does the bad effect continue even after application. In my situation, the weedicide is being used with heavy dose for 3 days. Where can we get this information?
-#     - What is the use of weedicide on your paddy crop?
-#     - What are the negative effects of weedicide on a paddy crop?
 
 - intent: faq-agri-rice-b0/information-regarding-how-to-control-sulphur-deficiency-in-paddy
   examples: |

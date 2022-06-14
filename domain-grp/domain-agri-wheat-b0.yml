@@ -36,9 +36,8 @@ responses:
   utter_faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop:
   - text: I TOLD THE KISAN 1 LITRE OF THIODAN 35 EC @ IN 2 LITRE OF WATER AND MIX 20 KG OF SOIL AND BROADCAST IN PER ACRE  #2011
 
-  # utter_faq-agri-wheat-b0/control-of-mangnese-defy-in-wheat:
-  # - text: SPRAY OF MANGANESE 1KG/ACRE MIX 100 L WATER    #2019
-  # - text: USE SPRAY 1 KG MANGANESE SULPHATE IN 100 LITRES OF WATER/ACRE.
+  utter_faq-agri-wheat-b0/control-of-manganese-defy-in-wheat:
+  - text: SPRAY OF MANGANESE 1KG/ACRE MIX 100 L WATER    #2019
 
   # utter_faq-agri-wheat-b0/control-of-zinc-defy-in-wheat:
   # - text: spray zinc sulphate 21% @ 1kg + 1/2kg unslaked lime in 200 liters of water / acre.  #2014

@@ -16,6 +16,12 @@ nlu:
     - information regarding for the weed control in wheat crop
     - information regardingh of weed control in wheat 
     - infomation regarding control of weed control of wheat
+    - how can i control weeds in wheat
+    - can i control weeds in wheat
+    - is there any way to control weeds in wheat
+    - tell me how to control weeds in wheat?
+    - tell me some information regarding control of weeds in wheat
+    - how can i control weeds in my wheat crop
 
 # root weevil
 - intent: faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop
@@ -33,49 +39,23 @@ nlu:
     - How do I control root weevils in wheat crop?
     - What are the best ways to control root weevil in wheat?
     - What are good ways to control wheat root weevil in wheat crop?
+    - tell me the ways to control the root weevil in wheat
+    - how we can control the root weevil in wheat
+    - how to control root weevil in wheat
 
-# mangnese defi
-# - intent: faq-agri-wheat-b0/control-of-mangnese-defy-in-wheat
-#   examples: |
-#     - control of mangnese defy in wheat
-#     - Mangnese defy control in wheat
-#     - Mangnese resist control in wheat
-#     - control of maganese resisit in the wheat.
-#     - in wheat crop how to manage the maganese content.
-#     - information regarding control of manganese deficiency in wheat
-#     - control of manganese deficiency in wheat
-#     - information regarding for the deficiency of manganese sulphate
-#     - information regarding the manganese deficiency in wheat
-#     - manganese deficiency in wheat
-#     - information regarding nmanganese deficiency in wheat 
-#     - information regarding for the manganese deficiency in wheat
-#     - how to correct the deficiency of manganese in the wheat crop
-#     - information regarding manganese sulphate in wheat
-#     - information regarding manganese sulphate spray dose
-
-# zinc defi
-# - intent: faq-agri-wheat-b0/control-of-zinc-defy-in-wheat
-#   examples: |
-#     - control of zinc defy in wheat
-#     - zinc defy control in wheat
-#     - control of zinc resisit in the wheat.
-#     - in wheat crop how to manage the zinc content.
-#     - information regarding zinc diffiency in wheat
-#     - how to tackle zinc deficiency in wheat crop
-#     - how to deal with zinc deficiency in wheat
-#     - how to deal zinc deficit in wheat
-#     - there is zinc deficiency in wheat land, how to handle this situation.
-#     - my wheat is having zinc deficiency how to overcome this
-#     - control of zinc defy in wheat
-#     - information regarding zinc difficency in wheat crop
-#     - information regarding control deficiency of zinc in wheat
-#     - information regarding control zinc deficiency in wheat
-#     - information regarding for the deficiency of zinc
-#     - dose of zinc in wheat for spraying
-#     - zinc dose in wheat for spraying
-#     - zinc dose for spraying in wheat 
-#     - zinc dosage in wheat for spraying
-#     - in wheat crop zinc dosage for spraying
+- intent: faq-agri-wheat-b0/control-of-manganese-defy-in-wheat
+  examples: |
+    - information regarding control of manganese deficiency in wheat
+    - information about manganese deficiency control in wheat
+    - how can we control manganese defy in wheat crop
+    - what can be used to recover the deficiency of manganese in wheat crop
+    - what are the possible sprays that can be used for manganese defi
+    - how to recover the deficiency of manganese in wheat
+    - in my wheat crop how can i cntrl the deficiency of manganese
+    - what information is there regarding the recovery measure of manganese in wheat
+    - please let me know how manganese deficiency can be overcomed in wheat crop
+    - tell me infrmation regarding control of mangnese deficiency in wheat
+    - can you please tellme the about the mangnese defi in wheat
 
 # aphid
 - intent: faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat
@@ -100,16 +80,9 @@ nlu:
     - How can you control aphids in wheat?
     - How do I control aphid in wheat crops?
     - How can I control aphids in wheat crops?
-
-# zinc dose
-# - intent: faq-agri-wheat-b0/dose-of-zinc-in-wheat-for-spraying
-#   examples: |
-#     - dose of zinc in wheat for spraying
-#     - zinc dose in wheat for spraying
-#     - zinc dose for spraying in wheat 
-#     - zinc dosage in wheat for spraying
-#     - in wheat crop zinc dosage for spraying
-#     - information regrading chelated zinc dose
+    - what are the ways to control the aphids in wheat
+    - what are the information regarding control of aphids in wheat
+    - how aphids are controlled in wheat
 
 # yellow rust or pilli kungi or strip rust or yellow brown leaf
 - intent: faq-agri-wheat-b0/control-of-yellow-rust-in-wheat
@@ -134,19 +107,9 @@ nlu:
     - how to control the yellow brownleaf rust in wheat
     - is there a method to control the yellowbrown leaf rust in wheat
     - tell me the procedure to stop the yellow brown rust in wheat crop
-
-# sulphur
-# - intent: faq-agri-wheat-b0/control-of-sulphur-in-wheat
-#   examples: |
-#     - control of sulphur in wheat
-#     - how to control sulpher in whaeat crop
-#     - sulphur control in wheat
-#     - ways to keep sulphur levels in wheat crops under control
-#     - methods to control sulphur level in wheat
-#     - control of sulphur defy in wheat
-#     - control of sulpfhur defy in wheat
-#     - contro of sulphur defy in wheat
-#     - spray for controling sulphur level in wheat
+    - what are the methods to control the yellow rust in wheat
+    - what are the information regarding control of yellow rust in wheat
+    - what can be done to control yellow rust in wheat
 
 # stem borer
 - intent: faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop
@@ -168,6 +131,9 @@ nlu:
     - control measure of stem borer in wheat
     - for control of stem borer in wheat
     - what to do for the control of stem borer attack on wheat crop
+    - what are the info regarding control of stemm borer in wheat
+    - tell me the to cntrol the stem borer from wheat crop
+    - is there a way to control stem borer in wheat
 
 # termite
 - intent: faq-agri-wheat-b0/information-regarding-control-of-termite
@@ -186,6 +152,11 @@ nlu:
     - how to control termite in wheaat crop 
     - information regarding control of termites in wheat
     - how to control termite in wheat crop
+    - how can i control the termite from wheat
+    - whatis the info we have to control the wheat from termite
+    - tell me the way to control the termites from wheat crop
+    - information regarding termite in wheat
+    - how are termites controlled in wheat
 
 # army worm
 - intent: faq-agri-wheat-b0/information-regarding-control-of-army-worm-in-wheat-crop
@@ -204,6 +175,9 @@ nlu:
     - information regarding to army worm attacks wheat
     - information regaeding control of army worm
     - information regarding the army worm in wheat
+    - how we can control the army worm from wheat crop
+    - tell me information regarding control of armyworm in wheat
+    - how army worms can be controlled
 
 # brown leaf or rust
 - intent: faq-agri-wheat-b0/information-regarding-brown-leaf-in-wheat-crop
@@ -221,6 +195,9 @@ nlu:
     - How can broawn rust be controlled in wheat?
     - How can brown rust be controlled in wheat crop?
     - How to control brown rust in wheat crop?
+    - tell me the information regarding control of brown leaf in wheat
+    - how we can control the brown rust in wheat
+    - there is brown leaf in wheat crop how to control it
 
 # kernel smut
 - intent: faq-agri-wheat-b0/control-of-kernel-smut-in-wheat-crop
@@ -236,6 +213,9 @@ nlu:
     - ways to control kernel smut in wheat
     - wheat kernel smut control methods
     - kernel smut in wheat control measures
+    - what is the control of kernel smut in wheat
+    - how we can control the kernel smut in wheat
+    - what to do in order to control kernel smut in wheat ceop
 
 # black hopper
 - intent: faq-agri-wheat-b0/control-of-black-hopper-in-crop
@@ -250,6 +230,9 @@ nlu:
     - black hopper control in wheat
     - wheat black hopper control
     - methods to control black hopper in wheat
+    - what is information regarding control of black hopper from wheat
+    - tell me the to control the black hopper from wheat crop
+    - how are black hoppers controlled in wheat
 
 # flag smut
 - intent: faq-agri-wheat-b0/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat
@@ -263,6 +246,8 @@ nlu:
     - information regarding the control of flag smut in wheat
     - flag smut in wheat control
     - how do i control leaf smut in wheat
+    - tell me how to stop the flag smut from wheat
+    - how can i controll the flag smut or leaf smut in wheat
 
 # powdery mildew
 - intent: faq-agri-wheat-b0/how-to-control-of-powdery-mildew-in-wheat-crop
@@ -277,6 +262,8 @@ nlu:
     - powdery mildew of wheat
     - information regarding the control of powdery mildew in wheat
     - information regarding to powdery mildew in wheat crop
+    - can you please tell me how to control powdery mildew in wheat
+    - tell me the info regarding powdery mildew in wheat
 
 # tella
 - intent: faq-agri-wheat-b0/information-regarding-control-of-tella-in-wheat
@@ -291,6 +278,8 @@ nlu:
     - tella control in wheat crop
     - controlling tella in wheat fields
     - in wheat fields how to control tella
+    - how tella control in wheat
+    - what is information regarding control of tella in wheat
 
 # karnal bunt or karnel bunt or karnal bant
 - intent: faq-agri-wheat-b0/nformation-regarding-control-of-karnal-bunt-in-wheat
@@ -313,6 +302,8 @@ nlu:
     - information regarding control of karnal bunt
     - information regarding for karnal bunt
     - information regarding control of karnal bant in wheat crop
+    - what is the info regarding control of karnal bunt in wheat
+    - tell me how to control karnal bunt in wheat
 
 # cutworm
 - intent: faq-agri-wheat-b0/control-of-cutworm-in-wheat
@@ -327,6 +318,8 @@ nlu:
     - how are cut worms controlled in wheat crop
     - how to save wheat from cutworms
     - ways to kill cut worms in wheat fields
+    - tell me how we get rid of cutworm from wheat crop
+    - what is the information regarding control of cut worm in wheat
 
 # green hopper
 - intent: faq-agri-wheat-b0/control-of-green-hopper-in-wheat-crop
@@ -340,6 +333,8 @@ nlu:
     - how can i remove green hopper from my wheat field
     - killing green hopper in wheat
     - managing green hoppers in wheat crop
+    - what are the ways to get rid of green hopper in wheat
+    - tell mehow to control the green hopper in wheat
 
 # rat or mice
 - intent: faq-agri-wheat-b0/control-of-rats-in-wheat-field
@@ -365,6 +360,8 @@ nlu:
     - information regarding the control of rats in wheat
     - information regading control of mice in wheat
     - regarding mice in field
+    - what is the iformation regarding control of mice from whaet
+    - tell me how to get rid of rats from wheat field
 
 # leaf folder
 - intent: faq-agri-wheat-b0/control-of-leaf-folder-in-wheat-crop
@@ -378,6 +375,8 @@ nlu:
     - ways to control leaf folder wheat problem
     - tell me how to control the leaf folder problem in wheat
     - prevention of leaf folder problem in wheat
+    - how do we get rid of leaf fodder in wheat
+    - tell me the way to control the leaf fodder in wheat
     
 # leaf curl
 - intent: faq-agri-wheat-b0/information-regarding-control-of-leaf-curl-in-wheat
@@ -390,6 +389,8 @@ nlu:
     - leaf curl issue in wheat crop
     - solution to leaf curl problem in wheat
     - ways to control the leaf curl problem in wheat
+    - what are th ways to control the leaf curl from wheat
+    - how can i get rid from leaf curl from wheat
 
 # root rot
 - intent: faq-agri-wheat-b0/information-regarding-root-rot-of-wheat
@@ -406,6 +407,8 @@ nlu:
     - root rot in wheat
     - how to control root rot in wheat crop
     - information regarding root rot in wheat
+    - how we can eradicate the roor rot in wheat
+    - tell m ethe way to get rid of root rot in wheat
 
 # black rust
 - intent: faq-agri-wheat-b0/information-regarding-control-of-black-rust-in-wheat
@@ -419,6 +422,8 @@ nlu:
     - black rust control of wheat crop
     - how to control black rust in wheat crop
     - ways to control the black rust problem in wheat
+    - what is information regarding control of black rust in wheat
+    - how we can get rid of black rust in wheat
 
 # yellowing due to heavy irrigation
 - intent: faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-heavy-irrigation 
@@ -458,20 +463,6 @@ nlu:
      - yellowing of wheat crop leaves due to high irrigation
      - how to cure yellowing of leaves in wheat due to rainfall
 
-# --------------------------------------------------------------------------------------------------
-# Jan 10
-# seed treatment
-# - intent: faq-agri-wheat-b0/information-regarding-seed-treatment-in-wheat
-#   examples: |
-#     - regarding seed treatment of wheat seed
-#     - information regarding seed treatment in wheat
-#     - info regarding for the seed treatment in wheat crop
-#     - information regarding for the seed treatment of wheat 
-#     - info regarding seed treatment of wheat seed
-#     - information of seed treatment in wheat
-#     - seed treatment in wheat
-#     - how to do seed treatment of wheat 
-
 # rodent
 - intent: faq-agri-wheat-b0/information-regarding-control-of-rodent-in-wheat
   examples: |
@@ -505,19 +496,6 @@ nlu:
     - how can i protect wheat from top borer
     - please help me with protecting wheat from top borer attack
     - wheat protection from top borer attack
-
-# # urea
-# - intent: faq-agri-wheat-b0/information-regarding-the-urea-in-wheat-crop
-#   examples: |
-#     - information regarding for the total dose of urea in wheat
-#     - information regarding spray urea dose in wheat
-#     - information regarding the use of urea in wheat
-#     - regarding urea doze in wheat crop
-#     - info regarding urea spray in wheat
-#     - regarding urea dose in wheat
-#     - information regsarding for the total dose of urea
-#     - info of urea in wheat crop
-#     - information regading the urea broadcasting 
 
 # loose smut
 - intent: faq-agri-wheat-b0/information-regarding-control-of-loose-smut-in-wheat-crop
@@ -754,6 +732,7 @@ nlu:
     - info regarding the control of nematodes in wheat
     - control of nematode in wheat
     - how to control nematode in wheat crop
+    - information regarding nematodes in wheats crops
 
 # ballworm
 - intent: faq-agri-wheat-b0/information-regarding-about-ballworm-in-wheat-crop
@@ -804,6 +783,7 @@ nlu:
     - How is green sundi used in wheat?
     - purpose of green sundi in wheat?
     - What is the use of green sundi in wheat?
+    - what is the informatiion regarding green sundi in wheat
 
 # potash
 - intent: faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop

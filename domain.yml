@@ -148,8 +148,6 @@ responses:
       UREA WITH 1ST IRRIGATION AND THE REMAINING 35KG UREA WITH 2ND IRRIGATION .
   utter_faq-agri-wheat-b3/deficiency-manganese-sulphate-in-wheat:
   - text: 1kg masnese sulphate/100 litre water/acre.
-  utter_faq-agri-wheat-b3/foliar-spray-of-manganese-in-wheat:
-  - text: 1kg magnese sulphate/100 litre water/acre.
   utter_faq-agri-wheat-b3/information-regarding-biofertilizer-in-wheat:
   - text: inoculate one acre seed with 500 g of consortium biofertilizer and one litre
       of water on pucca floor. Let it dry in shade and sow immediately.
@@ -159,9 +157,6 @@ responses:
   utter_faq-agri-wheat-b3/information-regarding--management-of-alkali-soil:
   - text: For alkali soils conditions ,apply gypsum according to soil test.and dhaincha
       for green manuring is helpful.apply more urea than recommended
-  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-requirement-in-wheat-sown-with-happy-seeder:
-  - text: Total fertilizer dose used in Barseem is 22kg Urea, 185kg Superphosphate
-      per acre.
   utter_faq-agri-wheat-b3/urea-dose-at-sowing-time:
   - text: FERT. DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG
   utter_faq-agri-wheat-b3/information-regarding-application-of-manures:
@@ -184,8 +179,6 @@ responses:
   - text: SPRAY NPK-19:19:19 1KG PER ACRE
   utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-in-wheat-before-irrigation:
   - text: UREA-25KG+3KG SULPHUR 80%WDG.
-  utter_faq-agri-wheat-b3/information-regarding-the-batter-growth:
-  - text: spray npk @ 1kg in 100 liters of water / acre.
   utter_faq-agri-wheat-b3/information-requirement-of-wheat-crop:
   - text: "It grows best when temperatures are warm, from 70\xB0 to 75\xB0 F (21\xB0\
       \ to 24\xB0 C), but not too hot. Wheat also needs a lot of sunshine, especially\
@@ -200,31 +193,23 @@ responses:
   - text: SPRAY 160ML/100LITER /ACRE
   utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-sowing-of-wheat:
   - text: FERT.DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG.
-  utter_faq-agri-wheat-b3/information-regarding-the-foliar-application-of-urea:
-  - text: spray 1.5 kg urea mix in 120 liters of water / acre.
   utter_faq-agri-wheat-b3/information-regarding-suitable-time-of-1st-irrigation:
   - text: SUITABLE TIME OF 1ST IRRIGATION IS -AFTER-25 DAYS.
   utter_faq-agri-wheat-b3/information-regarding-nutrient-management-on-wheat:
   - text: spray 1 kg NPK 13:0:45 in 100-150 L of water per acre.
   utter_faq-agri-wheat-b3/information-regarding-broadcasting-of-urea-after-herbicide-spray:
-  - text: 7-8days after spary you can broadcasting urea fertilizer.
+  - text: 7-8 days after spary you can broadcasting urea fertilizer.
   utter_faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap:
   - text: NO RECOMMANDATION OF SUPERPHOSPHATE IN WHEAT. IF DAP IS NOT AVAILABLE THEN
       USE OF 150KG SUPER CAN BE DONE TO MEET THE REQUIERMENT OF 55KG DAP
   utter_faq-agri-wheat-b3/information-regarding-control-of-nitrogen-in-wheat:
   - text: SPRAY 3 KG UREA MIX IN 100 LITER WATER /ACRE.
   utter_faq-agri-wheat-b3/information-regarding-expiry-date-of-manganese-sulphate:
-  - text: 5YEARS AFTER MANUFACTURING DATE.
+  - text: 5 YEARS AFTER MANUFACTURING DATE.
   utter_faq-agri-wheat-b3/information-regarding-standing-water-in-wheat:
   - text: NO ANSWER
-  utter_faq-agri-wheat-b3/information-regarding-dose-of-leader-in-an-acre:
-  - text: for control of weeds in wheat, spray 160 gm topik (clodinafop 15 wp) or
-      13 gm leader (sulfosulfuron 75 wg) or 16 gm total (sulfosulfuron+metsulfuron
-      75 wg) in 100 litre water per acre after 30-35 days of sowing
   utter_faq-agri-wheat-b3/information-regarding-poultry-manure-in-soil-before-wheat-sowing:
   - text: apply 2.5 tonne per acre Poultry manure in soil before wheat sowing.
-  ? utter_faq-agri-wheat-b3/information-regarding-organic-gibberellic-acid-preparation-with-cow-dung-cakes-to-improve-the-growth
-  : - text: NO ANSWER
   utter_faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat:
   - text: urea can be applied 7-9 days after spraying weedicides for the better results
   utter_faq-agri-wheat-b1-pun/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat-?:
@@ -517,8 +502,6 @@ responses:
   - text: LAST WEEK OF OCTOBER TO LAST WEEK OF NOVEMBER.
   utter_faq-agri-wheat-b2/late-varieties-of-wheat:
   - text: LATE SOWING VARIETES OF WHEAT ARE PBW 509,PBW 590,PBW 373
-  utter_faq-agri-wheat-b2/information-regarding-suitable-varieties-of-wheat--its-seed-rate:
-  - text: SUITABLE VARIETIES OF WHEAT IS -PBW-550,HD-2967 & HD-2851 & ITS SEED RATE-40KG.
   utter_faq-agri-wheat-b2/information-about-suitable-varieties-for-running-season:
   - text: SUITABLE VARIETIES FOR RUNNING SEASON IS - PBW-550,HD-2967 & HD-2851.
   utter_faq-agri-wheat-b2/sowing-time-of-wheat-after-nov:
@@ -1224,8 +1207,6 @@ responses:
       blight.
   utter_faq-agri-wheat-b0/information-regarding-control-of-black-rust-in-wheat:
   - text: Damage by wheat rust may be minimized by spraying Zineb or Mencozeb 75 WP.
-  utter_faq-agri-wheat-b0/farmer-asks-about-the-yellow-smut-in-wheat:
-  - text: SPRAY THE TILT @ 200GM IN 200 T OF WATER/ACRE.
   utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-heavy-irrigation:
   - text: SPRAY UREA 3KG IN 100 LITRE WATER PER ACRE
   utter_faq-agri-wheat-b0/information-regarding-for-the-yellowing-of-new-leaves:
@@ -3286,6 +3267,7 @@ session_config:
 actions:
 - action_slot_setter
 - action_viz_faq
+- action_general
 entities:
 - intent_button
 slots:

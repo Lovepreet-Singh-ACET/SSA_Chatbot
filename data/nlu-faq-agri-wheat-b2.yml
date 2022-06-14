@@ -21,6 +21,9 @@ nlu:
     - What is the sowing period of wheat?
     - How long will sowing period of wheat be?
     - What was the sowing time of wheat?
+    - give information about sowing time of wheat
+    - wheat sowing time
+    - sowing wheat period
 
 # asking for sowing time of early wheat varieties
 - intent: faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties
@@ -38,6 +41,10 @@ nlu:
     - What is the sowing time of the early wheat?
     - How would you predict sowing time of early wheat? 
     - How can the time for sowing in early wheat be determined?
+    - what is the sowing time of early wheat
+    - early wheat sowing time ?
+    - sowing time early variety wheat
+    - what is the early wheat sowing time according to you?
 
 # asking about late wheat varieties
 - intent: faq-agri-wheat-b2/late-varieties-of-wheat
@@ -52,6 +59,8 @@ nlu:
     - What is the late variety of wheat?
     - What are late varieties of wheat?
     - What are some late varieties of wheat?
+    - tell me about some late varieties of wheat
+    - any information regarding the late varieties of wheat
 
 # about sowing time of wheat grown after november
 - intent: faq-agri-wheat-b2/sowing-time-of-wheat-after-nov
@@ -64,6 +73,7 @@ nlu:
     - How long should sowing for wheat be if it is not ready by nov?
     - When to sow wheat after november?
     - Can you provide sowing time of wheat after November?
+    - time for sowing the wheat after november
 
 # about sowing time of late varieties of wheat in sandy soils 
 - intent: faq-agri-wheat-b2/sowing-time-of-late-varieties-of-wheat-in-sandy-soils
@@ -81,4 +91,5 @@ nlu:
     - How is sowing time for late wheat in sandy soils?
     - How can we sow wheat late varieties on sandy soil?
     - Do late varieties of wheat grow in sandy soils?
-    - How long does wheat sow in sandy soil?
+    - late variety wheat sowing time
+    - late variety wheat sowing time when growing in sandy soil

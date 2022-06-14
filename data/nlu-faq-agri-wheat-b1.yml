@@ -12,6 +12,7 @@ nlu:
     - What is the best control for weeds from a vacant field before sowing wheat
     - How do I control weeds from the vacant field before sowing wheat
     - What is the correct way to control weeds from a vacant field before sowing wheat?
+    - how do i control weeds in vacant fields before showing wheat
 
 # pre-emergence stage weed control
 - intent: faq-agri-wheat-b1/information-regarding-control-of-weeds-in-pre-emergence-stage-in-wheat
@@ -24,21 +25,7 @@ nlu:
     - information regarding for the pre emergence control of weeds in wheat crop
     - information regarding weed control in wheat pre emergence
     - pre emergence of wheat weed control method
-  
-
-# herbicides used for pre-emergence
-# - intent: faq-agri-wheat-b1/information-regarding-the-pre-emergence-herbicides-used-in-the-wheat
-#   examples: |
-#     - information regarding the pre-emergence herbicides used in the wheat?
-#     - information of the pre-emergence herbicides used in the wheat?
-#     - pre-emergence herbicides used in the wheat ?
-#     - What is the information about pre-emergence herbicides used in the wheat?
-#     - information regarding the pre-emergence herbicides used in the wheat crop sown by happy seeder?
-#     - What are some pre-emergence herbicides used in wheat
-#     - How do pre-emergence herbicides be used in wheat?
-#     - How can I get information regarding the pre-emergence herbicide used in wheat?
-#     - What is the use of pre-emergence herbicides in wheat?
-
+    - how to control weeds in pre emergence stage
 
 # grassy leaf weeds after first irrigation
 - intent: faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation
@@ -48,6 +35,7 @@ nlu:
     - What is the procedure for controlling grassy leaf weeds in wheat after first irrigation?
     - How do I control grassy leaf weeds after first irrigation in wheat?
     - What are the best methods to control grassy leaf weeds in wheat after first irrigation?
+    - control of grassy leaf weeds in wheat after first irrigation
 
 # grassy leaf weeds before first irrigation
 - intent: faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation
@@ -60,6 +48,7 @@ nlu:
     - Is it appropriate to control grassy leaf weeds in wheat before first irrigation? 
     - What are the best ways to control grassy leaf weed in wheat before first irrigation?
     - Is it possible to control grassy leaf weeds in wheat before first irrigation?
+    - control of grassy leaf before first irrigation of wheat
 
 # broad leaf
 - intent: faq-agri-wheat-b1/how-to-control-of-broad-leaf-weed-in-wheat-crop
@@ -75,18 +64,7 @@ nlu:
     - What are the best ways to control broad leaf weed in wheat?
     - What is the possible way to control the broad leaf weed in wheat?
     - What are some strategies to control broad leaf weed in wheat?
-
-# broad leaf weed control before first irrigation
-# - intent: faq-agri-wheat-b1/information-regarding-the-control-of-broad-leaf-weeds-in-wheat-before-first-irrigation
-#   examples: |
-#     - information regarding the control of broad leaf weeds in wheat before first irrigation?
-#     - how we control of broad leaf weeds in wheat before first irrigation?
-#     - information regarding the control of grassy leaf weeds in wheat before first irrigation?
-#     - control of broad leaf weeds in wheat before first irrigation?
-#     - how we get rid of broad leaf weeds in wheat before first irrigation?
-#     - before first irrigation, how we get rid of broad leaf weed in wheat
-#     - How should I control weeds with broad leaf in wheat before first irrigation?
-#     - remove broad leaf weeds in wheat before first irrigation
+    - info regarding broad leaf weed control before first irrigation
 
 # phalaris minor or gulli danda
 - intent: faq-agri-wheat-b1/how-to-control-phalaris-minor-in-wheat-crop
@@ -101,6 +79,7 @@ nlu:
     - phalaris minor in wheat?
     - How can I control the phalaris minor in the wheat crop?
     - What is the best way to control the phalaris minor plant in wheat crops 
+    - how to control gulli danda in wheat crop
 
 # control of herbs
 - intent: faq-agri-wheat-b1/information-regarding-for-the-control-of-herbs-in-wheat-crop
@@ -112,6 +91,7 @@ nlu:
     - what we can do to control the herbs in wheat crop
     - What should be control for herb in wheat crop 
     - How should the herb control of wheat crop be done?
+    - how to control herbs in wheat field
 
 # narrow leaf weeds
 - intent: faq-agri-wheat-b1/information-regarding-control-of-narrow-leaf-weeds
@@ -123,6 +103,7 @@ nlu:
     - information regarding control of narrow leaf weeds in wheat?
     - How can I control leaf weeds from wheat fields?
     - What is the best way to control narrow leaf weeds in wheat?
+    - what should be done to control narrow leaf weeds
 
 # info regarding nozzle used in herbicide
 - intent: faq-agri-wheat-b1/information-regarding-nozzle-used-in-herbicide-in-wheat-crop
@@ -136,6 +117,7 @@ nlu:
     - What is the nozzle used to apply herbicide in wheat crop
     - Is there any herbicide nozzle used in wheat crops?
     - nozzle used for herbicide in wheat crop
+    - what type of nozzle is used to in herbicide spray
 
 # control of weed in non cropped area
 - intent: faq-agri-wheat-b1/information-regarding-control-of-weed-in-non-cropped-area
@@ -296,18 +278,6 @@ nlu:
     - how much glyphosate 41%sl we spray in wheat ?
     - what is the max quantity of glyphosate 41%sl for wheat crop ?
     - can you please tell me about glyphosate 41%sl for spray the wheat crop ?
-
-# time gap after fertilizer spray
-# - intent: faq-agri-wheat-b1/information-regarding-time-gap-of-fertilizer-application-after-spray-of-weedicide
-#   examples: |
-#     - information regarding time gap of fertilizer application after spray of weedicide ?
-#     - what is the time gap of fertilizer application after spray of weedicide ?
-#     - tell me the time gap of fertilizer application after spray of weedicide
-#     - could you please tell m ethe information regardig time gap of fertilizer application after spray of weedicide
-#     - after spray of weedicide tell me the time gap of fertilizer
-#     - Is there a time gap between fertilizer application and weedicide spray? 
-#     - What is the time gap for fertilizer application after weedicide spray?
-#     - How long is the time gap between fertilizer application and spray of weedicide?
 
 # trigonella polycerata
 - intent: faq-agri-wheat-b1/how-to-control-trigoneela-polycerata-in-wheat-crop
