@@ -1,0 +1,1394 @@
+version: "3.0"
+responses:
+  utter_faq-agri-wheat-b0-pun/info-regarding-yellowing-of-leaves-in-urea-deficiency:
+  - text: ਯੂਰੀਆ 2 ਸ਼ਾਮ ਦੇ ਸਮੇਂ 100 ਲੀਟਰ ਪਾਣੀ ਦੇ ਸਪਰੇਅ ਵਿਚ
+  utter_faq-agri-wheat-b5-pun/information-regarding-place-of-soil-test-?:
+  - text: ਕੋਈ ਉੱਤਰ ਨਹੀਂ
+  utter_faq-agri-rice-b0-pun/how-to-control-steam-borer-in-paddy-crop-?:
+  - text: ਝੋਨੇ (ਝੋਨਾ) ਦੀ ਫਸਲ ਵਿੱਚ ਚੌਲਾਂ ਦੀ ਪਰਾਲੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, PLS 5 ਕਿਲੋ ਕਾਰਟਾਪ ਹਾਈਡ੍ਰੋਕਲੋਰਾਈਡ (ਪੈਡਨ) ਜਾਂ 4 ਕਿਲੋ ਕਲੋਰੈਂਟਰਾਨਿਲੀਪ੍ਰੋਲ (ਫਾਰਟੇਰਾ) ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਲਾਗੂ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-which-spray--should-be-done-at-booting-stage-in-paddy-?:
+  - text: ਐਮੀਸਟਾਰ ਟੌਪ 200 ਮਿ.ਲੀ. ਅਤੇ ਨਟੀਵੋ 80 ਗ੍ਰਾਮ ਬੂਟਿੰਗ ਜਾਂ ਪੈਨਿਕਲ ਸ਼ੁਰੂਆਤੀ ਪੜਾਅ 'ਤੇ ਕੀਤੇ ਜਾ ਸਕਦੇ ਹਨ।
+  utter_faq-agri-wheat-b0-pun/control-of-leaf-folder-in-wheat-crop:
+  - text: ਸਪਰੇਅ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ 100 ਮਿ.ਲੀ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-leaf-curl-in-wheat:
+  - text: ਸਪਰੇਅ ਐਕਟਿਰਾ 70 ਗ੍ਰਾਮ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ
+  utter_faq-agri-wheat-b0-pun/farmer-asks-about-the-yellow-smut-in-wheat:
+  - text: TILT @ 200GM ਨੂੰ 200 T WATER / ACRE ਵਿੱਚ ਵਧਾਓ.
+  utter_faq-agri-wheat-b0-pun/info-regarding-the-yellowing-of-new-leaves:
+  - text: ਅਪ੍ਰੈਲ 50-100 ਕਿਲੋਗ੍ਰਾਮ ਜ਼ਿਪਸੁਮ / ਏਕੜ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-yellowing-of-leaves-in-wheat-crop-due-to-heavy-irrigation:
+  - text: ਸਪਰਾ 3 KG UREA 100 LITRE WATER PER ACRE ਵਿੱਚ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-rodent-in-wheat:
+  - text: ਚੂਹੇ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ 1 ਕਿਲੋਗ੍ਰਾਮ ਕਣਕ ਦਾ ਆਟਾ, 20 ਮਿ.ਲੀ. ਸਬਜ਼ੀ ਦਾ ਤੇਲ, 20 ਗ੍ਰਾਮ ਚੀਨੀ ਅਤੇ 25 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਫਾਸਫਾਈਡ ਦਾ ਮਿਸ਼ਰਣ ਬਣਾਉਂਦੇ ਹਨ ਫਿਰ ਖੇਤਾਂ ਵਿੱਚ ਛੇਕ ਦੇ ਨੇੜੇ ਰੱਖੋ.
+  utter_faq-agri-wheat-b0-pun/how-to-control-pink-caterpillar-in-wheat-crop:
+  - text: ਸਪਰੇਅ ਕੁਇਨੋਲੋਫੋਸ 25ec @ 800 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਵਿਚ.
+  utter_faq-agri-wheat-b0-pun/control-of-gram-caterpillar-in-whaet:
+  - text: ਸਪਰੇਅ ਕੁਇਨੋਲੋਫੋਸ 25ec @ 800 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਵਿਚ.
+  utter_faq-agri-wheat-b0-pun/control-of-leaf-cutting-caterpillar-in-wheat:
+  - text: ਸਪਰਾ 300ML ਕਲੋਰਪਾਈਰਿਪੋਸ 20 ਈਸੀ 100LT ਵਾਟਰ / ਏਸੀਆਰਈ ਵਿੱਚ.
+  utter_faq-agri-wheat-b0-pun/how-to-control-root-caterpillar-in-wheat-crop:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫੋਸ ਦਾ ਪ੍ਰਸਾਰਣ @ 15 ਕਿਲੋ ਸੁੱਕੀ ਰੇਤ / ਏਕੜ ਵਿਚ 1.5 ਲੀਟਰ .
+  utter_faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-hairy-caterpillar-wheat-crop:
+  - text: ਹੇਅਰ ਕੈਟਰਪਿਲਰ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਜਦੋਂ ਕਿ ਕ੍ਰੌਪ ਪੀਐਲਐਸ ਸਪਰੇਅ 800ML ਏਕਾਲਕਸ ਪਰ ਏਸੀਆਰ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-jassid-in-wheat:
+  - text: ਕਾਰਬਰੀਲ ਦਾ ਇੱਕ ਸਪਰੇਅ (ਸੇਵਿਨ 50 ਡਬਲਯੂ. ਪੀ.) @ 2.5 ਕਿਲੋਗ੍ਰਾਮ / ਹੈਕਟੇਅਰ 600-800 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਭੰਗ ਹੋ ਗਿਆ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-thrips-in-wheat-crop:
+  - text: ਕਨਫੀਡਰ @ 80-100 ਐਮਐਲ ਜਾਂ ਏਕਤਰ @ 80-100 ਗ੍ਰਾਮ ਨੂੰ 150 ਲੀਟਰ ਪਾਣੀ / ਏਸੀਆਰਈ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-head-blight-in-wheat:
+  - text: ਸਪਰੇਅ ਬਲਿਟੌਕਸ @ 500 ਗ੍ਰਾਮ ਮਿਸ਼ਰਣ 200 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿੱਚ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-telachepa-in-wheat:
+  - text: ਸਪਰੇਅ ਰੋਗੋਰ @ 250 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-red-beetle:
+  - text: ਵਾਧੇ ਦੇ ਸਪਰੇਅ ਐਨ ਪੀ ਕੇ 13:00:45 1 ਕਿਲੋਗ੍ਰਾਮ / ਏਕੜ ਲਈ 50-100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਸੇਵਿਨ / ਹੈਕਸਾਵਿਨ 50 ਡਬਲਯੂਪੀ (ਕਾਰਬੈਰਲ) ਦਾ ਸਪਰੇਅ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-shoot-borer-in-wheat-crop:
+  - text: ਏਪੀਪੀਐਲ 5 ਸੀਜੀ ਰੀਜੈਂਟ ਜਾਂ ਪੈਡਨ ਮਿਕਸ ਸੈਂਡਲੀ ਜਾਂ ਯੂਰੀਆ / ਏਕੜ ਦੇ ਨਾਲ
+  utter_faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-white-grub-in-wheat-crop:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫੋਸ 40 ਮਿ.ਲੀ. / 15 ਲੀਟਰ ਪਾਣੀ ਦੀ ਖਾਈ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-molya-disease-in-wheat:
+  - text: ਸਪਰੇਅ ਫਰਦਾਨ 3 ਜੀ @ 13 ਕਿਲੋਗ੍ਰਾਮ / ਏਕੜ.
+  utter_faq-agri-wheat-b0-pun/information-about-ballworm-control-in-wheat:
+  - text: ਸਪਰੇਅ ਏਕਾਲਕਸ 400 ਗ੍ਰਾਮ 200 ਲੀਟਰ ਪਾਣੀ / ਏਸਰ ਦੇ ਨਾਲ
+  utter_faq-agri-wheat-b0-pun/information-regarding-how-to-control-sundi-in-wheat-crop:
+  - text: ਈਕਾਲਕਸ 25 ਈਸੀ 800 ਐਮਐਲ 100 ਲਿਟਰ ਵਾਟਰ / ਏਸੀਆਰ
+  utter_faq-agri-wheat-b0-pun/how-to-control-amrican-sundi-in-wheat-crop:
+  - text: 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ @ 400 ਐਮਐਲ ਵਿਚ ਮੋਨੋਕਿਲ @ 400 ਐਮਐਲ ਦੀ ਸਪਰੇਅ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-gob-wali-sundi:
+  - text: ਮੋਨੋਕ੍ਰੋਟੋਫੌਸ 560 ਐਮਐਲ ਪਰ ਏਕੜ
+  utter_faq-agri-wheat-b0-pun/information-regarding-yellowing-of-leaves-due-to-potash-deficiency:
+  - text: ਸਪਰਾ ਐਨ ਪੀ ਕੇ 19:19:19 1 ਕੇਜੀ ਇਨ 100 ਲਿਟਰੇ ਵਾਟਰ ਪਰ ਏਕੜ
+  utter_faq-agri-wheat-b0-pun/information-regarding-how-to-control-black-mosquito-in-wheat:
+  - text: ਸਪਰੇਅ 150 ਮਿ.ਲੀ. ਰੋਗਰ ਜਾਂ ਮੈਟਾਸੀਸਟੌਕਸ 80-100 lt ਵਿੱਚ. ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ ਦਾ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-ddvp-remedy-spray-in-wheat:
+  - text: ddvp ਸਪਰੇਅ ਲਈ pau ਤੋਂ ਕੋਈ ਸਿਫਾਰਸ਼ ਨਹੀਂ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-white-leaves-in-wheat:
+  - text: ਸਪਰੇਅ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ 1 ਕਿਲੋਗ੍ਰਾਮ ਫੇਰਸ ਸਲਫੇਟ
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-hill-bunt-in-wheat:
+  - text: ਸਪਰਾ ਟਿਲਟ @ 200ML ਮਿਕਸ 200 ਲੀਟਰ ਵਾਟਰ / ਏਸੀਆਰ ਦੇ
+  utter_faq-agri-wheat-b0-pun/information-regarding-to-avoid-the-toxic-effect-of-overdose-fertilizer-spray:
+  - text: ਖਾਦ (ਡੀਏਪੀ) ਸਪਰੇਅ ਦੇ ਮਾੜੇ ਪ੍ਰਭਾਵਾਂ ਤੋਂ ਫਸਲਾਂ ਦੀ ਸਥਿਤੀ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਹਲਕੀ ਸਿੰਚਾਈ ਲਾਗੂ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-use-of-confidor-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਐਫਿਡ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 80-100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ 20 ਗ੍ਰਾਮ ਐਕਟਾਰਾ 25 ਡਬਲਯੂ ਜੀ (ਥਿਆਮੇਥੋਕਸਮ) ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-shootfly-in-wheat:
+  - text: ਸਪਰੇਅ ਈਕਲਕ @ 800 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 120 ਲੀਟਰ ਪਾਣੀ ਵਿਚ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-trichoderma:
+  - text: ਸਪਰਾ 2 ਗ੍ਰਾਮ 1 ਲਿਟਰੇ ਵਾਟਰ ਅਤੇ ਇਹ 6 ਮੋਲਰ ਖੇਤਰ ਵਿੱਚ ਮਹੀਨੇ ਦੇ ਲਈ ਫੀਲਡ ਵਿੱਚ ਸ਼ਾਮਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-hardiness-of-soil:
+  - text: ਏਪੀਲੀ ਸਲਫਰ @ 3 ਕੇਜੀ / ਏਸੀਆਰਈ. 2014
+  utter_faq-agri-wheat-b0-pun/information-regarding-atlantis-spray-in-wheat-crop:
+  - text: ਐਟਲਾਂਟਿਸ ਦਾ ਡੋਜ਼ਰ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ 160 ਗ੍ਰਾਮ ਹੈ
+  utter_faq-agri-wheat-b0-pun/protection-against-larvae-in-wheat:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ekalux 800 ਮਿ.ਲੀ.
+  utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-in-urea-deficiency:
+  - text: urea 2 kg in 100 liter water spray on evening time
+  utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-rainfall:
+  - text: SPRAY 3 KG UREA IN 100 LITRE WATER PER ACRE
+  utter_faq-agri-wheat-b0/how-to-control-pink-caterpillar-in-wheat-crop:
+  - text: spray quinolophos 25ec @ 800ml in 100 liters per acre.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-gram-caterpillar-in-wheat-crop:
+  - text: Spray 800 ml. Ekalux 25EC in 100 lt. of water per acre.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-leaf-cutting-caterpillar-in-wheat-crop:
+  - text: SPRAY 300ML CHLORPYRIPHOS 20EC IN 100LT WATER/ACRE.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-root-caterpillar-in-wheat-crop:
+  - text: broadcast of chloropyriphos @ 1.5 liter in 15 kg dry sand / acre .
+  utter_faq-agri-wheat-b0/information-regarding-control-of-american-caterpillar-in-wheat-crop:
+  - text: XYZ answer
+  utter_faq-agri-wheat-b0/information-regarding-control-of-hairy-caterpillar-in-wheat-crop:
+  - text: FOR THE CONTROL OF HAIRY CATERPILLAR WHEAT CROP PLS SPARY 800ML EKALUX PER ACER.
+  utter_faq-agri-wheat-b0/information-regarding-the-control-of-head-blight-in-wheat-crop:
+  - text: spray blitox @ 500gm mix in 200 liters of water / acre.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-telachepa-in-wheat-crop:
+  - text: spray rogor @ 250 gm in 100 litres of water per acre.
+  utter_faq-agri-wheat-b0/information-regarding-red-beetle-in-wheat-crop:
+  - text: Spray 75-150g of Sevin/Hexavin 50 WP (carbaryl) in 50-100 litres of water for growth spray npk 13:00:45 1kg /acre
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-shoot-borer-in-wheat-crop:
+  - text: APPLY 5 KG REGENT OR PADAN MIX WITH SANDY SOIL OR UREA /ACRE
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-white-grub-in-wheat-crop:
+  - text: Drenching of Chloropyriphos 40 ml / 15 lit of water.
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-molya-disease-in-wheat-crop:
+  - text: spray furadan 3g @ 13kg /acre.
+  utter_faq-agri-wheat-b0/information-regarding-about-ballworm-in-wheat-crop:
+  - text: spray ekalux 400gm with 200ltr water/acer
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-sundi-in-wheat-crop:
+  - text: EKALUX 25 EC 800 ML 100 LITER WATER /ACER
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-amrican-sundi-in-wheat-crop:
+  - text: SPRAY TO MONOCIL @ 400 ML IN 100 LITER OF WATER / ACRE
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-gob-wali-sundi-in-wheat-crop:
+  - text: MONOCROTOPHOS 560 ML PER ACRE
+  utter_faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop:
+  - text: SPRAY N P K 19 :19 :19 1 KG IN 100 LITRE WATER PER ACRE
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-black-mosquito-in-wheat-crop:
+  - text: Spray 150 ml. Rogor or Metasystox in 80-100 lt. of water per acre.
+  utter_faq-agri-wheat-b0/information-regarding-ddvp-remedy-spray-in-wheat-crop:
+  - text: no recommendation from pau for ddvp spray
+  utter_faq-agri-wheat-b0/information-regarding-for-the-white-leaves-in-wheat-crop:
+  - text: spray 1kg ferrous sulphate in 100 litre of water/acre
+  utter_faq-agri-wheat-b0/information-regarding-the-control-of-hill-bunt-in-wheat-crop:
+  - text: SPRAY TILT @ 200ML MIX IN 200 LITERS OF WATER / ACRE
+  utter_faq-agri-wheat-b0/information-regarding-the-overdose-of-fertilizer-spray:
+  - text: apply light irrigation to improve the condition of crop from negative effects of fertilizer(DAP) spray.
+  utter_faq-agri-wheat-b0/information-regarding-use-of-confidor-in-wheat-crop:
+  - text: For control of Aphid in wheat, spray 20 g Actara 25WG(thiamethoxam) in 80-100 liters of water per acre.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-shootfly-in-wheat-crop:
+  - text: spray EKLALAKH @ 800 ml in 120 litres of water per acre.
+  utter_faq-agri-wheat-b0/information-regarding-trichoderma-in-wheat-crop:
+  - text: SPRAY 2 GRAM IN 1 LITRE WATER AND IT SHOULD BE MAINTAIN IN THE FIELD FOR 6 MONTHS IN THE COOLER REGION
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-hardiness-of-soil:
+  - text: APPLY SULPHUR @ 3KG / ACRE. 2014
+  utter_faq-agri-wheat-b0/information-regarding-control-of-grasshopper-in-wheat-crop:
+  - text: XYZ answer
+  utter_faq-agri-wheat-b0/information-regarding-atlantis-spray-in-wheat-crop:
+  - text: doser of atlantis is 160 gm in 100 liter of water/acre
+  utter_faq-agri-wheat-b0/protection-against-larvae-in-wheat:
+  - text: apply ekalux 800 ml in 100 litre of water per acre
+  utter_faq-agri-wheat-b1-pun/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation-?:
+  - text: ਸਿੰਜੈਂਟਾ - TOPIK - [ਕਲੋਡੀਨਾਫੌਪ-ਪ੍ਰੋਪਾਰਜੀਲ] 0.75 - 1 ਗ੍ਰਾਮ/ਲੀਟਰ ਪਾਣੀ [ਜਾਂ 160 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ] ਵਿੱਚ 160-180 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਇੱਕ ਏਕੜ ਕਣਕ ਦੀ ਫ਼ਸਲ ਲਈ। ਵ੍ਹਿਪ ਸੁਪਰ - ਇੱਕ ਏਕੜ ਕਣਕ ਦੀ ਫ਼ਸਲ ਲਈ 100 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ 160-180 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪਾਓ।
+  ? utter_faq-agri-wheat-b1-pun/information-regarding-control-of-weeds-in-post--emergence-(before-1st-irrigation)-stage-in-wheat-?
+  : - text: ਕਣਕ ਦੇ ਉੱਗਣ ਤੋਂ ਬਾਅਦ (ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ) ਅਵਸਥਾ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ ਆਈਸੋਪ੍ਰੋਟ੍ਰੂਰੋਨ 75 ਡਬਲਯੂਪੀ 300-400 ਗ੍ਰਾਮ ਜਾਂ ਲੀਡਰ 75 ਡਬਲਯੂਜੀ (ਸਲਫੋਸਲਫੂਰੋਨ) 13 ਗ੍ਰਾਮ ਨੂੰ 150 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਸਪਰੇਅ ਕਰੋ।
+  ? utter_faq-agri-wheat-b1-pun/information-regarding-control-of-weeds-in-post--emergence-(after-1st-irrigation)-stage-in-wheat-?
+  : - text: ਉੱਗਣ ਤੋਂ ਬਾਅਦ (ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ) ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਕਣਕ ਵਿੱਚ ਟੋਪਿਕ 15 ਡਬਲਯੂਪੀ (ਕਲੋਡੀਨਾਫੌਪ) 160 ਗ੍ਰਾਮ, ਐਕਸੀਅਲ 5 ਈ ਸੀ (ਪਿਨੋਕਸੈਡਨ) 400 ਮਿ.ਲੀ., ਪਿਊਮਾ ਪਾਵਰ 10 ਈ ਸੀ (ਫੇਨੋਕਸਾਪਰੋਪ-ਪੀ-ਈਥਾਈਲ) 400 ਮਿ.ਲੀ. 153 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ 53 ਲਿਟਰ ਦਿਨ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-how-to-control-mixed-weeds-in-wheat?:
+  - text: ਸਪਰਾ (ਐਟਲਾਂਟਿਸ) 3.6 ਡਬਲਯੂਡੀਜੀ @ 160 ਜੀ ਐਮ 150 ਲੀਟਰ ਵਾਟਰ / ਏਸੀਆਰਈ ਵਿਚ.
+  utter_faq-agri-wheat-b1-pun/information-regaridng-dose-of-topik-in-an-acre?:
+  - text: 160GM 100LT ਵਾਟਰ / ਏਕੜ ਵਿੱਚ.
+  utter_faq-agri-wheat-b1-pun/information-regarding-glyphosate-41%sl?:
+  - text: ਫੀਡ ਕੰਟਰੋਲ ਲਈ ਗਲਾਈਫੋਸੇਟ 41% ਐਸ ਐਲ ਦੀ ਵਰਤੋਂ
+  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-after-1st-irrigation-stage-in-wheat:
+  - text: For control of weeds in Post-emergence (After 1st irrigation) stage in wheat spray Topik 15WP (clodinafop)160g ,Axial 5EC (pinoxaden) 400ml ,Puma Power 10EC (fenoxaprop-p-ethyl) 400ml in 150lt water 30-35days.
+  utter_faq-agri-wheat-b1/information-regarding-how-to-control-mixed-weeds-in-wheat:
+  - text: SPRAY (ATLANTIS)3.6 WDG @ 160GM IN 150 LTR OF WATER /ACRE.
+  utter_faq-agri-wheat-b1/information-regaridng-dose-of-topik-in-an-acre:
+  - text: 160GM IN 100LT WATER/ACRE.
+  utter_faq-agri-wheat-b1/information-regarding-glyphosate-41%SL:
+  - text: glyphosate 41 %SL USE FOR WEED CONTROL
+  utter_faq-agri-wheat-b5-pun/recommended-time-of-irrigation-of-wheat:
+  - text: ਬਿਜਾਈ ਤੋਂ ਬਾਅਦ ਸਿੰਚਾਈ ਦੇ ਅੰਤਰਾਲ ਦੀ ਸੰਖਿਆ (ਦਿਨਾਂ ਵਿੱਚ) ਪਹਿਲੀ ਸਿੰਚਾਈ 20-25 ਦਿਨ ਦੂਜੀ ਸਿੰਚਾਈ 40-45 ਦਿਨ ਤੀਜੀ ਸਿੰਚਾਈ 60-65 ਦਿਨ ਚੌਥੀ ਸਿੰਚਾਈ 80-85 ਦਿਨ 5ਵੀਂ ਸਿੰਚਾਈ ਦਿਨ-101515 ਦਿਨ 5ਵੀਂ-101515 ਦਿਨ
+  utter_faq-agri-wheat-b5-pun/information-regarding-waste-decomposer-?:
+  - text: ਵੇਸਟ ਡੀਕੰਪੋਜ਼ਰ ਨੂੰ ਐਮਾਜ਼ਾਨ ਸਾਈਟ 'ਤੇ ਆਨਲਾਈਨ ਖਰੀਦਿਆ ਜਾ ਸਕਦਾ ਹੈ
+  utter_faq-agri-wheat-b5-pun/information-regarding-calcium-deficiency-in-soil?:
+  - text: ਕਣਕ ਵਿੱਚ ਕੈਲਸ਼ੀਅਮ ਦੀ ਕਮੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ 0.5 ਕਿਲੋ ਕੈਲਸ਼ੀਅਮ ਨਾਈਟ੍ਰੇਟ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b5-pun/information-regarding-salt-content-in-soil?:
+  - text: ਜਿਪਸਮ 2-3 ਥੈਲੇ ਮਿੱਟੀ ਵਿੱਚ ਪਾਓ।
+  utter_faq-agri-wheat-b5-pun/information-regarding-use-of-neem-spray-as-insecticide?:
+  - text: 1 ਕਿਲੋ ਨਿੰਮ ਦੀਆਂ ਪੱਤੀਆਂ ਨੂੰ 5 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾ ਕੇ ਵਰਤੋ
+  utter_faq-agri-wheat-b5-pun/information-regarding-vertical-conveyor-reaper-?:
+  - text: ਵਰਟੀਕਲ ਕਨਵੇਅਰ ਰੀਪਰ ਮੁੱਖ ਤੌਰ 'ਤੇ ਕਣਕ ਅਤੇ ਚੌਲਾਂ ਦੀ ਕਟਾਈ ਦਾ ਕੰਮ ਕਰਦਾ ਹੈ।
+  utter_faq-agri-wheat-b5/information-regarding-waste-decomposer:
+  - text: WASTE DECOMPOSER CAN BE BOUGHT ONLINE ON AMAZON SITE
+  utter_faq-agri-wheat-b5/information-regarding-calcium-deficiency-in-soil:
+  - text: For control of Calcium deficiency in wheat spray 0.5 kg calcium nitrate in 100 liters of water per acre.
+  utter_faq-agri-wheat-b5/information-regarding-salt-content-in-soil:
+  - text: apply gypsum 2-3 bags in soil.
+  utter_faq-agri-wheat-b5/information-regarding-use-of-neem-spray-as-insecticide:
+  - text: use 1 kg of neem leaves mixed in 5 liter of water
+  utter_faq-agri-wheat-b5/information-regarding-vertical-conveyor-reaper:
+  - text: vertical conveyor reaper mainly worker on wheat and rice cutting.
+  utter_faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop:
+  - text: dummy answer2 for horticulture.
+  utter_faq-agri-wheat-b0-pun/regarding-yellowing-of-plants-of-wheat-due-to-heavy-irrigation:
+  - text: ਸਪਰਾ ਯੂਰੀਆ 3 ਕੇਜੀ ਇਨ 100 ਲਿਟਰ ਵਾਟਰ ਪਰ ਏਕੜ
+  utter_faq-agri-wheat-b0/information-regarding-for-the-yellowing-of-new-leaves:
+  - text: APPLY 50-100KG ZYPSUM/ACRE.
+  utter_faq-agri-wheat-b1-pun/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-tellering-stage?:
+  - text: ਦੱਸਣ ਵਾਲੇ ਪੜਾਅ ਦੇ ਸਪਰੇਅ ਐਨ ਪੀ ਕੇ 19:19:19 120 ਐਲ ਟੀ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਵਰਤਿਆ ਜਾਂਦਾ ਵਾਧਾ ਰੈਗੂਲੇਟਰ.
+  utter_faq-agri-wheat-b1/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-tellering-stage:
+  - text: Growth regulator used in wheat crop at time of tellering stage spray N:P:K 19:19:19 1kg in 120lt water per acre.
+  utter_faq-agri-wheat-b4/dose-of-chlorpyriphos-for-seed-treatment:
+  - text: 4ml dose is recomended for per kg seed.
+  ? utter_faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation
+  : - text: Scrap away surface litter and make a V-shaped cut with a khurpa to a depth of 6 inches. Remove about 1” thick uniform slice of soil from one side of the cut. Similarly, collect samples from 7 to 8 places in the field of uniform texture and uniform fertility. Put the samples in a clean bucket and mix it thoroughly. Take approximately half kg of soil in a cloth bag.
+  utter_faq-agri-rice-b0-pun/information-regarding-to-boron-deficiency-in-paddy-?:
+  - text: ਝੋਨੇ ਦੇ ਸਪਰੇਅ 200 ਗ੍ਰਾਮ ਬੋਰੈਕਸ (ਸੋਡੀਅਮ ਬੋਰੇਟ) ਵਿਚ ਬੋਰਨ ਦੀ ਘਾਟ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ.
+  utter_faq-agri-rice-b4-pun/information-regarding-the-how-to-remove-the-water-from-paddy-field-?:
+  - text: ਖੇਤ ਵਿੱਚੋਂ ਪਾਣੀ ਨੂੰ ਹੱਥੀਂ ਕੱਢੋ ਜੇਕਰ ਫ਼ਸਲ ਨੂੰ ਪਾਣੀ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਡੁਬੋਇਆ ਜਾਵੇ ਤਾਂ ਇਹ ਫ਼ਸਲ ਨੂੰ ਨੁਕਸਾਨ ਪਹੁੰਚਾਉਂਦਾ ਹੈ।
+  utter_faq-agri-wheat-b0-pun/tell-me-control-top-borer-in-sugarcane:
+  - text: ਏਕਲਕਸ <ਟੀਏਜੀ 1> ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ ਲਾਗੂ ਕਰੋ
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-loose-smut-in-wheat:
+  - text: 40 ਕਿਲੋ ਬੀਜ ਦਾ ਇਲਾਜ 13 ਮਿ.ਲੀ. ਰੈਕਸਿਲ ਈਜ਼ੀ/ਓਰੀਅਸ <ਟੀਏਜੀ 1> ਐਫਐਸ 400 ਮਿ.ਲੀ. ਪਾਣੀ ਜਾਂ 120 ਗ੍ਰਾਮ ਵਿਟਾਵੈਕਸ ਪਾ powderਡਰ 75 ਡਬਲਯੂਐਸ ਜਾਂ 80 ਜੀ ਵਿਟਾਵੈਕਸ 75 ਡਬਲਯੂਪੀ ਜਾਂ 40 ਗ੍ਰਾਮ ਬੀਜ @ ਡੀਐਸ/ ਐਕਸਜ਼ੋਲ <ਟੀਏਜੀ 1> ਡੀਐਸ ਜਾਂ 80 ਮਿ.ਲੀ. ਨਿਓਨਿਕਸ 20 ਐਫਐਸ ਪ੍ਰਤੀ 40 ਕਿਲੋ ਬੀਜ
+  utter_faq-agri-wheat-b0-pun/information-regarding-spray-for-plant-hopper:
+  - text: ਈਕਾਲਕਸ 0.5 ਲੀਟਰ ਵਾਟਰ ਪਰ ਏਕੜ ਦੇ 150 ਲੀਟਰ ਵਿਚ
+  utter_faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-heavy-irrigation:
+  - text: SPRAY UREA 3KG IN 100 LITRE WATER PER ACRE
+  utter_faq-agri-wheat-b0/information-regarding-control-of-rodent-in-wheat:
+  - text: to control rodents make mixture of 1 kg wheat flour , 20 ml vegetable oil , 20 gm sugar and 25 gm zinc phosphide then place near holes in fields.
+  utter_faq-agri-wheat-b0/information-regarding-the-control-of-jassid-in-wheat:
+  - text: A spray of Carbaryl (Sevin 50 w.p.) @ 2.5 kg/ha dissolved in 600-800 litres of water.
+  utter_faq-agri-wheat-b0/information-regarding-spray-for-plant-hopper:
+  - text: EKALUX 0.5 LITRE IN 150 LITRE OF WATER PER ACRE
+  utter_faq-agri-wheat-b0/information-regarding-control-of-thirips-in-wheat-crop:
+  - text: SPRAY TO CONFIDOR @ 80-100 ML OR EKTARA @ 80-100 GRAM IN 150 LITER OF WATER / ACRE.
+  utter_faq-agri-wheat-b1-pun/information-regarding-the-salt-of-sagun-21-11?:
+  - text: ਸਾਗਨ ਦੀ ਸਾਲਟ 21-11 ਕੋਲੋਕਿਨਫੌਪ ਅਤੇ ਮੈਟ੍ਰਿਬੂਜਿਨ
+  utter_faq-agri-wheat-b1-pun/how-to-control-melilotus-indica-in-wheat-crop?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਐਲਗ੍ਰਿਪ 10 ਗ੍ਰਾਮ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation:
+  - text: Syngenta - TOPIK – [clodinafop-propargyl ] at 0.75 – 1 gm/L of water [or 160 gm per acre ] in160- 180 litres of water for one acre of wheat crop. Whip Super – [Fenoxaprop-p-ethyl 9.3 %] 100 mL per acre in 160- 180 litres of water for one acre of wheat crop.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-before-1st-irrigation-stage-in-wheat:
+  - text: For control of weeds in Post-emergence (Before 1st irrigation) stage in wheat spray Isoprotruron 75WP 300-400g or Leader 75WG (sulfosulfuron) 13g in 150 lt water per acre.
+  utter_faq-agri-wheat-b1/information-regarding-the-salt-of-sagun-21-11:
+  - text: SALT OF SAGUN 21-11 IS KLOCINAFOP AND METRIBUZJIN
+  utter_faq-agri-wheat-b1/how-to-control-melilotus-indica-in-wheat-crop:
+  - text: spray allgrip 10g in 100 liters water per acre.
+  utter_faq-agri-wheat-b3-pun/dose-of-mop-in-wheat?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ ਲਈ 20 ਕਿਲੋ ਐਮ.ਓ.ਪੀ.
+  utter_faq-agri-wheat-b4-pun/dose-of-chlorpyriphos-for-seed-treatment?:
+  - text: ਪ੍ਰਤੀ ਕਿਲੋ ਬੀਜ ਲਈ 4 ਮਿ.ਲੀ. ਖੁਰਾਕ ਦੁਬਾਰਾ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ.
+  ? utter_faq-agri-wheat-b5-pun/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation?
+  : - text: ਸਤਹੀ ਕੂੜਾ ਕੱਢ ਦਿਓ ਅਤੇ ਖੁਰਪਾ ਨਾਲ 6 ਇੰਚ ਦੀ ਡੂੰਘਾਈ ਤੱਕ V-ਆਕਾਰ ਦਾ ਕੱਟ ਬਣਾਓ। ਕੱਟ ਦੇ ਇੱਕ ਪਾਸੇ ਤੋਂ ਮਿੱਟੀ ਦਾ ਲਗਭਗ 1” ਮੋਟਾ ਇਕਸਾਰ ਟੁਕੜਾ ਹਟਾਓ। ਇਸੇ ਤਰ੍ਹਾਂ ਇਕਸਾਰ ਬਣਤਰ ਅਤੇ ਇਕਸਾਰ ਉਪਜਾਊ ਸ਼ਕਤੀ ਦੇ ਖੇਤਰ ਵਿਚ 7 ਤੋਂ 8 ਥਾਵਾਂ ਤੋਂ ਨਮੂਨੇ ਇਕੱਠੇ ਕਰੋ। ਨਮੂਨਿਆਂ ਨੂੰ ਇੱਕ ਸਾਫ਼ ਬਾਲਟੀ ਵਿੱਚ ਪਾਓ ਅਤੇ ਇਸ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਮਿਲਾਓ। ਇੱਕ ਕੱਪੜੇ ਦੇ ਥੈਲੇ ਵਿੱਚ ਲਗਭਗ ਅੱਧਾ ਕਿਲੋ ਮਿੱਟੀ ਲਓ।
+  utter_faq-agri-wheat-b5-pun/regarding-depth-of-seed-sown-of-wheat:
+  - text: ਕਣਕ ਵਿੱਚ ਮਿੱਟੀ ਵਿੱਚ ਬੀਜ ਦੀ 4-6 ਸੈਂਟੀਮੀਟਰ ਡੂੰਘਾਈ।
+  utter_faq-agri-wheat-b5/recommended-time-of-irrigation-of-wheat:
+  - text: NUMBER OF IRRIGATIONS INTERVAL AFTER SOWING (IN DAYS) 1st irrigation 20-25 days 2nd irrigation 40-45 days 3rd irrigation 60-65 days 4th irrigation 80-85 days 5th irrigation 100-105 days 6th irrigation 115-120 days
+  utter_faq-agri-wheat-b5/information-regarding-place-of-soil-test:
+  - text: no answer
+  utter_faq-agri-wheat-b5/regarding-depth-of-seed-sown-of-wheat:
+  - text: 4-6 cm depth of seed in soil in wheat.
+  utter_faq-agri-rice-b0-pun/how-to-control-of-plant-hoper-in-paddy-crop?:
+  - text: 120 ਗ੍ਰਾਮ ਸ਼ਤਰੰਜ 50 ਡਬਲਯੂਜੀ (ਪਾਈਮੇਟ੍ਰੋਜ਼ੀਨ) ਜਾਂ 40 ਮਿਲੀਲੀਟਰ ਕੌਨਫੀਡੋਰ 200 ਐਸਐਲ/ਕਰੋਕੋਡਾਈਲ 17.8 ਐਸਐਲ (ਇਮੀਡਾਕਲੋਪ੍ਰਿਡ) ਜਾਂ 800 ਮਿਲੀਲੀਟਰ ਏਕਲਕਸ/ਕੁਇਨਗਾਰਡ/ਕੁਇਨਲਮਾਸ 25 ਈਸੀ) ਪ੍ਰਤੀ ਕੁਇੰਟਲ 10 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰਕੇ ਬੂਟਿਆਂ ਦੀ ਰੋਕਥਾਮ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।
+  utter_faq-agri-rice-b1-pun/information-regarding-drainage-problem-in-paddy-feild?:
+  - text: ਰੇਤ ਦੇ ਨਾਲ ਪ੍ਰਤੀ ਏਕੜ ਮਿਸ਼ਰਣ ਪ੍ਰਤੀ ਸਲਫਰ 80% 4 ਕਿਲੋਗ੍ਰਾਮ
+  utter_faq-agri-rice-b3-pun/information-regarding-cultural-practices-in-paddy-before-burrying-of-dhaincha?:
+  - text: ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਇਕ ਦਿਨ ਪਹਿਲਾਂ ਝੋਨੇ ਦੇ ਖੰਭ ਵਿਚ ਧਨੇ ਨੂੰ ਦਫਨਾਓ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-tella-in-wheat:
+  - text: ਮੈਂ 100 ਐਲ ਟੀ ਆਰ ਵਾਟਰ / ਏਸੀਆਰਈ ਵਿਚ ਸਪਰਾ ਮੋਨੋਕ੍ਰੋਟੋਪਸ @ 200 ਐਮਐਲ ਨੂੰ ਦੱਸਿਆ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop:
+  - text: ਸਪਰੇਅ ਏਕਲਕਸ 25 ਈ ਸੀ (ਕੁਆਇਨਲਫੋਸ) @ 800 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ.
+  utter_faq-agri-wheat-b0/information-regarding-dose-of-npk:
+  - text: the dose for npk 19:19 :19 in wheat is 1 kg in 100 litre water
+  - text: spray NPK ( 19:19:19) 1 kg in 100 litres of water per acre
+  utter_faq-agri-wheat-b1-pun/information-regarding-for-the-control-of-herbs-in-wheat-crop?:
+  - text: ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਜੜੀ ਬੂਟੀਆਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, 160 ਗ੍ਰਾਮ ਟੋਪਿਕ 20 ਗ੍ਰਾਮ ਐਫੀਨਿਟੀ/ਏਕੜ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b1/information-regarding-post-emergence-weed-control-in-wheat:
+  - text: FOR CONTROL OF WEEDS IN WHEAT, SPRAY 160 GM TOPIK (CLODINAFOP) OR 13 GM LEADER (SULFOSULFURON) OR 400 ML AXIAL (PINOXADEN) IN 100-120 LITRE WATER ER ACRE.
+  utter_faq-agri-wheat-b3-pun/how-many-spray-of-manganese-are-required-in-the-wheat-crop-?:
+  - text: 1ਲੀ ਛਿੜਕਾਅ 1ਲੀ ਸਿੰਚਾਈ ਤੋਂ 2-4 ਦਿਨ ਪਹਿਲਾਂ ਅਤੇ 3 ਸਪਰੇਅ ਹਫਤਾਵਾਰੀ ਅੰਤਰਾਲਾਂ ਤੋਂ ਬਾਅਦ ਕਰੋ।
+  utter_faq-agri-wheat-b4-pun/tell-me-about-seed-treatment-for-termite-protection:
+  - text: ਕਲੋਰੋਪਾਈਰੀਫੋਜ਼ 20 ਈ.ਸੀ. 4 m.l. ਜਾਂ ਰੀਜੈਂਟ 5% 6 m.l. / ਕਿਲੋਗ੍ਰਾਮ ਬੀਜ
+  utter_faq-agri-wheat-b4/information-regarding-to-the-seed-treatment-of-wheat:
+  - text: TREAT THE SEED OF WHEAT WITH RAXIL @ 1GM/KG OR WITH BAVISTIN @ 2.5 GM/KG.
+  utter_faq-agri-rice-b0-pun/how-to-control-thirips-in-paddy-crop-?:
+  - text: 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਐਸੀਫੇਟ 250 ਗ੍ਰਾਮ ਜਾਂ ਐਕਟਰਾ 40 ਮਿਲੀਲੀਟਰ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਪਾਓ।
+  utter_faq-agri-rice-b0-pun/how-to-control-bacterial-blight-disease-in-basmati-rice?:
+  - text: ਜਾਂ ਝੋਨੇ ਵਿੱਚ ਬੈਕਟੀਰੀਆ ਦੇ ਬਲਾਈਟ ਨੂੰ ਨਿਯੰਤ੍ਰਿਤ ਕਰਨ ਲਈ 500 ਗ੍ਰਾਮ ਬਲਿਟੌਕਸ (ਕਾਪਰ ਆਕਸਾਈਕਲੋਰਾਈਡ) ਅਤੇ 20 ਗ੍ਰਾਮ ਐਗਰੀਮਾਈਸਿਨ ਜਾਂ 3 ਗ੍ਰਾਮ ਸਟ੍ਰੈਪਟੋਸਾਈਕਲੀਨ ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-rice-b1-pun/information-regarding-the-role-of-regent-in-paddy?:
+  - text: ਇਹ ਇਕ ਕੀਟਨਾਸ਼ਕ ਹੈ ਜੋ ਪੌਦਿਆਂ ਵਿਚ ਵਾਧੇ ਨੂੰ ਉਤਸ਼ਾਹਤ ਨਹੀਂ ਕਰਦਾ
+  utter_faq-agri-rice-b2-pun/sowing-season-of-basmati?:
+  - text: ਬਾਸਮਤੀ ਦਾ ਬਿਜਾਈ ਦਾ ਮੌਸਮ ਪਹਿਲੇ ਜੁਲਾਈ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ.
+  ? utter_faq-agri-rice-b3-pun/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown-?
+  : - text: ਹਾਂ, ਤੁਸੀਂ ਕਰ ਸਕਦੇ ਹੋ
+  utter_faq-agri-wheat-b0-pun/control-of-black-hopper-in-crop:
+  - text: ਸਪਰਾ ਮੋਨੋਕਿਲ @ 10 ਜੀ.ਐੱਮ. 100 ਲੀਟਰ ਵਾਟਰ ਪਰ ਏਕੜ ਦੇ.
+  utter_faq-agri-wheat-b0-pun/control-of-green-hopper-in-wheat-crop.:
+  - text: ਸਪਰਾ ਰੋਜਰ @ 200 ਐਮਐਲ 100 ਲੀਟਰ ਵਾਟਰ ਪਰ ਏਕੜ ਦੇ 100 ਲੀਟਰ ਵਿੱਚ.
+  utter_faq-agri-wheat-b0-pun/dose-of-npk-for-wheat:
+  - text: ਕਣਕ ਵਿਚ ਐਨ ਪੀ ਕੇ 19:19:19 ਦੀ ਖੁਰਾਕ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ 1 ਕਿਲੋਗ੍ਰਾਮ ਹੈ
+  utter_faq-agri-wheat-b0/information-regarding-for-the-control-of-top-borer:
+  - text: apply akalux  2 ml per litre water
+  utter_faq-agri-wheat-b1-pun/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat-?:
+  - text: ਕਣਕ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ 1.5 ਲੀਟਰ ਸਟੌਪ 30 ਈਸੀ (ਪੈਂਡਾਮੇਥਾਲਿਨ) ਜਾਂ 60 ਗ੍ਰਾਮ ਆਵਕੀਰਾ 85 ਡਬਲਯੂਜੀ (ਪਾਇਰੋਕਸਾਸਲਫੋਨ) ਜਾਂ 1 ਲੀਟਰ ਪਲੇਟਫਾਰਮ 38.5 ਐਸਈ (ਪੈਂਡੀਮੇਥਾਲਿਨ 35% ਮੀਟਰਿਬਿਊਜ਼ਿਨ) ਪ੍ਰਤੀ 320 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ। ਕਣਕ ਦੀ ਬਿਜਾਈ ਤੋਂ 2 ਦਿਨਾਂ ਦੇ ਅੰਦਰ।
+  utter_faq-agri-wheat-b1-pun/tell-me-the-way-to-control-the-narrow-leaf-weeds?:
+  - text: 150 ਲਿਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 160HGM ਟੋਪਿਕ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-post-emergence-weed-control-in-wheat:
+  - text: ਕਣਕ ਵਿੱਚ ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, 160 ਗ੍ਰਾਮ ਟੋਪਿਕ (ਕਲੋਡੀਨਾਫੌਪ) ਜਾਂ 13 ਗ੍ਰਾਮ ਲੀਡਰ (ਸਲਫੋਸਲਫਰੋਨ) ਜਾਂ 400 ਐਮ.ਐਲ. ਐਕਸੀਅਲ (ਪਿਨੋਕਸਡੇਨ) ਨੂੰ 100-120 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b1/how-to-control-medicago-denticulata-in-wheat-crop:
+  - text: spray allgrip 10g in 100liters water per acre.
+  utter_faq-agri-wheat-b3/farmer-asks-about-the-dose-of-mop-in-wheat:
+  - text: 20kg mop is required for per acre.
+  utter_faq-agri-wheat-b4-pun/information-regarding-to-the-seed-treatment-of-wheat-?:
+  - text: ਰੈਕਿਲ @ 1 ਜੀ.ਐੱਮ. / ਕੇ.ਜੀ. ਜਾਂ ਬਾਵਿਸਟੀਨ @ 2.5 ਜੀ.ਐੱਮ. / ਕੇ.ਜੀ. ਨਾਲ ਚਿੱਟੇ ਦੀ ਬੀਜ ਨੂੰ ਬਣਾਓ.
+  utter_faq-agri-wheat-b4-pun/information-regarding-dose-of-raxil-for-wheat-seed-treatment?:
+  - text: ਰੈਕਿਲ ਡੌਸ -1 ਜੀ.ਐੱਮ. / ਕੇ.ਜੀ.
+  utter_faq-agri-wheat-b4/tell-me-about-seed-treatment-for-termite-protection:
+  - text: chloropyriphose 20 e.c. 4 m.l. or regent 5% 6 m.l./kg seed
+  utter_faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop:
+  - text: dummy answer for horticulture.
+  utter_faq-agri-rice-b1-pun/information-regading-control-of-rats-in-paddy-feild-?:
+  - text: 1 ਕਿਲੋ ਕਣਕ ਜਾਂ ਬਾਜਰਾ , 20 ਗ੍ਰਾਮ ਬਾਸਮਤੀ ਦਾ ਤੇਲ , 20 ਗ੍ਰਾਮ ਪਾਊਡਰ ਚੀਨੀ , 25 ਗ੍ਰਾਮ ਜ਼ਿੰਕ ਫਾਸਫਾਈਡ ਇਨ੍ਹਾਂ ਸਾਰਿਆਂ ਨੂੰ ਮਿਲਾ ਕੇ 10 ਗ੍ਰਾਮ ਦੀਆਂ 100 ਗੇਂਦਾਂ ਬਣਾ ਲਓ .40 ਗੇਂਦਾਂ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਪ੍ਰਸਾਰਿਤ ਕਰੋ .
+  utter_faq-agri-rice-b1/information-regarding-the-role-of-regent-in-paddy:
+  - text: it is a insectiside it do not promote growth among plants
+  utter_faq-agri-rice-b3-pun/information-regarding-application-of-oil-cakes-in-paddy-?:
+  - text: ਤੇਲ ਦੇ ਕੇਕ ਦੀ ਵਰਤੋਂ ਦੀ ਸਿਫਾਰਸ਼ ਪੀਏਯੂ ਦੁਆਰਾ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ
+  utter_faq-agri-rice-b3/information-regarding--cultural-practices-in-paddy-before-burrying-of-dhaincha:
+  - text: burry the dhaincha in paddy feild one day before transplanting
+  utter_faq-agri-rice-b3/information-regarding-land-preparation--for-paddy-transplanting-field:
+  - text: Use laser land leveler for precision land leveling before puddling to enhance the efficiency of water and other farm inputs. Repair all bunds. Obtain a fine well levelled puddled field to reduce water loss through percolation, to maintain good seedling vigour and to control weeds.
+  utter_faq-agri-rice-b4-pun/information-regarding-to-improve-the-drainage-of-water?:
+  - text: ਮਿੱਟੀ ਦਾ ਟੈਸਟ ਲਓ, ਮਿੱਟੀ ਦੇ ਨਿਕਾਸ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਦੇ ਅਨੁਸਾਰ ਖਾਦ ਲਗਾਓ.
+  utter_faq-agri-wheat-b0-pun/control-of-cutworm-in-wheat:
+  - text: ਕਲੋਰਪਾਈਰੀਫੋਸ ਨਾਲ ਮਿੱਟੀ ਦਾ ਇਲਾਜ ਕਰੋ ਜਿਵੇਂ ਕਿ. ਡੁੱਬਣ ਤੋਂ ਪਹਿਲਾਂ 10% ਜੀ @ 20 ਕਿਲੋ / ਹੈਕਟੇਅਰ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-black-rust-in-wheat.:
+  - text: ਕਣਕ ਦੇ ਜੰਗਾਲ ਦੁਆਰਾ ਹੋਏ ਨੁਕਸਾਨ ਨੂੰ ਜ਼ੀਨੇਬ ਜਾਂ ਮੇਨਕੋਜ਼ੇਬ 75 ਡਬਲਯੂਪੀ ਦਾ ਛਿੜਕਾਅ ਕਰਕੇ ਘੱਟ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-loose-smut-in-wheat-crop:
+  - text: Treat 40 kg seed with 13 ml Raxil Easy/Orius 6 FS by dissolving in 400 ml water or 120 g vitavax powder 75 WS or 80 g vitavax 75 WP or 40 g seedex @ DS/ Exzole 2 DS or 80 ml of Neonix 20 FS per40 kg seed
+  utter_faq-agri-wheat-b1-pun/information-regarding-how-to-control-weeds-at-sowing-time-(pre-emergence)-in-wheat?:
+  - text: ਬਿਜਾਈ ਤੋਂ 0-3 ਦਿਨਾਂ ਬਾਅਦ ਇੱਕ ਏਕੜ ਕਣਕ ਦੀ ਫ਼ਸਲ ਲਈ ਪੂਰਵ-ਉਭਰਦੇ ਨਦੀਨਨਾਸ਼ਕ ਪੈਂਡੀਮੇਥਾਲਿਨ 8 - 8.5 ਮਿਲੀਲਿਟਰ/ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ 160-180 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਦਿਓ। ਪੇਂਡੀਮੇਥਾਲਿਨ ਕਣਕ ਦੇ ਈਕੋ ਸਿਸਟਮ 'ਤੇ ਘਾਹ ਅਤੇ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਨੂੰ ਕੰਟਰੋਲ ਕਰਦੀ ਹੈ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation?:
+  - text: ਕਣਕ ਵਿੱਚ ਘਾਹ ਵਾਲੇ ਪੱਤਿਆਂ ਵਾਲੇ ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਆਈਸੋਪ੍ਰੋਟੋਰੋਨ 75 ਡਬਲਯੂਪੀ (ਹਲਕੀ ਮਿੱਟੀ ਲਈ 300 ਗ੍ਰਾਮ, ਦਰਮਿਆਨੀ ਮਿੱਟੀ ਵਿੱਚ 400 ਗ੍ਰਾਮ ਅਤੇ ਭਾਰੀ ਮਿੱਟੀ ਵਿੱਚ 500 ਗ੍ਰਾਮ) ਜਾਂ 13 ਗ੍ਰਾਮ ਲੀਡਰ/ਐਸਐਫ-10/ਸੈਫਲ/ਮਾਰਕਸਲਫੋ 75 ਡਬਲਯੂਜੀ (ਸਲਫਿਊਰੋਨ 500) ਇਨਫਲੋਸ 13 ਗ੍ਰਾਮ ਸਪਰੇਅ ਕਰੋ। ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ 2-3 ਦਿਨ ਪਹਿਲਾਂ ਪਾਓ।
+  utter_faq-agri-wheat-b1-pun/procedure-to-control-the-medicago-denticulata-in-wheat-crop?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਐਲਗ੍ਰਿਪ 10 ਗ੍ਰਾਮ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b1-pun/how-to-control-malva-neglecta-in-wheat-crop?:
+  - text: ਸਪਰੇਅ ਦਾ ਟੀਚਾ 40df @ 20g ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ.
+  utter_faq-agri-wheat-b1/information-regarding-for-the-control-of-herbs-in-wheat-crop:
+  - text: FOR THE CONTROL OF HERBS IN WHEAT CROP,SPRAY 160GM TOPIK+20GM AFFINITY/ACRE.
+  utter_faq-agri-wheat-b1/how-to-control-wild-oat-in-wheat-crop:
+  - text: To control wild oats in wheat spray 400 ml. Axial (Pinoxaden 5EC) in 150 lt. of water per acre after 30-35 days after sowing.
+  - text: To control Jangli Javi in wheat spray 400 ml. Axial (Pinoxaden 5EC) or 160 gm. Topik or 13 gm. Leader in 150 lt. of water per acre after 30-35 days after sowing.
+  utter_faq-agri-wheat-b1/how-to-control-malva-neglecta-in-wheat-crop:
+  - text: spray aim 40df @ 20g in 200 liters water per acre.
+  utter_faq-agri-wheat-b2-pun/sowing-time-of-wheat-after-Nov?:
+  - text: ਦਸੰਬਰ ਦੇ 4 ਵੇਂ ਹਫ਼ਤੇ ਦੇ ਨੰਬਰ ਦੀ 4 ਵੇਂ ਹਫ਼ਤੇ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-improving-the-quality-of-wheat-grains?:
+  - text: ਕਣਕ ਦੀ ਫ਼ਸਲ ਦੀ ਗੁਣਵੱਤਾ ਨੂੰ ਸੁਧਾਰਨ ਲਈ 120 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 2 ਕਿਲੋ NPK (13:0:45) ਪ੍ਰਤੀ ਏਕੜ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-difference-between-ssp-and-dap?:
+  - text: ਐਸਐਸਪੀ ਅਤੇ ਡੀਏਪੀਐਸਲਿੰਗ ਸੁਪਰ ਫਾਸਫੇਟ - ਐਸ -12%, ਸੀਏ -19%, ਪੀ 2 ਓ 5-16% ਅਤੇ ਡੀ ਅਮੋਨੀਅਮ ਫਾਸਫੇਟ - ਪੀ 2 ਓ 5-46%, ਐਨ 2-18% ਵਿਚਕਾਰ ਅੰਤਰ%.
+  utter_faq-agri-wheat-b3-pun/information-requirement-of-wheat-crop?:
+  - text: ਇਹ ਸਭ ਤੋਂ ਵਧੀਆ ਹੁੰਦਾ ਹੈ ਜਦੋਂ ਤਾਪਮਾਨ ਗਰਮ ਹੁੰਦਾ ਹੈ, 70 ° ਤੋਂ 75 ° F (21 ° ਤੋਂ 24 ° C) ਤੱਕ, ਪਰ ਬਹੁਤ ਗਰਮ ਨਹੀਂ ਹੁੰਦਾ. ਕਣਕ ਨੂੰ ਵੀ ਬਹੁਤ ਸਾਰੀਆਂ ਧੁੱਪ ਦੀ ਜ਼ਰੂਰਤ ਹੁੰਦੀ ਹੈ, ਖ਼ਾਸਕਰ ਜਦੋਂ ਅਨਾਜ ਭਰ ਰਹੇ ਹੁੰਦੇ ਹਨ. ਘੱਟ ਨਮੀ ਵਾਲੇ ਖੇਤਰ ਬਿਹਤਰ ਹਨ ਕਿਉਂਕਿ ਬਹੁਤ ਸਾਰੀਆਂ ਕਣਕ ਦੀਆਂ ਬਿਮਾਰੀਆਂ ਗਿੱਲੇ ਮੌਸਮ ਵਿੱਚ ਪ੍ਰਫੁੱਲਤ ਹੁੰਦੀਆਂ ਹਨ.
+  utter_faq-agri-wheat-b3/information-regarding-difference-between-ssp-and-dap:
+  - text: difference between SSP and DAPSingle Super Phosphate - S-12%, Ca-19%, P2O5-16% and Di Ammonium Phosphate - P2O5-46%, N2-18%.
+  utter_faq-agri-wheat-b4/information-regarding-dose-of-raxil-for-wheat-seed-treatment:
+  - text: RAXIL DOSE-1GM/KG.
+  utter_faq-hort-chilli-b0/how-to-control-of-phomopsis-blight-of-chilli:
+  - text: spray 200gm zineb with 100 liter water/acre
+  utter_faq-hort-garlic-b0/information-regarding-about-depth-of-garlic-in-soil-and--sowing-time-of-potato:
+  - text: Depth of garlic in soil is 3-5 cm
+  utter_faq-agri-rice-b3-pun/information-regarding-land-preparation-for-paddy-transplanting-field?:
+  - text: ਪਾਣੀ ਅਤੇ ਹੋਰ ਖੇਤ ਦੇ ਨਿਵੇਸ਼ਾਂ ਦੀ ਕੁਸ਼ਲਤਾ ਵਧਾਉਣ ਲਈ ਪੁਡਿੰਗ ਤੋਂ ਪਹਿਲਾਂ ਸ਼ੁੱਧਤਾ ਵਾਲੀ ਜ਼ਮੀਨ ਦੇ ਪੱਧਰ ਲਈ ਲੇਜ਼ਰ ਲੈਂਡ ਲੇਲਰ ਦੀ ਵਰਤੋਂ ਕਰੋ. ਸਾਰੇ ਬੰਡਾਂ ਦੀ ਮੁਰੰਮਤ ਕਰੋ. ਪਾਣੀ ਦੇ ਨੁਕਸਾਨ ਨੂੰ ਪਾਰਕਾਲੇਸ਼ਨ ਦੁਆਰਾ ਘਟਾਉਣ, ਚੰਗੀ ਬੀਜ ਦੀ ਜੋਸ਼ ਨੂੰ ਬਣਾਈ ਰੱਖਣ ਅਤੇ ਬੂਟੀ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਲਈ ਇਕ ਵਧੀਆ ਚੰਗੀ ਤਰ੍ਹਾਂ ਬੁਣੇ ਹੋਏ ਛੱਪੜ ਵਾਲੇ ਖੇਤਰ ਨੂੰ ਪ੍ਰਾਪਤ ਕਰੋ.
+  utter_faq-agri-rice-b3-pun/how-to-increase-the-water-absorbing-capacity-of-soil-?:
+  - text: ਪਾਣੀ ਦੀ ਜਜ਼ਬ ਕਰਨ ਦੀ ਸਮਰੱਥਾ ਨੂੰ ਵਧਾਉਣ ਲਈ ਕੁਝ ਵੀ ਸਿਫਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ.
+  utter_faq-agri-rice-b4-pun/information-regarding--how-to-manage-water-in-nursery-seedling-?:
+  - text: ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਵਿਚ ਬੀਜ ਨੂੰ ਸਿਰਫ ਖੇਤਰ ਵਿਚ ਸਰਵੋਤਮ ਨਮੀ ਬਣਾਉਣਾ ਪੈਂਦਾ ਹੈ
+  utter_faq-agri-wheat-b0-pun/control-of-kernel-smut-in-wheat-crop:
+  - text: ਸਪਰਾ ਟਿਲਟ @ 200 ਐਮਐਲ 100 ਲੀਟਰ ਵਾਟਰ ਪਰ ਏਕੜ ਦੇ
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-fungus-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 20 ਕਿਲੋਗ੍ਰਾਮ ਰੇਤ ਵਿਚ 500 ਗ੍ਰਾਮ ਪ੍ਰਸਾਰਣ.
+  utter_faq-agri-wheat-b0/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop:
+  - text: spray Ekalux 25EC(quinalphos) @ 800 ml in 100 litres of water per acre.
+  - text: For control of gram pod borer in wheat crop spray 800ml Ekalux in 100 litre of water per acre.
+  utter_faq-agri-wheat-b1-pun/how-to-control-wild-oat-in-wheat-crop?:
+  - text: ਕਣਕ ਦੇ ਸਪਰੇਅ ਵਿਚ ਜੰਗਲੀ ਜਵੀ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ 400 ਮਿ.ਲੀ. ਐਕਸਿਅਲ (ਪਿੰਨੋਕਸਡੇਨ 5 ਈ ਸੀ) 150 ਐਲ ਟੀ ਵਿਚ. ਬਿਜਾਈ ਤੋਂ ਬਾਅਦ 30-35 ਦਿਨਾਂ ਬਾਅਦ ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ ਦਾ.
+  utter_faq-agri-wheat-b1-pun/tell-me-how-to-control-trigonella-polycerata-in-wheat-crop?:
+  - text: ਸਪਰੇਅ ਐਫੀਨੀਟੀ 40 ਡੀ ਐੱਫ @ 20 ਜੀ 200 ਲੀਟਰ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-narrow-leaf-weeds:
+  - text: SPRAY 160HGM TOPIK IN 150LT WATER/ACRE.
+  - text: SPRAY 400ML AXIAL IN 150LT WATER/ACRE.
+  utter_faq-agri-wheat-b1/how-to-control-trigoneela-polycerata-in-wheat-crop:
+  - text: spray affinity 40df @ 20g in 200 liters watr per acre.
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-application-of-gypsum-?:
+  - text: ਇਹ ਮਿੱਟੀ ਨੂੰ ਜੋੜਨ ਵਾਲੇ ਅਤੇ ਖਾਦ ਵਜੋਂ ਕੰਮ ਕਰਦਾ ਹੈ। ਖਣਿਜ ਵਿੱਚ ਪੌਦਿਆਂ ਦੇ ਸਿਹਤਮੰਦ ਵਿਕਾਸ ਲਈ ਜ਼ਰੂਰੀ ਦੋ ਮੁੱਖ ਤੱਤ ਹੁੰਦੇ ਹਨ - ਕੈਲਸ਼ੀਅਮ ਅਤੇ ਸਲਫਰ। ਜਦੋਂ ਕਿ ਕੈਲਸ਼ੀਅਮ ਜੜ੍ਹਾਂ ਰਾਹੀਂ ਪੌਸ਼ਟਿਕ ਤੱਤਾਂ ਨੂੰ ਜਜ਼ਬ ਕਰਨ ਵਿੱਚ ਮਦਦ ਕਰਦਾ ਹੈ, ਗੰਧਕ ਫਸਲਾਂ ਦੇ ਸਮੁੱਚੇ ਉਤਪਾਦਨ ਵਿੱਚ ਸੁਧਾਰ ਕਰਦਾ ਹੈ।
+  utter_faq-agri-wheat-b3-pun/foliar-spray-of-manganese-in-wheat?:
+  - text: 1 ਕਿਲੋ ਮੈਸਨੀਜ਼ ਸਲਫੇਟ/100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-broadcasting-of-urea-after-herbicide-spray?:
+  - text: 7 -8 ਦਿਨ ਸਪਰੀ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਯੂਰੀਆ ਖਾਦ ਦਾ ਪ੍ਰਸਾਰਣ ਕਰ ਸਕਦੇ ਹੋ.
+  utter_faq-agri-wheat-b3/information-regarding-standing-water-in-wheat:
+  - text: NO ANSWER
+  utter_faq-hort-chilli-b0/information-regarding-control-of-fungal-disease-in-chilies:
+  - text: For control of fungal disease in chillies spray 750 gram Blitox in 250 liters of water per acre.
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-stem-rot-in-paddy?:
+  - text: ਝੋਨੇ ਵਿਚ ਸਟੈਮ ਰੋਟ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰੋ ਪ੍ਰਭਾਵਿਤ ਫਸਲ ਨੂੰ 200 ਮਿ.ਲੀ. ਅਮੀਸਟਰ ਟਾਪ 325 ਐਸਸੀ (ਅਜ਼ੋਕਸਾਈਸਟ੍ਰੋਬਿਨ + ਡਿਫੇਨਕੋਨਾਜ਼ੋਲ) ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 200 ਲੀਟਰ ਪਾਣੀ ਵਿਚ, ਬੂਟ ਅਤੇ ਕੰਨ-ਉੱਭਰਣ ਦੇ ਪੜਾਵਾਂ 'ਤੇ.
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-control-of-sheath-blight-in-rice?:
+  - text: ਬਾਸਮਤੀ ਸਪਰੇਅ 200 ਮਿ.ਲੀ. ਅਮਿਸਟਰ ਟਾਪ 325 ਐਸਸੀ (ਅਜ਼ੋਕਸਾਈਸਟ੍ਰੋਬਿਨ + ਡਿਫੇਨੋਕੋਨਜ਼ੋਲ) ਜਾਂ 80 ਗ੍ਰਾਮ ਨੈਟਿਵੋ 75 ਡਬਲਯੂਜੀ (ਟੇਬੂਕੋਨਾਜ਼ੋਲ + ਟ੍ਰਾਈਫਲੋਕਸੈਸਟ੍ਰੋਬਿਨ) ਜਾਂ 200 ਮਿ.ਲੀ. ਫੋਲਿਕੁਰ/ਓਰੀਅਸ 25 ਈਸੀ (ਟੇਬੂਕੋਨਾਜ਼ੋਲ) ਜਾਂ 200 ਮਿ.ਲੀ. ਮੋਨਸੇਰਮ 250 ਐਸਸੀ (ਪੈਨਸੀਕ੍ਰੋਨ) ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 200 ਲੀਟਰ ਪਾਣੀ ਵਿਚ.
+  utter_faq-agri-rice-b0-pun/information-regarding-for-the-control-fungus-in-basmati-?:
+  - text: ਸਪਰੇਅ ਐਮੀਸਟਾਰ ਚੋਟੀ ਦੇ 200 ਮਿ.ਲੀ. ਜਾਂ ਨੈਟੀਵੋ 80 ਗ੍ਰਾਮ 200 ਲੀਟਰ
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-sulphur-deficiency-in-paddy?:
+  - text: 1 ਏਕੜ ਖੇਤਰ ਵਿੱਚ 75 ਕਿਲੋ ਸੁਪਰ ਫਾਸਫੇਟ ਦੀ ਵਰਤੋਂ ਕਰੋ
+  utter_faq-agri-rice-b0-pun/information-regrading-to-control-of-broadleaf-weeds-in-rice?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ 30 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ ਐਲਗ੍ਰਿਪ 20 ਡਬਲਯੂਜੀ (ਮੇਟਸਲਫੂਰੋਨ*) ਜਾਂ 50 ਗ੍ਰਾਮ ਸਨਰਾਈਸ 15 ਡਬਲਯੂਜੀ (ਐਥੋਕਸੀਸਲਫੂਰੋਨ) ਜਾਂ 40 ਗ੍ਰਾਮ ਲੌਂਡੇਕਸ 60 ਡੀਐਫ (ਬੈਂਸਲਫੂਰੋਨ ਮਿਥਾਈਲ) ਜਾਂ 16 ਗ੍ਰਾਮ ਖੰਡ 50 ਡੀਐਫ*01 ਲੀਟਰ (50 ਡੀਐਫਯੂ) ਦੀ ਸਪਰੇਅ ਕਰੋ। ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ 20 ਦਿਨਾਂ ਬਾਅਦ ਪਾਣੀ ਦਿਓ।
+  utter_faq-agri-rice-b1-pun/information-regarding--application-of-water-after-broadcasting-urea-in-field-?:
+  - text: ਫੀਲਡ ਅਤੇ ਏਪੀਲੀ ਯੂਰੀਆ ਤੋਂ ਡਰੇਨ ਵਾਟਰ ਫਿਰ ਅਗਲੇ ਦਿਨ ਨੂੰ ਪ੍ਰਵਾਨਗੀ ਦਿੱਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ
+  utter_faq-agri-rice-b1/information-regarding-plant-growth-regulator-in-paddy:
+  - text: growth regulator used in Paddy at tillering stage spray NPK 13:0:45 1kg in 100litre of water.
+  utter_faq-agri-rice-b2-pun/information-regarding-sowing-time-of--basmati?:
+  - text: 15-30 ਜੂਨ ਬਾਸਮਤੀ ਚਾਵਲ ਦਾ ਬਿਜਾਈ ਦਾ ਸਮਾਂ .
+  utter_faq-agri-rice-b2-pun/information-regarding-the-detail-of-hybrid-paddy-cultivation-?:
+  - text: ਪੰਜਾਬ ਵਿਚ ਹਾਈਬ੍ਰਿਡ ਝੋਨੇ ਦੀ ਕਾਸ਼ਤ ਪੰਜਾਬ ਸਰਕਾਰ ਦੁਆਰਾ ਵਰਜਿਤ ਹੈ ਕਿਉਂਕਿ ਇਸ ਵਿਚ ਟੁੱਟੇ ਹੋਏ ਅਨਾਜ ਦੀ ਉੱਚ ਪ੍ਰਤੀਸ਼ਤਤਾ ਹੈ ਜੋ ਗੁਣਵੱਤਾ ਦੇ ਮਾਪ ਕਾਰਨ ਮਾਰਕੀਟਿੰਗ ਵਿਚ ਸਮੱਸਿਆ ਪੈਦਾ ਕਰਦੇ ਹਨ.
+  utter_faq-agri-rice-b3-pun/information-regarding-water-management-in-transplanted-paddy-or-basmati-?:
+  - text: ਝੋਨੇ ਜਾਂ ਬਾਸਮਤੀ ਪਹਿਲੇ 15 ਦਿਨਾਂ ਲਈ ਖੜ੍ਹੇ ਪਾਣੀ ਨੂੰ ਬਣਾਈ ਰੱਖਣ ਲਈ ਫਿਰ ਚੰਗੀ ਨਮੀ ਦੀ ਜ਼ਰੂਰਤ ਹੁੰਦੀ ਹੈ ਫਸਲ ਨੂੰ ਵਧਾਉਣ ਲਈ. ਜੇ ਖੇਤ ਖੇਤ ਵਿਚ ਹੜ੍ਹ ਆ ਜਾਂਦਾ ਹੈ ਤਾਂ ਖੇਤ ਨੂੰ ਨਿਕਾਸ ਕਰੋ. 2 ਹਫ਼ਤੇ ਪਹਿਲਾਂ ਮੈਦਾਨ ਨੂੰ ਸਿੰਜਾਈ ਨਾ ਕਰੋ ਖੇਤ.
+  utter_faq-agri-rice-b3-pun/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy?:
+  - text: ਸਵੇਰ ਨੂੰ ਕਿਸੇ ਵੀ ਰਸਾਇਣ ਨੂੰ ਸਪਰੇਅ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਜਦੋਂ ਝੋਨੇ ਦੀ ਫਸਲ ਦੇ ਪੱਤਿਆਂ ਜਾਂ ਸ਼ਾਮ ਨੂੰ ਘੱਟ ਡਿ wਲ ਘੱਟ ਜਾਂਦਾ ਹੈ.
+  utter_faq-agri-rice-b3-pun/information--regarding-straw-management-of-rice-?:
+  - text: ਚਾਵਲ ਦੇ ਤੂੜੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਰਨ ਲਈ ਐਮ ਬੀ ਹਲ ਦੀ ਵਰਤੋਂ ਕਰੋ. ਇਸ ਨੂੰ ਅਸਾਨੀ ਨਾਲ ਕੰਪੋਜ਼ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ.
+  utter_faq-agri-rice-b3-pun/information-regarding-application-of-urea-in-paddy-after-transplanting?:
+  - text: 3 ਵਿੱਚ 90 ਕਿਲੋ ਯੂਰੀਆ ਖਾਦ ਲਗਾਓ ਸਾਰੀਆਂ ਸਿਫਾਰਸ਼ ਕੀਤੀਆਂ ਕਿਸਮਾਂ ਦੇ ਬਰਾਬਰ ਵੰਡ. ਪਹਿਲਾ ਵਿਭਾਜਨ 7 ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਦੇ ਦਿਨਾਂ ਅਤੇ ਦੂਜਾ ਸਪਲਿਟ ਨੂੰ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਦੇ 21 ਦਿਨਾਂ ਤੇ ਲਾਗੂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ. ਤੀਜੀ ਵੰਡ ਤੋਂ ਲੈ ਕੇ ਛੋਟੀ ਮਿਆਦ (ਪੀਆਰ 126 ਅਤੇ ਪੀਆਰ 124) ਨੂੰ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਦੇ 35 ਦਿਨਾਂ 'ਤੇ ਲਾਗੂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ ਜਦੋਂ ਕਿ ਹੋਰ ਕਿਸਮਾਂ ਲਈ, ਇਸ ਨੂੰ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਦੇ 42 ਦਿਨਾਂ' ਤੇ ਲਾਗੂ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ, ਯੂਰੀਆ ਖੜ੍ਹੇ ਜਾਂ ਘੱਟ ਪਾਣੀ ਵਿਚ ਲਾਗੂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ.
+  utter_faq-agri-rice-b3/information-regarding-water-management-in-transplanted-paddy-or-basmati:
+  - text: For paddy or basmati maintain standing water for first 15 days then good moisture is needed to grow the crop.if field is flooded drain the field.Do not irrigate the field before 2 weeks from ripen the field.
+  utter_faq-agri-rice-b3/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy:
+  - text: The best time to spray any chemical in the morning when less dew drops on the leaves of paddy crop or in the evening.
+  utter_faq-agri-rice-b3/information-regarding-application-of-oil-cakes-in-paddy:
+  - text: application of oil cakes is not recommended by PAU
+  utter_faq-agri-rice-b3/information-regarding-application-of-urea-in-paddy-after-transplanting:
+  - text: Apply 90 kg urea fertilizer in 3 equal splits to all recommended varieties. The first split should be applied up to 7 days of transplanting and the second split at 21 days of transplanting.The third split to short duration (PR 126 and PR 124) should be applied at 35 days of transplanting while for other varieties, it should be applied at 42 days of transplanting,urea can be applied in standing or less water.
+  utter_faq-agri-rice-b4-pun/information-regarding-technical-names-of-folicur-and-chloro?:
+  - text: ਫੋਲਿਕੁਰ ਟੀਬੂਕੋਨਾਜ਼ੋਲ ਹੈ ਅਤੇ ਕਲੋਰੋ ਵਿਚ ਕਲੋਰੋਪਾਈਰੀਫੋਸ ਹੈ.
+  utter_faq-agri-rice-b4/information-regarding--how-to-manage-water-in-nursery-seedling:
+  - text: In the paddy nursery seedling just have to make optimum moisture in the feild
+  utter_faq-agri-rice-b4/information-regarding-thiamethoxam-25--wg-chemical--is-used-for:
+  - text: Thiamethoxam 25 % WG is used for insecticide not for fungus control.
+  utter_faq-agri-rice-b4/information-regarding-the-how-to-remove-the-water-from-paddy-field:
+  - text: Remove the water from field manually it damages the crop if crop is properly dipped in the water.
+  utter_faq-agri-wheat-b0-pun/how-to-control-of-powdery-mildew-in-wheat-crop:
+  - text: ਨੈਟਿਵੋ 75 ਡਬਲਯੂਜੀ (ਟ੍ਰਾਈਫਲੋਕਸੈਸਟ੍ਰੋਬਿਨ + ਟੇਬੂਕੋਨਾਜ਼ੋਲ) @ 120 ਗ੍ਰਾਮ ਜਾਂ ਟਿਲਟ 25 ਈਸੀ (ਪ੍ਰੋਪਿਕੋਨਾਜ਼ੋਲ) @ 200 ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 200 ਮਿ.ਲੀ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-pink-stem-borer-in-wheat:
+  - text: ਕੋਲੇਜਨ 18.5 ਐਸਸੀ (ਕਲੋਰੋਆਨ ਟ੍ਰੈਨਿਲਿਪ੍ਰੋਲ) @ 50 ਮਿ.ਲੀ. ਦੀ ਸਪਰੇਅਰ ਸਪਰੇਅ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 80-100 l ਪਾਣੀ ਲਾਗੂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-caterpillar-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਕੈਟਰਪਿਲਰ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਏਕਲਕਸ 25 ਈ ਸੀ (ਕੁਆਨਲਫੋਸ) @ 400 ਮਿ.ਲੀ. ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-green-sundi-in-wheat?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਸਪਰੇਅ ਕੁਇਨਲਫੋਰਸ 400 ਮਿ.ਲੀ.
+  utter_faq-agri-wheat-b1-pun/information-regarding-nozzle-used-in-herbicide-in-wheat-crop-?:
+  - text: ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਨਾਸ਼ਕ ਵਿੱਚ ਵਰਤੀ ਜਾਂਦੀ ਨੋਜ਼ਲ ਪਹਿਲਾਂ ਤੋਂ ਪੈਦਾ ਹੋਣ ਲਈ ਫਲੈਟ ਫੈਨ ਜਾਂ ਫਲੱਡ ਜੈਟ ਨੋਜ਼ਲ ਹੈ ਅਤੇ ਉਭਰਨ ਤੋਂ ਬਾਅਦ ਲਈ ਸਿਰਫ ਫਲੈਟ ਫੈਨ ਹੈ।
+  utter_faq-agri-wheat-b1-pun/how-we-can-control-the-weeds-in-non-cropped-area:
+  - text: ਗੈਰ ਫਸਲੀ ਖੇਤਰ ਜਾਂ ਗੈਰ ਕਾਸ਼ਤ ਵਾਲੇ ਖੇਤਰ ਜਾਂ ਖਾਲੀ ਖੇਤਰ ਵਿੱਚ ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਅਤੇ ਗੈਰ ਫਸਲੀ ਖੇਤਰਾਂ ਜਿਵੇਂ ਕਿ ਖੇਤਾਂ, ਸੜਕਾਂ, ਪਾਣੀ ਦੇ ਨਾਲੇ ਆਦਿ ਵਿੱਚ ਨਦੀਨਾਂ ਨੂੰ ਗ੍ਰਾਮੌਕਸੋਨ 24 ਐਸਐਲ (ਪੈਰਾਕੁਆਟ ਡਾਈਕਲੋਰਾਈਡ) @ 0.25 ਤੋਂ 0.5% ਦੀ ਸਪਰੇਅ ਦੁਆਰਾ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ। 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 250 ਤੋਂ 500 ਮਿ.ਲੀ.)
+  utter_faq-agri-wheat-b1-pun/information-regarding-irrigate-the-field-after-herbicide-spray?:
+  - text: ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਸਪਰੇਅ ਤੋਂ ਕੁਝ ਦਿਨਾਂ ਬਾਅਦ ਖੇਤ ਨੂੰ 7 - 8 ਤੋਂ ਬਾਅਦ ਸਿੰਜਾਈ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ.
+  utter_faq-agri-wheat-b1/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat:
+  - text: For pre-emergence control of weeds in wheat spray 1.5 liters of Stomp 30 EC (Pendamethalin) or 60 gram Awkira 85 WG(Pyroxasulfone) or 1 liter of Platform 38.5 SE(Pendimethalin 35%+Metribuzin 3.5%) in 200 liters of water per acre within 2 days of sowing of wheat.
+  utter_faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation:
+  - text: For control of grassy leaf weeds in wheat spray Isoprotouron 75 WP (300 gram for light soils, 400 gram in medium soils and 500 gram in heavy soils) or 13 gram Leader/SF-10/Safal/Marksulfo 75 WG (Sulfosulfuron) in 150 liters of water per acre before 2-3 days of first irrigation.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-weed-in-non-cropped-area:
+  - text: For control of weed in non cropped area or uncultivated area or free area & The weeds in non-cropped areas like on farm, roads, waterchannels etc. can be controlled by spray of Gramoxone 24 SL (paraquat dichloride) @ 0.25 to 0.5% (250 to 500 ml in 100 litres of water).
+  utter_faq-agri-wheat-b1/information-regarding-to-control-of-bathu-in-the-wheat-crop:
+  - text: Spray Algrip/Algrip Royal/Markgrip/ Makoto 20 WP (metsulfuron*) 10 g in 150 l water or Aim/Affinity 40 DF (carfentrazone-ethyl*) 20 g in 200 l water
+  utter_faq-agri-wheat-b1/information-regarding-irrigate-the-field-after-herbicide-spray:
+  - text: field should irrigate after 7-8 days after herbicide spray in wheat crop.
+  utter_faq-agri-wheat-b2/sowing-time-of-wheat-after-nov:
+  - text: 4TH WEEK OF NOVEMBER TO 4TH WEEK OF DECEMBER.
+  utter_faq-agri-wheat-b3-pun/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days-?:
+  - text: ਫਿਰ ਜਦੋਂ ਨਮੀ ਦਾ ਪੱਧਰ ਅਨੁਕੂਲ ਹੋਵੇ ਤਾਂ ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ ਯੂਰੀਆ ਪਾਓ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-total-fertilizers-dose-in-wheat?:
+  - text: ਕਣਕ ਵਿੱਚ ਖਾਦਾਂ ਦੀ ਕੁੱਲ ਖੁਰਾਕ:- 110 ਕਿਲੋਗ੍ਰਾਮ। ਯੂਰੀਆ, 55 ਕਿ.ਗ੍ਰਾ. ਡੀਏਪੀ, 20 ਕਿਲੋਗ੍ਰਾਮ। ਪੋਟਾਸ਼ ਪ੍ਰਤੀ ਏਕੜ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-deficiency-of-nitrogen-in-wheat-?:
+  - text: NPK 19:19:19 ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ 1KG ਤੇ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/control-of-iron-deficiency-in-wheat:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 150 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 150 ਗ੍ਰਾਮ ਚੀਲੇਟਿਡ ਆਇਰਨ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/deficiency-manganese-sulphate-in-wheat?:
+  - text: 1 ਕਿਲੋ ਮੈਸਨੀਜ਼ ਸਲਫੇਟ/100 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-npk-dose-in-acre?:
+  - text: ਸਪਰੇਅ ਐਨਪੀਕੇ -19:19:19 1 ਕੇਜੀ ਪੀ ਆਰ ਏਕੜ
+  utter_faq-agri-wheat-b3-pun/before-irrigation-tell-me-the-information-regarding-of-fertilizer-dose-in-wheat-.:
+  - text: ਯੂਰੀਆ 25 ਕੇਜੀ + 3 ਕੇਜੀ ਸਲਫਰ 80% ਡਬਲਯੂਡੀਜੀ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-expiry-date-of-manganese-sulphate?:
+  - text: ਮੈਨੂਫੈਕਚਰਿੰਗ ਡੇਟ ਤੋਂ ਬਾਅਦ 5 ਸਾਲ.
+  utter_faq-agri-wheat-b3/how-many-spray-of-manganese-are-required-in-the-wheat-crop:
+  - text: 1ST SPRAY AT 2-4 DAYS BEFORE 1ST IRRIGATION AND 3 SPRAY AFTERWARD AT WEEKLY INTERVALS.
+  utter_faq-agri-wheat-b3/information-regarding-the-application-of-gypsum:
+  - text: It acts as a soil additive and fertilizer. The mineral consists of two main ingredients necessary for healthy plant growth - calcium and sulphur. While calcium helps to absorb nutrients via the roots, sulphur improves the overall production of crops.
+  utter_faq-agri-wheat-b3/information-regarding-the-deficiency-of-nitrogen-in-wheat:
+  - text: SPRAY NPK 19:19:19 at 1KG IN 100 LITERS OF WATER / ACRE .
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-in-wheat-before-irrigation:
+  - text: UREA-25KG+3KG SULPHUR 80%WDG.
+  utter_faq-agri-wheat-b3/information-requirement-of-wheat-crop:
+  - text: It grows best when temperatures are warm, from 70° to 75° F (21° to 24° C), but not too hot. Wheat also needs a lot of sunshine, especially when the grains are filling. Areas with low humidity are better since many wheat diseases thrive in damp weather.
+  utter_faq-agri-wheat-b3/information-regarding-suitable-time-of-1st-irrigation:
+  - text: SUITABLE TIME OF 1ST IRRIGATION IS -AFTER-25 DAYS.
+  utter_faq-agri-wheat-b3/information-regarding-broadcasting-of-urea-after-herbicide-spray:
+  - text: 7-8 days after spary you can broadcasting urea fertilizer.
+  utter_faq-agri-wheat-b3/information-regarding-expiry-date-of-manganese-sulphate:
+  - text: 5 YEARS AFTER MANUFACTURING DATE.
+  utter_faq-agri-wheat-b5-pun/information-regarding-protection-of-stored-grains-from-insect--pest-attack-?:
+  - text: ਐਲੂਮੀਨੀਅਮ ਫੋਫਾਈਡ ਦੀਆਂ ਗੋਲੀਆਂ ਨੂੰ ਕੰਟੇਨਰ ਵਿੱਚ ਰੱਖੋ ਅਤੇ ਹਵਾ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਰੱਖੋ ਅਤੇ 25-30 ਦਿਨਾਂ ਲਈ ਨਾ ਖੋਲ੍ਹੋ
+  utter_faq-agri-wheat-b5/information-regarding-protection-of-stored-grains-from-insect-pest-attack:
+  - text: place aluminium phophide tablets in container and air tight properly and do not open for 25-30 days
+  utter_faq-hort-chilli-b0/information-regarding-control-of-mites-in-chilli:
+  - text: CONTROL MITES IN CHILIES SPRAY ACTARA 3 GRAM OR CONFIDOOR 4 ML / 10 LTR WATER
+  utter_faq-hort-chilli-b1/what-are-some-of-the-deficiency-symptoms-in-chilly-crop:
+  - text: No Answer
+  utter_faq-hort-chilli-b1/how-to-control-of-larvae-in-chilli:
+  - text: SAPRAY 800 ML EKALUX 25 EC IN 150 LITER OF WATER/ACRE
+  utter_faq-hort-garlic-b0/dose-of-urea-in-garlic:
+  - text: TOTAL DOSE OF UREA IN GARLIC IS 80-100 KG / ACRE .
+  utter_faq-hort-garlic-b0/pre-emergence-weedicide-in-garlic:
+  - text: SPRAY GOAL(OXYCLORFEN) 425 ML IN 200 LITRES OF WATER PER ACRE
+  utter_faq-hort-pea-b0/information-regarding-brown-spot-in-pea-crop:
+  - text: BLITOX 50wp 300G WITH 100LITER WATER MIX AND SPRAY PER ACRE
+  utter_faq-hort-pea-b0/how-to-control-thirps-in-pea-crop:
+  - text: spray 400ml rogar 30EC dimethode
+  utter_faq-hort-pea-b0/information-regarding-for-the-deficiency-of-potash-in-pea:
+  - text: use spray n:p:k-13:0:45/1kg in 100 litres of water.
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-weeds-in-peas:
+  - text: For control of weeds in peas spray Stomp 30EC (pendimethalin) @ 1 litre with in 2days of sowing in 200lt water per acre.
+  utter_faq-agri-rice-b0-pun/how-to-control-root-caterpilar-in-paddy-crop-?:
+  - text: ਝੋਨੇ ਵਿਚ ਕੈਟਰਪਿਲਰ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 15-20 ਕਿਲੋਗ੍ਰਾਮ ਰੇਤ ਵਿਚ 1 ਲੀਟਰ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 EC ਲਾਗੂ ਕਰੋ.
+  utter_faq-agri-rice-b1-pun/information-regarding-plant-growth-regulator-in-paddy-?:
+  - text: ਵਿਕਾਸ ਰੈਗੂਲੇਟਰ ਝੋਨੇ ਵਿੱਚ ਟਿਲਰਿੰਗ ਸਟੇਜ ਸਪਰੇਅ ਐਨਪੀਕੇ 13 <ਟੀਏਜੀ 1> 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ 45 1 ਕਿਲੋਗ੍ਰਾਮ.
+  utter_faq-agri-rice-b3-pun/information-regarding-application-of-farmyard-manure-before-paddy-transplanting-?:
+  - text: ਝੋਨੇ ਦੀ ਫਸਲ ਦਾ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ 6 ਟਨ ਖੇਤ ਦੀ ਖਾਦ ਲਗਾਓ.
+  utter_faq-agri-rice-b3/information-regarding-application-of-farmyard-manure-before-paddy-transplanting:
+  - text: apply 6 tonnes of farmyard manure before transplanting of paddy crop.
+  utter_faq-agri-rice-b4-pun/information-regarding-thiamethoxam-25-%-wg-chemical--is-used-for?:
+  - text: ਥਿਆਮੇਥੋਕਸਮ 25 % ਡਬਲਯੂਜੀ ਦੀ ਵਰਤੋਂ ਕੀਟਨਾਸ਼ਕ ਲਈ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਨਾ ਕਿ ਉੱਲੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ।
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat:
+  - text: 40 ਕਿਲੋ ਬੀਜ ਦਾ ਇਲਾਜ 13 ਮਿ.ਲੀ. ਰੈਕਸਿਲ ਆਸਾਨ/ਓਰੀਅਸ <ਟੀਏਜੀ 1> ਐਫਐਸ 400 ਮਿ.ਲੀ. ਪਾਣੀ ਜਾਂ 120 ਗ੍ਰਾਮ ਵਿਟਾਵੈਕਸ ਪਾਵਰ 75 ਡਬਲਯੂਐਸ ਜਾਂ 80 ਕਿਲੋ ਵਿਟਾਵੈਕਸ 75 ਡਬਲਯੂਪੀ ਜਾਂ 40 ਗ੍ਰਾਮ ਬੀਜ <ਟੀਏਜੀ 1> ਡੀਐਸ / ਐਕਸਜ਼ੋਲ <ਟੀਏਜੀ 1> ਡੀਐਸ ਪ੍ਰਤੀ 40 ਕਿਲੋ ਬੀਜ
+  utter_faq-agri-wheat-b0/information-regarding-the-control-of-pink-stem-borer-in-wheat:
+  - text: Foliar spray of coragen 18.5 SC (chloran traniliprole) @ 50 ml in 80-100 l of water per acre may be applied.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-weeds-in-pre-emergence-stage-in-wheat:
+  - text: Pre – emergent herbicide Pendimethalin 8 - 8.5 mL/L of water in 160- 180 litres of water for one acre of wheat crop at 0-3 days after sowing. Pendimethalin controls both grasses and broadleaved weeds on wheat eco system.
+  utter_faq-agri-wheat-b2-pun/information-about-best-varieties-for-running-season?:
+  - text: ਰਨਿੰਗ ਸੀਸਨ ਲਈ ਜ਼ਰੂਰੀ ਵੈਰੀਟੀਜ਼ ਹਨ - ਪੀਬੀਡਬਲਯੂ -550, ਐਚਡੀ -2967 ਅਤੇ ਐਚਡੀ -2851.
+  utter_faq-agri-wheat-b3-pun/information-regarding-fertilizer-dosage-before-1st-irrigation?:
+  - text: ਕਣਕ-ਯੂਰੀਆ-25 ਕਿਲੋ 3 ਕਿਲੋ ਸਲਫਰ ਵਿੱਚ ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ ਖਾਦ ਦੀ ਖੁਰਾਕ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-d.a.p?:
+  - text: ਵ੍ਹਾਈਟ ਵਿਚ ਸੁਪਰਫੋਸਫੇਟ ਦੀ ਕੋਈ ਸਿਫਾਰਸ਼ ਨਹੀਂ. ਜੇ ਡੈਪ ਉਪਲਬਧ ਨਹੀਂ ਹੈ ਤਾਂ 150 ਕਿਲੋਗ੍ਰਾਮ ਸੁਪਰ ਦੀ ਵਰਤੋਂ 55 ਕੇਜੀ ਡੈਪ ਦੀ ਜ਼ਰੂਰਤ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ
+  utter_faq-agri-wheat-b3/information-regarding-the-npk-dose-in-acre:
+  - text: SPRAY NPK-19:19:19 1KG PER ACRE
+  utter_faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap:
+  - text: NO RECOMMANDATION OF SUPERPHOSPHATE IN WHEAT. IF DAP IS NOT AVAILABLE THEN USE OF 150KG SUPER CAN BE DONE TO MEET THE REQUIERMENT OF 55KG DAP
+  utter_faq-hort-chilli-b0/information-regarding-how-to-control-white-grub-in-chilies:
+  - text: choloropyriphos 1.5 liter mixed with 10 kg sand per acre
+  utter_faq-hort-garlic-b0/information-regarding-for-deficiency-of-nitrogen-in-garlic:
+  - text: UREA 20 KG IN ONE ACRE.
+  utter_faq-agri-rice-b0-pun/information-regarding-fungicide-for-paddy--root-rot-?:
+  - text: ਬਾਸਮਤੀ, ਬੀਜ ਅਤੇ ਬੀਜ ਦੇ ਇਲਾਜ ਵਿਚ ਰੂਟ ਰੋਟ ਬਿਮਾਰੀ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨਾ ਲਾਜ਼ਮੀ ਹੈ. ਟੀ. ਹਰਜ਼ੀਨੀਅਮ @ 15 ਗ੍ਰਾਮ / 15 ਗ੍ਰਾਮ / ਕਿਲੋਗ੍ਰਾਮ ਬੀਜ ਦੇ ਨਾਲ <ਟੀਏਜੀ 1> ਘੰਟਿਆਂ ਲਈ ਬੀਜਣ ਅਤੇ ਬੀਜਣ ਤੋਂ ਪਹਿਲਾਂ ਤੁਰੰਤ ਪਹਿਲਾਂ ਟ੍ਰਾਈਕੋਡਰਮਾ ਹਰਜ਼ੀਨੀਅਮ @ 15 ਗ੍ਰਾਮ/ਟਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਲੀਟਰ ਪਾਣੀ. ਬਰਾਡਕਾਸਟ <ਟੀਏਜੀ 1> ਕਿਲੋਗ੍ਰਾਮ ਟ੍ਰਾਈਕੋਡਰਮਾ ਹਰਜ਼ੀਨੀਅਮ ਪ੍ਰਤੀ ਏਕੜ 100 ਕਿਲੋਗ੍ਰਾਮ ਐਫਵਾਈਐਮ ਨਾਲ ਮਿਲਾਇਆ ਜਾਂਦਾ ਹੈ .ਜੇ ਉਪਲਬਧ ਨਹੀਂ ਤਾਂ ਇਸ ਨੂੰ fromਨਲਾਈਨ ਤੋਂ ਖਰੀਦੋ.
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy?:
+  - text: ਪ੍ਰਸਾਰਣ 2 lt. ਕਲੋਰਪਾਈਰੀਫੋਸ 20EC ਨੂੰ 2 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾ ਕੇ 30 ਕਿਲੋ ਸੁੱਕੀ ਰੇਤ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਖੜ੍ਹੇ ਪਾਣੀ ਵਿੱਚ ਮਿਲਾ ਦਿਓ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-larvae-in-paddy-roots-?:
+  - text: ਰੇਡੀਓ ਕਾਰਬੋਫੈਰਨ <ਟੀਏਜੀ 1> -10 ਕਿਲੋਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-dose-of-zice--in-rice:
+  - text: ਝੋਨੇ ਦੇ ਸਪਰੇਅ 1 ਕਿਲੋਗ੍ਰਾਮ ਜ਼ਿੰਕ ਸਲਫੇਟ (21%) ਵਿੱਚ ਜ਼ਿੰਕ ਦੀ ਘਾਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ ਦੇ 200 ਲੀਟਰ ਵਿੱਚ .
+  utter_faq-agri-rice-b0-pun/information-regarding-control-kernel-smut-in-rice-crop?:
+  - text: ਪੈਡੀ ਸਪਰਾ ਟਿਲਟ 25 ਈਸੀ @ 200 ਐਮਐਲ ਵਿੱਚ 200 ਲਿਟਰੇ ਵਾਟਰ ਪਰ ਏਕੜ ਵਿੱਚ ਕਰਨਲ ਸਮੂਟ ਦੇ ਨਿਯੰਤਰਣ ਲਈ.
+  utter_faq-agri-rice-b0-pun/information-regarding-the-control-of-fungal-disease-in-basmati?:
+  - text: ਬਾਸਮਤੀ ਸਪਰੇਅ 200 ਮਿ.ਲੀ. ਅਮਿਸਟਰ ਟਾਪ 325 ਐਸਸੀ (ਅਜ਼ੋਕਸਾਈਸਟ੍ਰੋਬਿਨ + ਡਿਫੇਨੋਕੋਨਜ਼ੋਲ) ਜਾਂ 80 ਗ੍ਰਾਮ ਨੈਟਿਵੋ 75 ਡਬਲਯੂਜੀ (ਟੇਬੂਕੋਨਾਜ਼ੋਲ + ਟ੍ਰਾਈਫਲੋਕਸੀਸਟ੍ਰੋਬਿਨ) ਜਾਂ 200 ਮਿ.ਲੀ. ਫੋਲਿਕੁਰ/ਓਰੀਅਸ 25 ਈਸੀ (ਟੇਬੂਕੋਨਾਜ਼ੋਲ) ਜਾਂ 200 ਮਿ.ਲੀ. ਮੋਨਸੇਰਮ 250 ਐਸਸੀ (ਪੈਨਸੀਕ੍ਰੋਨ) ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 200 ਲੀਟਰ ਪਾਣੀ ਵਿਚ.
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-reddish-in-paddy?:
+  - text: ਸਪਰੇਅ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ 1 ਕਿਲੋਗ੍ਰਾਮ ਜ਼ਿੰਕ ਸਲਫੇਟ
+  utter_faq-agri-rice-b0-pun/information-regarding-for-the-control-of-anthrachnose-disease-in-rice-crop?:
+  - text: ਚੌਲਾਂ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਐਂਥ੍ਰੈਕਨੋਜ਼ ਦੀ ਬਿਮਾਰੀ ਦਾ ਨਿਯੰਤਰਣ, ਪਲੱਸ ਸਪਰੇਅ 500 ਗ੍ਰਾਮ SAAF (ਕਾਰਬੈਂਡਾਜ਼ਿਮ 12%+ਮੈਨਕੋਜ਼ੈਬੀ63%WP)/ਏਕੜ।
+  utter_faq-agri-rice-b0-pun/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy?:
+  - text: ਕਿਸੇ ਵੀ ਰਸਾਇਣ ਦਾ ਛਿੜਕਾਅ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਸਵੇਰੇ ਜਾਂ ਸ਼ਾਮ ਨੂੰ ਝੋਨੇ ਦੇ ਪੱਤਿਆਂ 'ਤੇ ਘੱਟ ਤ੍ਰੇਲ ਪੈਣ 'ਤੇ ਹੈ।
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-army-worm-in-paddy?:
+  - text: ਸਪਰੇਅ 400 ਮਿ.ਲੀ. ਏਕਲਕਸ 25 ਈ ਸੀ 100 ਐਲ ਟੀ ਵਿਚ. ਸ਼ਾਮ ਦੇ ਸਮੇਂ ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ ਦਾ.
+  utter_faq-agri-rice-b0/information-regarding-potassium-deficiency-in-paddy-crop:
+  - text: To complete the deficiency of potassium in paddy crop spray 1KG powder NPK (0:52:34) per acre in 100 liters of water(@10 gram per liter).spray can done in standing water or less water conditions.
+  utter_faq-agri-rice-b0/information-regarding-fungicide-for-paddy--root-rot:
+  - text: To control root rot disease in basmati ,seed and seedling treatment is mandatory. Smear the seeds with talc formulation of Trichoderma harzianum @ 15 g/kg of seed immediately before sowing and seedling root dip for 6 hrs with T. harzianum @ 15 g/litre of water before transplanting.broadcast 2 kg trichoderma harzianum per acre after transplanting mixed with 100kg FYM .if not available then buy it from online.
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-stem-rot-in-paddy:
+  - text: control Stem rot in paddy Spray the affected crop with 200 ml Amistar Top 325 SC (azoxystrobin + difenconazole) per acre in 200 litres of water, at the boot and ear-emergence stages.
+  utter_faq-agri-rice-b0/information-regarding-control-of-leaf-folder-in-basmati:
+  - text: For control of leaf folder in paddy, spray Ekalux 800 ml (Quinalphos25% EC ) in 100 litres of water per acre
+  utter_faq-agri-rice-b0/information-regarding-control-of-leaf-folder-when-there-are-15-days-left-for-harvesting:
+  - text: No need to spray of any insecticide at this stage when there are 15 days left for harvesting
+  utter_faq-agri-rice-b0/information-regarding-the-spray-against-brown-leaf-spot:
+  - text: For control of grasshopper in paddy, spray 120 GM chess(Pymetrozine 50 WG) or 40 ml confidor(Imidacloprid 200 SL (17.8 % w/w) or Ekalux 800 ml (Quinalphos 25% EC ) or 1 liter Chlorpyriphos 20 EC in 100 litres of water per acre
+  utter_faq-agri-rice-b0/information--regarding-dying-of-plants-of-paddy:
+  - text: Take proper survey of field and ensure the disease before spray of any pesticide and visit the near agriculture office to make sure the disease.
+  utter_faq-agri-rice-b0/dose-of-acephate-use-in-paddy-crop:
+  - text: acephate 75% sp @ 1.5 gm/liter of water
+  utter_faq-agri-rice-b0/information-regarding-control-of-termite-in-rice-crop:
+  - text: o Control of termite in paddy apply Chlorpyriphos 20EC @ 1 litter mixing with 25 to 30 kg sand per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-of-control-of-sheath-blight-in-rice:
+  - text: For control of sheath blight in basmati spray 200 ml Amistar Top 325 SC (Azoxystrobin+Difenoconazole) or 80 gram Nativo 75 WG (Tebuconazole+Trifloxystrobin) or 200 ml Folicur/Orius 25 EC (Tebuconazole) or 200 ml Moncerem 250 SC (Pencycuron) in 200 liters of water per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-of-false-smut-in-rice:
+  - text: To control false smut in paddy spray 500 gram kocide(copper hydroxide) 46 DF or 200ml Tilt/Bumper 25 EC (propiconazole) in 200 litre of water per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-kernel-smut-in-rice-crop:
+  - text: FOR CONTROL OF KERNEL SMUT IN PADDY SPRAY TILT 25 EC @ 200 ML IN 200 LITRE WATER PER ACRE.
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-fungus-in-basmati:
+  - text: spray amistar top 200 ml or nativo 80 gm in 200 liter
+  utter_faq-agri-rice-b0/information-regarding-the-control-of-fungal-disease-in-basmati:
+  - text: For control of fungal disease in basmati spray 200 ml Amistar Top 325 SC (Azoxystrobin+Difenoconazole) or 80 gram Nativo 75 WG (Tebuconazole+Trifloxystrobin) or 200 ml Folicur/Orius 25 EC (Tebuconazole) or 200 ml Moncerem 250 SC (Pencycuron) in 200 liters of water per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-of-reddish-in-paddy:
+  - text: spray 1kg zinc sulphate in 100 litre of water/acre
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-anthrachnose-disease-in-rice-crop:
+  - text: THE CONTROL OF ANTHRACNOSE DISEASE IN RICE CROP,PLS SPRAY 500GM SAAF(CARBENDAZIM12%+MANCOZEB63%WP) /ACRE.
+  utter_faq-agri-rice-b0/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy:
+  - text: The best time to spray any chemical in the morning when less dew drops on the leaves of paddy crop or in the evening.
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-sulphur-deficiency-in-paddy:
+  - text: APPLY 75 KG SUPER PHOSPHATE IN 1 ACRE AREA
+  utter_faq-agri-rice-b0/information-regarding-dose-of-urea-for-basmati-rice:
+  - text: Total urea required 130 kg in three equal parts after sowing 4 , 6 9 weeks
+  utter_faq-agri-rice-b0/information-regrading-to-control-of-broadleaf-weeds-in-rice:
+  - text: control broad leaf weeds in paddy spray 30 g per acre Algrip 20 WG (metsulfuron*) or 50 g Sunrice15 WG (ethoxysulfuron) or 40 g Londex 60 DF (bensulfuron methyl) or 16 g Segment 50 DF (azimsulfuron*) in 150 litres of water at 20 days after transplanting.
+  utter_faq-agri-rice-b0/how-to-control-steam-borer-in-paddy-crop:
+  - text: FOR THE CONTROL OF RICE STEMBORER IN PADDY(JHONA) CROP,PLS APPLY 5KG CARTAP HYDROCHLORIDE(PADAN) OR 4KG CHLORANTRANILIPROLE(FARTERA) PER ACRE.
+  utter_faq-agri-rice-b0/information-regarding-which-spray--should-be-done-at-booting-stage-in-paddy:
+  - text: Amistar top 200 ml and nativo 80gm can be done at booting or panicle inition stage
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-army-worm-in-paddy:
+  - text: Spray 400 ml. Ekalux 25EC in 100 lt. of water per acre at evening time.
+  utter_faq-agri-rice-b0/information-regarding-yellow-rust-in-paddy:
+  - text: Spray- 200 ml tilt in 200 liter water /acre .
+  utter_faq-agri-rice-b0/how-to-control-bacterial-blight-disease-in-basmati-rice:
+  - text: OR CONTROL OF BACTERIAL BLIGHT IN PADDY SPRAY 500 GRAM BLITOX (COPPER OXYCHLORIDE) AND 20 GRAM AGRIMYCIN OR 3 GRAM STREPTOCYCLINE IN 200 LITERS OF WATER PER ACRE
+  utter_faq-agri-rice-b1-pun/information-regarding-control-of-termite-in-paddy-?:
+  - text: ਝੋਨੇ ਵਿਚ ਟਰਮੀਟ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਲਈ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 ਈਸੀ @ <ਟੀਏਜੀ 1> ਕੂੜਾ 25 ਤੋਂ 30 ਕਿਲੋ ਰੇਤ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ ਮਿਲਾਓ.
+  utter_faq-agri-rice-b1-pun/rice-leaves-turn-into-the-white-colour?:
+  - text: ਇੱਕ ਏਕੜ ਵਿੱਚ 1 ਕਿਲੋਗ੍ਰਾਮ ਫੇਰਸ ਸਲਫੇਟ ਲਗਾਓ.
+  utter_faq-agri-rice-b1/information-regarding-control-of-termite-in-paddy:
+  - text: To Control of termite in paddy apply Chlorpyriphos 20EC @ 1 litter mixing with 25 to 30 kg sand per acre.
+  utter_faq-agri-rice-b1/information-regarding-drainage-problem-in-paddy-feild:
+  - text: braodcast sulphur 80% 4 kg per acre mix with sand
+  utter_faq-agri-rice-b1/information-regading-control-of-rats-in-paddy-feild:
+  - text: Take 1 kg wheat or bajra , 20 gram basmati oil , 20 gram powder sugar , 25 gram zinc phosphoid then mix all of them and make 10 gram of 100 balls .broadcast 40 balls per acre .
+  utter_faq-agri-rice-b1/information-regarding-bluegreen-algae-in-paddy:
+  - text: Blue-green algae is good for paddy crop,it helps to fix nitrogen in field.
+  utter_faq-agri-rice-b1/information-regarding--application-of-water-after-broadcasting-urea-in-field:
+  - text: DRAIN WATER FROM FIELD AND APPLY UREA THEN IRRIGATION SHOULD BE PROVIDED NEXT DAY
+  utter_faq-agri-rice-b2-pun/number-of-rice-plant-require-in-one-one-square-meter?:
+  - text: 66 ਪੌਦੇ ਲਈ ਇਕ ਵਰਗ ਮੀਟਰ ਦੀ ਜ਼ਰੂਰਤ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-for-the-control-of-weeds-in-paddy(jhona)-crop?:
+  - text: ਪੈਡੀ ਨੂਰਸਰੀ ਸਪਰੇਅ ਵਿਚ 120 ਐਮਐਲ ਨੋਮੀਨੀ ਗੋਲਡ ਪਰ ਏਕੜ ਵਿਚ 15-25 ਦਿਨਾਂ ਦੇ ਬਾਅਦ.
+  utter_faq-agri-rice-b2-pun/information-regarding-control-of-weeds-in-paddy-?:
+  - text: ਝੋਨੇ ਦੇ ਸਪਰੇਅ ਨਾਮਜ਼ਦ ਸੋਨੇ / ਮਾਚੋ (ਬਿਸਪੀਰੀਬੈਕ-ਸੋਡੀਅਮ 10% ਵਿੱਚ ਬੂਟੀ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ% ਐਸਸੀ) 150 ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ (0.66 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ) ਵਿਚ 100 ਮਿ.ਲੀ. ਅਤੇ ਸਪਰੇਅ ਤੋਂ ਇਕ ਦਿਨ ਬਾਅਦ ਸਿੰਚਾਈ ਲਾਗੂ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-spacing-in-direct-seeded-rice?:
+  - text: ਸਿੱਧੀ ਦਰਜਾ ਪ੍ਰਾਪਤ ਚਾਵਲ ਦੀ ਕਤਾਰ ਵਿਚ ਕਤਾਰ ਵਿਚ ਸਪੇਸਿੰਗ 20 ਸੈਮੀ ਹੈ ਅਤੇ ਡੂੰਘਾਈ 2 -3 ਸੈਮੀ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-application-of--pre-emergence-weedicide?:
+  - text: ਬਿਮਾਰੀ ਜਾਂ ਪੌਸ਼ਟਿਕ ਘਾਟ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਜਾਂ ਨੇੜਲੇ ਖੇਤੀਬਾੜੀ ਦਫਤਰ ਦਾ ਦੌਰਾ ਕਰਨ ਲਈ ਸਹੀ ਸਰਵੇਖਣ ਕਰੋ.
+  utter_faq-agri-rice-b2/sowing-seaosn-of-basmati:
+  - text: sowing season of the basmati start from the first july.
+  utter_faq-agri-rice-b2/information-regarding-the-detail-of-hybrid-paddy-cultivation:
+  - text: The cultivation of hybrid paddy in Punjab is prohibited by the government of Punjab because it has high percentage of broken grains which create problem in marketing due to quality measurement.
+  utter_faq-agri-rice-b2/number-of-rice-plant-require-in-one-one-square-meter:
+  - text: 66 plant require for one sqruare meter.
+  utter_faq-agri-rice-b2/information-regarding-for-the-control-of-weeds-in-paddyjhona-crop:
+  - text: FOR THE CONTROL OF WEEDS IN PADDY NURSERY SPRAY 120 ML NOMINY GOLD PER ACRE AFTER 15-25 DAYS OF SOWING.
+  utter_faq-agri-rice-b2/information-regarding-control-of-weeds-in-paddy:
+  - text: To control weeds in paddy spray nominee gold/macho (Bispyribac-sodium 10% SC) 100 ml in 150 liters of water per acre(0.66 ml per liter of water) and irrigation may be applied one day after spray.
+  utter_faq-agri-rice-b2/information-regarding-spacing-in-direct-seeded-rice:
+  - text: Spacing in Direct Seeded Rice row to row spacing is 20cm and Depth is 2-3cm.
+  utter_faq-agri-rice-b2/information-regarding-application-of--pre-emergence-weedicide:
+  - text: take proper survey to ensure the disease or nutrient deficiency or visit the near agriculture office.
+  utter_faq-agri-rice-b3-pun/information-regarding-the-best-method-of-puddling-in-paddy?:
+  - text: ਰੋਟਵੇਟਰ ਦੁਆਰਾ ਪੁਡਿੰਗ ਦੀ ਤੁਲਨਾ ਵਿਚ ਕਲਟੀਵੇਟਰ ਦੁਆਰਾ ਝੋਨੇ ਵਿਚ ਪੁਡਿੰਗ ਬਿਹਤਰ ਹੈ.
+  utter_faq-agri-rice-b3-pun/information-regarding-storage-of-paddy-after-harvesting.:
+  - text: 10% ਦੇ ਵੱਡੇ ਮਿISਸਟਰ ਕੰਟੈਂਟ%
+  utter_faq-agri-rice-b3-pun/information-regarding-the-cultivation-of-paddy-in-alkali-soil-?:
+  - text: 7.5 ਕਿਲੋਗ੍ਰਾਮ ਸੁਪਰ ਫਾਸਫੇਟ, 3.25 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ, 5 ਕਿਲੋਗ੍ਰਾਮ ਜ਼ਿੰਕ ਸਲਫੇਟ 21% ਜਾਂ 3 ਕਿਲੋਗ੍ਰਾਮ ਜ਼ਿੰਕ ਸਲਫੇਟ 33% ਲਾਗੂ ਕਰੋ% ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ ਪ੍ਰਤੀ ਨਹਿਰ 15 ਦਿਨਾਂ ਦੇ ਬਿਜਾਈ ਤੋਂ ਬਾਅਦ 3.25 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ ਦੀ ਬਿਜਾਈ ਅਤੇ ਲਾਗੂ ਕਰੋ. ਨਮੀ ਵਾਲੇ ਖੇਤਰ ਵਿਚ ਯੂਰੀਆ ਨੂੰ ਖੜ੍ਹੇ ਪਾਣੀ ਵਿਚ ਨਹੀਂ ਲਾਗੂ ਕਰੋ.
+  utter_faq-agri-rice-b3-pun/information-regarding-the-cultivation-of-paddy-in-poor-quality-water-?:
+  - text: ਮਾੜੀ ਕੁਆਲਟੀ ਵਾਲੇ ਪਾਣੀ ਵਿਚ ਝੋਨੇ ਦੀ ਕਾਸ਼ਤ ਲਈ ਪਾਣੀ ਦੀ ਜਾਂਚ ਰਿਪੋਰਟ ਦੇ ਅਧਾਰ ਤੇ ਜਿਪਸਮ ਲਾਗੂ ਕਰੋ.
+  utter_faq-agri-rice-b3-pun/information-regarding-application-of-booster-for-paddy-crop?:
+  - text: ਝੋਨੇ ਦੀ ਫਸਲ ਲਈ ਬੂਸਟਰ ਦੀ ਕੋਈ ਸਿਫਾਰਸ਼ ਨਹੀਂ.
+  utter_faq-agri-rice-b3/information-regarding-the-best-method-of-puddling-in-paddy:
+  - text: The puddling in paddy by the Cultivator is better as compared to the puddling by the Rotavator.
+  utter_faq-agri-rice-b3/information-regarding-storage-of-paddy-after-harvesting:
+  - text: STORED UPTO MOISUTRE CONTENT OF 10%
+  utter_faq-agri-rice-b3/information--regarding-straw-management-of-rice:
+  - text: use MB plough to manage the rice straw.it can be easily decompose.
+  ? utter_faq-agri-rice-b3/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown
+  : - text: Yes, you can
+  utter_faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-alkali-soil:
+  - text: Apply 7.5 kg Super phosphate, 3.25 kg urea, 5 kg zinc sulphate 21% or 3 kg Zinc sulphate 33% per kanal at before sowing and apply 3.25 kg urea after 15 days of sowing.apply urea in moist field not in standing water.
+  utter_faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-poor-quality-water:
+  - text: For cultivation of paddy in poor quality water apply Gypsum based on the water testing report.
+  utter_faq-agri-rice-b3/how-to-increase-the-water-absorbing-capacity-of-soil:
+  - text: Nothing is recommended to increase the water absorbing capacity of land.
+  utter_faq-agri-rice-b3/information-regarding-application-of-booster-for-paddy-crop:
+  - text: no recommendation of booster for paddy crop.
+  utter_faq-agri-rice-b4-pun/information-regarding-how-to-manage-water-in-booting-stage--?:
+  - text: ਬੂਟ ਕਰਨ ਦੇ ਪੜਾਅ 'ਤੇ ਅਨੁਕੂਲ ਨਮੀ ਬਣਾਈ ਰੱਖਣੀ ਚਾਹੀਦੀ ਹੈ
+  utter_faq-agri-rice-b4-pun/information-regarding-preventing-the-paddy-field-from-cracks--?:
+  - text: ਝੋਨੇ ਦੇ ਖੇਤ ਨੂੰ ਫਟਣ ਤੋਂ ਰੋਕਣ ਲਈ ਖੇਤ ਵਿੱਚ ਤਰੇੜਾਂ ਪੈਦਾ ਹੋਣ ਤੋਂ ਪਹਿਲਾਂ ਸਿੰਚਾਈ ਕਰੋ।
+  utter_faq-agri-rice-b4-pun/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil-?:
+  - text: ਪੰਜਾਬ ਐਗਰੀਕਲਚਰਲ ਯੂਨੀਵਰਸਿਟੀ ਲੁਧਿਆਣਾ ਵੱਲੋਂ ਹਲਕੀ ਬਣਤਰ ਵਾਲੀ ਮਿੱਟੀ ਲਈ ਝੋਨੇ ਦੀ ਕਿਸੇ ਵਿਸ਼ੇਸ਼ ਕਿਸਮ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ।
+  utter_faq-agri-rice-b4/information-regarding-preventing-the-paddy-field-from-cracks:
+  - text: The prevent the paddy field from cracking apply the irrigation before the field develop cracks.
+  utter_faq-agri-rice-b4/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil:
+  - text: No any special variety of paddy is recommended by Punjab Agricultural University Ludhiana for light textured soil.
+  utter_faq-agri-wheat-b0-pun/information-regarding-the-control-of-american-caterpillar-in-wheat:
+  - text: XYZ ਜਵਾਬ
+  utter_faq-agri-wheat-b0-pun/information-regarding-pest-control-in-wheat-crop:
+  - text: 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ ਕਲੋਰਪਾਈਰੀਫੋਸ @ 400 ਮਿ.ਲੀ. ਦਾ ਸਪਰੇਅ.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-leaf-curl-in-wheat:
+  - text: spray actara 70gm in 100 litr of water/acre
+  - text: SPRAY TO TILT 25 EC @ 200 ML IN 200 LITRE OF WATER PER ACRE.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-caterpillar-in-wheat-crop:
+  - text: For control of caterpiller in wheat , spray Ekalux 25EC(quinalphos) @ 400 ml in 100 litres of water per acre.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-fungus-in-wheat:
+  - text: broadcast saaf 500gm in 20kg of sand per acre in wheat.
+  - text: for fungus problem in wheat can be controlled by applying 500 gm saafilizer with 15 kg urea can be broadcasted
+  utter_faq-agri-wheat-b1-pun/information-regarding-how-to-control-the-phalaris-minor-in-the-wheat-crop-?:
+  - text: ਕਲੋਡੀਨਾਫੋਸ 15 ਡਬਲਯੂਪੀ (ਟੌਪਿਕ/ਰਾਕਸ਼ਾਕ ਪਲੱਸ) @ 160 ਗ੍ਰਾਮ ਜਾਂ ਫੀਨੋਕਸੈਡੀਨ 5 ਈਸੀ (ਐਕਸਿਲ) @ 400 ਮਿਲੀਲੀਟਰ ਜਾਂ ਫੀਨੋਕਸਾਪਰੋਪ-ਪੀ-ਈਥਾਈਲ 10 ਈਸੀ (ਪਿਊਮਾ ਪਾਵਰ) @ 400 ਮਿਲੀਲੀਟਰ ਜਾਂ ਸੈਲਫੋਸਲਫੂਰਾਨ @ 400 ਮਿਲੀਲੀਟਰ ਜਾਂ ਸਲਫੋਸਲਫਿਊਰਾਨ 75 ਐੱਸ/130 (ਐਕਸਿਲ) ਦੀ ਸਪਰੇਅ ਕਰੋ। ਬਿਜਾਈ ਤੋਂ 30-35 ਦਿਨਾਂ ਬਾਅਦ ਛੋਲਿਆਂ ਨੂੰ 200 ਲਿਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ ਘੋਲ ਦਿਓ।
+  utter_faq-agri-wheat-b1-pun/information-regarding-control-of-nematodes-affected-plant-in-wheat?:
+  - text: ਵ੍ਹਾਈਟ ਵਿੱਚ ਨੈਮੇਟਡਜ਼ ਦੇ ਪ੍ਰਭਾਵਸ਼ਾਲੀ ਪਲਾਂਟ ਦਾ ਨਿਯੰਤਰਣ - ਏਪੀਲੀ 4 ਕੇਜੀ ਫੁਰਦਾਨ ਪਰ ਏਕੜ .
+  utter_faq-agri-wheat-b1-pun/information-regarding--control-of-chenopodium-album?:
+  - text: ਸਪਰੇਅ ਐਲਗ੍ਰਿਪ / ਐਲਗ੍ਰਿਪ ਰਾਇਲ / ਮਾਰਕਗ੍ਰਿਪ / ਮਕੋਟੋ 20 ਡਬਲਯੂਪੀ (ਮੈਟਸੁਲਫੂਰਨ *) 10 ਗ੍ਰਾਮ 150 ਐਲ ਪਾਣੀ ਜਾਂ ਐਮੀ / ਐਫੀਨੀਟੀ 40 ਡੀਐਫ (ਕਾਰਫੈਂਟ੍ਰਜ਼ੋਨ-ਈਥਾਈਲ *) 20 ਗ੍ਰਾਮ 200 ਐਲ ਪਾਣੀ
+  utter_faq-agri-wheat-b1/information-regarding-nozzle-used-in-herbicide-in-wheat-crop:
+  - text: Nozzle used in herbicide in wheat crop is Flat fan or Flood jet nozzle for pre- emergence and only Flat fan for post- emergence.
+  utter_faq-agri-wheat-b1/information-regarding-control-of-nematodes-affected-plant-in-wheat:
+  - text: CONTROL OF NEMATODES AFFECTED PLANT IN WHEAT - APPLY 4KG FURADAN PER ACRE .
+  utter_faq-agri-wheat-b2-pun/late-varieties-of-wheat?:
+  - text: ਵ੍ਹਾਈਟ ਦੇ ਲੇਟ ਸਾਵਿੰਗ ਦੀਆਂ ਕਿਸਮਾਂ ਪੀਬੀਡਬਲਯੂ 509, ਪੀਬੀਡਬਲਯੂ 590, ਪੀਬੀਡਬਲਯੂ 373
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application?:
+  - text: ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਛਿੜਕਾਅ ਤੋਂ 2 ਦਿਨ ਬਾਅਦ ਯੂਰੀਆ ਦਾ ਪ੍ਰਸਾਰਣ ਕਰੋ
+  utter_faq-agri-wheat-b3-pun/dose-of-urea-for-foliar-spray?:
+  - text: 3 ਕਿਲੋ ਯੂਰੀਆ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਪਾਓ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-biofertilizer-in-wheat-?:
+  - text: ਇਕ ਏਕੜ ਬੀਜ ਨੂੰ ਟੀਕਾ ਲਗਾਓ ਜਿਸ ਵਿਚ 500 ਗ੍ਰਾਮ ਕਨਸੋਰਟੀਅਮ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ ਅਤੇ ਇਕ ਲੀਟਰ ਪਾਣੀ ਦੀ ਪੱਕਾ ਦੇ ਫਰਸ਼ 'ਤੇ ਹੈ. ਇਸ ਨੂੰ ਛਾਂ ਵਿਚ ਸੁੱਕਣ ਦਿਓ ਅਤੇ ਤੁਰੰਤ ਬਿਜਾਈ ਕਰੋ.
+  utter_faq-agri-wheat-b3-pun/application-of-single-super-phosphate-in-wheat?:
+  - text: ਹਿ Humਮਿਕ ਐਸਿਡ ਦੇ ਨਾਲ ਸਿੰਗਲ ਸੁਪਰਫੋਸਫੇਟ ਦੀ ਵਰਤੋਂ ਕੈਲਕ੍ਰੀਅਸ ਮਿੱਟੀ ਵਿੱਚ ਵਿਕਾਸ, ਉਪਜ ਅਤੇ ਫਾਸਫੋਰਸ ਅਪਟੈਕ ਆਫ ਕਣਕ (ਟ੍ਰਿਟਿਕਮ ਐਸਟੀਵਮ ਐਲ.) ਵਿੱਚ ਸੁਧਾਰ ਕਰਦੀ ਹੈ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-batter-growth-?:
+  - text: ਸਪਰੇਅ ਐਨ ਪੀ ਕੇ @ 1 ਕਿਲੋਗ੍ਰਾਮ 100 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-dose-of-Deltamethrin?:
+  - text: ਸਪਰੇਅ 160ML / 100LITER / ACRE
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-foliar-application-of-urea-?:
+  - text: ਸਪਰੇਅ 1.5 ਕਿਲੋ ਯੂਰੀਆ 120 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ ਮਿਸ਼ਰਣ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-dose-of-leader-in-an-acre?:
+  - text: ਕਣਕ ਵਿਚ ਬੂਟੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਸਪਰੇਅ 160 ਗ੍ਰਾਮ ਟਾਪਿਕ (ਕਲੋਡੀਨਾਫੌਪ 15 ਡਬਲਯੂਪੀ) ਜਾਂ 13 ਗ੍ਰਾਮ ਲੀਡਰ (ਸਲਫੋਸੁਲਫੂਰਨ 75 ਡਬਲਯੂਜੀ) ਜਾਂ 16 ਗ੍ਰਾਮ ਕੁੱਲ (ਸਲਫੋਸਲਫੂਰਨ + ਮੈਟਸੁਲਫੂਰਨ 75 ਡਬਲਯੂਜੀ) ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ 30-35 ਦਿਨਾਂ ਬਾਅਦ ਬਿਜਾਈ
+  utter_faq-agri-wheat-b3/information-regarding-wheat-seed-germination-after-rain:
+  - text: NO ANSWER
+  utter_faq-agri-wheat-b3/information-reagarding-dose-of-urea-after-first-irrigation:
+  - text: APPLY 50 KG UREA/ACRE .
+  utter_faq-agri-wheat-b3/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days:
+  - text: THEN APPLY UREA AFTER IRRIGATION WHEN MOISTURE LEVEL IS OPTIMUM
+  utter_faq-agri-wheat-b3/information-regarding-fertilizer-dosage-before-1st-irrigation:
+  - text: FERTILIZER DOSAGE BEFORE 1ST IRRIGATION IN WHEAT-UREA-25KG+3KG SULPHUR.
+  utter_faq-agri-wheat-b3/deficiency-manganese-sulphate-in-wheat:
+  - text: 1kg masnese sulphate/100 litre water/acre.
+  utter_faq-agri-wheat-b3/urea-dose-at-sowing-time:
+  - text: FERT. DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-delta-methrine:
+  - text: SPRAY 160ML/100LITER /ACRE
+  utter_faq-agri-wheat-b3/information-regarding-control-of-nitrogen-in-wheat:
+  - text: SPRAY 3 KG UREA MIX IN 100 LITER WATER /ACRE.
+  utter_faq-agri-wheat-b3/information-regarding-poultry-manure-in-soil-before-wheat-sowing:
+  - text: apply 2.5 tonne per acre Poultry manure in soil before wheat sowing.
+  utter_faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat:
+  - text: urea can be applied 7-9 days after spraying weedicides for the better results
+  utter_faq-hort-chilli-b0/information-regarding-red-beetle-control-in-chllies:
+  - text: spray [Napthyl Acetic Acid 4.5 SL (4.5 % w/w)] 400 ml /acre mix 100 ltr water
+  utter_faq-hort-chilli-b0/information-regarding-how-to-control-stem-rot-in-chillies:
+  - text: CONTROL STEM ROT BY SPRAYING OF 300GM SAAF IN 100LITRE WATER/ACRE IN CHILLI(MIRCH).
+  utter_faq-hort-chilli-b0/information-regarding-control-of-catrepiller-in-chilies:
+  - text: spray coragen 1 ml in 2 liter of water for control of caterpillar
+  utter_faq-hort-chilli-b0/information-regarding-control-sundi-in-chillies:
+  - text: spray coragen @ 40gm in 150LTR of water per acre .
+  utter_faq-hort-chilli-b0/information-regarding-growth-regulator-used-in-chilli-crop:
+  - text: Growth Regulator used in Chilli crop spray in May-June of Napthalene acetic acid (NAA) 4g in 10-15ml ethyl alcohal per liter or Planofix 1ml in 4.5lt water at 10days interval.
+  utter_faq-hort-chilli-b1/information-regarding-potash-requirement-in-chilli:
+  - text: No Answer
+  utter_faq-hort-chilli-b1/information-regarding-caterpiler-attack-in-chillies:
+  - text: SUMICIDIN 20 EC 100 ML WITH 100 LITER WATER SPRAY PER ACRE
+  utter_faq-hort-chilli-b1/information-regarding-for-the-fert-dose-in-chilly-at-sowing-time:
+  - text: APPLY 40 KG UREA 20KG POTASH AND 55 KG DAP.
+  utter_faq-hort-chilli-b1/information-regarding-how-to-control-iron-deficiency-in-chilli:
+  - text: No Answer
+  utter_faq-hort-chilli-b1/how-to-control-thirips-in-chilli-crop:
+  - text: To control thrips in Chili spray 560 ml Malathion 50 EC or 200 ml rogor per acre in 100-liters water per acre.
+  utter_faq-hort-chilli-b1/information-regarding-for-the-control-of-aphids-in-chilli-crop:
+  - text: For control of Aphids in chilli spray 400ml Malathion 50EC in 100lt water per acre.
+  utter_faq-hort-garlic-b0/information-regarding-how-to-control-fungal-disease-in-garlic:
+  - text: FOR THE CONTROL OF FUNGAL DISEASE IN GARLIC CROP, SPRAY 500GM M-45 IN 150LITRE WATER/ACRE.
+  utter_faq-hort-garlic-b0/regarding-maggots-in-garlic:
+  - text: APPLY THIMAT 4KG/ACRE MIX IN SOIL
+  utter_faq-hort-garlic-b0/information-regarding-how-to-control-jassids-in-garlic:
+  - text: Spray 100 ml. Confidor 17.8% in 120 lt. of water per acre.
+  utter_faq-hort-garlic-b0/information-regarding-how-to-improve-growth-in-garlic:
+  - text: SPRAY 1 KG. NPK 00:52:34 IN 100 LT. OF WATER PER ACRE.
+  utter_faq-hort-garlic-b0/row-spacing-in-garlic:
+  - text: ROW SPACING IN GARLIC IS 15 CM
+  utter_faq-hort-garlic-b0/maturity-time-of-garlic:
+  - text: white and vary from 25-30 per bulb. It takes 165-170 days for maturity.
+  utter_faq-hort-garlic-b0/information-regarding-seed-treatment-of-garlic:
+  - text: Seed treatment with Thiram@2 gm/kg of seed + Benomyl 50WP@1 gm/liter water effectively controls damping off and smut diseases. After chemical treatment, seed treatment with bio agent Trichoderma viride@2 gm/kg of seed is recommended, it help in reducing early seedling diseases and soil borne inoculum.
+  utter_faq-hort-garlic-b0/information-regarding-last-irrigation-in-garlic:
+  - text: STOP IRRIGATION BEFORE 15 DAYS OF HARVESTING .
+  utter_faq-hort-garlic-b0/information-regarding-the-application-of-urea-in-garlic:
+  - text: APPLY 34KG UREA AFTER ONE MONTH OF SOWING 33KG UREA 15 DAYS AFTER THAT AND 33KG UREA 15 DAYS AFTER THAT .
+  utter_faq-hort-garlic-b0/information-regarding-the-harvesting-of-garlic:
+  - text: when crop leaves turn yellow harvest the garlic crop.
+  utter_faq-hort-garlic-b0/information-regarding-zinc-sulphate-doze-in-garlic:
+  - text: spray 5 gram zinc sulphate per litre water in garlic to overcome zinc deficency
+  utter_faq-hort-garlic-b0/information-regarding-control-of-thrips-in-thrips-and-other-sucking-pests-crop:
+  - text: Spray 250 ml malathion per acre in 100 liters of water to control thrips and other sucking pests in garlic crop.
+  utter_faq-hort-garlic-b0/information-regarding-control-of-caterpillar-in-garlic:
+  - text: NO ANSWER
+  utter_faq-hort-garlic-b0/tell-me-about-insect-control-in-garlic:
+  - text: spray malathion 50 ec @250ml in 80litre per acre
+  utter_faq-hort-garlic-b0/information-regarding-for-control-of-root-rot-in-garlic:
+  - text: NO ANSWER
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-pea-leaf-miner-attack-in-pea-crop:
+  - text: Spray 300-400ml metasystox 30EC in 150lt water per acre
+  utter_faq-hort-pea-b0/information-regarding-fugal-problem-in-peas:
+  - text: Spray indofil M 45 400gm in 200L of water per acre in feild of pea
+  utter_faq-hort-pea-b0/how-to-pest-control-in-pea-crop:
+  - text: SPRAY CYPERMETHRIN 20 EC 80-100 ML IN 150 LITER NOF WATER FOR 1 ACER
+  utter_faq-hort-pea-b0/information-regarding-the-yellow-rust-in-peas:
+  - text: SPRAY 400 GM INDOFIL M-45 IN 200 LITRES OF WATER PER ACRE FOR THE YELLOW RUST IN PEAS
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-rats-in-pea:
+  - text: APPLY ZINC PHOSPHIDE FOR THE CONTROL THE CONTROL OF RATS.
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-insects-in-pea:
+  - text: For control of insects in pea spray 300 ml Malathion 50 EC in 100 liters of water per acre.
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-aphids-in-peas:
+  - text: SPRAY ROGOR 150 ML IN 100 LITRE WATER PER ACRE
+  utter_faq-hort-pea-b0/information-regarding-for-control-of-root-rot-in-pea:
+  - text: For control of root rot in peas drench the field with 3 gram Bavistin 50 WP (Carbendazim) per liter water.
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-leaf-folder-when-there-are-15-days-left-for-harvesting-?:
+  - text: ਇਸ ਪੜਾਅ 'ਤੇ ਕਿਸੇ ਵੀ ਕੀਟਨਾਸ਼ਕਾਂ ਦੇ ਸਪਰੇਅ ਦੀ ਜ਼ਰੂਰਤ ਨਹੀਂ ਹੈ ਜਦੋਂ ਵਾ harvestੀ ਲਈ 15 ਦਿਨ ਬਚੇ ਹਨ
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-termite-in-rice-crop:
+  - text: o ਝੋਨੇ ਵਿਚ ਟਰਮੀਟ ਦਾ ਨਿਯੰਤਰਣ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 ਈਸੀ @ <ਟੀਏਜੀ 1> ਕੂੜਾ 25 ਤੋਂ 30 ਕਿਲੋ ਰੇਤ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ ਮਿਲਾਉਂਦਾ ਹੈ.
+  utter_faq-agri-rice-b0-pun/information-regarding-how-to-control-black-spots-on-grains-in-paddy-rice?:
+  - text: ਸਪਰੇਅ 200 ਮਿ.ਲੀ. 25EC ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਟਿਲਟ ਕਰੋ।
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy:
+  - text: Broadcast 2 lt. Chlorpyriphos 20EC mix 2 l water and mix in 30 kg dry sand per acre in standing water.
+  utter_faq-agri-rice-b0/information-regarding--paddy--damaged-in-flood:
+  - text: no need to apply any thing on paddy damaged in flood
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-white-fly-in-paddy-crop:
+  - text: To control white fly in cotton in early stages spray 1 liter nimbecidine per acre in 100 liters of water
+  utter_faq-agri-rice-b1-pun/information-regarding-problem-of-water-stagnating-in-paddy-crop-?:
+  - text: ਪੋਲਟਰੀ ਵਿਹੜੇ ਦੀ ਖਾਦ ਦੀ ਖੁਰਾਕ ਝੋਨੇ ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ 2.5 ਟਨ ਹੈ .ਇਹ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 55 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ ਦੀ ਬਚਤ ਕਰਦਾ ਹੈ.
+  ? utter_faq-agri-rice-b1-pun/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result?
+  : - text: ਬਿਹਤਰ ਨਤੀਜੇ ਲਈ ਯੂਰੀਆ ਅਤੇ ਮੀਂਹ ਦੇ ਸਪਰੇਅ ਵਿਚਕਾਰ 12 ਘੰਟੇ ਕਾਫ਼ੀ ਪਾੜਾ ਹੈ.
+  utter_faq-agri-rice-b1/information-regarding-mycorrhiza-apply-in-paddy-field:
+  - text: broadcast mychorrihzae 3kg in a one acre
+  utter_faq-agri-rice-b1/information-regarding-dificency-of-npk-in-rice:
+  - text: SPRAY NPK 19:19:19 @ 1 KG IN 100 LITER/ACRE.
+  utter_faq-agri-rice-b2-pun/sowing-time-of-direct-seedling-of-basmati?:
+  - text: ਚਾਵਲ ਦੀ ਸਿੱਧੀ ਬਿਜਾਈ ਲਈ 1 -15 ਜੂਨ ਬਿਜਾਈ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-for-the-seed-treatment-of-paddy(jhona)?:
+  - text: 20 ਜੀ.ਐੱਮ. ਬਾਵਿਸਟੀਨ ਅਤੇ 1 ਗ੍ਰਾਮ ਸਟ੍ਰੈਪਟੋਕਾਈਕਲਿਨ ਨੂੰ ਜਾਰੀ ਰੱਖਣ ਵਾਲੇ ਪਾਣੀ ਦੇ 10 ਲੀਟਰ ਵਿੱਚ ਬੀਜਿਆ ਗਿਆ
+  utter_faq-agri-rice-b2-pun/information-regarding-when-to-use-weedcide-just-after-transplantation-?:
+  - text: ਬ੍ਰਾਡਕਾਸਟ 600 ਐਮਐਲ ਰਿਫਿਟ 60 ਕੇਜੀ ਸੈਂਡ ਨਾਲ 3 ਟ੍ਰੈਨਸਪਲੈਂਟਿੰਗ ਦੇ ਦਿਨ ਤੋਂ ਬਾਅਦ ਸਟੈਂਡਿੰਗ ਵਾਟਰ ਵਿਚ ਮਿਲਾਇਆ ਗਿਆ
+  utter_faq-agri-rice-b2/information-regarding-for-the-suitable-sowing-time-of-paddyjhona:
+  - text: THE SUITABLE SOWING TIME OF PADDY(JHONA) IS -NORMAL & HYBRID VARIETIES-15 TO 25MAY & BASMATI VARIETIES-FIRST WEEK OF JUNE .
+  utter_faq-agri-rice-b2/information-regarding-plantation-of-basmati-rice:
+  - text: MID OF JUNE
+  utter_faq-agri-rice-b2/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-paddy:
+  - text: DRENCH THE SEEDLINGS WITH WATER SPRAYER TANK
+  utter_faq-agri-rice-b4-pun/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didn't-sprout-?:
+  - text: ਬੀਜ ਨੂੰ ਵਧੇਰੇ ਸਿੰਚਾਈ ਦੇਣਾ ਮਾੜੇ ਫੁੱਟਣ ਦਾ ਨਤੀਜਾ ਹੈ
+  utter_faq-agri-rice-b4/information-regarding-hydroponic-technique:
+  - text: No Answer
+  utter_faq-agri-rice-b4/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didnt-sprout:
+  - text: giving excess irrigation to seed result into poor sprouting
+  utter_faq-agri-rice-b4/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field:
+  - text: To remove wheat stubble burning ash from paddy nursery field apply light irrigation and remove the water from other side of the field .
+  utter_faq-agri-wheat-b0/information-regarding-control-of-black-rust-in-wheat:
+  - text: Damage by wheat rust may be minimized by spraying Zineb or Mencozeb 75 WP.
+  utter_faq-agri-wheat-b3-pun/information-regarding-dose-of-fertilizers-in-wheat-crop-?:
+  - text: ਕਣਕ ਦੀਆਂ ਕਿਸਮਾਂ ਹਨ-ਉਨਾਟ ਪੀਬੀਡਬਲਯੂ 343 (ਉਪਜ-23.2 ਕੁਇੰਟਲ), ਉਨਾਤ ਪੀਬੀਡਬਲਯੂ 550 (ਉਪਜ-23 ਕੁਇੰਟਲ), ਪੀਬੀਡਬਲਯੂ 1 ਜ਼ਿੰਕ (ਉਪਜ-22.5 ਕੁਇੰਟਲ), ਪੀਬੀਡਬਲਯੂ 725 (ਉਪਜ-22.9 ਪੀ.22.7 ਕੁਇੰਟਲ), ਪੀ.ਬੀ.ਡਬਲਯੂ. ਕੁਇੰਟਲ), HD 3086 (ਉਪਜ-23 ਕੁਇੰਟਲ), HD 2967 (ਉਪਜ-21.4 ਕੁਇੰਟਲ), WH 1105 (ਉਪਜ-23.1 ਕੁਇੰਟਲ), PBW 621 (ਉਪਜ-21.1 ਕੁਇੰਟਲ) ਅਤੇ PBW-520 (Yield-8 ਕੁਇੰਟਲ)।
+  utter_faq-agri-wheat-b3-pun/information-regarding-method-of-fertilizer-application-in-wheat-?:
+  - text: ਅੱਧੀ (55 ਕਿਲੋ) ਨਾਈਟ੍ਰੋਜਨ ਦੀ ਖੁਰਾਕ ਅਤੇ ਪੂਰੀ (55 ਕਿਲੋ) ਡੀਏਪੀ ਅਤੇ ਪੋਟਾਸ਼ (20 ਕਿਲੋ) ਬਿਜਾਈ ਦੇ ਸਮੇਂ ਅਤੇ ਬਾਕੀ (55 ਕਿਲੋ) ਨਾਈਟ੍ਰੋਜਨ ਪਹਿਲੀ ਸਿੰਚਾਈ 'ਤੇ ਪਾਓ।
+  utter_faq-agri-wheat-b3-pun/urea-dose-at-sowing-time-?:
+  - text: ਫਰਟ. ਬਿਜਾਈ ਦੇ ਸਮੇਂ ਦੀ ਸਥਿਤੀ ਵਿਚ ਖੁਰਾਕ. - ਡੈਪ -55 ਕੇਜੀ, ਐਮਓਪੀ -25 ਕੇਜੀ ਅਤੇ ਯੂਰੀਆ -20 ਕੇਜੀ
+  utter_faq-agri-wheat-b3-pun/information-regarding-control-of-nitrogen-in-wheat-?:
+  - text: ਸਪਰਾ 3 KG ਯੂਰੀਆ ਮਿਕਸ 100 ਲਿਟਰ ਵਾਟਰ / ACRE ਵਿੱਚ.
+  utter_faq-agri-wheat-b3/information-regarding-total-fertilizers-dose-in-wheat:
+  - text: Total Fertilizers dose in wheat:- 110 Kg. Urea, 55 Kg. DAP, 20 Kg. Potash per acre.
+  utter_faq-agri-wheat-b3/information-regarding-application-of-manures:
+  - text: Manures contribute to the fertility of soil by adding organic matter and nutrients, such as nitrogen, that are utilised by bacteria, fungi and other organisms in the soil. Higher organisms then feed on the fungi and bacteria in a chain of life that comprises the soil food web.
+  utter_faq-hort-chilli-b0/information-regarding-insectpest-in-chillies:
+  - text: SPRAY MALATHION @400ML IN 100-125 LITRE WATER PER ACRE.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-leaf-spot-in-chilli-crop:
+  - text: Control of Leaf spot in Chilli crop spray 200g Indofil M-45 in 100lt water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-the-recommendation-of-manganese-in-chilli:
+  - text: spray Manganese Sulphate 500g in 100 litres of water per acre 2-3 days before on sunny days.
+  utter_faq-hort-chilli-b0/information-regarding-transplanting--time-of-chillies-crops:
+  - text: THE TRANSPLANTING TIME OF CHILLIES IS FEB. - MARCH .
+  utter_faq-hort-chilli-b1/information-regarding-to-method-of-plant-spacing-chillies:
+  - text: Row to row distance is 60 cm. and plant to plant distance is 45 cm.
+  utter_faq-hort-garlic-b0/information-regarding-burning-of-tips-in-garlic:
+  - text: SPRAY 500GM BLUE COPPER +1 TIKKA STREPTOCYCLIN IN 150 LITER OF WATER PER ACRE.
+  utter_faq-hort-garlic-b0/information-regarding-dose-of-ssp-in-garlicacre:
+  - text: 155KG/ACRE.
+  utter_faq-hort-pea-b0/information-regarding-the-control-of-damping-off-in-pea:
+  - text: SPRAY BAVISTIN ( CARBENDAZIM) @ 200GM IN 200 LITTERS OF WATER / ACRE.
+  utter_faq-hort-pea-b0/information-regarding-seed-treatment-in-pea-crop:
+  - text: Apply 8 tonnes FYM ,45 KG urea and 155kg single superphosphate in pea crop.
+  utter_faq-hort-pea-b0/information-regarding-the-defficiency-of-sulphur-in-pea:
+  - text: APPLY SULPHUR @ 3KG / ACRE.
+  utter_faq-agri-rice-b0-pun/information-regarding-potassium-deficiency-in-paddy-crop:
+  - text: ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਪੋਟਾਸ਼ੀਅਮ ਦੀ ਕਮੀ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ 1 ਕਿਲੋਗ੍ਰਾਮ ਪਾਊਡਰ NPK (0:52:34) ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ (10 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ) ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ। ਸਪਰੇਅ ਖੜ੍ਹੇ ਪਾਣੀ ਜਾਂ ਘੱਟ ਪਾਣੀ ਵਾਲੀਆਂ ਸਥਿਤੀਆਂ ਵਿੱਚ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ।
+  utter_faq-agri-rice-b0-pun/information-regarding-weed-control-in-pady:
+  - text: ਬਾਸਮਤੀ ਜਾਂ ਝੋਨੇ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ ਨੋਮੀਨੀ ਗੋਲਡ/ਮਾਚੋ (ਬਿਸਪਾਈਰੀਬੈਕ-ਸੋਡੀਅਮ 10% ਐਸ.ਸੀ.) 100 ਮਿਲੀਲੀਟਰ 150 ਲੀਟਰ/ਏਕੜ (0.66 ਮਿਲੀਲੀਟਰ ਪ੍ਰਤੀ ਲੀਟਰ ਪਾਣੀ) ਪਾਣੀ ਵਿੱਚ 20 ਦਿਨਾਂ ਬਾਅਦ ਛਿੜਕਾਅ ਕਰੋ। ਮਿੱਟੀ ਦੀ ਕਿਸਮ ਅਨੁਸਾਰ 2-3 ਦਿਨਾਂ ਬਾਅਦ ਸਿੰਚਾਈ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/infprmation-regarding-control-blb-in-rice-crops-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਬੀਐਲਬੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਸਪਰੇਅ ਅਮਿਸਟਰ ਚੋਟੀ ਦੇ 200 ਮਿ.ਲੀ. ਜਾਂ 80 ਗ੍ਰਾਮ ਨੈਟੀਵੋ ਜਾਂ 200 ਮਿ.ਲੀ. ਟਿਲਟ ਜਾਂ 200 ਮਿ.ਲੀ. ਫੋਲਿਕਚਰ ਜਾਂ ਲੂਸਟੂਰ @ 320 ਮਿ.ਲੀ. ਜਾਂ ਮੋਨੋਸੇਰੇਨ @ਪ੍ਰਤੀ ਏਕੜ 200 ਲੀਟਰ ਪਾਣੀ ਵਿਚ 200 ਮਿ.ਲੀ.
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-leaf-folder-in-basmati-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਪੱਤੇ ਫੋਲਡਰ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਇਕਲਕਸ 800 ਮਿ.ਲੀ. (ਕੁਆਨਲਫੋਸ 25% ਈਸੀ) ਸਪਰੇਅ ਕਰੋ
+  utter_faq-agri-rice-b0-pun/information-regarding-dose-furadan-in-rice?:
+  - text: ਰਾਈਸ 5 ਕੇਜੀ / ਏਕੜ ਵਿਚ ਫੁਰਾਡਨ ਨੂੰ ਖੁਰਾਕ ਦਿਓ.
+  utter_faq-agri-rice-b0-pun/information--regarding-dying-of-plants-of-paddy?:
+  - text: ਖੇਤ ਦਾ ਸਹੀ ਸਰਵੇਖਣ ਕਰੋ ਅਤੇ ਕਿਸੇ ਵੀ ਕੀਟਨਾਸ਼ਕ ਦੇ ਸਪਰੇਅ ਤੋਂ ਪਹਿਲਾਂ ਬਿਮਾਰੀ ਨੂੰ ਯਕੀਨੀ ਬਣਾਓ ਅਤੇ ਬਿਮਾਰੀ ਨੂੰ ਯਕੀਨੀ ਬਣਾਉਣ ਲਈ ਨੇੜਲੇ ਖੇਤੀਬਾੜੀ ਦਫਤਰ ਦਾ ਦੌਰਾ ਕਰੋ.
+  utter_faq-agri-rice-b0-pun/information-regarding--paddy--damaged-in-flood-?:
+  - text: ਹੜ੍ਹ ਵਿੱਚ ਨੁਕਸਾਨੇ ਝੋਨੇ ਤੇ ਕਿਸੇ ਵੀ ਚੀਜ਼ ਨੂੰ ਲਾਗੂ ਕਰਨ ਦੀ ਜ਼ਰੂਰਤ ਨਹੀਂ
+  utter_faq-agri-rice-b0-pun/dose-of-acephate-use-in-paddy-crop-..?:
+  - text: ਐਸੀਫੇਟ 75% ਐਸਪੀ @ 1.5 ਗ੍ਰਾਮ / ਪਾਣੀ ਦਾ ਲੀਟਰ
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-false-smut-in-rice?:
+  - text: ਝੋਨੇ ਦੇ ਸਪਰੇਅ 500 ਗ੍ਰਾਮ ਨਸਲਕੁਸ਼ੀ (ਤਾਂਪਰ ਹਾਈਡ੍ਰੋਕਸਾਈਡ) 46 ਡੀਐਫ ਜਾਂ 200 ਮਿ.ਲੀ. ਟਿਲਟ / ਬੰਪਰ 25 ਈਸੀ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ) ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 200 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਗਲਤ ਸਮੂਟ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ.
+  utter_faq-agri-rice-b0-pun/information-regarding-dose-of-urea-for-basmati-rice?:
+  - text: ਬਿਜਾਈ ਤੋਂ 4, 6 9 ਹਫ਼ਤਿਆਂ ਬਾਅਦ ਕੁੱਲ ਯੂਰੀਆ ਤਿੰਨ ਬਰਾਬਰ ਹਿੱਸਿਆਂ ਵਿੱਚ 130 ਕਿਲੋ ਲੋੜੀਂਦਾ ਹੈ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-black-bug-in-paddy-?:
+  - text: 1 ਲਿਟਰ ਕਲੋਰੋਪਾਈਰੀਫਾਸ ਜਾਂ 20 ਮਿਲੀਲਿਟਰ ਫੇਮ ਜਾਂ 170 ਗ੍ਰਾਮ ਮੋਰਟਾਰ ਨੂੰ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਇੱਕ ਏਕੜ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-nematode-in-basmati-rice?:
+  - text: ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ ਨਿਯੰਤਰਣ ਲਈ ਫਰਦਾਨ (ਕਾਰਬੋਫੂਰਨ) ਦੀ ਵਰਤੋਂ ਕਰੋ 8 -10 ਕਿਲੋ ਪ੍ਰਤੀ ਏਕੜ ਰੇਤ ਨਾਲ ਮਿਲਾਇਆ ਜਾਂਦਾ ਹੈ
+  utter_faq-agri-rice-b0-pun/information-regarding-yellow-rust-in-paddy?:
+  - text: ਸਪਰੇਅ- 200 ਮਿਲੀਲਿਟਰ ਝੁਕਾਓ ਨੂੰ 200 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਪਾਓ।
+  utter_faq-agri-rice-b0-pun/information-regarding-for-the-control-of-mangenege-deficiency-?:
+  - text: ਪ੍ਰਤੀ ਏਕੜ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ 1 ਕਿਲੋ ਮੈਗਨੀਜ਼ ਸਲਫੇਟ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0-pun/information-regarding-for-the-control-of-white-fly-in-paddy-crop:
+  - text: ਕਪਾਹ ਵਿੱਚ ਚਿੱਟੀ ਮੱਖੀ ਦੀ ਰੋਕਥਾਮ ਲਈ 1 ਲੀਟਰ ਨਿੰਬੇਸੀਡੀਨ ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0/information-regarding-to-boron-deficiency-in-paddy:
+  - text: For the control of boron deficiency in paddy spray 200g Borex(sodium borate) in 100 liters of water per acre.
+  utter_faq-agri-rice-b0/how-to-control-root-caterpilar-in-paddy-crop:
+  - text: For control of caterpillar in paddy apply 1 liter Chlorpyriphos 20 EC in 15-20 kg sand per acre.
+  utter_faq-agri-rice-b0/information-regarding-control-of-larvae-in-paddy-roots:
+  - text: broadcast carbofuron 7-10kg per acre in paddy feild
+  utter_faq-agri-rice-b0/information-regarding-dose-furadan-in-rice:
+  - text: DOSE FURADAN IN RICE 5KG/ACRE.
+  utter_faq-agri-rice-b0/information-regarding-control-of-dose-of-zice--in-rice:
+  - text: To complete the Zinc deficiency in paddy spray 1 kg Zinc sulphate(21%) in 200 liters of water per acre .
+  utter_faq-agri-rice-b0/information-regarding-control-of-black-bug-in-paddy:
+  - text: spray 1 liter chloropyriphos or 20 ml fame or 170 gram mortar in 100 liter water in one acre area
+  utter_faq-agri-rice-b0/information-regarding-control-of-nematode-in-basmati-rice:
+  - text: For control nematode in paddy crop use furadan (Carbofuran) 8-10 kg per acre mixed with sand
+  utter_faq-agri-rice-b0/information-regarding-how-to-control-black-spots-on-grains-in-paddy-rice:
+  - text: Spray 200 ml. Tilt 25EC in 200 lt. of water per acre.
+  utter_faq-agri-rice-b0/information-regarding-for-the-control-of-mangenege-deficiency:
+  - text: SPRAY 1 KG manganese sulphate IN 100 LITER OF WATER PER ACRE .
+  utter_faq-agri-rice-b1-pun/information-regarding-time-or-date-of-transplanting-of-rice?:
+  - text: 15 ਜੂਨ ਤੋਂ ਬਾਅਦ ਰਾਈਸ ਦੇ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਦੀ ਮਿਤੀ ਦਾ ਸਮਾਂ.
+  utter_faq-agri-rice-b1-pun/In-what-form-should-fertilizer-dose-be-applied-in-rice-after-sowing?:
+  - text: 15 ਦਿਨਾਂ ਬਾਅਦ ਅਤੇ ਫਿਰ ਚਾਰ ਹਫ਼ਤਿਆਂ ਬਾਅਦ 26 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ ਸ਼ਾਮਲ ਕਰੋ
+  utter_faq-agri-rice-b1-pun/information-regarding-mycorrhiza-apply-in-paddy-field?:
+  - text: ਇਕ ਏਕੜ ਵਿਚ ਮਾਈਕੋਰਰੀਹਜ਼ੇ 3 ਕਿਲੋਗ੍ਰਾਮ ਦਾ ਪ੍ਰਸਾਰਣ
+  utter_faq-agri-rice-b1-pun/information-regarding-dose-of-poultary-yard-manure-in-paddy--?:
+  - text: ਪੋਲਟਰੀ ਵਿਹੜੇ ਦੀ ਖਾਦ ਦੀ ਖੁਰਾਕ ਝੋਨੇ ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ 2.5 ਟਨ ਹੈ .ਇਹ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 55 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ ਦੀ ਬਚਤ ਕਰਦਾ ਹੈ.
+  utter_faq-agri-rice-b1-pun/information-regarding-control-of-pest-in--paddy-?:
+  - text: ਝੋਨੇ ਵਿਚ ਕੀੜੇ ਦੇ ਨਿਯੰਤਰਣ ਲਈ 1 ਲੀਟਰ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 EC ਲਾਗੂ ਕਰੋ ਜਿਸ ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 15-20 ਕਿਲੋਗ੍ਰਾਮ ਰੇਤ ਹੈ.
+  utter_faq-agri-rice-b1-pun/information-regarding-control-of-hispa-in-paddy-?:
+  - text: ਝੋਨੇ ਵਿੱਚ ਹਿਸਪਾ ਦੀ ਰੋਕਥਾਮ ਲਈ 1 ਲੀਟਰ ਕਲੋਰਪਾਈਰੀਫਾਸ 20 ਈਸੀ ਜਾਂ 800 ਮਿਲੀਲਿਟਰ ਏਕਲੌਕਸ ਨੂੰ 100 ਲਿਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b1-pun/information-regarding-blue-green-algae-in-paddy?:
+  - text: ਨੀਲੀ-ਹਰੇ ਐਲਗੀ ਝੋਨੇ ਦੀ ਫਸਲ ਲਈ ਵਧੀਆ ਹੈ, ਇਹ ਖੇਤਰ ਵਿਚ ਨਾਈਟ੍ਰੋਜਨ ਨੂੰ ਠੀਕ ਕਰਨ ਵਿਚ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ.
+  utter_faq-agri-rice-b1-pun/information-regarding-dificency-of-npk-in-rice?:
+  - text: ਸਪਰਾ ਐਨਪੀਕੇ 19:19:19 @ 1 ਕੇਜੀ ਇਨ 100 ਲਿਟਰ / ਏਕੜ.
+  utter_faq-agri-rice-b1-pun/information-regarding-urea-dose-in-paddy-seedlings?:
+  - text: ਬ੍ਰਾਡਕਾਸਟ 1 ਕੇਜੀ ਯੂਰੀਆ ਮਿਕਸ ਸੈਂਡ / ਏਕੜ
+  utter_faq-agri-rice-b1-pun/information-regarding-broadcast-dap-in-paddy-?:
+  - text: ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਫਾਸਫੋਰਸ ਸਪਰੇਅ 1.5 ਕਿਲੋ ਡੀਏਪੀ ਪ੍ਰਤੀ ਏਕੜ ਦੀ ਘਾਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ.
+  utter_faq-agri-rice-b1/information-regarding-time-or-date-of-transplanting-of-rice:
+  - text: Time of Date of Transplanting of Rice after 15June.
+  utter_faq-agri-rice-b1/fertilizer-dose-in-rice-after-sowing:
+  - text: add 26kg of urea after 15 days and then after four week
+  utter_faq-agri-rice-b1/information-regarding-dose-of-poultary-yard-manure-in-paddy:
+  - text: dose of poultry yard manure is 2.5 ton per acre in paddy .it saves 55kg urea per acre.
+  utter_faq-agri-rice-b1/information-regarding-problem-of-water-stagnating-in-paddy-crop:
+  - text: No recommendation of any remedy. Drain out the water from the field
+  utter_faq-agri-rice-b1/information-regarding-control-of-pest-in--paddy:
+  - text: for control of pest in paddy apply 1 liter Chlorpyrifos 20 EC mixed with 15-20 kg of sand per acre.
+  utter_faq-agri-rice-b1/information-regarding-control-of-hispa-in-paddy:
+  - text: For control of Hispa in Paddy spray 1 liter Chlorpyriphos 20 Ec or 800 ml Ekalaux in 100 liters of water per acre.
+  ? utter_faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result
+  : - text: 12 hours is sufficient gap between spray of urea and rain for better result.
+  utter_faq-agri-rice-b1/information-regarding-urea-dose-in-paddy-seedlings:
+  - text: BROADCAST 1KG UREA MIX SAND/ACRE
+  utter_faq-agri-rice-b1/rice-leaves-turn-into-the-white-colour:
+  - text: apply 1kg ferrous sulphate into the one acre.
+  utter_faq-agri-rice-b1/information-regarding-broadcast-dap-in-paddy:
+  - text: to complete the deficiency of phosphorous spray 1.5 kg DAP per acre in 100 liters of water in paddy crop.
+  utter_faq-agri-rice-b2-pun/information-regarding-time-of-nursery-sowing?:
+  - text: ਬਾਸਮਤੀ ਨਰਸਰੀ ਬਿਜਾਈ ਪਹਿਲੀ ਜੂਨ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦੀ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-for-the-suitable-sowing-time-of-paddy(jonna)-?:
+  - text: ਪੈਡੀ (ਜੋਨਾ) ਦਾ ਸਥਿਰ ਸਮਾਂ -ਨੋਰਮਲ ਅਤੇ ਹਾਈਬ੍ਰਿਡ ਵੈਰੀਟੀਜ਼ -15 ਤੋਂ 25 ਮਈ ਅਤੇ ਬਾਸਮੈਟੀ ਵੈਰੀਟੀਜ਼-ਫਾਇਰਸਟ ਵੀਕ ਆਫ ਜੂਨ ਹੈ .
+  utter_faq-agri-rice-b2-pun/information-regarding-application-of-padan-in-paddy-nursery-?:
+  - text: ਪੈਡਾਨ / ਰੀਜੈਂਟ / ਫੇਟੇਰਾ ਜਾਂ ਝੋਨੇ ਵਿਚ ਕਿਸੇ ਵੀ ਦਾਣੇਦਾਰ ਕੀਟਨਾਸ਼ਕਾਂ ਦੀ ਕੋਈ ਸਿਫਾਰਸ਼ ਨਹੀਂ. ਪਰ ਜੇ ਸਟੈਮ ਬੋਰਰ ਅਤੇ ਪੱਤੇ ਫੋਲਡਰ ਦਾ ਹਮਲਾ ਵਿਕਾਸ ਲਈ ਨਹੀਂ ਹੁੰਦਾ ਤਾਂ ਬਾਸਮਤੀ ਵਿਚ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-seed-treatment-of-basmati-seedlings?:
+  - text: ਵਾਟਰ ਦੇ 10 ਲੀਟਰ ਵਿਚ 1 ਜੀ.ਐੱਮ. ਸਟੇਪਟੋਕਾਈਕਲਾਈਨ ਦੇ ਨਾਲ ਬਾਵੇਸਟਿਨ 20 ਜੀ.ਐਮ.ਆਈ.ਐਕਸ ਨਾਲ ਤਿਆਰ ਕੀਤਾ ਗਿਆ
+  utter_faq-agri-rice-b2-pun/information-regarding-planting-time-of-basmati-crop?:
+  - text: ਬਾਸਮਤੀ ਦਾ ਪਲ ਲਗਾਉਣ ਦਾ ਸਮਾਂ -10 ਜੁਲਾਈ.
+  utter_faq-agri-rice-b2-pun/information-regarding-plantation-of-basmati-rice?:
+  - text: ਜੂਨ
+  utter_faq-agri-rice-b2-pun/information-regarding-the-sowing-time-of-rice-in-punjab.?:
+  - text: ਪੁੰਜਾਬ ਵਿੱਚ ਰਾਈਸ ਦਾ ਆਖਰੀ ਸਮਾਂ ਜੂਨ ਦੇ ਪਹਿਲੇ ਤੋਂ ਸ਼ੁਰੂ ਹੁੰਦਾ ਹੈ
+  utter_faq-agri-rice-b2-pun/information-regarding-moisture-content-of-rice:
+  - text: ਨਮੀ ਵਾਲੀ ਸਮੱਗਰੀ ਮੈਂਡੀ ਵਿਚ ਵੇਚਣ ਲਈ ਝੋਨੇ ਦਾ 14% ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ
+  utter_faq-agri-rice-b2-pun/telll-me-control-weeed-in-blank--field:
+  - text: ਸਪਰਾ ਗਲਾਈਫੋਸੇਟ 4 LTR / HEC
+  utter_faq-agri-rice-b2-pun/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-paddy-?:
+  - text: ਵਾਟਰ ਸਪਰੇਅਰ ਟੈਂਕ ਨਾਲ ਬੀਜ ਦੀਆਂ ਚੀਜ਼ਾਂ ਨੂੰ ਲੱਭੋ
+  utter_faq-agri-rice-b2/sowing-time-of-direct-seedling-of-basmati:
+  - text: For direct Sowing of Rice 1-15 June is best time for sowing.
+  utter_faq-agri-rice-b2/information-regarding-time-of-nursery-sowing:
+  - text: The basmati nursery sowing is start from 1st june.
+  utter_faq-agri-rice-b2/informtion-regarding-application-of-padan-in-paddy-nursery:
+  - text: no recommendation of padan/regent/fertera or any granular insecticides in paddy.but recommended in basmati if attack of stem borer and leaf folder not for growth.
+  utter_faq-agri-rice-b2/information-regarding-seed-treatment-of-basmati-seedlings:
+  - text: SEED TREATED WITH BAVESTEIN 20GM MIX WITH 1GM STEPTOCYCLINE IN 10 LITRE OF WATER
+  utter_faq-agri-rice-b2/information-regarding-for-the-seed-treatment-of-paddyjhona:
+  - text: SOAK THE SELECTED SEED IN 10 LITRE OF WATER CONTIANING 20GM BAVISTIN & 1 GRAM STREPTOCYCLIN
+  utter_faq-agri-rice-b2/information-regarding-planting-time-of-basmati-crop:
+  - text: PLANTING TIME OF BASMATI:-10 JULY.
+  utter_faq-agri-rice-b2/information-regarding-the-sowing-time-of-rice-in-punjab:
+  - text: THE SOWING TIME OF RICE IN PUNJAB IS STARTING FROM 1st OF june
+  utter_faq-agri-rice-b2/information-regarding-moisture-content-of-rice:
+  - text: Moisture content should be 14 % of paddy to sell in mandi
+  utter_faq-agri-rice-b2/information-regarding-when-to-use-weedcide-just-after-transplantation:
+  - text: BROADCAST 600 ML RIFIT MIXED WITH 60 KG SAND IN STANDING WATER AFTER 3 DAYS OF TRANSPLANTING
+  utter_faq-agri-rice-b2/telll-me-control-weeed-in-blank--field:
+  - text: SPRAY GLYPHOSATE 4 LTR / HEC
+  utter_faq-agri-rice-b3-pun/information-regarding-root-treatment-of-paddy-nusery-before-transplanting-?:
+  - text: 2 gm ਨੂੰ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਦਾ ਰੂਟ ਦਾ ਇਲਾਜ. ਬੀਜਣ ਤੋਂ ਛੇ ਘੰਟਾ ਪਹਿਲਾਂ 1 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਬਾਵਿਸਤਾਨ.
+  utter_faq-agri-rice-b3-pun/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application-in-paddy-?:
+  - text: 3 - 4 ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਸਪਰੇਅ ਦੇ ਦਿਨਾਂ ਬਾਅਦ ਝੋਨੇ ਵਿੱਚ ਯੂਰੀਆ ਲਗਾਓ ਜੇ ਇੱਕ ਵਾਰ ਬੂਟੀ ਪੀਲੇ ਰੰਗ ਦਾ ਦਿਖਾਈ ਦਿੰਦੀ ਹੈ.
+  utter_faq-agri-rice-b3/information-regarding-root-treatment-of-paddy-nusery-before-transplanting:
+  - text: Root treatment of paddy nusery before transplanting 2 gm bavistan in 1 litre of water for 6 hour before sown.
+  utter_faq-agri-rice-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application-in-paddy:
+  - text: Apply urea in paddy after 3-4 days of spray of herbicide if once the weed appears yellowing colour.
+  utter_faq-agri-rice-b4-pun/information-regarding-paddy-(commom)-seed-storage-in-home-?:
+  - text: ਝੋਨਾ (ਆਮ) 2 ਸਾਲ ਤੱਕ ਘਰ ਵਿੱਚ ਸਟੋਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ ਅਤੇ ਝੋਨਾ (ਹਾਈਬ੍ਰਿਡ) ਸਟੋਰੇਜ ਲਈ ਢੁਕਵਾਂ ਨਹੀਂ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-standing-water-in-paddy-field?:
+  - text: 1-2 ਦਿਨਾਂ ਤੋਂ ਵੱਧ ਪਾਣੀ ਖੜ੍ਹਾ ਰਹਿਣ ਨਾਲ ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਵਾਧਾ ਰੁਕ ਜਾਂਦਾ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water-?:
+  - text: ਜੇਕਰ ਫ਼ਸਲ ਨੂੰ ਲੰਬੇ ਸਮੇਂ ਤੱਕ ਪਾਣੀ ਵਿੱਚ ਚੰਗੀ ਤਰ੍ਹਾਂ ਡੁਬੋਇਆ ਜਾਵੇ ਤਾਂ ਇਹ ਫ਼ਸਲ ਲਈ ਨੁਕਸਾਨਦਾਇਕ ਹੋ ਸਕਦੀ ਹੈ ਪਰ ਜੇਕਰ ਪਾਣੀ ਦਾ ਪੱਧਰ ਉੱਚਾਈ ਤੋਂ ਹੇਠਾਂ ਜਾਵੇ ਤਾਂ ਫ਼ਸਲ ਬਚ ਸਕਦੀ ਹੈ।
+  utter_faq-agri-rice-b4-pun/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field-?:
+  - text: ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਦੇ ਖੇਤ ਤੋਂ ਕਣਕ ਦੀ ਤੂੜੀ ਬਲਦੀ ਸੁਆਹ ਨੂੰ ਹਟਾਉਣ ਲਈ ਹਲਕੀ ਸਿੰਚਾਈ ਲਾਗੂ ਕਰੋ ਅਤੇ ਪਾਣੀ ਨੂੰ ਖੇਤ ਦੇ ਦੂਜੇ ਪਾਸੇ ਤੋਂ ਹਟਾ ਦਿਓ .
+  utter_faq-agri-rice-b4/information-regarding-how-to-manage-water-in-booting-stage:
+  - text: Optimum moisture should be maintained at booting stage
+  utter_faq-agri-rice-b4/information-regarding-to-improve-the-drainage-of-water:
+  - text: Take a soil test, apply fertilizers according to soil test to improve the drainage of soil.
+  utter_faq-agri-rice-b4/information-regarding-technical-names-of-folicur-and-chloro:
+  - text: folicur is tebuconazole and in chloro is chloropyriphos.
+  utter_faq-agri-rice-b4/information-regarding-best-time-for--fodder-crop:
+  - text: No Answer
+  utter_faq-agri-rice-b4/information-regarding-paddy-commom-seed-storage-in-home:
+  - text: PADDY (COMMON) CAN BE STORED IN HOME UPTO 2 YEARS AND PADDY (HYBRID) IS NOT SUITABLE FOR STORAGE.
+  utter_faq-agri-rice-b4/information-regarding-standing-water-in-paddy-field:
+  - text: standing water more than 1-2 days leads to growth retardation in paddy field.
+  utter_faq-agri-rice-b4/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water:
+  - text: If the crop is properly dip in the water for long time than it can become harmful for crop but if the level of water below the height of crop then it can survive.
+  ? utter_faq-agri-rice-b4/information-regarding-the-submission-of-farms-to-the-agricultural-office-if-you-do-not-burn-the-paddy-straw
+  : - text: No Answer
+  utter_faq-agri-wheat-b0/control-of-manganese-defy-in-wheat:
+  - text: SPRAY OF MANGANESE 1KG/ACRE MIX 100 L WATER
+  utter_faq-agri-wheat-b0/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat:
+  - text: Treat 40 kg seed with 13 ml Raxil easy/orius 6 FS by dissolving in 400 ml water or 120 g vitavax power 75 WS or 80 kg vitavax 75 WP or 40 g seedex 2 DS/Exzole 2 DS per 40 kg seed
+  utter_faq-agri-wheat-b0/control-of-green-hopper-in-wheat-crop:
+  - text: SPRAY ROGOR @ 200 ML IN 100 LITRES OF WATER PER ACRE.
+  utter_faq-agri-wheat-b0/control-of-leaf-folder-in-wheat-crop:
+  - text: spray confidor 100 ml in 100 liter of water/acre
+  - text: spray to ekalux @ 400 ml in 100 litres of water/acre
+  utter_faq-agri-wheat-b0/information-regarding-green-sundi-in-wheat:
+  - text: spray quinalphorse 400 ml in 200 litre water per acre
+  utter_faq-agri-wheat-b1-pun/broad-leaf-weed-control-of-wheat?:
+  - text: ਕਣਕ ਵਿੱਚ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਲਈ 250 ਗ੍ਰਾਮ 2,4-ਡੀ ਸੋਡੀਅਮ ਲੂਣ 80 ਡਬਲਯੂਪੀ ਜਾਂ 250 ਮਿਲੀਲੀਟਰ 2,4-ਡੀ ਈਥਾਈਲ ਐਸਟਰ 38 ਈਸੀ ਜਾਂ 10 ਗ੍ਰਾਮ ਐਲਗ੍ਰਿਪ/ਐਲਗ੍ਰਿਪ ਰਾਇਲ/ਮਾਰਕਗ੍ਰਿੱਪ/ਮਕੋਟੋ (ਮੇਟਸਫੂਰੋਨ 20 ਡਬਲਯੂਪੀ ਜਾਂ 20 ਡਬਲਯੂਪੀ) ਦਾ ਛਿੜਕਾਅ ਕਰੋ। ਫਸਲ ਦੀ ਬਿਜਾਈ ਤੋਂ 30-35 ਦਿਨਾਂ ਦੇ ਅੰਦਰ-ਅੰਦਰ ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ ਗ੍ਰਾਮ ਏਮ/ਐਫੀਨਿਟੀ (ਕਾਰਫੈਂਟਰਾਜ਼ੋਨ-ਈਥਾਈਲ 40 ਡੀਐਫ) ਜਾਂ 20 ਗ੍ਰਾਮ ਲੈਨਫੀਡਾ (ਮੈਟਸਲਫੂਰੋਨ ਕਾਰਫੈਂਟਰਾਜ਼ੋਨ 50 ਡੀਐਫ 150 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਪ੍ਰਤੀ ਏਕੜ ਦੇ ਹਿਸਾਬ ਨਾਲ ਛਿੜਕਾਅ ਕਰੋ। ਜੇਕਰ ਕੋਈ ਹੋਵੇ ਤਾਂ ਉਪਰੋਕਤ ਵਿੱਚੋਂ ਕਿਸੇ ਵੀ ਨਦੀਨਨਾਸ਼ਕ ਦਾ ਛਿੜਕਾਅ ਨਾ ਕਰੋ। ਚੌੜੇ ਪੱਤਿਆਂ ਵਾਲੀ ਫ਼ਸਲ ਕਣਕ ਨਾਲ ਬੀਜੀ ਜਾਂਦੀ ਹੈ।
+  utter_faq-agri-wheat-b1/how-to-control-phalaris-minor-in-wheat-crop:
+  - text: Spray clodinaphos 15 WP(Topik/rakashak plus )@160 gram or phenoxadin 5 EC (Axil) @400 mililiter or phenoxaprop-p-ethyl 10 EC (puma power) @400 mililiter or salphoslfuran 75 WG (leader/s.f.10) @13 gram dissolve in 200 liter water per acre after 30 -35 days after sowing .
+  - text: FOR THE CONTROL OF GULLI DANDA(PHALARIS MINOR) IN WHEAT CROP,PLS APPLY 160GM CLODINAFOP 15% WP(TOPIK)OR 400ML PINOXADEN 5% EC(AXIAL) MIXED WITH 150LITRE OF WATER/ACRE.
+  utter_faq-agri-wheat-b2/late-varieties-of-wheat:
+  - text: LATE SOWING VARIETES OF WHEAT ARE PBW 509,PBW 590,PBW 373
+  ? utter_faq-agri-wheat-b3-pun/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat-&-dose--per-acre-of-it?
+  : - text: ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ 10ਵਾਂ ਦਿਨ ਕਣਕ ਵਿੱਚ ਮੈਗਨੀਜ਼ ਸਲਫੇਟ ਸਪਰੇਅ ਦਾ ਢੁਕਵਾਂ ਸਮਾਂ ਹੈ।
+  utter_faq-agri-wheat-b3-pun/information-reagarding-dose-of-urea-after-first-irrigation-?:
+  - text: 50 ਕਿਲੋ ਯੂਰੀਆ/ਏਕੜ ਲਾਗੂ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-control-of-potassium-deficiency-in-wheat-?:
+  - text: ਕਣਕ ਵਿੱਚ ਪੋਟਾਸ਼ੀਅਮ ਦੀ ਕਮੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ 1 ਕਿਲੋ ਪੋਟਾਸ਼ੀਅਮ ਨਾਈਟ੍ਰੇਟ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਘੋਲ ਕੇ ਪ੍ਰਤੀ ਏਕੜ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-dose-of-potash-in-wheat?:
+  - text: ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਪੋਟਾਸ਼ ਦੀ ਖੁਰਾਕ:- 20 ਕਿਲੋ/ਏਕੜ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-deficiency-of-zinc-sulphate-in-wheat-crops-?:
+  - text: ਕਣਕ ਦੀ ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ 25 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ/ਏਕੜ ਪਾਓ।
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-control-of-phosphorous-deficiency-in-wheat-?:
+  - text: NPK 0:52:34 ਤੇ 1KG 200 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਵਿੱਚ ਸਪਰੇਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3-pun/information-regarding--management-of-alkali-soil-?:
+  - text: ਖਾਰੀ ਮਿੱਟੀ ਦੀਆਂ ਸਥਿਤੀਆਂ ਲਈ, ਮਿੱਟੀ ਦੇ ਟੈਸਟ ਦੇ ਅਨੁਸਾਰ ਐਪਲੀਕੇਸ਼ ਜਿਪਸਮ. ਅਤੇ ਹਰੇ ਰੰਗ ਦੇ ਇਲਾਜ ਲਈ ਧੇਂਚਾ ਮਦਦਗਾਰ ਹੈ. ਸਿਫਾਰਸ਼ ਨਾਲੋਂ ਵਧੇਰੇ ਯੂਰੀਆ
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-fertilizer-requirement-in-wheat-sown-with-happy-seeder?:
+  - text: ਬਾਰਸੀਮ ਵਿੱਚ ਵਰਤੀ ਜਾਂਦੀ ਕੁੱਲ ਖਾਦ ਦੀ ਖੁਰਾਕ 22 ਕਿਲੋਗ੍ਰਾਮ ਯੂਰੀਆ, 185 ਕਿਲੋਗ੍ਰਾਮ ਸੁਪਰਫੋਸਫੇਟ ਪ੍ਰਤੀ ਏਕੜ ਹੈ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-application-of-manures-?:
+  - text: ਖਾਦ ਜੈਵਿਕ ਪਦਾਰਥ ਅਤੇ ਪੌਸ਼ਟਿਕ ਤੱਤ, ਜਿਵੇਂ ਕਿ ਨਾਈਟ੍ਰੋਜਨ, ਜੋ ਕਿ ਮਿੱਟੀ ਦੇ ਬੈਕਟੀਰੀਆ, ਫੰਜਾਈ ਅਤੇ ਹੋਰ ਜੀਵਾਣੂਆਂ ਦੁਆਰਾ ਵਰਤੇ ਜਾਂਦੇ ਹਨ, ਜੋੜ ਕੇ ਮਿੱਟੀ ਦੀ ਉਪਜਾ ਸ਼ਕਤੀ ਵਿੱਚ ਯੋਗਦਾਨ ਪਾਉਂਦੇ ਹਨ. ਫਿਰ ਉੱਚ ਜੀਵ ਫੰਜਾਈ ਅਤੇ ਬੈਕਟੀਰੀਆ ਨੂੰ ਜੀਵਨ ਦੀ ਇੱਕ ਲੜੀ ਵਿੱਚ ਖੁਆਉਂਦੇ ਹਨ ਜਿਸ ਵਿੱਚ ਮਿੱਟੀ ਦੇ ਭੋਜਨ ਦੀ ਵੈੱਬ ਹੁੰਦੀ ਹੈ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-fertilizer-application-?:
+  - text: ਖਾਦ ਰਸਾਇਣਕ ਪਦਾਰਥ ਹਨ ਜੋ ਫਸਲਾਂ ਨੂੰ ਆਪਣੀ ਉਤਪਾਦਕਤਾ ਵਧਾਉਣ ਲਈ ਸਪਲਾਈ ਕਰਦੇ ਹਨ. ਇਹ ਫਸਲਾਂ ਦੇ ਝਾੜ ਨੂੰ ਵਧਾਉਣ ਲਈ ਹਰ ਰੋਜ਼ ਕਿਸਾਨਾਂ ਦੁਆਰਾ ਵਰਤੇ ਜਾਂਦੇ ਹਨ. ਖਾਦ ਵਿਚ ਪੌਦਿਆਂ ਦੁਆਰਾ ਲੋੜੀਂਦੇ ਜ਼ਰੂਰੀ ਪੌਸ਼ਟਿਕ ਤੱਤ ਹੁੰਦੇ ਹਨ, ਜਿਸ ਵਿਚ ਨਾਈਟ੍ਰੋਜਨ, ਪੋਟਾਸ਼ੀਅਮ ਅਤੇ ਫਾਸਫੋਰਸ ਸ਼ਾਮਲ ਹੁੰਦੇ ਹਨ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-suitable-time-of-1st-irrigation?:
+  - text: 1 ਵੀਂ ਆਈਆਰਜੀਏਸ਼ਨ ਦਾ ਉਚਿਤ ਸਮਾਂ -AFter-25 ਦਿਨ ਹੈ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-nutrient-management-on-wheat-?:
+  - text: ਸਪਰੇਅ 1 ਕਿਲੋਗ੍ਰਾਮ NPK 13 0 45 ਵਿੱਚ 100-150 L ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-poultry-manure-in-soil-before-wheat-sowing?:
+  - text: ਕਣਕ ਦੀ ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ ਮਿੱਟੀ ਵਿਚ 2.5 ਟਨ ਪ੍ਰਤੀ ਏਕੜ ਪੋਲਟਰੀ ਖਾਦ ਲਗਾਓ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-application-of-urea-after-weedicides-in-wheat?:
+  - text: ਯੂਰੀਆ ਬਿਹਤਰ ਨਤੀਜਿਆਂ ਲਈ ਬੂਟੀਸਾਈਡਾਂ ਦਾ ਛਿੜਕਾਅ ਕਰਨ ਦੇ ਦਿਨਾਂ ਬਾਅਦ 7 - 9 ਲਾਗੂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-wheat-sowing:
+  - text: FERT.DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG.
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-potash-in-wheat:
+  - text: DOSE OF POTASH IN WHEAT CROP :- 20 KG/ACRE.
+  utter_faq-agri-wheat-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application:
+  - text: BROADCAST UREA 2 DAYS AFTER SPRAY OF HERBICIDE
+  utter_faq-agri-wheat-b3/information-regarding-improving-the-quality-of-wheat-grains:
+  - text: to improve grain quality of wheat crop spray 2 kg NPK(13:0:45) per acre in 120 liters of water.
+  utter_faq-agri-wheat-b3/information-regarding-biofertilizer-in-wheat:
+  - text: inoculate one acre seed with 500 g of consortium biofertilizer and one litre of water on pucca floor. Let it dry in shade and sow immediately.
+  utter_faq-agri-wheat-b3/application-of-single-super-phosphate-in-wheat:
+  - text: Application of Single Superphosphate with Humic Acid Improves the Growth, Yield and Phosphorus Uptake of Wheat (Triticum aestivum L.) in Calcareous Soil.
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizers-to-be-used-after-spraying-weedicide:
+  - text: NO ANSWER
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-application:
+  - text: Fertilizers are chemical substances supplied to the crops to increase their productivity. These are used by the farmers daily to increase the crop yield. The fertilizers contain the essential nutrients required by the plants, including nitrogen, potassium, and phosphorus.
+  utter_faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-sowing-of-wheat:
+  - text: FERT.DOSE IN WHEAT AT THE TIME OF SOWING.-DAP-55KG,MOP-25KG & UREA-20KG.
+  utter_faq-agri-wheat-b3/information-regarding-nutrient-management-on-wheat:
+  - text: spray 1 kg NPK 13:0:45 in 100-150 L of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-spider-mites-in-chiili:
+  - text: Spray of 200 ml Rogor 30 EC in 100 liter of water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-diamondback-moth-in-chilll:
+  - text: For the control of Diamond-back moth in chilli spray 420ml Spinosad 2.5SC or 70gm Proclaim 5SG(emamectin benzoate) or 130ml Avant 15.8EC(indoxacarb) using 80-100lt of water.
+  utter_faq-hort-chilli-b0/information-regarding-to-control-of-root-rot-in-chilli:
+  - text: Control of root rot in chillies - Broadcast 500g SAAF (12% carbendazim 63% WP mancozeb ) with sand
+  utter_faq-hort-chilli-b0/information-regarding-control-of-birds-in-chillies:
+  - text: Use crackers to avoid attack of birds in chillies or cover it with muslin cloth
+  utter_faq-hort-chilli-b0/information-regarding-for-the-control-of-damping-off-disease-in-chillies--crop:
+  - text: FOR THE CONTROL OF DAMPING OFF DISEASE IN CHILLIES CROP,PLEASE SPRAY- 400GM M-45 IN 150LITRE WATER/ACRE.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-chilli-anthracnose:
+  - text: spray 750 gram indofil M-45 in 200-250 litre water per acre.
+  utter_faq-hort-chilli-b0/information-regarding-dose-of-urea-in-chilli:
+  - text: DOSE OF UREA FOR CHILLI 55 KG/ACRE.
+  utter_faq-hort-chilli-b0/information-regarding-dryness-in-chilli-due-to-rainfall:
+  - text: no need to spray on the crop wait for some time the plants hale itself
+  utter_faq-hort-chilli-b0/information-regarding-deficiensy-of-macro-nutrients-in-chili:
+  - text: USE SPRAY N:P:K-19:19:19/1KG IN 100 LITRES OF WATER.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-mosaic-in-chilli-crop:
+  - text: spray 400 ml malathion per acre in 100 litres of water for the avoid of chilli mosaic virus
+  utter_faq-hort-chilli-b0/information-regarding-for-the-control-of-shoot-borer-in-chillies-crop:
+  - text: FOR THE CONTROL OF SHOOT BORER IN CHILLIES CROP,PLS SPRAY-CYPERMETHRIN-250ML OR CARTAP HYDROCHLORIDE(POWDER)-250GM IN 160LITRE WATER/ACRE.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-jassid-in-chilli:
+  - text: spray 400 ml malathion 50 EC in 100-125 litre of water.
+  utter_faq-hort-chilli-b1/information-regarding-dose-of-urea-in-an-acre-of-chillies:
+  - text: DOSE OF UREA IN AN ACRE OF CHILLIES IS 55 KG.
+  utter_faq-hort-chilli-b1/information-regarding-defloration-in-chilli:
+  - text: spray 50 ml planofix in 200 liter of water petr acre.
+  utter_faq-hort-chilli-b1/information-regarding-burning-of-fruit-of-chilly:
+  - text: spray naphthlin 4ml in 1 litre water per acre.
+  utter_faq-hort-chilli-b1/information-regarding-manganese-deficiency-in-chillies:
+  - text: spray Manganese Sulphate 500g in 100 litres of water per acre 2-3 days before on sunny days.
+  utter_faq-hort-chilli-b1/information-regarding-growth-regulator-used-in-chilli-crop-after-sucking-pest-attack:
+  - text: growth regulator used in chilli crop after sucking pest attack spary N:P:K 19:19:19 1kg in 100lt water per acre.
+  utter_faq-hort-chilli-b1/information-ragarding-nutrient-management-in-chillies:
+  - text: Spray N:P:K (13:0:45) 1 kg in 100 liters of water per acre for the nutrient management in chilli
+  utter_faq-hort-chilli-b1/information-regarding-for-the-control-of-flower-drop-in-chillimirch-crop:
+  - text: For control of flower dropping in chillies spray 1 ml Planofix per 4.5 liters of water.
+  utter_faq-hort-garlic-b0/information-regarding-storage-of-garlic:
+  - text: Don't place garlic under direct sunlight after uprooting .
+  utter_faq-hort-garlic-b0/information-regarding--total--urea-dose-in-garlic:
+  - text: total urea dose in garlic is 110kg and give it in three split dose fistly after one month and then after 45 dyas and third after 60days
+  utter_faq-hort-garlic-b0/information-regarding-method-of-sowing-of-garlic:
+  - text: NO ANSWER
+  utter_faq-hort-garlic-b0/information-regarding-manures-and-fertilizer-application-in-garlic-crop:
+  - text: Apply 20 tonnes of farmyard manure,110 kg of Urea and 155 kg of Superphosphate.apply whole FYM and superphosphate at the of sowing and apply urea in 3 split doses after 30 days,45 days and 60 days of sowing.
+  utter_faq-hort-garlic-b0/information-regarding-application-of-biozyme-in-garlic:
+  - text: spray of Biozyme liquid formulation at garlic@200ml/acre increases the yield
+  utter_faq-hort-garlic-b0/tell-me--about-nutrient-management-in-garlic:
+  - text: NO ANSWER
+  utter_faq-hort-garlic-b0/information-regarding-increasing-size-of-garlic:
+  - text: FOR INCREASING SIZE OF GARLIC SPRAY 13:0:45 @ 1 KG IN 100-120 LITER WATER PER ACRE
+  utter_faq-hort-garlic-b0/information-regarding-control-of-stem-boror-in-garlick:
+  - text: SPRAY CHLOROPYRIPHOS 20 EC @ 1 LITER IN 100 LITERS OF WATER/ACRE.
+  utter_faq-hort-garlic-b0/how-to-pest-control-in-garlic-crop:
+  - text: brodcast of chlorpyriphos @ 1 liter in 15-20 kg drysand / acre .
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-pea-stem-borer-attack-in-pea-crop:
+  - text: SPRAY ROGER(DIMEHOATE ) 400 ML IN 80-100 LITRE WATER
+  utter_faq-hort-pea-b0/how-to-control-of-flower-droping-in-pea-crop:
+  - text: Spray 1 ml. Planofix in 4.5 lt. of water.
+  utter_faq-hort-pea-b0/information-rgearding-for-the-control-of-grasshopper-in-pea:
+  - text: For control of grasshopper in pea spray 800ml Ekalaux in 80-100 liter of water per acre.
+  utter_faq-hort-pea-b0/information-regarding-for-the-sowing-time-of-pea:
+  - text: sowing time of Pea from Mid october to Mid november.
+  utter_faq-hort-pea-b0/information-regarding-better-yeild-and-growth-in-pea:
+  - text: SPRAY NPK 13:0:45 1 KG IN 100 LITRE WATER
+  utter_faq-hort-pea-b0/control-of-weeds-in-pea-after-40-days-of-sowing:
+  - text: MANUAL WEEDING SHOULD BE DONE, NO RECOMMENDATION OF HERBICIDE.
+  utter_faq-hort-pea-b0/information-regarding-temperature-requirement-for-pea-germination:
+  - text: SOWING TEMPERATURE FOR PEA IS 25-30 DEGREE CELCIUS
+  utter_faq-hort-pea-b0/information-regarding-total-fertilizers-dose-in-pea:
+  - text: ADD 45 KG OF UREA AND 155 KG SINGLE SUPER PHOSPHATE AT THE TIME OF SOWING .
+  utter_faq-hort-pea-b0/information-regarding-nutrient-requirement-at-flowering-stage-in-pea:
+  - text: Nutrient requirement at flowering stage in pea- Spray 1 kg NPK 13 00 45 IN 100 LITRE WATER PER ACRE.
+  utter_faq-hort-pea-b0/information-regarding-defficiency-of-iron-in-pea:
+  - text: SPRAY FEROUS SULPHAT @ 500GM IN 100 LITTERS OF WATER/ACRE.
+  utter_faq-agri-rice-b0/infprmation-regarding-control-blb-in-rice-crops:
+  - text: for control of BLB in paddy , spray Amistar top 200ml or 80 gram nativo or 200 ml tilt or 200 ml folicure or Lusture @320ml or Monoceren @200 ml in 200 litres of water per acre
+  utter_faq-agri-rice-b0/how-to-control-thirips-in-paddy-crop:
+  - text: PRAY ACEPHATE 250 GM OR ACTARA 40 ML PER ACRE IN 100 LITRE OF WATER
+  utter_faq-agri-wheat-b0-pun/control-of-weeds-in-wheat:
+  - text: 45 ਦਿਨਾਂ ਦੇ ਬਾਅਦ ਹਰਬਿਕਸਾਈਡ ਦੀ ਕੋਈ ਸਪਰੇਅ ਸਿਫਾਰਸ਼ ਨਹੀਂ ਕੀਤੀ ਜਾਂਦੀ ਸੀ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-nematode-in-wheat:
+  - text: ਫਰਦਾਨ 3 ਜੀ 13 ਕੇ ਜੀ / ਏਕੜ ਐਪਲੀ ਮਿੱਟੀ ਦੇ ਬਿਜਾਈ ਸਮੇਂ ਕਲੋਰਪਾਈਰੀਫੋਸ 1.25 ਲੀਟਰ ਸਿੱਧੇ ਮਿੱਟੀ ਵਿੱਚ ਲਾਗੂ ਹੁੰਦੇ ਹਨ
+  utter_faq-agri-wheat-b0/control-of-cutworm-in-wheat:
+  - text: Treat soil with chlorpyrifos e.g. Dursban 10% G @ 20 kg/ha before planting
+  utter_faq-agri-wheat-b1-pun/information-regarding-how-to-control-kandiali-palak-in-wheat?:
+  - text: ਸਪਰੇਅ ਐਲਗ੍ਰਿਪ 10 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਏਕੜ ਪਾਣੀ ਦੇ 150 ਲਾਈਟ ਵਿਚ
+  utter_faq-agri-wheat-b3-pun/information-regarding-zinc-deficiency-in-wheat-crop?:
+  - text: ਕਣਕ ਦੇ ਪੱਤਿਆਂ ਵਿੱਚ ਜ਼ਿੰਕ ਦੀ ਕਮੀ ਦੇ ਲੱਛਣ ਮੱਧਮ ਪ੍ਰਸਾਰਣ ਵਿੱਚ ਪੀਲੇ ਹੋ ਜਾਣ ਲਈ 25 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ (21%) ਜਾਂ 1 ਕਿਲੋ ਜ਼ਿੰਕ ਸਲਫੇਟ 500 ਗ੍ਰਾਮ ਅਣਸਲੇਕਡ ਚੂਨੇ ਨੂੰ 200 ਲਿਟਰ ਪ੍ਰਤੀ ਏਕੜ ਵਿੱਚ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3/information-regarding-control-of-potassium-deficiency-in-wheat:
+  - text: for control of potassium deficiency in wheat, spray 1 kg potassium nitrate in 100 litres of water per acre .
+  utter_faq-agri-wheat-b3/information-regarding-the-control-of-phosphorous-deficiency-in-wheat:
+  - text: SPRAY TO NPK 0:52:34 at 1KG IN 200 LITER OF WATER / ACRE .
+  utter_faq-agri-wheat-b3/information-regarding--management-of-alkali-soil:
+  - text: For alkali soils conditions ,apply gypsum according to soil test.and dhaincha for green manuring is helpful.apply more urea than recommended
+  utter_faq-agri-rice-b0-pun/information-regarding-phosphorus-deficincy-in-paddy?:
+  - text: ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਫਾਸਫੋਰਸ ਦੀ ਘਾਟ ਨੂੰ ਪੂਰਾ ਕਰਨ ਲਈ 1 ਕਿਲੋਗ੍ਰਾਮ ਪਾਊਡਰ NPK (0:52:34) ਪ੍ਰਤੀ ਏਕੜ ਨੂੰ 100 ਲੀਟਰ ਪਾਣੀ (@10 ਗ੍ਰਾਮ ਪ੍ਰਤੀ ਲੀਟਰ) ਵਿੱਚ ਘੋਲ ਕੇ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-rice-b0/information-regarding-control-of-farrous-deficiency-in-paddy:
+  - text: To complete the iron deficiency in paddy spray 1 kg ferrous sulphate(19%) in 100 liters of water per acre .
+  utter_faq-agri-rice-b0/how-to-control-of-plant-hoper-in-paddy-crop:
+  - text: The plant hoppers can be controlled by spraying 120 g Chess 50 WG (pymetrozine) or 40 ml Confidor 200 SL/Crocodile 17.8 SL (imidacloprid) or 800 ml Ekalux/Quinguard/Quinalmass 25 EC (quinalphos) in 100 litres of water per acre.
+  utter_faq-agri-rice-b2/information-regarding-sowing-time-of--basmati:
+  - text: 15-30 june sowing time of basmati rice .
+  utter_faq-agri-wheat-b0-pun/information-regarding-root-rot-of-wheat:
+  - text: ਮੈਕਸਿਮ 4 ਐਫਐਸ 0.08 ਤੋਂ 0.16 ਫਲ ਓਜ਼ / 100 ਐਲਬੀ ਬੀਜ ਦੇ ਨਾਲ ਨਾਲ ਇੱਕ ਰੰਗਤ ਬੀਜ ਦੀ ਰੌਸ਼ਨੀ ਵਿੱਚ ਸਹਾਇਤਾ ਕਰੇਗੀ.
+  utter_faq-agri-wheat-b0/how-to-control-of-powdery-mildew-in-wheat-crop:
+  - text: Spray with Nativo 75 WG (trifloxystrobin + tebuconazole) @120 g or Tilt 25 EC (propiconazole) @ 200 ml in 200 litres of water per acre.
+  - text: Control of Powdery Mildew in wheat, spray Tilt 25EC(propiconazole) 200 ml or Nativo 75WG (trifloxystrobin + tebuconazole) 120g or Karathane 40EC (dinocap) in 200 litre per acre.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-tella-in-wheat:
+  - text: I TOLD SPRAY MONOCROTOPHAS @ 200 ML IN 100 LTR WATER / ACRE.
+  utter_faq-agri-wheat-b0/information-regarding-pest-control-in-wheat-crop:
+  - text: spray of chloropyriphos @ 400 ml in 100 liter of water / acre .
+  utter_faq-agri-wheat-b1/how-to-control-of-broad-leaf-weed-in-wheat-crop:
+  - text: For control of broad leaf weeds in wheat spray 250 gram 2,4-D Sodium salt 80 WP or 250 ml 2,4-D ethyl ester 38 EC or 10 gram Algrip/Algrip Royal/Markgrip/Makoto (Metsulfuron 20 WP) or 20 gram Aim/Affinity (Carfentrazone-ethyl 40 DF) or 20 gram Lanfida (Metsulfuron+Carfentrazone 50 DF in 150 liters of water per acre after first irrigation within 30-35 days of sowing of crop.Don't spray any of above herbicides if any broad leaf crop is sown with wheat.
+  - text: For control of broad leaf weeds in wheat spray 250 g of 2,4 D sodium salt(80%) or 250 ml of 2,4 D ethyl ester (38%), Algrip 20WP 10g, Aim/Affinity 40DF 20g, Lanfida 50DF 20G in 150-200lt water per acre.
+  utter_faq-agri-wheat-b1/kandiali-palak-in-wheat:
+  - text: spray algrip 10 gram in 150 lites of water per acre
+  utter_faq-agri-wheat-b3-pun/information-on-dose-of-dap-in-wheat-crop?:
+  - text: ਕਣਕ ਵਿੱਚ ਡੀਏਪੀ ਦੀ ਖੁਰਾਕ 55 ਕਿਲੋ ਪ੍ਰਤੀ ਏਕੜ ਹੈ
+  utter_faq-agri-wheat-b3/information-regarding-method-of-fertilizer-application-in-wheat:
+  - text: Drill half(55kg) dose of nitrogen and whole(55kg) DAP and Potash(20kg) at the time of sowing and remaining (55kg) nitrogen at 1st irrigation.
+  utter_faq-agri-wheat-b3/information-regarding-deficiency-of-zinc-sulphate-in-wheat-crops:
+  - text: APPLY 25 KG OF ZINC SULPHATE/ACRE BEFOR SOWING THE WHEAT.
+  utter_faq-agri-wheat-b3/control-of-iron-deficiency-in-wheat:
+  - text: SPRAY 150 GM CHELATED IRON IN 150 LITRE WATER PER ACRE
+  - text: spray to ferrous sulphate at 1 kg in 200 litres of water/acre
+  utter_faq-hort-chilli-b0/how-to-control-of-yellow-spots-in-chillies:
+  - text: APPLY SIXER 1/2 KG PER 120 LITRE OF WTAER PER ACRE
+  utter_faq-hort-garlic-b0/fertilizers-in-garlic:
+  - text: TOTAL FERTILIZERS DOSE IN GARLIC CROP :- 110KG UREA + 155 KG SSP/ ACRE .
+  utter_faq-agri-rice-b0/information-regarding-phasphorus-deficincy-in-paddy:
+  - text: To complete the deficiency of phosphorus in paddy crop spray 1KG powder NPK (0:52:34) per acre in 100 liters of water(@10 gram per liter).
+  utter_faq-agri-rice-b0/information-regarding-weed-control-in-pady:
+  - text: To control weeds in basmati or paddy spray nominee gold/macho (Bispyribac-sodium 10% SC) 100 ml in 150 litres/acre (0.66 ml per liter of water)of water after 20 days of transplanting. apply irrigation after 2-3 days as per soil type.
+  utter_faq-agri-wheat-b0-pun/control-of-stem-borer-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਕਣਕ ਦੇ ਸਟੈਮ ਬੋਰਰ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ, ਉਗਣ ਤੋਂ ਬਾਅਦ ਹਰ 20 ਦਿਨਾਂ ਦੇ ਅੰਤਰਾਲ ਤੇ ਫਾਈਪਰੋਨਿਲ 0.3% ਜੀਆਰ @ 8 ਕਿਲੋਗ੍ਰਾਮ / ਏਕੜ ਦਾ ਪ੍ਰਸਾਰਣ ਕੀਤਾ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-army-worm-in-wheat-crop:
+  - text: ਕਣਕ ਵਿਚ ਫੌਜ ਦੇ ਕੀੜੇ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਏਕਲਕਸ 25 ਈਸੀ (ਕੁਆਨਲਫੋਸ) @ 400 ਮਿ.ਲੀ. ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ ਵਿਚ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-agri-wheat-b0-pun/information-regarding-brown-leaf-in-wheat-crop:
+  - text: ਫਸਲ ਨੂੰ ਨੈਟੀਵੋ 75 ਡਬਲਯੂਜੀ (ਟ੍ਰਾਈਫਲੋਕਸੈਸਟ੍ਰੋਬਿਨ + ਟੇਬੂਕੋਨਾਜ਼ੋਲ) @ 120 ਗ੍ਰਾਮ ਜਾਂ ਟਿਲਟ 25 ਈਸੀ / ਚਮਕਦਾਰ 25 ਈਸੀ / ਬੰਪਰ 25 ਈ ਸੀ / ਸਟੀਲ 25 ਈ ਸੀ / ਕੰਪਾਸ 25 ਈ ਸੀ / ਮਾਰਕਸੋਲ 25 ਈ ਸੀ (ਪ੍ਰੋਪਿਕਨਜ਼ੋਲ) @ ਜਿਵੇਂ ਹੀ ਬਿਮਾਰੀ ਵੇਖੀ ਜਾਂਦੀ ਹੈ 200 ਲੀਟਰ ਪਾਣੀ / ਏਕੜ ਵਿਚ 200 ਮਿ.ਲੀ.
+  utter_faq-agri-wheat-b2-pun/sowing-time-of-late-varieties-of-wheat-in-sandy-soils?:
+  - text: 15 ਨਵੰਬਰ ਤੋਂ ਬਾਅਦ
+  ? utter_faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it
+  : - text: 10TH DAY AFTER 1ST IRRIGATION IS SUITABLE TIME OF THE MAGANESE SULPHATE SPRAY IN WHEAT & DOSE PER ACRE OF IT IS 1KG IN 150 LITER OF WATER / ACRE.
+  utter_faq-hort-chilli-b0/information-regarding-control-of-thrips-in-chilles:
+  - text: To control thrips in Chili spray 560 ml Malathion 50 EC or 200 ml rogor per acre in 100-liters water per acre.
+  utter_faq-hort-garlic-b0/information-regarding-sowing-time-of-garlic:
+  - text: Sowing time of Garlic is last week of september to first week of october.
+  utter_faq-agri-wheat-b0-pun/how-to-control-of-root-weevil-in-wheat-crop:
+  - text: ਮੈਂ ਕਿਜ਼ਨ ਨੂੰ ਦੱਸਿਆ 1 ਥਿਓਡਨ 35 EC ਦਾ ਲੀਟਰ @ IN 2 ਵਾਟਰ ਐਂਡ ਮਿਕਸ 20 ਕਿਲੋਗ੍ਰਾਮ ਦੇ ਮਿੱਟੀ ਅਤੇ ਬ੍ਰਾਡਕਾਸਟ ਦੇ ਆਪਣੇ ਏਕੜ ਵਿੱਚ
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-termite:
+  - text: ਬ੍ਰਾਡਕਾਸਟ 1 ਲਿਟਰ ਕਲੋਰੋਪਾਈਰਿਪੋਸ 20 EC ਮਿਕਸ ਸਟੈਂਡ ਨਾਲ
+  utter_faq-agri-wheat-b0/control-of-black-hopper-in-crop:
+  - text: SPRAY MONOCIL @ 10 GM IN 100 LITRES OF WATER PER ACRE.
+  utter_faq-agri-wheat-b3/information-regarding-dose-of-fertilizers-in-wheat-crop:
+  - text: Varieties of Wheat are-Unnat PBW 343(Yield-23.2 quintal),Unnat PBW 550(Yield-23 quintal), PBW 1 zinc(Yield-22.5 quintal), PBW 725(Yield-22.9 quintal), PBW 677(Yield-22.4 quintal), HD 3086(Yield-23 quintal),HD 2967(Yield-21.4 quintal), WH 1105(Yield-23.1 quintal), PBW 621(Yield-21.1 quintal) and PBW 550(Yield-20.8 quintal).
+  utter_faq-hort-chilli-b0/information-regarding-white-fly-in-chilies:
+  - text: spray rogor 250 ml or confidor 40 ml in 100 liter of water per acre
+  utter_faq-agri-rice-b0-pun/information-regarding-control-of-farrous-deficiency-in-paddy?:
+  - text: ਆਇਰਨ ਦੀ ਘਾਟ ਨੂੰ ਝੋਨੇ ਵਿੱਚ ਪੂਰਾ ਕਰਨ ਲਈ ਸਪਰੇਅ 1 ਕਿਲੋਗ੍ਰਾਮ ਫੇਰਸ ਸਲਫੇਟ (19%) ਵਿਚ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 100 ਲੀਟਰ ਪਾਣੀ
+  utter_faq-agri-wheat-b0/control-of-kernel-smut-in-wheat-crop:
+  - text: SPRAY TILT @ 200 ML IN 100 LITRES OF WATER PER ACRE
+  utter_faq-agri-wheat-b0/information-regarding-root-rot-of-wheat:
+  - text: Maxim 4 FS at 0.08 to 0.16 fl oz/100 lb seed plus a dye will help with seedling blight.
+  utter_faq-agri-wheat-b0/information-regarding-nematode-in-wheat-crop:
+  - text: furadan 3g 13 k g / acre aplly in soil sowing time chlorpyrifos 1.25ltr directly apply in soil
+  utter_faq-agri-wheat-b2-pun/sowing-time-for-early-sowing-varieties?:
+  - text: ਪਿਛਲੇ ਹਫ਼ਤੇ ਦੇ ਪਿਛਲੇ ਹਫਤੇ ਲਈ ਅਕਤੂਬਰ ਦਾ ਆਖਰੀ ਹਫ਼ਤਾ.
+  utter_faq-agri-wheat-b3-pun/information-regarding-deficiency-of-manganese-in-wheat:
+  - text: ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ 3-4 ਦਿਨ ਪਹਿਲਾਂ ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ 1 ਕਿਲੋ 200 ਲੀਟਰ ਪਾਣੀ/ਏਕੜ ਦਾ ਛਿੜਕਾਅ ਕਰੋ।
+  utter_faq-agri-wheat-b3/information-on-dose-of-dap-in-wheat-crop:
+  - text: dose of dap in wheat is 55 kg/acre
+  utter_faq-hort-garlic-b0/regarding-yellowing-of-leaves-of-garlic:
+  - text: COMPLETE THE DOSE OF UREA AND SPRAY M 45 600 GRAM WITH 220 TRITONE IN 200 LITER WATER
+  utter_faq-hort-pea-b0/information-regarding-control-of-blight-in-pea:
+  - text: spray blitox @ 250gm mix in 100 liters of water / acre .
+  utter_faq-agri-rice-b0/spray-for-the-control-of-grasshopper:
+  - text: For control of grasshopper in paddy, spray 120 GM chess(Pymetrozine 50 WG) or 40 ml confidor(Imidacloprid 200 SL (17.8 % w/w) or Ekalux 800 ml (Quinalphos 25% EC ) or 1 liter Chlorpyriphos 20 EC in 100 litres of water per acre
+  utter_faq-agri-wheat-b2-pun/information-regarding-suitable-varieties-of-wheat-&-its-seed-rate-?:
+  - text: ਵ੍ਹਾਈਟ ਦੀ ਸਥਿਰ ਵੈਰੀਟੀਜ਼ -ਪੀਬੀਡਬਲਯੂ -550, ਐਚਡੀ -2967 ਅਤੇ ਐਚਡੀ -2851 ਅਤੇ ਆਈਟੀਐਸ ਨੇ ਰੇਟ -40 ਕੇਜੀ ਵੇਖੀ.
+  utter_faq-agri-rice-b1/information-regarding-dose-of-fertilizers-in-rice:
+  - text: Total fertilizer dose in Paddy:- 90 Kg. Urea, 27 Kg. DAP or 75 kg superphosphate or and 20 Kg. Potash per acre. Skip phosphorus application if recommended dose of phosphorus had been applied to the preceding wheat crop and apply muriate of potash on the basis of a soil test. apply DAP or super and potash at the time of puddling,apply urea at first,third and sixth week after transplanting.
+  utter_faq-agri-wheat-b2/sowing-time-of-late-varieties-of-wheat-in-sandy-soils:
+  - text: After 15 November
+  utter_faq-agri-wheat-b3/information-regarding-deficiency-of-manganese-in-wheat:
+  - text: spray of mangnese sulphate 1 kg +200 ltr water /acre before 3-4 days of first irrigation
+  utter_faq-hort-chilli-b0/information-regarding-control-of-leaf-caurl-in-chilli:
+  - text: FOR CONTROL OF LEAF CURL VIRUS IN CHILLIES SPRAY 1 LITER NIMBICIDINE NEEM OIL IN 100 LITERS OF WATER PER ACRE
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-karnal-bunt-in-wheat:
+  - text: ਕਣਕ ਦੇ ਸਪਰੇਅ 200 ਮਿ.ਲੀ. ਟਿਲਟ / ਬੰਪਰ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ 25 ਈਸੀ) ਜਾਂ 200 ਮਿ.ਲੀ. ਫੋਲਿਕੁਰ / ਵਿਚ ਕਰਨਲ ਬੰਟ ਦੇ ਨਿਯੰਤਰਣ ਲਈ/ਫਸਲਾਂ ਦੇ ਕੰਨ ਦੇ ਉਭਾਰ ਦੇ ਪੜਾਅ 'ਤੇ 200 ਲੀਟਰ ਪਾਣੀ ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ ਓਰੀਅਸ 25 ਈਸੀ (ਟੇਬੂਕੋਨਾਜ਼ੋਲ).
+  utter_faq-agri-rice-b3-pun/information-regarding-biofertilizer-treatment-of-paddy-nuresery-before-transplanting-?:
+  - text: ਨਰਸਰੀ ਟ੍ਰਾਂਸਪਲਾਂਟੇਸ਼ਨ ਤੋਂ ਪਹਿਲਾਂ ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ ਅਜ਼ੋਰਹੀਜ਼ੋਬਿਅਮ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ ਇਲਾਜ ਦਾ ਪੈਕੇਟ ਇਸ ਘੋਲ ਵਿਚ ਇਕ ਏਕੜ ਲਈ ਬੀਜ ਦੀ ਜੜ ਨੂੰ 45 ਮਿੰਟ ਲਈ ਡੁਬੋਓ
+  utter_faq-agri-rice-b3-pun/information-regarding-spacing-between-plant-to-plant-in-basmati-?:
+  - text: ਇੱਕ ਚੰਗੀ ਛੱਪੜ ਵਾਲੇ ਖੇਤਰ ਵਿੱਚ ਸਰਵੋਤਮ ਅਵਧੀ ਦੇ ਦੌਰਾਨ 20 x 15 ਸੈਮੀ (33 ਪਹਾੜੀਆਂ / ਵਰਗ ਮੀਟਰ) ਤੇ ਪ੍ਰਤੀ ਪਹਾੜੀ ਤੇ ਦੋ ਬੂਟੇ ਲਗਾਓ. ਦੇਰ ਨਾਲ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕੀਤੀ ਫਸਲ ਵਿਚ, ਝਾੜ ਵਿਚ ਕਮੀ ਨੂੰ ਘੱਟ ਕਰਨ ਲਈ ਸਪੇਸਿੰਗ ਨੂੰ 15x15 ਸੈਮੀ (44 ਪਹਾੜੀਆਂ / ਵਰਗ ਮੀਟਰ) ਤੱਕ ਘਟਾਇਆ ਜਾ ਸਕਦਾ ਹੈ.
+  utter_faq-agri-rice-b4-pun/information-regarding-waste-decomposer-use-in-paddy-straw-?:
+  - text: ਵੇਸਟ ਡੀਕੰਪੋਜ਼ਰ ਨੂੰ ਤਿਆਰ ਕਰਨ ਲਈ 2 ਕਿਲੋ ਗੁੜ ਅਤੇ 200 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ ਇੱਕ ਬੋਤਲ ਵੇਸਟ ਡੀਕੰਪੋਜ਼ਰ ਲਓ। 5 ਦਿਨਾਂ ਬਾਅਦ ਮਿਸ਼ਰਣ ਕ੍ਰੀਮੀ ਹੋ ਜਾਂਦਾ ਹੈ। ਪਿਛਲੇ ਮਿਸ਼ਰਣ ਦੇ 20 ਲੀਟਰ ਲੈ ਕੇ ਮਿਸ਼ਰਣ ਨੂੰ ਪਿਛਲੇ ਮਿਸ਼ਰਣ ਤੋਂ ਦੁਬਾਰਾ ਤਿਆਰ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ।
+  utter_faq-agri-rice-b4/information-regarding-waste-decomposer-use-in-paddy-straw:
+  - text: FOR PREPARING WASTE DECOMPOSER TAKE 2 KG JAGGERY AND ONE BOTTLE OF WASTE DECOMPOSER ADDED IN 200 LITER OF WATER. AFTER 5 DAYS THE MIXTURE TURNS CREAMY . THE MIXTURE COULD BE PREPARED AGAIN FROM PREVIOUS MIXTURE BY TAKING 20 LITERS OF PREVIOUS MIXTURE.
+  utter_faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop:
+  - text: I TOLD THE KISAN 1 LITRE OF THIODAN 35 EC @ IN 2 LITRE OF WATER AND MIX 20 KG OF SOIL AND BROADCAST IN PER ACRE
+  utter_faq-agri-wheat-b0/information-regarding-brown-leaf-in-wheat-crop:
+  - text: Spray the crop with nativo 75 WG (trifloxystrobin + tebuconazole) @ 120 gm or Tilt 25 EC/shine 25EC/Bumper 25EC/ Stilt 25 EC/ Compass 25EC/ Markzole 25 EC(propiconazole) @ 200 ml in 200 litres of water / acre as soon as the disease is noticed.
+  utter_faq-agri-wheat-b3/information-regarding-zinc-deficiency-in-wheat-crop:
+  - text: For Zinc deficiency symptoms in wheat leaves become yellow in middle broadcaste 25kg Zinc Sulphate (21%) or spray 1kg Zinc Sulphate +500 gram unslaked lime in 200 lt of waterper acre .
+  utter_faq-agri-rice-b1-pun/information-regarding-dose-of-fertilizers-in-rice-?:
+  - text: ਪੈਡੀ ਵਿੱਚ ਕੁੱਲ ਖਾਦ ਦੀ ਖੁਰਾਕ - 90 ਕਿਲੋਗ੍ਰਾਮ. ਯੂਰੀਆ, 27 ਕਿਲੋਗ੍ਰਾਮ. ਡੀਏਪੀ ਜਾਂ 75 ਕਿਲੋ ਸੁਪਰਫੋਸਫੇਟ ਜਾਂ 20 ਕਿਲੋਗ੍ਰਾਮ. ਪੋਟਾਸ਼ ਪ੍ਰਤੀ ਏਕੜ. ਫਾਸਫੋਰਸ ਐਪਲੀਕੇਸ਼ਨ ਨੂੰ ਛੱਡੋ ਜੇ ਫਾਸਫੋਰਸ ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਖੁਰਾਕ ਨੂੰ ਪਿਛਲੇ ਕਣਕ ਦੀ ਫਸਲ ਤੇ ਲਾਗੂ ਕੀਤਾ ਗਿਆ ਸੀ ਅਤੇ ਮਿੱਟੀ ਦੇ ਟੈਸਟ ਦੇ ਅਧਾਰ ਤੇ ਪੋਟਾਸ਼ ਦੇ ਮੁਰਿਏਟ ਨੂੰ ਲਾਗੂ ਕੀਤਾ ਗਿਆ ਸੀ. ਸਪੌਡਿੰਗ ਦੇ ਸਮੇਂ ਡੀਏਪੀ ਜਾਂ ਸੁਪਰ ਅਤੇ ਪੋਟਾਸ਼ ਲਾਗੂ ਕਰੋ, ਪਹਿਲੇ, ਤੀਜੇ ਅਤੇ ਛੇਵੇਂ ਹਫਤੇ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਬਾਅਦ ਯੂਰੀਆ ਲਾਗੂ ਕਰੋ.
+  utter_faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties:
+  - text: LAST WEEK OF OCTOBER TO LAST WEEK OF NOVEMBER.
+  utter_faq-hort-garlic-b0/regarding-weed-control-in-garlic:
+  - text: Hand hoeing helps in controlling weed in garlic. The weeds in garlic can also be managed by applying 25 q per acre paddy straw after sowing.
+  utter_faq-agri-rice-b3/infroamtion-regarding-biofertilizer-treatment-of-paddy-nuresery-before-transplanting:
+  - text: 1 packet of Azorhizobium biofertilizer treatment in paddy crop before nursery transplantation dip the root of seedling for one acre in this solution for 45mintues
+  utter_faq-agri-wheat-b0/information-regarding-control-of-army-worm-in-wheat-crop:
+  - text: For control of army worm in wheat , spray Ekalux 25 EC(quinalphos) @ 400 ml in 100 litres of water per acre.
+  - text: FOR CONTROL OF ARMY WORM SPRAY EKALUX 400ML IN 100 LITRE WATER
+  utter_faq-agri-wheat-b3-pun/information-regarding-total-dose-of-urea-in-wheat-?:
+  - text: ਕਣਕ ਵਿੱਚ ਯੂਰੀਆ ਦੀ ਕੁੱਲ ਖੁਰਾਕ 90-110 ਕਿਲੋਗ੍ਰਾਮ/ਏਕੜ ਹੈ
+  utter_faq-hort-pea-b0/information-regarding-growth-of-peas:
+  - text: To improve the growth of pea crop spray 1KG powder NPK (19:19:19) per acre in 100 liters of water(@10 gram per liter).
+  utter_faq-agri-rice-b3/information-regarding-spacing-between-plant-to-plant-in-basmati:
+  - text: Transplant two seedlings per hill in lines at 20 x 15 cm (33 hills/sq. metre) during the optimum period in a well puddled field. In the late transplanted crop, the spacing may be reduced to 15x15 cm (44 hills/sq. metre) to minimize the reduction in yield.
+  utter_faq-agri-wheat-b0/control-of-weeds-in-wheat:
+  - text: FOR CONTROL OF WEEDS IN WHEAT CROP NO SPRAY RECOMMENDATION OF HERBICIDE AFTER 45 DAYS OF SWOING.
+  - text: SPRAY 16 GM TOTAL (SULFOSULFURON+METSULFURON METHYL) OR 160 GM ATLANTIS (MESOSULFURON+IODOSULFURON) IN 100-120 LITRE WATER PER ACRE
+  utter_faq-agri-wheat-b2-pun/information-regarding-sowing-time-of-wheat?:
+  - text: ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਅਕਤੂਬਰ ਦੇ 4ਵੇਂ ਹਫ਼ਤੇ ਤੋਂ ਨਵੰਬਰ ਦੇ 4ਵੇਂ ਹਫ਼ਤੇ ਤੱਕ ਹੁੰਦਾ ਹੈ।
+  utter_faq-hort-pea-b0/information-regarding-caterpiler-in-peas:
+  - text: To control of caterpillar in pea crop spray 70gm proclaim (emamectin benzoate), 100 ml Sumicidin (fenvalerate) or 130 ml avaunt(indoxacarb 15.8 EC) or 60 ml coragen in 100 litres of water per acre.
+  utter_faq-agri-wheat-b0-pun/control-of-rats-in-wheat-field:
+  - text: ਜ਼ਿੰਕ ਫਾਸਫੇਟ @ 25 ਗ੍ਰਾਮ 1 ਕਿਲੋਗ੍ਰਾਮ ਕਣਕ ਦੇ aata + 100 gm ਸਰ੍ਹੋਂ ਦੇ ਤੇਲ ਤੇ ਲਾਗੂ ਕਰੋ.
+  utter_faq-agri-wheat-b0/nformation-regarding-control-of-karnal-bunt-in-wheat:
+  - text: For control of Karnal bunt in wheat spray 200 ml Tilt/Bumper (Propiconazole 25 EC) or 200 ml Folicur/Orius 25 EC (Tebuconazole) in 200 liters of water per acre at ear emergence stage of crop.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-termite:
+  - text: BROADCAST 1 LITRE CHLOROPYRIPHOS 20 EC MIX WITH SAND
+  - text: control of termite in wheat spray 1lt CHLORPYRIPHOS 20EC in 100lt of water.
+  - text: FOR CONTROL OF TERMITE IN WHEAT MIX CLOROPYRIPHOS 20EC IN 10-15KG DUST AND BROADCAST IN ONE ACRE.
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-control-of-sulphur-deficiency-in-wheat-?:
+  - text: ਗੰਧਕ ਦੀ ਘਾਟ ਵਾਲੀਆਂ ਜ਼ਮੀਨਾਂ ਵਿੱਚ ਜ਼ਮੀਨ ਦੀ ਤਿਆਰੀ ਸਮੇਂ 100 ਕਿਲੋ ਜਿਪਸਮ ਪ੍ਰਤੀ ਏਕੜ ਪਾਓ ਪਰ ਜੇਕਰ ਫਾਸਫੋਰਸ ਨੂੰ ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਸਿੰਗਲ ਸੁਪਰਫਾਸਫੇਟ ਦੇ ਰੂਪ ਵਿੱਚ ਲਗਾਇਆ ਜਾਵੇ ਤਾਂ ਜਿਪਸਮ ਦੀ ਲੋੜ ਨਹੀਂ ਹੈ। ਗੰਧਕ ਦੀ ਘਾਟ ਹੋਣ 'ਤੇ ਖੜ੍ਹੀ ਫ਼ਸਲ ਵਿੱਚ ਜਿਪਸਮ ਵੀ ਲਗਾਇਆ ਜਾ ਸਕਦਾ ਹੈ।
+  utter_faq-agri-wheat-b3/dose-of-urea-for-foliar-spray:
+  - text: 3kg urea in 100 liters water per acre.
+  utter_faq-hort-pea-b0/information-regarding-control-of-powdery-mildew-in-pea:
+  - text: FOR CONTROL OF POWDERY MILDEW IN PEAS, SPRAY 80 ML KARATHANE OR 600 GM SULFEX IN 200 LITRE WATER PER ACRE
+  utter_faq-hort-pea-b0/control-of-rotting-in-pea:
+  - text: SPRAY 300GM INDOFIL M-45 IN 100LT WATER/ACRE.
+  utter_faq-agri-wheat-b0-pun/how-to-control-of-yellow-rust-in-wheat:
+  - text: ਕਣਕ ਵਿਚ ਪੀਲੇ ਜੰਗਾਲ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਪ੍ਰਤੀ ਏਕੜ ਵਿਚ 200 ਲੀਟਰ ਵਿਚ ਟਿਲਟ 25 ਈ ਸੀ (ਪ੍ਰੋਪੀਕੋਨਾਜ਼ੋਲ) 200 ਮਿ.ਲੀ. ਜਾਂ ਨੈਟਿਵੋ 75 ਡਬਲਯੂ ਜੀ (ਟ੍ਰਾਈਫਲੋਕਸੈਸਟ੍ਰੋਬਿਨ + ਟੇਬੂਕੋਨਾਜ਼ੋਲ) 120 ਗ੍ਰਾਮ ਸਪਰੇਅ ਕਰੋ.
+  utter_faq-hort-pea-b0/information-regarding-control-of-termite-in-pea:
+  - text: APPLY THIMET @ 3KG / ACRE FOR THE CONTROL OF TERMITE IN PEA .
+  utter_faq-agri-wheat-b0-pun/information-regarding-control-of-aphid-in-wheat:
+  - text: ਕਣਕ ਐਫਿਡ ਦਾ ਨਿਯੰਤਰਣ ਸਪਰੇਅ ਰੋਗਰ (ਡੈਮੇਥੋਆਇਟ) @ 1 ਮਿ.ਲੀ. / 1 lt ਪਾਣੀ ਹੈ
+  utter_faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop:
+  - text: To control wheat stem borer in wheat broadacaste the Fipronil 0.3% GR @ 8kg/ Acre at every 20 days interval after germination.
+  utter_faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat:
+  - text: TOTAL DOSE OF UREA IN WHEAT IS-90-110KG/ACRE
+  utter_faq-hort-garlic-b0/information-regarding-how-to-control-purple-blotch-in-garlic:
+  - text: SPRAY OF INDOFIL M-45 @ 400 GM IN 120 LITER WATER/ACRE
+  utter_faq-hort-pea-b0/information-regarding-control-of-borer-in-pea:
+  - text: Spray coragen 60 ml in 120 litres of water for one acre
+  utter_faq-hort-pea-b0/information-regarding-yellowing-of-pea-plants:
+  - text: SPRAY MICRO-NUTREINT 1KG IN 100 LITRE OF WATER/ ACRE
+  utter_faq-hort-pea-b0/information-regarding-control-of-leaf-curl-in-pea:
+  - text: SPRAY SAAF(UPL) @ 500GM IN 150LTR OF WATER PER ACRE .
+  utter_faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat:
+  - text: TIME OF SOWING IS FROM THE 4TH WEEK OF OCTOBER TO 4TH WEEK OF NOVEMBER.
+  utter_faq-agri-rice-b0-pun/spray-for-the-control-of-grasshopper:
+  - text: ਝੋਨੇ ਵਿੱਚ ਟਾਹਲੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ, ਸਪਰੇਅ 120 ਜੀਐਮ ਸ਼ਤਰੰਜ (ਪਿਮਟਰੋਜ਼ੀਨ 50 ਡਬਲਯੂਜੀ) ਜਾਂ 40 ਮਿ.ਲੀ. ਕਨਫਿਡੋਰ (ਇਮੀਡਾਕਲੋਪ੍ਰਿਡ 200 ਐਸ.ਐਲ. (17.8% ਡਬਲਯੂ / ਡਬਲਯੂ) ਜਾਂ ਏਕਲਕਸ 800 ਮਿ.ਲੀ. (ਕੁਆਇਨਲਫੋਸ 25% EC) ਜਾਂ 1 ਲੀਟਰ ਕਲੋਰਪਾਈਰੀਫੋਸ 20 EC ਪ੍ਰਤੀ ਏਕੜ 100 ਲੀਟਰ ਪਾਣੀ ਵਿੱਚ
+  utter_faq-agri-wheat-b3-pun/information-regarding-the-fertilizer.-dose-at-the-time-of-wheat-sowing?:
+  - text: ਕਣਕ ਦੀ ਬਿਜਾਈ ਦੇ ਸਮੇਂ FERT. ਡੋਜ਼।-DAP-55KG,MOP-25KG
+  utter_faq-agri-wheat-b3/information-regarding-the-control-of-sulphur-deficiency-in-wheat:
+  - text: In sulphur deficient soils apply 100 kg of Gypsum per acre at the time of land preparation but if the Phosphorous is applied to the wheat crop as Single superphosphate then no need of Gypsum application. Gypsum can also be applied in standing crop if deficiency of sulphur is observed.
+  utter_faq-hort-pea-b0/information-regarding-for-the-control-of-rust-disease-attack-in-pea-crop:
+  - text: control of Rust in Pea spray 400g Indofil M-45 in 200lt water per acre.
+  utter_faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat:
+  - text: control of Wheat Aphid is Spray Rogor (Dimethoate) @ 1 ml / 1 lt water
+  - text: For control of Aphid in wheat, spray 20g Actara 25WG(thiamethoxam) in 80-100 litres of water per acre.
+  utter_faq-agri-wheat-b0/control-of-rats-in-wheat-field:
+  - text: apply to zinc phosphate @ 25 gm in 1 kg wheat of aata + 100 gm mustard oil.
+  - text: PLACE HALF TABLET OF ZINC PHOSPHIDE PER HOLE AND BURRY THE HOLE WITH SAND FOR FUMIGATION
+  utter_faq-agri-wheat-b0/control-of-yellow-rust-in-wheat:
+  - text: For control of Yellow Rust in wheat , spray Tilt 25EC(propiconazole) 200 ml or Nativo 75WG (trifloxystrobin + tebuconazole) 120g in 200 litre per acre.
+  - text: RECOMMENDED TO SPRAY WETTABLE SULPHUR 80 WP(SULPHEX) @ 4 GM PER 1 LITRE OF WATER OR MANCOZEB 75 WP @ 2 GM PER 1 LITRE OF WATER TO CONTROL YELLOW RUST IN WHEAT
+  utter_faq-agri-rice-b4-pun/information-regarding-hydroponic-technique-?:
+  - text: ਕੋਈ ਉੱਤਰ ਨਹੀਂ
+  utter_faq-agri-wheat-b3-pun/information-regarding-wheat-seed-germination-after-rain-?:
+  - text: ਕੋਈ ਉੱਤਰ ਨਹੀਂ

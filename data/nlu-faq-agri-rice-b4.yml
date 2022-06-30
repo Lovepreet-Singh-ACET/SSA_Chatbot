@@ -3,144 +3,97 @@ nlu:
 
 - intent: faq-agri-rice-b4/information-regarding-hydroponic-technique
   examples: |
-    - information regarding hydroponic technique ?
-    - What are some useful information regarding hydroponic techniques?
-    - Is there any documentation or information related to hydroponic technique?
-    - What are some of the benefits of hydroponics?
-    - What are the details on hydroponic technique?
-    - What are some good things to know about hydroponics?
-    - What are the advantages and disadvantages of hydroponic technique?
-    - What are some useful information about hydroponics?
-    - What are the technical aspects of hydroponics technique?
-    - What are the technical details of hydroponic technique?
+    - information regarding hydroponic technique for rice?
+    - What are some useful information regarding hydroponic techniques for paddy?
+    - hydroponic technique for rice?
+    - What are some of the benefits of hydroponics in rice?
+    - What are the details on hydroponic technique for paddy?
+    - What are some good things about hydroponics for paddy crop?
+    - tell me about the hydroponic technique for rice crop?
+    - What are some useful information about hydroponic tech to use for rice/paddy crop?
+    - i want to know about the hydroponic technique used in the paddy field
+    - provide me with information related to rice hydroponic technique
     - What are hydroponic techniques? How can you apply them?
-
-- intent: faq-agri-rice-b4/information-regarding--how-to-manage-water-in-nursery-seedling
-  examples: |
-    - information regarding  how to manage water in nursery seedling ?
-    - How do you manage water in nursery seedlings?
-    - How to manage water in nursery seedlings?
-    - What is the best way to manage water in nursery seedlings?
-    - How do I manage water in nursery seedling?
-    - What is the best method to manage water in a nursery seedling?
-    - How do I manage water in a nursery seedling?
-    - How do I manage water in nursery seedlings?
-    - How do I manage irrigation water?
-
-- intent: faq-agri-rice-b4/information-regarding-how-to-manage-water-in-booting-stage
-  examples: |
-    - information regarding how to manage water in booting stage  ?
-    - How do I manage water when I am at the booting stage?
-    - How do you manage water during booting phase?
-    - How do you manage water during booting stage?
-    - How do I manage water in booting stage?
-    - How to manage water in booting stage?
-    - How can I manage water in booting stage?
-    - How can I manage water during booting stages?
-    - How do you manage water at a booting stage?
-    - How do you manage water in the booting stage?
-    - How should I manage water during the booting stages?
 
 - intent: faq-agri-rice-b4/information-regarding-to-improve-the-drainage-of-water
   examples: |
-    - information regarding to improve the drainage of water?
-    - What is necessary to improve drainage of water?
-    - How can we improve drainage of water?
-    - What are the suggestions to improve drainage of water?
-    - How we can improve the drainage of water?
-    - What are the best ways to improve water drainage?
-    - What are the ways to improve the drainage of water in the present era?
-    - What does it mean to improve the drainage of water?
-    - How can we improve the drainage of water?
-    - Information regarding to improve the drainage of water?
-    - How can I improve the drainage of water?
+    - information regarding to improve the drainage of water in rice field?
+    - What is necessary to improve drainage of water in paddy fields?
+    - How can we improve drainage of water for the basmati rice field?
+    - What suggestions can you provide to improve drainage of water in rice fields?
+    - How we can improve the drainage of water in paddy fields?
+    - What are the best ways to improve water drainage in rice land?
+    - What are the ways to improve the drainage of water in the rice field area?
+    - tell me the possible ways to improve the water drainage probem in rice field?
+    - how can i improve the drainage capability of rice field soil. 
+    - how can i improve the drainage capability of paddy land soil.
+    - water drainage improvement for rice sown land
 
 - intent: faq-agri-rice-b4/information-regarding-thiamethoxam-25--wg-chemical--is-used-for
   examples: |
-    - information regarding thiamethoxam 25 % wg chemical  is used for?
-    - What are chemical properties of thiamethoxam 25 % wg?
-    - What is the product information regarding thiamethoxam 25 % wg chemical is used for?
-    - What are thiamethoxam 25 % wg chemical used for?
-    - How is thiamethoxam used?
-    - What is thiamethoxam 25 % wg chemical used for?
-    - How is thiamethoxam 25 % wg chemical used for?
-    - What can I get information about thiamethoxam 25 % wg chemical for?
-    - How does thiamethoxamine be used?
+    - information regarding thiamethoxam 25 wg chemical is used for in rice?
+    - when to use thiamethoxam 25 wg in rice?
+    - in rice for what reason thiamethoxam 25 wg chemical is used for?
+    - for what the thiamethoxam 25 wg chemical used for?
+    - thiamethoxam used for in rice?
+    - What is thiamethoxam 25 wg chemical used for in paddy?
+    - for what use the thiamethoxam 25 chemical used for in rice
+    - about thiamethoxam 25 wg chemical which is used in rice?
+    - thiamethoxamine is used for what reason in rice?
 
 - intent: faq-agri-rice-b4/information-regarding-technical-names-of-folicur-and-chloro
   examples: |
     - information regarding technical names of folicur and chloro?
     - Which are the technical names of folicur and chloro?
-    - What is the difference between folicur and chloro?
-    - How can folicur and chloro be technical names?
+    - What are the technical names for folicur and chloro?
+    - folicur and chloro technical names?
     - What are some of the technical names of folicur and chloro?
     - What are technical names for folicur and chloro?
     - What are some technical names of folicur and chloro?
-    - What are the names of the folicur and chloro?
-    - What are the technical names for folicur and chloro?
-    - What are the technical names of folicur and chloro?
-    - How can I change the technical name for folicur and chloro?
-
-- intent: faq-agri-rice-b4/information-regarding-best-time-for--fodder-crop
-  examples: |
-    - information regarding best time for  fodder crop?
-    - Which is the best time to crop fodder crop?
-    - What is the best fodder crop season?
-    - Best time for fodder crop?
-    - What is the best time for fodder crops harvest?
-    - What is best time to make fodder crops?
-    - When is best time for fodder crop?
-    - Which time is the best time to harvest fodder crop?
-    - How is the best time to crop fodder crops?
-    - Exactly what is best time to plant fodder crop?
-    - When is the best time to grow fodder crop?
+    - technical names of the folicur and chloro?
+    - tell me the technical names for folicur and chloro?
+    - the technical names of folicur and chloro?
+    - please tell me the technical names of folicur and chloro?
 
 - intent: faq-agri-rice-b4/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didnt-sprout
   examples: |
-    - information regarding  paddy seed have been sown for 6 days seed didn't sprout ?
-    - Are there any seeds that have been sown for 6 days but that didn't sprout?
-    - How do I get paddy seeds to sprout after 5 days?
-    - When paddy seed has been sown for 6 days seed didn't sprout?
-    - After sown for 6 days what are the reasons why the seeds didn't sprout?
-    - Does paddy seed have been sown for 6 days seed didn't sprout?
-    - Information regarding paddy seed have been sown for 6 days seed didn't sprout?
-    - Where can I buy Paddy seeds that are sown for 6 days but didn't sprout?
-    - How is paddy seed for 6 days seed didn't sprout?
-    - What information regarding paddy seed have been sown for 6 days seed didn't sprout?
-    - Paddy seeds have been sown for 6 days seed didn't sprout?
+    - information regarding paddy seed have been sown for 6 days seed didn't sprout ?
+    - it has been 6 days since paddy seeds are shown but they have not sprout yet?
+    - i have sown paddy seeds 6 days ago but they have not sprout yet.
+    - paddy seed has been sown for 6 days and seed didn't sprout?
+    - After being sown for 6 days what are the reasons why the paddy seeds didn't sprout?
+    - why is the paddy seed which is sown for 6 days seed didn't sprout?
+    - any info regarding paddy seed that have been sown for 6 days and didn't sprout?
+    - Paddy seeds have been sown for 6 days and didn't sprout?
+    - why even after 7 days of sowing paddy seeds they have not sprout
+    - paddy seeds have not started germinating even after 7 8 days of sowing
 
 - intent: faq-agri-rice-b4/information-regarding-paddy-commom-seed-storage-in-home
   examples: |
-    - information regarding paddy (commom) seed storage in home ?
-    - Is there any information regarding seed storage in a paddy (commom) home?
-    - What is the best way to store seeds in your home?
-    - What is paddy (commom) seed storage in home?
-    - How does paddy seed store the seeds for home?
-    - How can I store seeds at home?
-    - How can I maintain the seed stored at home?
+    - information regarding paddy seed storage in home?
+    - Is there any information regarding rice seed storage inside home?
+    - What is the best way to store rice seeds in your home?
+    - how are paddy seeds stored in houses
+    - storing rice seeds a place like home?
+    - How can I store rice seeds at home?
+    - how to safely store seeds of paddy at home
     - Can I store seeds in the house?
-    - Which seed storage facility is best for paddy seeds?
+    - methods to store rice seeds at home
     - What is the best way to store seeds at home?
-    - How do I store seeds at home in paddy, mum?
+    - How do I store seeds at home of paddy?
 
 - intent: faq-agri-rice-b4/information-regarding-waste-decomposer-use-in-paddy-straw
   examples: |
-    - information regarding waste decomposer use in paddy straw ?
+    - information regarding waste decomposer used in paddy straw?
     - What is the waste decomposer used in paddy straw?
-    - Waste decomposer use in paddy straw?
-    - When does waste decomposer use in paddy straw?
-    - What are the processes for waste decomposer use in paddy straw?
-    - Is there waste decomposer used in paddy straw?
-    - Information regarding waste decomposer use in paddy straw?
-    - information regarding processing of waste decomposer ?
-    - What are the best possible methods of processing waste decomposer?
-    - What are the information regarding processing of waste decomposer?
-    - Information regarding processing of waste decomposer?
-    - What are the requirements of processing waste decomposer?
-    - How do you process the waste decomposer for paddy straw?
-    - Is there information regarding processing of waste decomposer?
-    - What is the information regarding process of waste decomposer?
-    - How do you get information regarding processing of waste decomposer?
+    - which waste decomposer is used in paddy straw?
+    - When does waste decomposer used in paddy straw?
+    - Is there any waste decomposer which is used in paddy straw?
+    - tell me the use of waste decomposer in paddy straw
+    - how is the waste decomposer prepared to use in paddy straw
+    - what is the method of preparing waste decomposer which is used in rice straw
+    - what is the process followed to create waste decomposer to be used in paddy straw
+    - process followed to prepare the waste decomposer which can be used in paddy straw
 
 - intent: faq-agri-rice-b4/information-regarding-the-how-to-remove-the-water-from-paddy-field
   examples: |
@@ -157,48 +110,31 @@ nlu:
 - intent: faq-agri-rice-b4/information-regarding-standing-water-in-paddy-field
   examples: |
     - information regarding standing water in paddy field?
-    - What is the source of standing water in a paddy field?
-    - What is the standing water in a paddy field?
-    - What is the best way to identify standing water in paddy field?
-    - How does standing water in paddy field affect crop?
-    - How do I find out the groundwater standing in paddy field?
-    - How can I tell if standing water in paddy field is present?
+    - how to handle the standing water in paddy field?
+    - handling standing water in a paddy field?
+    - What is the best way to handle standing water in paddy field?
+    - How does standing water in paddy field can be removed?
+    - how to remove the extra water in paddy field
+    - water standing in paddy field how to handle it
     - How do I control standing water in paddy fields?
-    - How can you improve standing water at a paddy field?
-    - What are the basic requirements for preserving stand water in paddy field?
-    - How can I keep up with standing water in paddy field?
+    - How can you get rid of standing water at a paddy field?
+    - How can I remove standing water from paddy field?
 
 - intent: faq-agri-rice-b4/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water
   examples: |
     - information regarding that how many days paddy crop can survive in the water ?
-    - How many days will a pond paddy crop survive if it's completely frozen and then sprayed?
     - How long can the paddy crop survive in the water?
     - How many days paddy crop can survive in water?
-    - How many days can a paddy crop survive without water?
-    - How many days does paddy crop survive in water?
-    - How many days can a paddy crop survive in water? If not how much days in the water?
+    - How many days can a paddy crop survive in excessive water?
+    - for how many days will paddy crop survive in large amount of water
     - How many days will paddy crops survive in the water?
     - How many days paddy can survive in the water?
     - How many days do paddy crops survive in water?
-    - How many days can paddy crop survive in water?
-
-- intent: faq-agri-rice-b4/information-regarding-the-submission-of-farms-to-the-agricultural-office-if-you-do-not-burn-the-paddy-straw
-  examples: |
-    - information regarding the submission of farms to the agricultural office if you do not burn the paddy straw ?
-    - Do you burn paddy straw in the soil?
-    - If you burn your paddy straw then does it burn?
-    - If you don't burn paddy straw, why are you so cheated?
-    - Why don't you burn paddy straw?
-    - Do we burn paddy straw?
-    - If you don't burn your paddy straw why is it still considered a farming farm?
-    - What are some guidelines for submission of farms to the agricultural office if you don't burn paddy straw?
-    - What if you don't burn the paddy straw?
-    - What are the best ways to submit a farm to the agriculture office if you don't burn paddy straw?
-    - If you burn your paddy straw, how do you know if you are submitting farms to the agricultural office if you don't burn it?
+    - i want to know the survival chances of paddy in water over a long period of time
 
 - intent: faq-agri-rice-b4/information-regarding-preventing-the-paddy-field-from-cracks
   examples: |
-    - information regarding preventing the paddy field from cracks  ?
+    - information regarding preventing the paddy field from cracks?
     - How do I prevent the paddy field from cracks?
     - How can we prevent the paddy field from cracking?
     - How do I prevent a paddy field from cracking?
@@ -208,30 +144,3 @@ nlu:
     - How do we prevent paddy fields from cracking?
     - How to prevent a paddy field from cracking?
     - What is the best way to keep the paddy field from cracking?
-
-- intent: faq-agri-rice-b4/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field
-  examples: |
-    - information regarding how to remove wheat stubble burning ash from paddy nursery field ?
-    - How can I remove burning wheat ash from paddy nursery field?
-    - How can I remove wheat stubble burning ash from paddy nursery field?
-    - How to remove wheat stubble burning ash from paddy nursery field?
-    - How can I remove the wheat stubble from a nursery field?
-    - How do you remove wheat stubble burning ash from paddy nursery field?
-    - How do I remove wheat stubble burning ash from paddy nursery field?
-    - What is the best way to remove wheat stubble from paddy nursery field?
-    - How do I remove ash from paddy nursery field?
-    - How can we remove wheat stubble burning ash from paddy nursery field?
-    - How can I remove ash from a paddy nursery field?
-
-- intent: faq-agri-rice-b4/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil
-  examples: |
-    - information regarding the selection of variety of paddy for light textured soil ?
-    - How do I select the appropriate variety of paddy for light textured soil?
-    - What are the varieties of paddy for light textured soil?
-    - How can you select the variety of paddy for light textured soil?
-    - What is the selection of varieties of paddy for light textured soil?
-    - How do I find variety of paddy for light textured soil?
-    - What is the best selection of paddy for light textured soil?
-    - What is the selection of variety of paddy for light textured soil?
-    - Information regarding the selection of variety of paddy for light textured soil?
-    - What are some advantages of buying a paddy for light textured soil and its selection?

@@ -19,10 +19,15 @@ pipeline:
     analyzer: char_wb
     min_ngram: 1
     max_ngram: 4
+
   - name: DIETClassifier
-   # entity_recognition: False
-    epochs: 100
-    batch_strategy: sequence # if you have a lot of training data for some intents and very little training data for others. 
+    entity_recognition: False
+    epochs: 300
+    batch_strategy: sequence # if you have a lot of training data for some intents and very little training data for others.
+    number_of_transformer_layers: 3
+    number_of_attention_heads: 4
+    drop_rate: 0.2
+    use_masked_language_model: True
 
   - name: EntitySynonymMapper
 
@@ -130,10 +135,6 @@ pipeline:
   - name: ResponseSelector
     epochs: 100
     retrieval_intent: faq-hort-pea-b0
-
-  - name: ResponseSelector
-    epochs: 100
-    retrieval_intent: faq-hort-garlic-b0
 
   - name: FallbackClassifier
     threshold: 0.90

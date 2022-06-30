@@ -4,12 +4,10 @@ import os
 import pandas as pd
 
 nlu_file_names = [
-    "nlu-faq-hort-chilli-b0.yml",
-    "nlu-faq-hort-chilli-b1.yml"
+    "nlu-faq-agri-wheat-b0.yml"
 ]
 domain_file_names = [
-    "domain-hort-chilli-b0.yml",
-    "domain-hort-chilli-b1.yml"
+    "domain-agri-wheat-b0.yml"
 ]
 
 questions_list = []
@@ -57,7 +55,7 @@ for filename in domain_file_names:
                         # print(doc[i]["examples"].split("\n")[0])
 
 df = pd.DataFrame({"questoions": questions_list, "answers": answer_list, "second_answer": second_answer_list})
-df.to_csv("CSV/Added_Questions_Set_chilli_b01_combined.csv", index=False)
+df.to_csv("CSV/Added_Questions_Set_wheat_b0_new_data.csv", index=False)
 
 print(len(questions_list), len(answer_list), len(second_answer_list))
 # print(answer_list)

@@ -1,0 +1,494 @@
+version: "3.0" 
+nlu: 
+
+# sowing time | optimum sowing time
+- intent: faq-hort-garlic-b0/information-regarding-sowing-time-of-garlic
+  examples: |
+    - information regarding sowing time of garlic?
+    - What's the estimated sowing time for garlic?
+    - What is the sowing time of garlic?
+    - What is the best time for garlic to be sowen?
+    - information regarding optimum sowing time of garlic ?
+    - What is optimum sowing time for garlic?
+    - Which is the best time to plant garlic?
+    - Optimal sowing time of garlic?
+    - What is the best sowing time for garlic?
+    - What is the correct sowing time for garlic?
+    - tell me about garlic sowing time ?
+    - What is garlic sowing time?
+    - What is the best time for garlic to sew?
+# weed control | problem of weeds
+- intent: faq-hort-garlic-b0/regarding-weed-control-in-garlic
+  examples: |
+    - regarding weed control in garlic
+    - How do you handle weed in garlic?
+    - Is there weed control in garlic?
+    - How can we control garlic weed?
+    - Can garlic weeds be controlled with weed killer spray?
+    - What's the best way to control weeds in garlic?
+    - What are the weed killers used for garlic weeds?
+    - How do we control weeds in garlic?
+    - How to control weed in garlic cloves?
+    - problem of weeds in garlic?
+    - How can weeds kill garlic?
+    - How can we prevent garlic from growing so many weeds?
+    - information regarding weed control in garlic?
+    - How do I control weed in garlic?
+    - What is the best weed control method for garlic?
+    - How can I control garlic weeds?
+    - info regarding weed control
+# dose of urea
+- intent: faq-hort-garlic-b0/dose-of-urea-in-garlic
+  examples: |
+    - dose of urea in garlic
+    - what does of urea should be there in garlic
+    - how much urea should be in garlic
+    - amount of urea for garlic crop
+    - urea in garlic
+    - what should be the content of urea in garlic
+    - in garlic how much urea is required
+    - in case of garlic how much urea needed
+    - urea content needed for garlic
+# control fungal disease
+- intent: faq-hort-garlic-b0/information-regarding-how-to-control-fungal-disease-in-garlic
+  examples: |
+    - information regarding how to control fungal disease in garlic?
+    - How do we control fungal disease in garlic?
+    - How can you control fungal disease with garlic?
+    - How do I control fungal disease in garlic?
+    - How to control fungal disease in garlic?
+    - What are some tips for controlling fungal disease in garlic?
+    - ways to control fungal disease in garlic
+    - in garlic what can i do to control fungus
+    - there is fungus in my garlic field what should I do about it
+    - i need information regarding control measure of fungus in garlic
+# regarding storage of garlic
+- intent: faq-hort-garlic-b0/information-regarding-storage-of-garlic
+  examples: |
+    - information regarding storage of garlic?
+    - What is the best storage location for garlic?
+    - Is there any information regarding the storage of garlic?
+    - What are some information for storage of garlic?
+    - Can I safely store garlic?
+    - How can I store garlic?
+    - What is the best way to store garlic?
+    - How long can I store garlic?
+    - Can you give me any useful information on how to store garlic?
+    - i need you to tell me how to store garlic crop
+    - garlic crop storage methods
+# pre emergence weedicide in garlic
+- intent: faq-hort-garlic-b0/pre-emergence-weedicide-in-garlic
+  examples: |
+    - pre emergence weedicide in garlic?
+    - How do I control pre emergence weeds in garlic?
+    - What is a pre emergence weedicide in garlic
+    - Is there any weedicide for pre emergence weeds in garlic?
+    - Is weedicide used in garlic before emergence
+    - is there any pre emergence weedicide available for garlic
+    - garlic pre emergemce weedicide
+    - pre emergence weedicide for garlic crop
+    - let me know if there is any pre emergence weedicide available for garlic
+# maggots
+- intent: faq-hort-garlic-b0/regarding-maggots-in-garlic
+  examples: |
+    - regarding maggots in garlic
+    - What is the problem with maggots in garlic?
+    - How maggots are killed in garlic?
+    - What can be done to get rid of maggots in garlic?
+    - How to resolve the problem of maggots in garlic?
+    - how can we kill maggots in garlic
+    - How are maggots in garlic treated?
+    - How do maggots in garlic taken care of?
+    - maggots problem in garlic
+    - there are maggots in garlic how to resolve them
+# yellowing of leaves
+- intent: faq-hort-garlic-b0/regarding-yellowing-of-leaves-of-garlic
+  examples: |
+    - regarding yellowing of leaves of garlic
+    - information regarding yellowing of garlic?
+    - information regarding the yellowing of leaves in garlic ?
+    - Why does garlic yellow on leaves?
+    - How do you prevent the yellowing of garlic leaves?
+    - How can the yellowing of garlic leaves be removed?
+    - how to control yellowing in garlic crop ?
+    - How can I control the yellowing in garlic crop?
+    - How to control garlic crop yellowing?
+    - How can I control yellowing in garlic?
+    - How do you prevent garlic crop yellowing?
+    - what can be done to control yellowing in garlic
+    - yellowing in garlic
+    - garlic leaves are becoming yellow
+# burning of tips
+- intent: faq-hort-garlic-b0/information-regarding-burning-of-tips-in-garlic
+  examples: |
+    - information regarding burning of tips in garlic?
+    - How do I prevent burning of garlic?
+    - What is the information regarding burning tips in garlic?
+    - how to prevent garlic tips from burning
+    - what can be done to stop garlic tips from getting burned
+    - how do i stop burning of garlic tip
+    - How do I control the burning of garlic tips?
+    - is it possible to stop the tips of garlic from burning
+    - tell me the methods to prevent tips from getting burned in garlic
+    - how to make sure the garlic tips don't get burned
+    - what methods are there to help in prevention of garlic tips from getting burns
+# control of jassids
+- intent: faq-hort-garlic-b0/information-regarding-how-to-control-jassids-in-garlic
+  examples: |
+    - information regarding how to control jassids in garlic?
+    - How do I control jassids in garlic?
+    - jassid control in garlic
+    - How do you control jassids in garlic?
+    - How can I control jassids in garlic?
+    - control methods for jassids in garlic?
+    - How can I control Jassids in garlic?
+    - ways to control jassids in garlic
+    - methods to kill jassids in garlic
+    - provide me with some detail on how to get rid of jassid in my garlic fields
+# improve growth
+- intent: faq-hort-garlic-b0/information-regarding-how-to-improve-growth-in-garlic
+  examples: |
+    - information regarding how to improve growth in garlic?
+    - What is the best way to increase garlic's growth?
+    - How do I increase garlic's growth?
+    - How do I get garlic to grow faster?
+    - How can you increase garlic's growth?
+    - How to improve growth of garlic?
+    - What is the best way to improve garlic's growth?
+    - What are some ways to increase garlic's growth?
+    - How do you increase garlic's growth?
+    - How can I increase garlic growth?
+# fertilizers in garlic
+- intent: faq-hort-garlic-b0/fertilizers-in-garlic
+  examples: |
+    - information regarding total fertilizer dose in garlic
+    - What is the information regarding total fertilizer dose in garlic?
+    - What are the data regarding total fertilizer dose in garlic?
+    - What is the total fertilizer dose in garlic
+    - What is total fertilizer dose of garlic
+    - How much fertilizer should be applied on garlic?
+    - What is the total fertilizer dose that should be applied on garlic?
+    - information regarding total fertilizer dose in garlic crop ?
+    - What is the total fertilizer dose for garlic crop?
+    - dose of fertlizers in garlic
+    - what amount of fertilizers can be used in garlic
+    - amount of fertlizers that can be used in garlic
+# row spacing
+- intent: faq-hort-garlic-b0/row-spacing-in-garlic
+  examples: |
+    - row spacing in garlic?
+    - determine the row spacing of garlic cloves?
+    - How does garlic row spacing work?
+    - What is row spacing in garlic?
+    - spacing of garlic
+    - How do garlic cloves spread out?
+    - how much spacing should be there in garlic
+    - on the field of garlic how much spacing should be between two rows
+    - what should be the row spacing for garlic
+    - what should be the distance between two garlic crops
+# maturity time
+- intent: faq-hort-garlic-b0/maturity-time-of-garlic
+  examples: |
+    - maturity time of garlic?
+    - How long is garlic's maturation time?
+    - What is the maturing time of garlic?
+    - What is the maturity time of garlic?
+    - When can you expect garlic to mature?
+    - How long will garlic maturity time be?
+    - Which is the maturity time of garlic?
+    - maturity time of garlic
+    - what's the maturity time of garlic crop
+    - tell me the maturity time of garlic
+# seed treatment
+- intent: faq-hort-garlic-b0/information-regarding-seed-treatment-of-garlic
+  examples: |
+    - information regarding seed treatment of garlic?
+    - about seed treatment of garlic?
+    - What is the information regarding seed treatment of garlic?
+    - How can I get the correct information about seed treatment of garlic?
+    - What is the best info regarding seed treatment of garlic?
+    - Seed treatment in garlic?
+    - how are seeds of garlic treated
+    - what can be done to treat seeds of garlic
+    - i need information of garlic seed treatment
+    - garlic seed treatment info
+# total urea dose
+- intent: faq-hort-garlic-b0/information-regarding--total--urea-dose-in-garlic
+  examples: |
+    - information regarding  total  urea dose in garlic ?
+    - What is the total urea dose of garlic?
+    - How much urea dose required in garlic?
+    - What are the best doses of total urea in garlic?
+    - Can you tell the amount of urea required in garlic?
+    - What is the total urea dose for garlic?
+    - What is total urea dose of garlic.
+    - How much urea dose for garlic crop?
+    - how much urea required for garlic
+    - amount of urea required by garlic crop
+    - what should be the total urea does for garlic crop
+# last irrigation
+- intent: faq-hort-garlic-b0/information-regarding-last-irrigation-in-garlic
+  examples: |
+    - information regarding last irrigation in garlic ?
+    - What information regarding last irrigation in garlic?
+    - Information regarding last irrigation in garlic?
+    - when should the irrigation in garlic be stoped
+    - Is there any information regarding last irrigation in garlic?
+    - How do you estimate last irrigation?
+    - What is the information about last irrigation in garlic?
+    - Is there information about last irrigation in garlic?
+    - last irrigation in garlic should be done when
+    - information regarding last irrigation in garlic?
+# application of urea
+- intent: faq-hort-garlic-b0/information-regarding-the-application-of-urea-in-garlic
+  examples: |
+    - information regarding the application of urea in garlic ?
+    - when should urea be applied in garlic
+    - Is there any information concerning the application of urea in garlic?
+    - time interval at which urea should be applied in garlic
+    - At what intervals should I apply urea in garlic
+    - when to apply urea in garlic
+    - application time of urea in garlic
+    - when should urea be applied in garlic
+    - urea application time in garlic
+    - in garlic crop at what time urea should be applied
+    - urea application time for garlic crop
+# harvesting
+- intent: faq-hort-garlic-b0/information-regarding-the-harvesting-of-garlic
+  examples: |
+    - information regarding the harvesting of garlic ?
+    - What information regarding the harvesting of garlic?
+    - when should i harvest garlic crop
+    - what should be the time to harvest garlic crop
+    - tell me when should garlic be harvested
+    - harvesting of garlic
+    - time for harvesting garlic crop
+    - i want to when am i supposed to harvest garlic
+    - at what time should garlic be harvested
+    - can you tell me when should I start harvesting garlic crop
+
+# method of sowing
+- intent: faq-hort-garlic-b0/information-regarding-method-of-sowing-of-garlic
+  examples: |
+    - information regarding method of sowing of garlic ?
+    - What's the procedure of sowing garlic?
+    - What is the method to sow garlic?
+    - What are the best methods of sowing garlic?
+    - Which method is the best to sow garlic?
+    - How do you sow garlic?
+    - What is the method to sow garlic in India?
+    - How would you describe the process for sowing garlic?
+    - What is the information on the procedure of sowing garlic?
+    - What are some methods of sowing garlic?
+    - What is the method of sowing garlic?
+# application of manures and fertilizers
+- intent: faq-hort-garlic-b0/information-regarding-manures-and-fertilizer-application-in-garlic-crop
+  examples: |
+    - information regarding manures and fertilizer application in garlic crop?
+    - What are the most efficient manures and fertilizer application in garlic crop?
+    - How can I get information regarding fertilizer application in garlic plant?
+    - How does manure application in garlic crop help?
+    - How do I use manure and fertilizer to grow garlic?
+    - How do I application manure for garlic seeding?
+    - How can I make garlic crop fertilizer with manure?
+    - What is the information regarding manure and fertilizer application in garlic crop?
+    - about manure and fertilizer application in garlic crop?
+    - How are manure and fertilizer application related to garlic crop?
+    - manure and fertilizer application in garlic
+# application of biozyme
+- intent: faq-hort-garlic-b0/information-regarding-application-of-biozyme-in-garlic
+  examples: |
+    - information regarding application of biozyme in garlic ?
+    - Is Biozyme applied in garlic?
+    - How is a biozyme used in garlic?
+    - What is the use of Biozyme in Garlic?
+    - What is the application of a biozyme in garlic?
+    - Are biozymes used in garlic?
+    - How is biozyme used in garlic?
+    - How can a biozyme be used on garlic?
+    - How can the biozyme in garlic be used?
+    - What's the best way to practice Biozyme in garlic?
+    - How can biozyme be applied in garlic?
+# SSP dose
+- intent: faq-hort-garlic-b0/information-regarding-dose-of-ssp-in-garlicacre
+  examples: |
+    - information regarding dose of ssp in garlic/acre?
+    - How many ssp in garlic will I need?
+    - How much dose of ssp can be found in garlic?
+    - Dose of ssp in garlic/acre?
+    - How much dose of ssp is needed in garlic acre?
+    - What is the dosage of SSP in garlic?
+    - What are the doses of garlicssp, ssp and ssp?
+    - How much doses of ssp in garlic are there?
+    - How much dose of ssp in garlic/acre?
+    - What is the correct dose for garlic ssp?
+    - What should be dose of ssp in garlic/acre?
+# depth
+- intent: faq-hort-garlic-b0/information-regarding-about-depth-of-garlic-in-soil-and--sowing-time-of-potato
+  examples: |
+    - information regarding about depth of garlic in soil 
+    - information regarding about depth of garlic in soil
+    - about the depth of the garlic in the soil
+    - regarding how far down in the earth the garlic is.
+    - about the depth of the garlic in the ground.
+    - information about how far underground the garlic is.
+    - tell me how deep garlic crop should be shown
+    - what should be the depth of garlic crop being sown
+    - what depth should the garlic crop be sown?
+# nuterient management
+- intent: faq-hort-garlic-b0/tell-me--about-nutrient-management-in-garlic
+  examples: |
+    - tell me  about nutrient management in garlic ?
+    - What are the benefits of nutrient management in garlic?
+    - What are the nutritional parameters in garlic?
+    - What are nutrient management parameters in garlic?
+    - What are the nutritional nutrient management tips for garlic cloves?
+    - What are the nutrient management in garlic?
+    - What is nutrient management of garlic?
+    - What is nutrient management for garlic?
+    - What are the nutrient management and nutrient management practices of garlic?
+    - What does garlic nutrient management do?
+    - What is nutrient management in garlic?
+# increasing size of garlic
+- intent: faq-hort-garlic-b0/information-regarding-increasing-size-of-garlic
+  examples: |
+    - information regarding increasing size of garlic?
+    - How does garlic grow? How is it increased in size?
+    - What are the main reasons behind growing garlic?
+    - Why garlic has increased its size?
+    - How can you increase garlic's size in an efficient way?
+    - How does the garlic grow?
+    - Is there information regarding the size of garlic?
+    - How can I increase the garlic garlic size?
+    - What are some good information about increasing garlic size?
+    - What is the information regarding increasing size of garlic?
+    - What do you think of the new information regarding garlic size?
+# zinc sulphate
+- intent: faq-hort-garlic-b0/information-regarding-zinc-sulphate-doze-in-garlic
+  examples: |
+    - information regarding zinc sulphate dose in garlic? 
+    - zinc sulphate doses present in garlic?
+    - How is zinc sulphate dose used in garlic?
+    - How zinc sulphate dose is used in garlic?
+    - Why is zinc sulphate dose used in garlic?
+    - how to use zinc sulphate in garlic
+    - zinc sulphate use in garlic
+    - dose of zinc sulphate used in garlic crop
+    - what should be the dose of zinc sulphate in garlic
+    - to recover zinc how much zinc sulphate should be used in garlic
+# purple blotch
+- intent: faq-hort-garlic-b0/information-regarding-how-to-control-purple-blotch-in-garlic
+  examples: |
+    - information regarding how to control purple blotch in garlic?
+    - What is the best method to control purple blotch in garlic?
+    - How do you control purple blotch in garlic?
+    - What is the best method for controlling purple blotch in garlic?
+    - What should I do to control purple blotch in garlic?
+    - How do I get rid of purple blotches in garlic?
+    - How do I control purple blotch in garlic?
+    - information regarding control purple bloch in garlic ?
+    - How can you reduce purple blotch in garlic?
+    - What is a good way to control purple blockh from garlic?
+    - What is the way to control the purple blocks in garlic?
+    - What's the best way to control purple blockh in garlic?
+    - How does purple bloch in garlic treated?
+    - information regarding for the control of purple blotch disease in garlic crop?
+    - How can the Purple Blotch disease be prevented from garlic crop?
+    - What are the remedies for purple blotch disease?
+    - How do we get rid of purple blotch disease in garlic crop?
+    - What are the ways of reducing purple blotch infection in garlic crop?
+    - How is purple blotch disease treated in garlic?
+    - How can I control Purple Blotch Disease in garlic crop?
+# thrips
+- intent: faq-hort-garlic-b0/information-regarding-control-of-thrips-in-thrips-and-other-sucking-pests-crop
+  examples: |
+    - information regarding control of thrips in garlic?
+    - How do you control thrips in garlic?
+    - Is there any control for thrips in garlic crop?
+    - What are the controls against thrips in garlic?
+    - How do I control thrips in garlic?
+    - How can I control garlic thrips?
+    - How do I control garlic crop thrips?
+    - What are the best ways to eradicate thrips in garlic plants?
+    - How do you control garlic crop thrips?
+    - How do I control thrips in garlic plant?
+    - How do I control thrips in garlic?
+# nitrogen deficiency
+- intent: faq-hort-garlic-b0/information-regarding-for-deficiency-of-nitrogen-in-garlic
+  examples: |
+    - information regarding for deficiency of nitrogen in garlic?
+    - nitrogen a deficiency in garlic?
+    - how to handle the lack of nitrogen in garlic?
+    - deficiency of nitrogen in garlic?
+    - spray to use for handling nitrogen deficiency for garlic
+    - garlic is deficient in nitrogen how to cure it
+    - what methods are there to correct the nitrogen deficiency in garlic
+    - i want to increase the content of nitrogen since it is deficient in the garlic
+    - how to handle the deficiecny of nitrogen in garlic
+# stem borer
+- intent: faq-hort-garlic-b0/information-regarding-control-of-stem-boror-in-garlick
+  examples: |
+    - information regarding control of stem boror in garlic?
+    - How do I control boror in garlic?
+    - How can I control stem boror in garlic?
+    - Why is this stem boror present in garlic?
+    - Is there any information regarding control of stem boror in garlic?
+    - How to control stem boror in garlic?
+    - How can I prevent the growth of stem boror in garlic?
+    - How can I control the bororus in garlic?
+    - How is the control of stem boror in garlic done?
+    - How do you limit stem boror in garlic?
+    - How do you remove stem boror from garlic?
+# caterpiller
+- intent: faq-hort-garlic-b0/information-regarding-control-of-caterpillar-in-garlic
+  examples: |
+    - information regarding control of caterpillar in garlic ?
+    - What should be done regarding control of caterpillars in garlic?
+    - How do I control caterpillars in garlic?
+    - What are some information regarding the control of caterpillar in garlic?
+    - What are the methods to control caterpillar in garlic?
+    - What is the best way to control caterpillars in garlic?
+    - What is the best way to control caterpillar in garlic?
+    - Where and how do I find the caterpillar in garlic?
+    - How do we control caterpillars in garlic?
+    - how do I get information regarding control of caterpillar in garlic?
+# insect control
+- intent: faq-hort-garlic-b0/tell-me-about-insect-control-in-garlic
+  examples: |
+    - tell me about insect control in garlic ? 
+    - What are insect control measures for garlic garlic?
+    - Tell me about insect control in garlic?
+    - What is insect control in garlic?
+    - What are the best insect control methods for garlic
+    - How can I keep insect resistant garlic?
+    - What's the best insect control protocol for garlic?
+    - What is insect control for garlic?
+    - How can I prevent pests from entering the garlic?
+    - How does insect control in garlic work?
+# root rot
+- intent: faq-hort-garlic-b0/information-regarding-for-control-of-root-rot-in-garlic
+  examples: |
+    - information regarding for control of root rot in garlic?
+    - How do you treat root rot in garlic?
+    - What is the best way to control garlic's root rot?
+    - How do I control root rot in garlic?
+    - Can garlic have root rot in its garlic?
+    - Is there any standardized medication for root rot in garlic?
+    - How can I control the root rot in garlic?
+    - How do you avoid root rot in garlic?
+    - How can I control root rot in garlic?
+    - What should I do for root rot in garlic?
+# pest control
+- intent: faq-hort-garlic-b0/how-to-pest-control-in-garlic-crop
+  examples: |
+    - how to pest control in garlic crop ?
+    - How can you control pests in garlic crop?
+    - How do pest control can be carried out in garlic crop?
+    - How can I control garlic crops with pest control?
+    - How can I pest control garlic crop in India?
+    - What are pest control measures for garlic crop?
+    - How can pest control be done in garlic crop?
+    - How can I control the pests on garlic crop?
+    - How can we control garlic pests from a cropping plant?
+    - How to pest control garlic crop?
+    - How do pest control in garlic crop done?

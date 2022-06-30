@@ -165,3 +165,8 @@ rules:
   steps:
   - intent: faq-hort-pea-b0
   - action : action_viz_faq
+
+- rule: for pea batch 0
+  steps:
+  - intent: faq-hort-garlic-b0
+  - action : action_viz_faq

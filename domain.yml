@@ -12,6 +12,7 @@ intents:
 - faq-agri-rice-b4-pun
 - faq-agri-rice-b4
 - faq-hort-dummycrop-b0
+- faq-hort-garlic-b0
 - faq-agri-wheat-b0
 - greet
 - goodbye
@@ -1075,20 +1076,13 @@ responses:
       \u0A40\u0A02 \u0A15\u0A40\u0A24\u0A40 \u0A1C\u0A3E\u0A02\u0A26\u0A40\u0964"
   utter_faq-agri-rice-b4/information-regarding-hydroponic-technique:
   - text: No Answer
-  utter_faq-agri-rice-b4/information-regarding--how-to-manage-water-in-nursery-seedling:
-  - text: In the paddy nursery seedling just have to make optimum moisture in the
-      feild
-  utter_faq-agri-rice-b4/information-regarding-how-to-manage-water-in-booting-stage:
-  - text: Optimum moisture should be maintained at booting stage
   utter_faq-agri-rice-b4/information-regarding-to-improve-the-drainage-of-water:
   - text: Take a soil test, apply fertilizers according to soil test to improve the
       drainage of soil.
   utter_faq-agri-rice-b4/information-regarding-thiamethoxam-25--wg-chemical--is-used-for:
-  - text: Thiamethoxam 25 % WG is used for insecticide not for fungus control.
+  - text: Thiamethoxam 25 WG is used for insecticide not for fungus control.
   utter_faq-agri-rice-b4/information-regarding-technical-names-of-folicur-and-chloro:
   - text: folicur is tebuconazole and in chloro is chloropyriphos.
-  utter_faq-agri-rice-b4/information-regarding-best-time-for--fodder-crop:
-  - text: No Answer
   utter_faq-agri-rice-b4/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didnt-sprout:
   - text: giving excess irrigation to seed result into poor sprouting
   utter_faq-agri-rice-b4/information-regarding-paddy-commom-seed-storage-in-home:
@@ -1108,21 +1102,99 @@ responses:
   - text: If the crop is properly dip in the water for long time than it can become
       harmful for crop but if the level of water below the height of crop then it
       can survive.
-  ? utter_faq-agri-rice-b4/information-regarding-the-submission-of-farms-to-the-agricultural-office-if-you-do-not-burn-the-paddy-straw
-  : - text: No Answer
   utter_faq-agri-rice-b4/information-regarding-preventing-the-paddy-field-from-cracks:
   - text: The prevent the paddy field from cracking apply the irrigation before the
       field develop cracks.
-  utter_faq-agri-rice-b4/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field:
-  - text: To remove wheat stubble burning ash from paddy nursery field apply light
-      irrigation and remove the water from other side of the field .
-  utter_faq-agri-rice-b4/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil:
-  - text: No any special variety of paddy is recommended by Punjab Agricultural University
-      Ludhiana for light textured soil.
   utter_faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop:
   - text: dummy answer for horticulture.
   utter_faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop:
   - text: dummy answer2 for horticulture.
+  utter_faq-hort-garlic-b0/information-regarding-sowing-time-of-garlic:
+  - text: Sowing time of Garlic is last week of september to first week of october.
+  utter_faq-hort-garlic-b0/regarding-weed-control-in-garlic:
+  - text: Hand hoeing helps in controlling weed in garlic. The weeds in garlic can
+      also be managed by applying 25 q per acre paddy straw after sowing.
+  utter_faq-hort-garlic-b0/dose-of-urea-in-garlic:
+  - text: TOTAL DOSE OF UREA IN GARLIC IS 80-100 KG / ACRE .
+  utter_faq-hort-garlic-b0/information-regarding-how-to-control-fungal-disease-in-garlic:
+  - text: FOR THE CONTROL OF FUNGAL DISEASE IN GARLIC CROP, SPRAY 500GM M-45 IN 150LITRE
+      WATER/ACRE.
+  utter_faq-hort-garlic-b0/information-regarding-storage-of-garlic:
+  - text: Don't place garlic under direct sunlight after uprooting .
+  utter_faq-hort-garlic-b0/pre-emergence-weedicide-in-garlic:
+  - text: SPRAY GOAL(OXYCLORFEN) 425 ML IN 200 LITRES OF WATER PER ACRE
+  utter_faq-hort-garlic-b0/regarding-maggots-in-garlic:
+  - text: APPLY THIMAT 4KG/ACRE MIX IN SOIL
+  utter_faq-hort-garlic-b0/regarding-yellowing-of-leaves-of-garlic:
+  - text: COMPLETE THE DOSE OF UREA AND SPRAY M 45 600 GRAM WITH 220 TRITONE IN 200
+      LITER WATER
+  utter_faq-hort-garlic-b0/information-regarding-burning-of-tips-in-garlic:
+  - text: SPRAY 500GM BLUE COPPER +1 TIKKA STREPTOCYCLIN IN 150 LITER OF WATER PER
+      ACRE.
+  utter_faq-hort-garlic-b0/information-regarding-how-to-control-jassids-in-garlic:
+  - text: Spray 100 ml. Confidor 17.8% in 120 lt. of water per acre.
+  utter_faq-hort-garlic-b0/information-regarding-how-to-improve-growth-in-garlic:
+  - text: SPRAY 1 KG. NPK 00:52:34 IN 100 LT. OF WATER PER ACRE.
+  utter_faq-hort-garlic-b0/fertilizers-in-garlic:
+  - text: TOTAL FERTILIZERS DOSE IN GARLIC CROP :- 110KG UREA + 155 KG SSP/ ACRE .
+  utter_faq-hort-garlic-b0/row-spacing-in-garlic:
+  - text: ROW SPACING IN GARLIC IS 15 CM
+  utter_faq-hort-garlic-b0/maturity-time-of-garlic:
+  - text: white and vary from 25-30 per bulb. It takes 165-170 days for maturity.
+  utter_faq-hort-garlic-b0/information-regarding-seed-treatment-of-garlic:
+  - text: Seed treatment with Thiram@2 gm/kg of seed + Benomyl 50WP@1 gm/liter water
+      effectively controls damping off and smut diseases. After chemical treatment,
+      seed treatment with bio agent Trichoderma viride@2 gm/kg of seed is recommended,
+      it help in reducing early seedling diseases and soil borne inoculum.
+  utter_faq-hort-garlic-b0/information-regarding--total--urea-dose-in-garlic:
+  - text: total urea dose in garlic is 110kg and give it in three split dose fistly
+      after one month and then after 45 dyas and third after 60days
+  utter_faq-hort-garlic-b0/information-regarding-last-irrigation-in-garlic:
+  - text: STOP IRRIGATION BEFORE 15 DAYS OF HARVESTING .
+  utter_faq-hort-garlic-b0/information-regarding-the-application-of-urea-in-garlic:
+  - text: APPLY 34KG UREA AFTER ONE MONTH OF SOWING 33KG UREA 15 DAYS AFTER THAT AND
+      33KG UREA 15 DAYS AFTER THAT .
+  utter_faq-hort-garlic-b0/information-regarding-the-harvesting-of-garlic:
+  - text: when crop leaves turn yellow harvest the garlic crop.
+  utter_faq-hort-garlic-b0/information-regarding-method-of-sowing-of-garlic:
+  - text: NO ANSWER
+  utter_faq-hort-garlic-b0/information-regarding-manures-and-fertilizer-application-in-garlic-crop:
+  - text: Apply 20 tonnes of farmyard manure,110 kg of Urea and 155 kg of Superphosphate.apply
+      whole FYM and superphosphate at the of sowing and apply urea in 3 split doses
+      after 30 days,45 days and 60 days of sowing.
+  utter_faq-hort-garlic-b0/information-regarding-application-of-biozyme-in-garlic:
+  - text: spray of Biozyme liquid formulation at garlic@200ml/acre increases the yield
+  utter_faq-hort-garlic-b0/information-regarding-for-the-fert-dose-at-the-time-of-seedling-transplanting-of-garlic:
+  - text: THE FERT. DOSE AT THE TIME OF SEEDLING TRANSPLANTING OF Garlic IS-DAP-60KG,MOP-40KG
+      & SULPHUR-3KG/ACRE.
+  utter_faq-hort-garlic-b0/information-regarding-dose-of-ssp-in-garlicacre:
+  - text: 155KG/ACRE.
+  utter_faq-hort-garlic-b0/information-regarding-about-depth-of-garlic-in-soil-and--sowing-time-of-potato:
+  - text: Depth of garlic in soil is 3-5 cm
+  utter_faq-hort-garlic-b0/tell-me--about-nutrient-management-in-garlic:
+  - text: NO ANSWER
+  utter_faq-hort-garlic-b0/information-regarding-increasing-size-of-garlic:
+  - text: FOR INCREASING SIZE OF GARLIC SPRAY 13:0:45 @ 1 KG IN 100-120 LITER WATER
+      PER ACRE
+  utter_faq-hort-garlic-b0/information-regarding-zinc-sulphate-doze-in-garlic:
+  - text: spray 5 gram zinc sulphate per litre water in garlic to overcome zinc deficency
+  utter_faq-hort-garlic-b0/information-regarding-how-to-control-purple-blotch-in-garlic:
+  - text: SPRAY OF INDOFIL M-45 @ 400 GM IN 120 LITER WATER/ACRE
+  utter_faq-hort-garlic-b0/information-regarding-control-of-thrips-in-thrips-and-other-sucking-pests-crop:
+  - text: Spray 250 ml malathion per acre in 100 liters of water to control thrips
+      and other sucking pests in garlic crop.
+  utter_faq-hort-garlic-b0/information-regarding-for-deficiency-of-nitrogen-in-garlic:
+  - text: UREA 20 KG IN ONE ACRE.
+  utter_faq-hort-garlic-b0/information-regarding-control-of-stem-boror-in-garlick:
+  - text: SPRAY CHLOROPYRIPHOS 20 EC @ 1 LITER IN 100 LITERS OF WATER/ACRE.
+  utter_faq-hort-garlic-b0/information-regarding-control-of-caterpillar-in-garlic:
+  - text: NO ANSWER
+  utter_faq-hort-garlic-b0/tell-me-about-insect-control-in-garlic:
+  - text: spray malathion 50 ec @250ml in 80litre per acre
+  utter_faq-hort-garlic-b0/information-regarding-for-control-of-root-rot-in-garlic:
+  - text: NO ANSWER
+  utter_faq-hort-garlic-b0/how-to-pest-control-in-garlic-crop:
+  - text: brodcast of chlorpyriphos @ 1 liter in 15-20 kg drysand / acre .
   utter_greet:
   - text: Hey! How are you?
   utter_goodbye:
@@ -1141,6 +1213,8 @@ responses:
   utter_faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop:
   - text: I TOLD THE KISAN 1 LITRE OF THIODAN 35 EC @ IN 2 LITRE OF WATER AND MIX
       20 KG OF SOIL AND BROADCAST IN PER ACRE
+  utter_faq-agri-wheat-b0/control-of-manganese-defy-in-wheat:
+  - text: SPRAY OF MANGANESE 1KG/ACRE MIX 100 L WATER
   utter_faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat:
   - text: control of Wheat Aphid is Spray Rogor (Dimethoate) @ 1 ml / 1 lt water
   - text: For control of Aphid in wheat, spray 20g Actara 25WG(thiamethoxam) in 80-100

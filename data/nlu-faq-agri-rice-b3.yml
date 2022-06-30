@@ -3,7 +3,7 @@ nlu:
 
 - intent: faq-agri-rice-b3/information-regarding-application-of-farmyard-manure-before-paddy-transplanting
   examples: |
-    - information regarding application of farmyard manure before paddy transplanting ?
+    - information regarding application of farmyard manure before paddy transplanting?
     - How does apply farmyard manure before paddy transplanting?
     - How do I know if I can apply manure to farmyard after pddy transplantation?
     - Is it possible to apply farmyard manure before transplanting the of the paddy?

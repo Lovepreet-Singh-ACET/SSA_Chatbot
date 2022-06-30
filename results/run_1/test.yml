@@ -1,0 +1,2836 @@
+version: "3.0"
+nlu:
+- intent: faq-agri-wheat-b0-pun/info-regarding-yellowing-of-leaves-in-urea-deficiency
+  examples: |
+    - ਯੂਰੀਆ ਘਾਟੇ ਕਾਰਨ ਪੱਤੇ ਦੇ ਪੀਲੇ ਹੋਣ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b5-pun/information-regarding-place-of-soil-test-?
+  examples: |
+    - ਕਿਸ ਥਾਂ 'ਤੇ ਮਿੱਟੀ ਦੀ ਪਰਖ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ
+- intent: faq-agri-rice-b0-pun/how-to-control-steam-borer-in-paddy-crop-?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਸਟੈਮ ਬੋਰਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਣ ਕਰਾਂ?
+- intent: faq-agri-rice-b0-pun/information-regarding-which-spray--should-be-done-at-booting-stage-in-paddy-?
+  examples: |
+    - ਝੋਨੇ ਵਿੱਚ ਬੂਟ ਹੋਣ ਸਮੇਂ ਕਿਹੜੀ ਸਪਰੇਅ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ ਇਸ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b0-pun/control-of-leaf-folder-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਦੇ ਪੱਤੇ ਫੋਲਡਰ ਦੀ ਸਮੱਸਿਆ ਨੂੰ ਕਿਵੇਂ ਹੱਲ ਕੀਤਾ ਜਾਵੇ.
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-leaf-curl-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਪੱਤੇ ਕਰਲ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/farmer-asks-about-the-yellow-smut-in-wheat
+  examples: |
+    - ਕਿਸਾਨ ਕਣਕ ਵਿਚ ਪੀਲੇ ਬਦਬੂ ਬਾਰੇ ਪੁੱਛਦਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/info-regarding-the-yellowing-of-new-leaves
+  examples: |
+    - ਤਾਜ਼ੇ ਪੱਤੇ ਪੀਲੇ ਬਾਰੇ ਵੇਰਵੇ
+- intent: faq-agri-wheat-b0-pun/information-regarding-yellowing-of-leaves-in-wheat-crop-due-to-heavy-irrigation
+  examples: |
+    - ਉੱਚ ਸਿੰਚਾਈ ਕਾਰਨ ਕਣਕ ਦੇ ਫਸਲਾਂ ਦੇ ਪੱਤਿਆਂ ਦਾ ਪੀਲਾ
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-rodent-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਚੂਹੇ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/how-to-control-pink-caterpillar-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਗੁਲਾਬੀ ਕੈਟਰਪਿਲਰ ਨੂੰ ਕਿਵੇਂ ਸੰਭਾਲਿਆ ਜਾਵੇ
+- intent: faq-agri-wheat-b0-pun/control-of-gram-caterpillar-in-whaet
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਗ੍ਰਾਮ ਕੈਟਰਪਿਲਰ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/control-of-leaf-cutting-caterpillar-in-wheat
+  examples: |
+    - ਪੱਤੇ ਕੱਟਣ ਵਾਲੇ ਕੈਟਰਪਿਲਰ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ ਕੀ ਕਰਨਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/how-to-control-root-caterpillar-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਰੂਟ ਕੈਟਰਪਿਲਰ ਦਾ ਨਿਯੰਤਰਣ
+- intent: faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-hairy-caterpillar-wheat-crop
+  examples: |
+    - ਵਾਲਾਂ ਦੀ ਕੈਟਰਪਿਲਰ ਕਣਕ ਦੀ ਫਸਲ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-jassid-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਜਸੀਦ ਕੰਟਰੋਲ
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-thrips-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ 3ਰਿਪਸ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾਵੇ
+- intent: faq-agri-wheat-b0-pun/information-regarding-the-control-of-head-blight-in-wheat
+  examples: |
+    - ਮੈਂ ਸਿਰ ਦੀ ਰੋਸ਼ਨੀ ਨੂੰ ਕਿਵੇਂ ਰੋਕ ਸਕਦਾ ਹਾਂ
+- intent: faq-agri-wheat-b0-pun/information-regarding-telachepa-in-wheat
+  examples: |
+    - ਟੈਲੀਚੇਪਾ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਲਈ ਕੀ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-red-beetle
+  examples: |
+    - ਲਾਲ ਬੀਟਲ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-shoot-borer-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਸ਼ੂਟ ਬੋਰਰ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-for-the-control-of-white-grub-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਵਿਚ ਚਿੱਟੇ ਗਰਬ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-the-control-of-molya-disease-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਮੋਲੀਆ ਬਿਮਾਰੀ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਨਾ ਹੈ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-about-ballworm-control-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਬਾਲ ਕੀੜੇ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-how-to-control-sundi-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਸੁੰਡੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/how-to-control-amrican-sundi-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਅਮਰੀਕੀ ਸੁੰਡੀ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-gob-wali-sundi
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਗੋਬ ਵਾਲਿ ਸੁੰਡੀ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-yellowing-of-leaves-due-to-potash-deficiency
+  examples: |
+    - ਕਣਕ ਵਿਚ ਪੋਟਾਸ਼ ਦੀ ਘਾਟ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਲਈ ਕੀ ਕਰਨਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-how-to-control-black-mosquito-in-wheat
+  examples: |
+    - ਕੀ ਕਣਕ ਵਿਚ ਕਾਲੇ ਮੱਛਰ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਦਾ ਕੋਈ ਤਰੀਕਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-ddvp-remedy-spray-in-wheat
+  examples: |
+    - ddvp ਸਪਰੇਅ ਕਿਸ ਤਰੀਕੇ ਨਾਲ ਵਰਤੀ ਜਾ ਸਕਦੀ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-white-leaves-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਚਿੱਟੇ ਪੱਤਿਆਂ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-the-control-of-hill-bunt-in-wheat
+  examples: |
+    - ਮੈਨੂੰ ਦੱਸੋ ਕਿ ਕਣਕ ਤੋਂ ਪਹਾੜੀ ਬੰਨ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਨਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-to-avoid-the-toxic-effect-of-overdose-fertilizer-spray
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਖਾਦਾਂ ਦੀ ਜ਼ਿਆਦਾ ਮਾਤਰਾ ਨੂੰ ਕਿਵੇਂ ਸੰਭਾਲਿਆ ਜਾਵੇ
+- intent: faq-agri-wheat-b0-pun/information-regarding-use-of-confidor-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਕੰਬੀਡਰ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-shootfly-in-wheat
+  examples: |
+    - ਕੀ ਕਣਕ ਵਿਚ ਸ਼ੂਟਫਲਾਈ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਦਾ ਕੋਈ ਤਰੀਕਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-trichoderma
+  examples: |
+    - ਟ੍ਰਾਈਕੋਡਰਮਾ ਨੂੰ ਕਿਵੇਂ ਸੰਭਾਲਿਆ ਜਾਵੇ
+- intent: faq-agri-wheat-b0-pun/information-regarding-the-hardiness-of-soil
+  examples: |
+    - ਮਿੱਟੀ ਦੀ ਕਠੋਰਤਾ ਕਿਵੇਂ ਵਰਤੀ ਜਾ ਸਕਦੀ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-atlantis-spray-in-wheat-crop
+  examples: |
+    - ਐਟਲਾਂਟਿਸ ਸਪਰੇਅ ਦਾ ਕੀ ਇਸਤੇਮਾਲ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/protection-against-larvae-in-wheat
+  examples: |
+    - ਮੈਨੂੰ ਲਾਰਵੇ ਤੋਂ ਛੁਟਕਾਰਾ ਪਾਉਣ ਦੀ ਵਿਧੀ ਦੱਸੋ
+- intent: faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-in-urea-deficiency
+  examples: |
+    - info on leaf yellowing caused by urea deficit
+- intent: faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-rainfall
+  examples: |
+    - information regarding yellowing of leaves in wheat crop due to heavy irrigation
+- intent: faq-agri-wheat-b0/how-to-control-pink-caterpillar-in-wheat-crop
+  examples: |
+    - how can i control pink caterpiller wheat fields
+- intent: faq-agri-wheat-b0/information-regarding-control-of-gram-caterpillar-in-wheat-crop
+  examples: |
+    - control of gram caterpillar in wheat
+- intent: faq-agri-wheat-b0/information-regarding-control-of-leaf-cutting-caterpillar-in-wheat-crop
+  examples: |
+    - how to control leaf cutting caterpiller in wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-control-of-root-caterpillar-in-wheat-crop
+  examples: |
+    - information regarding how to control root caterpillars in wheat
+- intent: faq-agri-wheat-b0/information-regarding-control-of-american-caterpillar-in-wheat-crop
+  examples: |
+    - is there any method to control the american caterpillar in wheat
+- intent: faq-agri-wheat-b0/information-regarding-control-of-hairy-caterpillar-in-wheat-crop
+  examples: |
+    - what to do to control hairy caterpiller in the wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-the-control-of-head-blight-in-wheat-crop
+  examples: |
+    - how can i stop head blight in wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-control-of-telachepa-in-wheat-crop
+  examples: |
+    - control of telacheap from appearing in wheat
+- intent: faq-agri-wheat-b0/information-regarding-red-beetle-in-wheat-crop
+  examples: |
+    - information regarding red beetle control in wheat
+- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-shoot-borer-in-wheat-crop
+  examples: |
+    - what can i do to handle shoot borer in wheat
+- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-white-grub-in-wheat-crop
+  examples: |
+    - information regarding how to contorl white grub in wheat
+- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-molya-disease-in-wheat-crop
+  examples: |
+    - information regarding the control of molya in wheat
+- intent: faq-agri-wheat-b0/information-regarding-about-ballworm-in-wheat-crop
+  examples: |
+    - information about ballworm control in wheat
+- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-sundi-in-wheat-crop
+  examples: |
+    - information regarding for the control of sundi in wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-amrican-sundi-in-wheat-crop
+  examples: |
+    - how do we suppose to control american sundi in wheat
+- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-gob-wali-sundi-in-wheat-crop
+  examples: |
+    - information regarding control of gob wali sundi in wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-for-deficiency-of-potash-in-wheat-crop
+  examples: |
+    - information regarding yellowing of leaves due to potash deficiency
+- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-black-mosquito-in-wheat-crop
+  examples: |
+    - information regarding how to control black mosquito in wheat
+- intent: faq-agri-wheat-b0/information-regarding-ddvp-remedy-spray-in-wheat-crop
+  examples: |
+    - tell me the use of ddvp spray in wheat
+- intent: faq-agri-wheat-b0/information-regarding-for-the-white-leaves-in-wheat-crop
+  examples: |
+    - what steps can be taken to get rid from the white leaves in wheat
+- intent: faq-agri-wheat-b0/information-regarding-the-control-of-hill-bunt-in-wheat-crop
+  examples: |
+    - what to do to control the hill bunt in wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-the-overdose-of-fertilizer-spray
+  examples: |
+    - what is the approch to handle the fertilizers overdose in wheat
+- intent: faq-agri-wheat-b0/information-regarding-use-of-confidor-in-wheat-crop
+  examples: |
+    - how to use confidor in wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-control-of-shootfly-in-wheat-crop
+  examples: |
+    - tell me the procedure to stop the shootfly in wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-trichoderma-in-wheat-crop
+  examples: |
+    - how trichoderma can be controled from spreading in wheat fields
+- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-hardiness-of-soil
+  examples: |
+    - information regarding the control of hardiness of soil
+- intent: faq-agri-wheat-b0/information-regarding-control-of-grasshopper-in-wheat-crop
+  examples: |
+    - how we can stop grasshopper in wheat
+- intent: faq-agri-wheat-b0/information-regarding-atlantis-spray-in-wheat-crop
+  examples: |
+    - how to use atlantis spray in wheat
+- intent: faq-agri-wheat-b0/protection-against-larvae-in-wheat
+  examples: |
+    - tell me the procedure to stop the larvae in wheat crop
+- intent: faq-agri-wheat-b1-pun/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation-?
+  examples: |
+    - ਮੈਂ ਕਣਕ ਵਿੱਚ ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ ਘਾਹ ਵਾਲੇ ਪੱਤਿਆਂ ਵਾਲੇ ਨਦੀਨਾਂ ਨੂੰ ਕਿਵੇਂ ਕਾਬੂ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-wheat-b1-pun/information-regarding-control-of-weeds-in-post--emergence-(before-1st-irrigation)-stage-in-wheat-?
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਉੱਭਰਨ ਤੋਂ ਬਾਅਦ (ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ) ਪੜਾਅ ਵਿੱਚ ਅਸੀਂ ਨਦੀਨਾਂ ਤੋਂ ਕਿਵੇਂ ਛੁਟਕਾਰਾ ਪਾਉਂਦੇ ਹਾਂ?
+- intent: faq-agri-wheat-b1-pun/information-regarding-control-of-weeds-in-post--emergence-(after-1st-irrigation)-stage-in-wheat-?
+  examples: |
+    - ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ, ਅਸੀਂ ਕਣਕ ਵਿੱਚ ਨਦੀਨਾਂ ਤੋਂ ਕਿਵੇਂ ਛੁਟਕਾਰਾ ਪਾ ਸਕਦੇ ਹਾਂ?
+- intent: faq-agri-wheat-b1-pun/information-regarding-how-to-control-mixed-weeds-in-wheat?
+  examples: |
+    - ਅਸੀਂ ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਮਿਸ਼ਰਣ ਬੂਟੀ ਤੋਂ ਕਿਵੇਂ ਛੁਟਕਾਰਾ ਪਾਉਂਦੇ ਹਾਂ?
+- intent: faq-agri-wheat-b1-pun/information-regaridng-dose-of-topik-in-an-acre?
+  examples: |
+    - ਮੈਨੂੰ ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਕਿੰਨੀ ਮਾਤਰਾ ਵਿਚ ਸਪਰੇਅ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ
+- intent: faq-agri-wheat-b1-pun/information-regarding-glyphosate-41%sl?
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਲਈ ਗਲਾਈਫੋਸੇਟ 41% ਐਸ ਐਲ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਮਾਤਰਾ ਕੀ ਹੈ ?
+- intent: faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-after-1st-irrigation-stage-in-wheat
+  examples: |
+    - control of weeds in post- emergence after 1st irrigation stage in wheat ?
+- intent: faq-agri-wheat-b1/information-regarding-how-to-control-mixed-weeds-in-wheat
+  examples: |
+    - information regarding how to control mixed weeds in wheat?
+- intent: faq-agri-wheat-b1/information-regaridng-dose-of-topik-in-an-acre
+  examples: |
+    - tell me the quantity of topik to spray in wheat
+- intent: faq-agri-wheat-b1/information-regarding-glyphosate-41%SL
+  examples: |
+    - what is the max quantity of glyphosate 41%sl for wheat crop ?
+- intent: faq-agri-wheat-b5-pun/recommended-time-of-irrigation-of-wheat
+  examples: |
+    - ਕਣਕ ਲਈ ਸਿੰਚਾਈ ਦੇ ਕਿਹੜੇ ਸਮੇਂ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੀ ਜਾਂਦੀ ਹੈ?
+- intent: faq-agri-wheat-b5-pun/information-regarding-waste-decomposer-?
+  examples: |
+    - ਰਹਿੰਦ-ਖੂੰਹਦ ਡੀਕੰਪੋਜ਼ਰ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b5-pun/information-regarding-calcium-deficiency-in-soil?
+  examples: |
+    - ਮਿੱਟੀ ਤੋਂ ਕੈਲਸ਼ੀਅਮ ਦੀ ਕਮੀ ਨੂੰ ਕਿਵੇਂ ਦੂਰ ਕਰਨਾ ਹੈ
+- intent: faq-agri-wheat-b5-pun/information-regarding-salt-content-in-soil?
+  examples: |
+    - ਮਿੱਟੀ ਵਿੱਚ ਲੂਣ ਦੀ ਮਾਤਰਾ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b5-pun/information-regarding-use-of-neem-spray-as-insecticide?
+  examples: |
+    - ਕੀ ਨਿੰਮ ਦੀ ਸਪਰੇਅ ਇੱਕ ਜਾਇਜ਼ ਕੀਟਨਾਸ਼ਕ ਹੈ?
+- intent: faq-agri-wheat-b5-pun/information-regarding-vertical-conveyor-reaper-?
+  examples: |
+    - ਵਰਟੀਕਲ ਕਨਵੇਅਰ ਰੀਪਰ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b5/information-regarding-waste-decomposer
+  examples: |
+    - information regarding waste decomposer ?
+- intent: faq-agri-wheat-b5/information-regarding-calcium-deficiency-in-soil
+  examples: |
+    - what can be done to make soil rich in calcium
+- intent: faq-agri-wheat-b5/information-regarding-salt-content-in-soil
+  examples: |
+    - tell me about salt content of soil
+- intent: faq-agri-wheat-b5/information-regarding-use-of-neem-spray-as-insecticide
+  examples: |
+    - How can you use neem spray as an insecticide?
+- intent: faq-agri-wheat-b5/information-regarding-vertical-conveyor-reaper
+  examples: |
+    - Can you give more details about vertical conveyor reaper?
+- intent: faq-hort-dummycrop-b0/control-of-mangnese-defy-in-dummycrop
+  examples: |
+    - Mangnese resist control in dummycrop
+- intent: faq-agri-rice-b0-pun/information-regarding-to-boron-deficiency-in-paddy-?
+  examples: |
+    - ਚਾਵਲ ਵਿੱਚ ਬੋਰਨ ਦੀ ਘਾਟ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-rice-b4-pun/information-regarding-the-how-to-remove-the-water-from-paddy-field-?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ ਦੇ ਖੇਤ ਤੋਂ ਪਾਣੀ ਕਿਵੇਂ ਹਟਾ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-wheat-b0-pun/regarding-yellowing-of-plants-of-wheat-due-to-heavy-irrigation
+  examples: |
+    - ਭਾਰੀ ਸਿੰਚਾਈ ਕਾਰਨ ਕਣਕ ਦੇ ਪੌਦਿਆਂ ਦੇ ਪੀਲੇ ਹੋਣ ਦੇ ਸੰਬੰਧ ਵਿੱਚ
+    - ਕਣਕ ਨੂੰ ਪੀਲੇ ਹੋਣ ਤੋਂ ਕਿਵੇਂ ਰੋਕਿਆ ਜਾਵੇ ਬਾਰੇ ਸਲਾਹ
+- intent: faq-agri-wheat-b0-pun/tell-me-control-top-borer-in-sugarcane
+  examples: |
+    - ਮੈਂ ਕਣਕ ਨੂੰ ਚੋਟੀ ਦੇ ਬੋਰ ਤੋਂ ਕਿਵੇਂ ਬਚਾ ਸਕਦਾ ਹਾਂ
+- intent: faq-agri-wheat-b0-pun/information-regarding-the-control-of-loose-smut-in-wheat
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ looseਿੱਲੀ ਗੰਦਗੀ ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-spray-for-plant-hopper
+  examples: |
+    - ਪੌਦੇ ਦੇ ਹੌਪਰ ਲਈ ਸਪਰੇਅ
+- intent: faq-agri-wheat-b0/information-regarding-yellowing-of-leaves-due-to-heavy-irrigation
+  examples: |
+    - details on how to prevent wheat from yellowing in heavy irrigation
+- intent: faq-agri-wheat-b0/information-regarding-for-the-yellowing-of-new-leaves
+  examples: |
+    - info regarding the yellowing of new leaves in wheat
+    - information about how to mitigating wheat yellowing of new leaf
+- intent: faq-agri-wheat-b0/information-regarding-control-of-rodent-in-wheat
+  examples: |
+    - information regarding for control of rodents in wheat
+- intent: faq-agri-wheat-b0/information-regarding-the-control-of-jassid-in-wheat
+  examples: |
+    - info regarding jassids control in wheat
+- intent: faq-agri-wheat-b0/information-regarding-spray-for-plant-hopper
+  examples: |
+    - spray for plant hopper
+- intent: faq-agri-wheat-b0/information-regarding-control-of-thirips-in-wheat-crop
+  examples: |
+    - information regarding control of thirips in wheat crop
+- intent: faq-agri-wheat-b1-pun/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-tellering-stage?
+  examples: |
+    - ਕੀ ਤੁਸੀਂ ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਵਿਕਾਸ ਰੈਗੂਲੇਟਰ ਨਾਲ ਸਬੰਧਤ ਜਾਣਕਾਰੀ ਨੂੰ ਟਿਲਰਿੰਗ ਪੜਾਅ ਦੇ ਸਮੇਂ ਦੱਸ ਸਕਦੇ ਹੋ?
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਵਰਤੇ ਜਾਂਦੇ ਵਿਕਾਸ ਰੈਗੂਲੇਟਰ ਸੰਬੰਧੀ ਸਟੇਜ ਦੀ ਜਾਣਕਾਰੀ ਦੇਣ ਸਮੇਂ
+- intent: faq-agri-wheat-b1-pun/information-regarding-the-salt-of-sagun-21-11?
+  examples: |
+    - ਕਣਕ ਲਈ ਸ਼ਗਨ 21-11 ਦੇ ਲੂਣ ਦੀ ਵੱਧ ਤੋਂ ਵੱਧ ਮਾਤਰਾ ਕੀ ਹੈ
+- intent: faq-agri-wheat-b1-pun/how-to-control-melilotus-indica-in-wheat-crop?
+  examples: |
+    - ਮੈਂ ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਮੇਲਿਲੋਟਸ ਇੰਡੀਕਾ ਤੋਂ ਕਿਵੇਂ ਛੁਟਕਾਰਾ ਪਾ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-after-first-irrigation
+  examples: |
+    - What is the procedure for controlling grassy leaf weeds in wheat after first irrigation?
+- intent: faq-agri-wheat-b1/information-regarding-control-of-weeds-in-post-emergence-before-1st-irrigation-stage-in-wheat
+  examples: |
+    - before first irrigation,how we get rid of weeds in post- emergence  stage in wheat  ?
+- intent: faq-agri-wheat-b1/information-regarding-growth-regulator-used-in-wheat-crop-at-time-of-tellering-stage
+  examples: |
+    - information regarding growth regulator used in wheat crop at time of tellering stage?
+    - Growth regulator used in wheat at time of tellering stage?
+- intent: faq-agri-wheat-b1/information-regarding-the-salt-of-sagun-21-11
+  examples: |
+    - what dosage of salt of Shagun 21-11 should be used
+- intent: faq-agri-wheat-b1/how-to-control-melilotus-indica-in-wheat-crop
+  examples: |
+    - how to control melilotus indica in wheat crop?
+- intent: faq-agri-wheat-b3-pun/dose-of-mop-in-wheat?
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਮੋਪ ਦੀਆਂ ਖੁਰਾਕਾਂ ਕੀ ਹਨ?
+- intent: faq-agri-wheat-b4-pun/dose-of-chlorpyriphos-for-seed-treatment?
+  examples: |
+    - ਬੀਜ ਦੇ ਇਲਾਜ ਲਈ ਕਲੋਰਪਾਈਰੀਫੋਸ ਕਿੰਨਾ ਸੁਰੱਖਿਅਤ ਹੈ?
+- intent: faq-agri-wheat-b4/dose-of-chlorpyriphos-for-seed-treatment
+  examples: |
+    - dose of chlorpyriphos for seed treatment?
+    - What do you think about chlorpyriphos seed treatment?
+- intent: faq-agri-wheat-b5-pun/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation?
+  examples: |
+    - ਤੁਸੀਂ ਖਾਦ ਦੀ ਸਿਫ਼ਾਰਸ਼ ਲਈ ਮਿੱਟੀ ਦੀ ਜਾਂਚ ਲਈ ਮਿੱਟੀ ਦਾ ਨਮੂਨਾ ਕਿਵੇਂ ਇਕੱਠਾ ਕਰਦੇ ਹੋ?
+- intent: faq-agri-wheat-b5-pun/regarding-depth-of-seed-sown-of-wheat
+  examples: |
+    - ਕਣਕ ਲਈ ਬੀਜੇ ਗਏ ਕਣਕ ਦੇ ਬੀਜ ਦੀ ਡੂੰਘਾਈ ਨਿਰਧਾਰਤ ਕਰੋ।
+- intent: faq-agri-wheat-b5/recommended-time-of-irrigation-of-wheat
+  examples: |
+    - Which irrigation time of irrigation is recommended for wheat?
+- intent: faq-agri-wheat-b5/information-regarding-place-of-soil-test
+  examples: |
+    - At what place can soil be tested
+- intent: faq-agri-wheat-b5/information-regarding-that-how-to-collect-a-soil-sample-for-soil-testing-for-fertilizer-recommendation
+  examples: |
+    - How can I collect soil sample for soil test for fertilizer recommendation?
+    - How should I collect soil samples for soil testing?
+- intent: faq-agri-wheat-b5/regarding-depth-of-seed-sown-of-wheat
+  examples: |
+    - What is the depth of wheat seed sown in a wheat?
+- intent: faq-agri-rice-b0-pun/how-to-control-thirips-in-paddy-crop-?
+  examples: |
+    - ਤੁਸੀਂ ਝੋਨੇ ਦੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਥਰਿਪਸ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹੋ?
+- intent: faq-agri-rice-b0-pun/how-to-control-of-plant-hoper-in-paddy-crop?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ ਪੌਦੇ ਦੇ ਹੌਪਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+    - ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ ਪੌਦੇ ਦੇ ਹੌਪਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਣ ਕਰਨਾ ਹੈ?
+- intent: faq-agri-rice-b0-pun/how-to-control-bacterial-blight-disease-in-basmati-rice?
+  examples: |
+    - ਮੈਂ ਬਾਸਮਤੀ ਚਾਵਲ ਵਿਚ ਬੈਕਟੀਰੀਆ ਦੀ ਝੁਲਸ ਦੀ ਬਿਮਾਰੀ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b1-pun/information-regarding-the-role-of-regent-in-paddy?
+  examples: |
+    - ਝੋਨੇ ਦੇ ਕੰ inੇ ਵਿਚ ਰੀਜੈਂਟ ਦੀ ਭੂਮਿਕਾ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b1-pun/information-regarding-drainage-problem-in-paddy-feild?
+  examples: |
+    - ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਡਰੇਨੇਜ ਦੀ ਸਮੱਸਿਆ ਕੀ ਹੈ?
+    - ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਡਰੇਨੇਜ ਦੀਆਂ ਸਮੱਸਿਆਵਾਂ ਕੀ ਹਨ?
+- intent: faq-agri-rice-b2-pun/sowing-season-of-basmati?
+  examples: |
+    - ਬਸਮਤੀ ਦਾ ਬਿਜਾਈ ਦਾ ਮੌਸਮ?
+- intent: faq-agri-rice-b3-pun/information-regarding-cultural-practices-in-paddy-before-burrying-of-dhaincha?
+  examples: |
+    - ਧਿੰਚਾ ਤੋਂ ਪਹਿਲਾਂ ਝੋਨੇ ਦੌਰਾਨ ਕੁਝ ਸਭਿਆਚਾਰਕ ਅਭਿਆਸ ਕੀ ਹਨ?
+    - Dhanhaincha ਨੂੰ ਦਫ਼ਨਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਕੁਝ ਸਭਿਆਚਾਰਕ ਅਭਿਆਸ ਪੈਡੀ ਕੀ ਹਨ?
+- intent: faq-agri-rice-b3-pun/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown-?
+  examples: |
+    - ਕੀ ਮੈਂ ਚਾਵਲ ਦੇ ਬੂਟੇ ਉਸੇ ਖੇਤ ਤੇ ਬੀਜ ਸਕਦਾ ਹਾਂ ਜਿਥੇ ਚਾਵਲ ਪਹਿਲਾਂ ਬੀਜਿਆ ਗਿਆ ਸੀ
+- intent: faq-agri-wheat-b0-pun/control-of-black-hopper-in-crop
+  examples: |
+    - ਫਸਲੀ ਵਿੱਚ ਵਧਣ ਲਈ ਕਾਲੇ ਹੌਪਰ ਨੂੰ ਕਿਵੇਂ ਰੋਕਣਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-tella-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਟਾਲਾ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+    - ਮੈਂ ਕਣਕ ਵਿਚ ਟੇਲੀ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-wheat-b0-pun/control-of-green-hopper-in-wheat-crop.
+  examples: |
+    - ਕਣਕ ਦੇ ਹਰੇ ਹੌਪਰ ਦੇ ਮੁੱਦੇ ਤੋਂ ਕਿਵੇਂ ਛੁਟਕਾਰਾ ਪਾਉਣਾ ਹੈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop
+  examples: |
+    - ਕਣਕ ਵਿਚ ਗ੍ਰਾਮ ਪੋਡ ਬੋਰਰ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+    - ਗ੍ਰਾਮ ਪੋਡ ਬੋਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾਵੇ
+- intent: faq-agri-wheat-b0-pun/dose-of-npk-for-wheat
+  examples: |
+    - ਐਨ ਪੀ ਕੇ ਦੀ ਵਰਤੋਂ ਲਈ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0/information-regarding-for-the-control-of-top-borer
+  examples: |
+    - tell me control top borer in wheat
+- intent: faq-agri-wheat-b0/information-regarding-dose-of-npk
+  examples: |
+    - dose of npk for wheat
+    - information regarding for the application of npk
+- intent: faq-agri-wheat-b1-pun/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat-?
+  examples: |
+    - ਕੀ ਕਣਕ ਦੀ ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ ਖਾਲੀ ਖੇਤ ਵਿੱਚੋਂ ਨਦੀਨਾਂ ਤੋਂ ਛੁਟਕਾਰਾ ਪਾਉਣ ਦਾ ਕੋਈ ਤਰੀਕਾ ਹੈ?
+- intent: faq-agri-wheat-b1-pun/information-regarding-for-the-control-of-herbs-in-wheat-crop?
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਜੜੀ ਬੂਟੀਆਂ ਦੀ ਰੋਕਥਾਮ ਲਈ ਜਾਣਕਾਰੀ?
+    - ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਜੜੀ ਬੂਟੀਆਂ ਲਈ ਕੀ ਕੰਟਰੋਲ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ
+- intent: faq-agri-wheat-b1-pun/tell-me-the-way-to-control-the-narrow-leaf-weeds?
+  examples: |
+    - ਤੰਗ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਨੂੰ ਕਿਵੇਂ ਕਾਬੂ ਕਰਨਾ ਹੈ?
+- intent: faq-agri-wheat-b1-pun/information-regarding-post-emergence-weed-control-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਉੱਗਣ ਤੋਂ ਬਾਅਦ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b1/information-regarding-post-emergence-weed-control-in-wheat
+  examples: |
+    - how to handle weed post emergence
+    - Post emergence weed control in wheat?
+- intent: faq-agri-wheat-b1/how-to-control-medicago-denticulata-in-wheat-crop
+  examples: |
+    - information of medicago denticulata in wheat crops ?
+- intent: faq-agri-wheat-b3-pun/how-many-spray-of-manganese-are-required-in-the-wheat-crop-?
+  examples: |
+    - ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਮੈਂਗਨੀਜ਼ ਦੇ ਕਿੰਨੇ ਸਪਰੇਅ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ?
+    - ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਮੈਂਗਨੀਜ਼ ਦੇ ਕਿੰਨੇ ਸਪਰੇਅ ਦੀ ਲੋੜ ਹੈ?
+- intent: faq-agri-wheat-b3/farmer-asks-about-the-dose-of-mop-in-wheat
+  examples: |
+    - what is the dose of mop in wheat crop
+- intent: faq-agri-wheat-b4-pun/information-regarding-to-the-seed-treatment-of-wheat-?
+  examples: |
+    - ਬੀਜ ਕਣਕ ਲਈ ਕਿਵੇਂ ਇਲਾਜ ਕੀਤੇ ਜਾਂਦੇ ਹਨ?
+- intent: faq-agri-wheat-b4-pun/tell-me-about-seed-treatment-for-termite-protection
+  examples: |
+    - ਮਿਆਦ ਦੇ ਬਚਾਅ ਲਈ ਬੀਜ ਦੇ ਇਲਾਜ ਕੀ ਹਨ?
+    - ਉਥੇ ਨਿਯਮਤ ਸੁਰੱਖਿਆ ਲਈ ਬੀਜ ਦਾ ਕਿਹੜਾ ਇਲਾਜ ਹੈ?
+- intent: faq-agri-wheat-b4-pun/information-regarding-dose-of-raxil-for-wheat-seed-treatment?
+  examples: |
+    - ਰੈਕਸਿਲ (ਦਿਮਾਗ ਦੇ ਬੀਜ ਦਾ ਇਲਾਜ) ਦੀ ਸਿਫਾਰਸ਼ ਕੀਤੀ ਖੁਰਾਕ ਕੀ ਹੈ?
+- intent: faq-agri-wheat-b4/information-regarding-to-the-seed-treatment-of-wheat
+  examples: |
+    - What are the information regarding to the grain treatment of wheat?
+    - How are the seeds treated for wheat?
+- intent: faq-agri-wheat-b4/tell-me-about-seed-treatment-for-termite-protection
+  examples: |
+    - Tell me about seed treatment for termite protection?
+- intent: faq-hort-dummycrop-b0/information-regarding-control-of-caterpillar-in-dummycrop
+  examples: |
+    - info on the control of caterpillar in dummycrop
+- intent: faq-agri-rice-b1-pun/information-regading-control-of-rats-in-paddy-feild-?
+  examples: |
+    - ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਚੂਹਿਆਂ ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ?
+    - ਮੈਨੂੰ ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਚੂਹਿਆਂ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
+- intent: faq-agri-rice-b1/information-regarding-the-role-of-regent-in-paddy
+  examples: |
+    - What is the Role of a regent in a paddy bank?
+    - What is the role of the regent in paddy?
+- intent: faq-agri-rice-b3-pun/information-regarding-land-preparation-for-paddy-transplanting-field?
+  examples: |
+    - ਝੋਨੇ ਦੇ ਟ੍ਰਾਂਸਪਲਾਂਟੇਸ਼ਨ ਖੇਤਰ ਬਾਰੇ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b3-pun/information-regarding-application-of-oil-cakes-in-paddy-?
+  examples: |
+    - ਕੀ ਤੇਲ ਦੇ ਕੇਕ ਨੂੰ ਚਾਵਲ ਜਾਂ ਝੋਨੇ ਤੇ ਲਾਗੂ ਕਰਨਾ ਸੰਭਵ ਹੈ
+    - ਕੀ ਮੈਂ ਝੋਨੇ ਵਿੱਚ ਤੇਲ ਦੇ ਕੇਕ ਲਾਗੂ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b3-pun/how-to-increase-the-water-absorbing-capacity-of-soil-?
+  examples: |
+    - ਪਾਣੀ ਨੂੰ ਜਜ਼ਬ ਕਰਨ ਵਾਲੀ ਮਿੱਟੀ ਦੀ ਸਮਰੱਥਾ ਨੂੰ ਕਿਵੇਂ ਵਧਾਉਣਾ ਹੈ?
+- intent: faq-agri-rice-b3/information-regarding--cultural-practices-in-paddy-before-burrying-of-dhaincha
+  examples: |
+    - how to operate in paddy before burying of dhaincha?
+    - What are some of the cultural practices Paddy before Burrying of Dhaincha?
+- intent: faq-agri-rice-b3/information-regarding-land-preparation--for-paddy-transplanting-field
+  examples: |
+    - What are the best methods of land preparation for paddy transplanting field?
+    - How do I prepare the field for paddy transplantation?
+- intent: faq-agri-rice-b4-pun/information-regarding--how-to-manage-water-in-nursery-seedling-?
+  examples: |
+    - ਨਰਸਰੀ ਦੇ ਬੂਟੇ ਵਿਚ ਪਾਣੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਿਵੇਂ ਕਰਨਾ ਹੈ ਬਾਰੇ ਜਾਣਕਾਰੀ ?
+- intent: faq-agri-rice-b4-pun/information-regarding-to-improve-the-drainage-of-water?
+  examples: |
+    - ਮੌਜੂਦਾ ਯੁੱਗ ਵਿਚ ਪਾਣੀ ਦੇ ਨਿਕਾਸ ਵਿਚ ਸੁਧਾਰ ਕਰਨ ਦੇ ਕਿਹੜੇ ਤਰੀਕੇ ਹਨ?
+    - ਪਾਣੀ ਦੇ ਨਿਕਾਸ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਦਾ ਇਸਦਾ ਕੀ ਅਰਥ ਹੈ?
+- intent: faq-agri-wheat-b0-pun/control-of-kernel-smut-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਕਰਨਲ ਦੀ ਬਦਬੂ ਦਾ ਕੰਟਰੋਲ ਕਿਸਾਨਾਂ ਨੂੰ.
+- intent: faq-agri-wheat-b0-pun/control-of-cutworm-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਕੱਟ ਕੀੜੇ ਤੋਂ ਕਿਵੇਂ ਛੁਟਕਾਰਾ ਪਾਇਆ ਜਾਵੇ
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਕੱਟ ਕੀੜੇ ਦੇ ਮੁੱਦੇ ਨਾਲ ਕਿਵੇਂ ਨਜਿੱਠਣਾ ਹੈ.
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-black-rust-in-wheat.
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਕਾਲੀ ਜੰਗਾਲ ਸਮੱਸਿਆ ਨਾਲ ਕਿਵੇਂ ਨਜਿੱਠਣਾ ਹੈ
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਕਾਲੇ ਜੰਗਾਲ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾਵੇ
+- intent: faq-agri-wheat-b0-pun/information-regarding-the-control-of-fungus-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਉੱਲੀਮਾਰ ਲਈ ਸਪਰੇਅ
+- intent: faq-agri-wheat-b0/information-regarding-control-of-loose-smut-in-wheat-crop
+  examples: |
+    - info regarding for the control of loose smut in wheat crop
+    - information regarding the control of loose smut in wheat
+- intent: faq-agri-wheat-b0/information-regarding-to-control-of-gram-pod-borer-in-the-wheat-crop
+  examples: |
+    - information regarding the control of gram pod borer in whaet
+- intent: faq-agri-wheat-b1-pun/information-regarding-how-to-control-weeds-at-sowing-time-(pre-emergence)-in-wheat?
+  examples: |
+    - ਅਸੀਂ ਪੂਰਵ-ਉਭਰਨ ਦੇ ਪੜਾਅ 'ਤੇ ਕਣਕ ਵਿੱਚ ਨਦੀਨਾਂ ਤੋਂ ਕਿਵੇਂ ਛੁਟਕਾਰਾ ਪਾਉਂਦੇ ਹਾਂ
+    - ਕੀ ਤੁਸੀਂ ਮੈਨੂੰ ਦੱਸ ਸਕਦੇ ਹੋ ਕਿ ਕਣਕ ਵਿੱਚ ਉੱਗਣ ਤੋਂ ਪਹਿਲਾਂ ਦੇ ਪੜਾਅ 'ਤੇ ਨਦੀਨਾਂ ਨੂੰ ਕਿਵੇਂ ਕਾਬੂ ਕੀਤਾ ਜਾਵੇ?
+- intent: faq-agri-wheat-b1-pun/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation?
+  examples: |
+    - ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ ਕਣਕ ਵਿੱਚ ਘਾਹ ਦੇ ਪੱਤਿਆਂ ਵਾਲੇ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਕਿਵੇਂ ਕਰੀਏ?
+    - ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ, ਘਾਹ ਵਾਲੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਤੋਂ ਕਿਵੇਂ ਛੁਟਕਾਰਾ ਪਾਇਆ ਜਾਵੇ
+- intent: faq-agri-wheat-b1-pun/how-to-control-wild-oat-in-wheat-crop?
+  examples: |
+    - ਕੀ ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਜੰਗਲੀ ਜਵੀ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨਾ ਸੰਭਵ ਹੈ?
+- intent: faq-agri-wheat-b1-pun/procedure-to-control-the-medicago-denticulata-in-wheat-crop?
+  examples: |
+    - ਕਣਕ ਵਿਚ ਮੈਡੀਕਾਗੋ ਦੰਦਾਂ ਦਾ ਨਿਯੰਤਰਣ ?
+    - ਕਣਕ ਦੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਮੈਡੀਕਾਗੋ ਦੰਦਾਂ ਦੀ ਜਾਣਕਾਰੀ ?
+- intent: faq-agri-wheat-b1-pun/tell-me-how-to-control-trigonella-polycerata-in-wheat-crop?
+  examples: |
+    - ਟ੍ਰਾਈਗੋਨਲ ਪੋਲੀਸਰੇਟਾ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਰਣਨੀਤੀਆਂ ਕੀ ਹਨ?
+- intent: faq-agri-wheat-b1-pun/how-to-control-malva-neglecta-in-wheat-crop?
+  examples: |
+    - ਮੈਨੂੰ ਕਣਕ ਵਿੱਚ ਮਾਲਵਾ ਅਣਗਹਿਲੀ ਬੂਟੀ ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਦੱਸੋ ?
+    - ਮਾਲਵਾ ਅਣਗਹਿਲੀ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ?
+- intent: faq-agri-wheat-b1/information-regarding-for-the-control-of-herbs-in-wheat-crop
+  examples: |
+    - information regarding for the control of herbs in wheat crop?
+    - control of herbs in wheat crop?
+- intent: faq-agri-wheat-b1/information-regarding-control-of-narrow-leaf-weeds
+  examples: |
+    - how we get rid of narrow leaf weeds in wheat?
+- intent: faq-agri-wheat-b1/how-to-control-wild-oat-in-wheat-crop
+  examples: |
+    - information regarding how to control wild oats in wheat?
+    - how to control of jangli jai weeds ?
+- intent: faq-agri-wheat-b1/how-to-control-trigoneela-polycerata-in-wheat-crop
+  examples: |
+    - control of trigoneela polycerata in wheat?
+- intent: faq-agri-wheat-b1/how-to-control-malva-neglecta-in-wheat-crop
+  examples: |
+    - how do we get rid of malva neglecta in wheat crop ?
+    - How can we control malva neglecta in wheat crop?
+- intent: faq-agri-wheat-b2-pun/sowing-time-of-wheat-after-Nov?
+  examples: |
+    - ਨਵੰਬਰ ਤੋਂ ਬਾਅਦ ਕਣਕ ਦਾ ਬਿਜਾਈ ਦਾ ਸਮਾਂ?
+    - ਸਾਨੂੰ ਨਵੰਬਰ ਤੋਂ ਬਾਅਦ ਕਣਕ ਕਦੋਂ ਬੀਜਣੀ ਚਾਹੀਦੀ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-application-of-gypsum-?
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਲਈ ਜਿਪਸਮ ਦੀ ਵਰਤੋਂ ਕੀ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-improving-the-quality-of-wheat-grains?
+  examples: |
+    - ਅਸੀਂ ਕਣਕ ਦੇ ਅਨਾਜ ਦੀ ਗੁਣਵੱਤਾ ਨੂੰ ਕਿਵੇਂ ਸੁਧਾਰ ਸਕਦੇ ਹਾਂ?
+    - ਕਣਕ ਦੇ ਦਾਣਿਆਂ ਦੀ ਗੁਣਵੱਤਾ ਨੂੰ ਸੁਧਾਰਨ ਬਾਰੇ ਕੁਝ ਚੰਗੀਆਂ ਜਾਣਕਾਰੀਆਂ ਕੀ ਹਨ?
+- intent: faq-agri-wheat-b3-pun/foliar-spray-of-manganese-in-wheat?
+  examples: |
+    - ਕਣਕ ਵਿਚ ਮੈਂਗਨੀਜ਼ ਦੇ ਪੱਤਿਆਂ ਦਾ ਸਪਰੇਅ ਕਰਨ ਦੇ ਤਰੀਕੇ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-difference-between-ssp-and-dap?
+  examples: |
+    - ਐਸਐਸਪੀ ਬਨਾਮ ਡੀਏਪੀ?
+    - ਐਸ ਐਸ ਪੀ ਅਤੇ ਡੈਪ ਵਿਚ ਕੀ ਅੰਤਰ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-requirement-of-wheat-crop?
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਦੀ ਜਾਣਕਾਰੀ ਦੀ ਜ਼ਰੂਰਤ?
+    - ਕਣਕ ਦੀ ਫਸਲ ਦੀ ਜ਼ਰੂਰਤ ਲਈ ਡੇਟਾ ਕਿੱਥੇ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-broadcasting-of-urea-after-herbicide-spray?
+  examples: |
+    - ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਸਪਰੇਅ ਤੋਂ ਬਾਅਦ ਯੂਰੀਆ ਦੇ ਪ੍ਰਸਾਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b3/information-regarding-difference-between-ssp-and-dap
+  examples: |
+    - information regarding difference between ssp and dap?
+    - What are the difference between ssp and dap?
+- intent: faq-agri-wheat-b3/information-regarding-standing-water-in-wheat
+  examples: |
+    - how to handle standing water in wheat?
+- intent: faq-agri-wheat-b4/information-regarding-dose-of-raxil-for-wheat-seed-treatment
+  examples: |
+    - What is the dose of raxil for wheat seed treatment?
+    - How raxil is used for wheat seed treatment?
+- intent: faq-hort-chilli-b0/how-to-control-of-phomopsis-blight-of-chilli
+  examples: |
+    - how to control of phomopsis blight of chilli?
+    - How do I control phomopsis blight on chilli?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-fungal-disease-in-chilies
+  examples: |
+    - How do I control fungal disease in chilies?
+- intent: faq-hort-garlic-b0/information-regarding-about-depth-of-garlic-in-soil-and--sowing-time-of-potato
+  examples: |
+    - about the depth of the garlic in the soil
+    - information regarding about depth of garlic in soil
+- intent: faq-agri-rice-b0-pun/information-regarding-how-to-control-stem-rot-in-paddy?
+  examples: |
+    - ਝੋਨੇ ਵਿੱਚ ਸਟੈਮ ਰੋਟ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾਵੇ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਤੁਸੀਂ ਝੋਨੇ ਵਿਚ ਸਟੈਮ ਰੋਟ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਦੇ ਹੋ?
+- intent: faq-agri-rice-b0-pun/how-to-control-root-caterpilar-in-paddy-crop-?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ ਕੈਟਰਪਿਲਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਾਂ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-control-of-sheath-blight-in-rice?
+  examples: |
+    - ਤੁਸੀਂ ਚਾਵਲ ਵਿਚ ਮਿਆਨ ਬਲਾਈਟ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਦੇ ਹੋ?
+    - ਤੁਸੀਂ ਹੀਥ ਬਲਾਈਟ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਦੇ ਹੋ?
+- intent: faq-agri-rice-b0-pun/information-regarding-for-the-control-fungus-in-basmati-?
+  examples: |
+    - ਬਾਸਮਤੀ ਵਿਚ ਨਿਯੰਤਰਣ ਉੱਲੀਮਾਰ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਬਾਸਮਤੀ ਵਿਚ ਉੱਲੀਮਾਰ ਨੂੰ ਕੌਣ ਨਿਯੰਤਰਣ ਕਰਦਾ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-how-to-control-sulphur-deficiency-in-paddy?
+  examples: |
+    - ਮੈਂ ਆਪਣੇ ਝੋਨੇ ਵਿੱਚ ਸਲਫਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਣ ਕਰ ਸਕਦਾ ਹਾਂ?
+    - ਝੋਨੇ ਵਿੱਚ ਸਲਫਰ ਦੀ ਕਮੀ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਣ ਕੀਤਾ ਜਾਵੇ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-rice-b0-pun/information-regrading-to-control-of-broadleaf-weeds-in-rice?
+  examples: |
+    - ਚੌਲਾਂ ਵਿੱਚ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ?
+    - ਮੈਂ ਚੌਲਾਂ ਵਿੱਚ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਾਂ?
+- intent: faq-agri-rice-b1-pun/information-regarding-plant-growth-regulator-in-paddy-?
+  examples: |
+    - ਮੈਨੂੰ ਝੋਨੇ ਲਈ ਪੌਦੇ ਦੇ ਵਾਧੇ ਦਾ ਰੈਗੂਲੇਟਰ ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ?
+- intent: faq-agri-rice-b1-pun/information-regarding--application-of-water-after-broadcasting-urea-in-field-?
+  examples: |
+    - ਖੇਤਰ ਵਿਚ ਯੂਰੀਆ ਪ੍ਰਸਾਰਣ ਤੋਂ ਬਾਅਦ ਪਾਣੀ ਕਿਵੇਂ ਲਾਗੂ ਕਰ ਰਿਹਾ ਹੈ?
+    - ਅਸੀਂ ਖੇਤ ਵਿਚ ਯੂਰੀਆ ਪ੍ਰਸਾਰਣ ਤੋਂ ਬਾਅਦ ਪਾਣੀ ਦੀ ਵਰਤੋਂ ਬਾਰੇ ਕਿਵੇਂ ਜਾਣਦੇ ਹਾਂ?
+- intent: faq-agri-rice-b1/information-regarding-plant-growth-regulator-in-paddy
+  examples: |
+    - How do you get more information regarding plant growth regulator in paddy?
+    - What is the best information regarding plant growth regulator in paddy?
+- intent: faq-agri-rice-b2-pun/information-regarding-sowing-time-of--basmati?
+  examples: |
+    - ਬਾਸਮਤੀ ਦਾ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਸਪੈਕਟ੍ਰਾ ਕੀ ਹੈ?
+    - ਬਸਮਤੀ ਲਈ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b2-pun/information-regarding-the-detail-of-hybrid-paddy-cultivation-?
+  examples: |
+    - ਹਾਈਬ੍ਰਿਡ ਝੋਨੇ ਦੀ ਕਾਸ਼ਤ ਦੇ ਵੇਰਵੇ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ?
+    - ਹਾਈਬ੍ਰਿਡ ਝੋਨੇ ਦੀ ਕਾਸ਼ਤ ਕਿਵੇਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ?
+- intent: faq-agri-rice-b3-pun/information-regarding-application-of-farmyard-manure-before-paddy-transplanting-?
+  examples: |
+    - ਮੈਨੂੰ ਕਿਵੇਂ ਪਤਾ ਹੈ ਕਿ ਜੇ ਮੈਂ ਝੋਨੇ  ਟ੍ਰਾਂਸਪਲਾਂਟੇਸ਼ਨ ਤੋਂ ਬਾਅਦ ਖੇਤ ਵਿਚ ਖਾਦ ਲਗਾ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b3-pun/information-regarding-water-management-in-transplanted-paddy-or-basmati-?
+  examples: |
+    - ਪਾਣੀ ਪ੍ਰਬੰਧਨ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕੀਤੇ ਝੋਨੇ ਜਾਂ ਬਾਸਮਤੀ ਵਿਚ ਕਿਵੇਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ?
+    - ਮੈਂ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕੀਤੇ ਝੋਨੇ ਜਾਂ ਬਾਸਮਤੀ ਵਿਚ ਪਾਣੀ ਦਾ ਪ੍ਰਬੰਧ ਕਿਵੇਂ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b3-pun/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy?
+  examples: |
+    - ਝੋਨੇ 'ਤੇ ਕਿਸੇ ਵੀ ਰਸਾਇਣ ਨੂੰ ਸਪਰੇਅ ਕਰਨ ਲਈ ਦਿਨ ਦੇ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮੇਂ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਝੋਨੇ 'ਤੇ ਰਸਾਇਣ ਦਾ ਛਿੜਕਾਅ ਕਰਨ ਲਈ ਦਿਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b3-pun/information--regarding-straw-management-of-rice-?
+  examples: |
+    - ਚਾਵਲ ਵਿਚ ਤੂੜੀ ਕਿਵੇਂ ਪ੍ਰਬੰਧਿਤ ਹੋ ਸਕਦੀ ਹੈ?
+    - ਚਾਵਲ ਨਾਲ ਸਬੰਧਤ ਤੂੜੀ ਪ੍ਰਬੰਧਨ ਦਿਸ਼ਾ ਨਿਰਦੇਸ਼ ਕਿਵੇਂ ਹਨ?
+- intent: faq-agri-rice-b3-pun/information-regarding-application-of-urea-in-paddy-after-transplanting?
+  examples: |
+    - ਝੋਨੇ ਵਿਚ ਟ੍ਰਾਂਸਪਲਾਂਟ ਹੋਣ ਤੋਂ ਬਾਅਦ ਅਸੀਂ ਯੂਰੀਆ ਦੀ ਵਰਤੋਂ ਕਿਵੇਂ ਕਰ ਸਕਦੇ ਹਾਂ ਜਦੋਂ ਇਹ ਪੂਰੀ ਤਰ੍ਹਾਂ ਸੁੱਕ ਗਿਆ ਹੈ?
+    - ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਬਾਅਦ ਝੋਨੇ ਵਿਚ ਯੂਰੀਆ ਦੀ ਵਰਤੋਂ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b3/information-regarding-application-of-farmyard-manure-before-paddy-transplanting
+  examples: |
+    - How do I apply farmyard manure before the paddy transplantation?
+- intent: faq-agri-rice-b3/information-regarding-water-management-in-transplanted-paddy-or-basmati
+  examples: |
+    - What are some water management practices for transplanted paddy or basmati?
+    - How is water management of an Indian paddy or basmati plant maintained?
+- intent: faq-agri-rice-b3/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy
+  examples: |
+    - When is the best time to spray a chemical on paddy?
+    - Why is it the best time of day to spray on paddy?
+- intent: faq-agri-rice-b3/information-regarding-application-of-oil-cakes-in-paddy
+  examples: |
+    - Can I apply oil cakes in a paddy?
+    - How do I apply oil cakes in paddy?
+- intent: faq-agri-rice-b3/information-regarding-application-of-urea-in-paddy-after-transplanting
+  examples: |
+    - How can we use urea after transplantation in paddy after it has been completely dried?
+    - is it recommended to spray urea after transplanting rice crop?
+- intent: faq-agri-rice-b4-pun/information-regarding-thiamethoxam-25-%-wg-chemical--is-used-for?
+  examples: |
+    - ਥਿਆਮੇਥੋਕਸਮ ਕਿਵੇਂ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ?
+- intent: faq-agri-rice-b4-pun/information-regarding-technical-names-of-folicur-and-chloro?
+  examples: |
+    - ਮੈਂ ਫੋਲਿਕਰ ਅਤੇ ਕਲੋਰੋ ਲਈ ਤਕਨੀਕੀ ਨਾਮ ਕਿਵੇਂ ਬਦਲ ਸਕਦਾ ਹਾਂ?
+    - ਫੋਲਿਕਰ ਅਤੇ ਕਲੋਰੋ ਵਿਚ ਕੀ ਅੰਤਰ ਹੈ?
+- intent: faq-agri-rice-b4/information-regarding--how-to-manage-water-in-nursery-seedling
+  examples: |
+    - How do I manage irrigation water?
+    - How do I manage water in nursery seedlings?
+- intent: faq-agri-rice-b4/information-regarding-thiamethoxam-25--wg-chemical--is-used-for
+  examples: |
+    - What is the product information regarding thiamethoxam 25 % wg chemical is used for?
+    - information regarding thiamethoxam 25 % wg chemical  is used for?
+- intent: faq-agri-rice-b4/information-regarding-the-how-to-remove-the-water-from-paddy-field
+  examples: |
+    - information regarding the how to remove the water from paddy field ?
+    - How can you remove water from a paddy field?
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat
+  examples: |
+    - ਮੈਂ ਕਣਕ ਵਿਚ ਫਲੈਗ ਸਮੂਟ ਜਾਂ ਪੱਤੇ ਦੇ ਗੰਧ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ
+- intent: faq-agri-wheat-b0-pun/how-to-control-of-powdery-mildew-in-wheat-crop
+  examples: |
+    - ਮੈਂ ਕਣਕ ਦੇ ਬੂਟੇ ਵਿਚ ਪਾ powderਡਰ ਫ਼ਫ਼ੂੰਦੀ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਾਂ?
+    - ਅਸੀਂ ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਪਾ Powderਡਰ ਫ਼ਫ਼ੂੰਦੀ ਦੀ ਲਾਗ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਾਂ?
+- intent: faq-agri-wheat-b0-pun/information-regarding-the-control-of-pink-stem-borer-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਗੁਲਾਬੀ ਸਟੈਮ ਬੋਰਰਾਂ ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਵਿੱਚ ਗੁਲਾਬੀ ਸਟੈਮ ਬੋਰਰ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-the-control-of-caterpillar-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਕੈਟਰਪਿਲਰ ਬਾਰੇ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਵਿਚ ਕੈਟਰਪਿਲਰ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ
+- intent: faq-agri-wheat-b0-pun/information-regarding-green-sundi-in-wheat?
+  examples: |
+    - ਕਣਕ ਵਿਚ ਹਰੇ ਰੰਗ ਦੀ ਸੁੰਡੀ ਦੀ ਵਰਤੋਂ ਕੀ ਹੈ?
+    - ਕਣਕ ਵਿਚ ਹਰੇ ਸੁੰਡੀ ਦਾ ਉਦੇਸ਼?
+- intent: faq-agri-wheat-b0/information-regarding-the-control-of-pink-stem-borer-in-wheat
+  examples: |
+    - information regarding control of pink stem borer in wheat
+- intent: faq-agri-wheat-b1-pun/information-regarding-nozzle-used-in-herbicide-in-wheat-crop-?
+  examples: |
+    - ਮੈਨੂੰ ਜੜੀ-ਬੂਟੀਆਂ ਵਿੱਚ ਵਰਤੀ ਜਾਂਦੀ ਨੋਜ਼ਲ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੱਸੋ
+    - ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਜੜੀ-ਬੂਟੀਆਂ ਦੀ ਵਰਤੋਂ ਕਰਨ ਵਾਲੀ ਨੋਜ਼ਲ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b1-pun/how-we-can-control-the-weeds-in-non-cropped-area
+  examples: |
+    - ਗੈਰ ਫਸਲੀ ਖੇਤਰ ਵਿੱਚ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਅਸੀਂ ਗੈਰ ਫਸਲੀ ਖੇਤਰ ਵਿੱਚ ਨਦੀਨਾਂ ਤੋਂ ਕਿਵੇਂ ਛੁਟਕਾਰਾ ਪਾ ਸਕਦੇ ਹਾਂ?
+- intent: faq-agri-wheat-b1-pun/information-regarding-irrigate-the-field-after-herbicide-spray?
+  examples: |
+    - ਮੈਨੂੰ ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਸਪਰੇਅ ਤੋਂ ਬਾਅਦ ਆਪਣੇ ਖੇਤ ਨੂੰ ਕਿਵੇਂ ਸਿੰਜਾਈ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ?
+    - ਕੀ ਤੁਸੀਂ ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਸਪਰੇਅ ਤੋਂ ਬਾਅਦ ਖੇਤ ਨੂੰ ਸਿੰਜਾਈ ਕਰ ਸਕਦੇ ਹੋ?
+- intent: faq-agri-wheat-b1/information-regarding-the-control-of-weeds-from-the-vacant-field-before-sowing-of-wheat
+  examples: |
+    - Before sowing of wheat, is there any way to get rid of weeds from vacant field ?
+    - How do I control weeds from the vacant field before sowing wheat
+- intent: faq-agri-wheat-b1/information-regarding-control-of-weeds-in-pre-emergence-stage-in-wheat
+  examples: |
+    - information regarding how to control weeds at sowing time (pre-emergence) in wheat?
+- intent: faq-agri-wheat-b1/information-regarding-the-control-of-grassy-leaf-weeds-in-wheat-before-first-irrigation
+  examples: |
+    - Before first irrigation, how to get rid of grassy leaf weeds
+    - Before first irrigation, how we control of grassy leaf weeds in wheat ?
+- intent: faq-agri-wheat-b1/information-regarding-control-of-weed-in-non-cropped-area
+  examples: |
+    - how we can control the weeds in non-cropped area of wheat fields
+    - Is there any herbicide to control the weeds in non-cropped area of wheat crop?
+- intent: faq-agri-wheat-b1/information-regarding-to-control-of-bathu-in-the-wheat-crop
+  examples: |
+    - What is the control of button booti,bathu emerged in wheat?
+    - information regarding for the control of bathu in wheat crops ?
+- intent: faq-agri-wheat-b1/information-regarding-irrigate-the-field-after-herbicide-spray
+  examples: |
+    - After herbicide spray, can i irrigate my feild
+    - How can we irrigate the field after herbicide spray?
+- intent: faq-agri-wheat-b2-pun/information-about-best-varieties-for-running-season?
+  examples: |
+    - ਚੱਲ ਰਹੇ ਮੌਸਮ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਕਿਸਮਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b2/sowing-time-of-wheat-after-nov
+  examples: |
+    - How long should sowing for wheat be if it is not ready by nov?
+    - sowing time of wheat after nov?
+- intent: faq-agri-wheat-b3-pun/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days-?
+  examples: |
+    - ਜੇਕਰ ਸਿੰਚਾਈ 12 ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਕਰਨੀ ਹੈ ਤਾਂ ਤੁਹਾਨੂੰ ਯੂਰੀਆ ਦੀ ਖੁਰਾਕ ਕਿਵੇਂ ਲਾਗੂ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ?
+    - ਜੇਕਰ ਸਿੰਚਾਈ 12 ਦਿਨਾਂ ਦੇ ਅੰਦਰ ਕੀਤੀ ਜਾਵੇ ਤਾਂ ਮੈਂ ਯੂਰੀਆ ਦੀ ਖੁਰਾਕ ਕਦੋਂ ਲਵਾਂ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-total-fertilizers-dose-in-wheat?
+  examples: |
+    - ਮੈਨੂੰ ਕਿਵੇਂ ਪਤਾ ਲੱਗੇਗਾ ਕਿ ਕਣਕ ਕਣਕ ਦੀ ਖਾਦ ਹੈ?
+    - ਕਣਕ ਦੀ ਕਣਕ ਵਿੱਚ ਖਾਦ ਦੀ ਕੁੱਲ ਖੁਰਾਕ ਕਿੰਨੀ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-deficiency-of-nitrogen-in-wheat-?
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਨਾਈਟ੍ਰੋਜਨ ਦੀ ਕਮੀ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਕੀ ਨਾਈਟ੍ਰੋਜਨ ਕਣਕ ਵਿੱਚ ਇੱਕ ਮੁੱਖ ਤੱਤ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-fertilizer-dosage-before-1st-irrigation?
+  examples: |
+    - ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ ਖਾਦ ਦੀ ਖੁਰਾਕ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b3-pun/control-of-iron-deficiency-in-wheat
+  examples: |
+    - ਕੀ ਕਣਕ ਵਿੱਚ ਆਇਰਨ ਦੀ ਕਮੀ ਇੱਕ ਸਮੱਸਿਆ ਹੈ?
+    - ਕਣਕ ਵਿੱਚ ਆਇਰਨ ਦੀ ਕਮੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰੋ
+- intent: faq-agri-wheat-b3-pun/deficiency-manganese-sulphate-in-wheat?
+  examples: |
+    - ਕੀ ਕਣਕ ਵਿੱਚ ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ ਦੀ ਕਮੀ ਹੈ?
+    - ਕੀ ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ ਅਨਾਜ ਲਈ ਮਹੱਤਵਪੂਰਨ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-npk-dose-in-acre?
+  examples: |
+    - ਮੈਨੂੰ ਦੱਸੋ ਕਿ ਐਨਪੀਕੇ ਖੁਰਾਕ ਦੀ ਗਣਨਾ ਕਿਵੇਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ?
+    - ਏਕੜ ਲਈ ਐਨ ਪੀ ਕੇ ਖੁਰਾਕ ਸੰਬੰਧੀ ਡੇਟਾ ਪ੍ਰਦਾਨ ਕਰੋ?
+- intent: faq-agri-wheat-b3-pun/before-irrigation-tell-me-the-information-regarding-of-fertilizer-dose-in-wheat-.
+  examples: |
+    - ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ ਮੈਨੂੰ ਕਣਕ ਵਿਚ ਖਾਦ ਦੀ ਖੁਰਾਕ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਦੱਸੋ .
+    - ਸਿੰਚਾਈ ਤੋਂ ਪਹਿਲਾਂ ਕਣਕ ਵਿਚ ਖਾਦ ਦੀ ਖੁਰਾਕ ਬਾਰੇ ਜਾਣਕਾਰੀ.
+- intent: faq-agri-wheat-b3-pun/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-d.a.p?
+  examples: |
+    - ਕਣਕ ਵਿਚ ਸੁਪਰਫੋਸਫੇਟ ਦੇ ਵਿਕਲਪ ਕੀ ਹਨ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-expiry-date-of-manganese-sulphate?
+  examples: |
+    - ਕੀ ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ ਦੀ ਮਿਆਦ ਪੁੱਗਣ ਦੀ ਤਾਰੀਖ ਹੈ?
+    - ਕੀ ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ ਦੀ ਮਿਆਦ ਖਤਮ ਹੋ ਗਈ ਹੈ?
+- intent: faq-agri-wheat-b3/how-many-spray-of-manganese-are-required-in-the-wheat-crop
+  examples: |
+    - How many spray of manganese are needed in wheat crop?
+    - What quantity of  sprays manganese is required to wheat crop?
+- intent: faq-agri-wheat-b3/information-regarding-the-application-of-gypsum
+  examples: |
+    - information regarding the application of gypsum?
+    - What are some useful details regarding the application of gypsum for wheat?
+- intent: faq-agri-wheat-b3/information-regarding-the-deficiency-of-nitrogen-in-wheat
+  examples: |
+    - What should be sprayed to recover nitrogen deficiency in wheat?
+    - wheat lack nitrogen how to correct its defi?
+- intent: faq-agri-wheat-b3/information-regarding-the-npk-dose-in-acre
+  examples: |
+    - In 1 acre how much is npk should be applied?
+- intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-in-wheat-before-irrigation
+  examples: |
+    - What is the fertilizer dose as per standards in wheat before irrigation?
+    - fertilizer dose in wheat before irrigation?
+- intent: faq-agri-wheat-b3/information-requirement-of-wheat-crop
+  examples: |
+    - What is the information about requirement of wheat crop?
+    - What is the requirement information for wheat crop?
+- intent: faq-agri-wheat-b3/information-regarding-suitable-time-of-1st-irrigation
+  examples: |
+    - for wheat when should irrigation start
+    - When is the appropriate time for irrigation of wheat?
+- intent: faq-agri-wheat-b3/information-regarding-broadcasting-of-urea-after-herbicide-spray
+  examples: |
+    - Information regarding broadcasting of urea after herbicide spray?
+    - i have sprayed herbicide how many days sould I wait before spraying urea
+- intent: faq-agri-wheat-b3/information-regarding-that-can-we-use-super-phosphate-as-an-alternative-of-dap
+  examples: |
+    - Is super phosphate an alternative to dap?
+- intent: faq-agri-wheat-b3/information-regarding-expiry-date-of-manganese-sulphate
+  examples: |
+    - How many years do you think it is a good expiry date for manganese sulphate?
+    - What is the expiry date of manganese sulphate?
+- intent: faq-agri-wheat-b5-pun/information-regarding-protection-of-stored-grains-from-insect--pest-attack-?
+  examples: |
+    - ਮੈਂ ਦਾਣਿਆਂ ਨੂੰ ਕੀੜਿਆਂ ਅਤੇ ਕੀੜਿਆਂ ਦੇ ਹਮਲੇ ਤੋਂ ਕਿਵੇਂ ਬਚਾ ਸਕਦਾ ਹਾਂ?
+    - ਕੀੜੇ-ਮਕੌੜਿਆਂ ਦੇ ਹਮਲੇ ਤੋਂ ਸਟੋਰ ਕੀਤੇ ਅਨਾਜ ਦੀ ਸੁਰੱਖਿਆ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਅਭਿਆਸ ਕੀ ਹਨ?
+- intent: faq-agri-wheat-b5/information-regarding-protection-of-stored-grains-from-insect-pest-attack
+  examples: |
+    - How should grains be protected from parasites and insect bites?
+    - How do we protect stored grains from pest attack?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-mites-in-chilli
+  examples: |
+    - information regarding control of mites in chilli?
+    - What are the mite control measures for chilli?
+- intent: faq-hort-chilli-b0/information-regarding-how-to-control-white-grub-in-chilies
+  examples: |
+    - How can I control white grub in chilies?
+- intent: faq-hort-chilli-b1/what-are-some-of-the-deficiency-symptoms-in-chilly-crop
+  examples: |
+    - What are some of the deficiency symptoms in the chilly crop?
+    - tell me some deficiency symptoms that can be seen in chilli crop?
+- intent: faq-hort-chilli-b1/how-to-control-of-larvae-in-chilli
+  examples: |
+    - How do I control larvae from chilli?
+    - How do I control larvae of chilli worm?
+- intent: faq-hort-garlic-b0/dose-of-urea-in-garlic
+  examples: |
+    - how much urea should be in garlic
+    - in garlic how much urea is required
+- intent: faq-hort-garlic-b0/pre-emergence-weedicide-in-garlic
+  examples: |
+    - How do I control pre emergence weeds in garlic?
+    - What is a pre emergence weedicide in garlic
+- intent: faq-hort-garlic-b0/information-regarding-for-deficiency-of-nitrogen-in-garlic
+  examples: |
+    - i want to increase the content of nitrogen since it is deficient in the garlic
+- intent: faq-hort-pea-b0/information-regarding-brown-spot-in-pea-crop
+  examples: |
+    - What is brown spot? how to recover pea from it?
+    - methods to save pea crop from brown spots
+- intent: faq-hort-pea-b0/how-to-control-thirps-in-pea-crop
+  examples: |
+    - how to control thirps in pea crop ?
+    - How do I control thirps in a pea crop?
+- intent: faq-hort-pea-b0/information-regarding-for-the-deficiency-of-potash-in-pea
+  examples: |
+    - regarding potash deficiency improvement in pea?
+    - potash recovery in pea crop
+- intent: faq-hort-pea-b0/information-regarding-the-control-of-weeds-in-peas
+  examples: |
+    - information regarding the control of weeds in peas ?
+    - How to control weeds in Peas?
+- intent: faq-agri-rice-b0-pun/information-regarding-fungicide-for-paddy--root-rot-?
+  examples: |
+    - ਰੂਟ ਸੜਨ ਨੂੰ ਰੋਕਣ ਅਤੇ ਝੋਨੇ ਦੀਆਂ ਜੜ੍ਹਾਂ ਤੇ ਸੜਨ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਉੱਲੀਮਾਰ ਕੀ ਹਨ?
+    - ਝੋਨੇ ਦੀ ਜੜ ਸੜਨ ਲਈ ਉੱਲੀਮਾਰ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy?
+  examples: |
+    - ਤੁਸੀਂ ਝੋਨੇ ਵਿੱਚ ਕੈਟਰਪਿਲਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਦੇ ਹੋ?
+    - ਮੈਂ ਝੋਨੇ ਦੀਆਂ ਜੜ੍ਹਾਂ ਵਿੱਚ ਚਿੱਟੇ ਕੈਟਰਪਿਲਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-larvae-in-paddy-roots-?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ ਦੀਆਂ ਜੜ੍ਹਾਂ ਵਿਚ ਲਾਰਵੇ ਦਾ ਨਿਯੰਤਰਣ ਕਿੱਥੇ ਲੱਭ ਸਕਦਾ ਹਾਂ?
+    - ਝੋਨੇ ਦੀਆਂ ਜੜ੍ਹਾਂ ਵਿਚ ਲਾਰਵੇ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਮੁ basicਲੀ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-dose-of-zice--in-rice
+  examples: |
+    - ਚਾਵਲ ਵਿਚ ਜ਼ਾਈਸ ਦੀ ਖੁਰਾਕ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+    - ਚਾਵਲ ਜਾਂ ਚਾਵਲ ਦੇ ਆਟੇ ਵਿਚ ਜ਼ਾਈਸ ਦੀ ਖੁਰਾਕ ਦਾ ਨਿਯੰਤਰਣ ਸੰਭਵ ਨਹੀਂ ਹੈ. ਇਸ ਜਾਣਕਾਰੀ ਦਾ ਉਦੇਸ਼ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-kernel-smut-in-rice-crop?
+  examples: |
+    - ਚਾਵਲ ਵਿਚ ਬਦਬੂ ਦੀ ਜਾਂਚ ਕਰਨ ਦਾ ਸਹੀ ਤਰੀਕਾ ਕੀ ਹੈ?
+    - ਚਾਵਲ ਦਾ ਬੀਜ ਇਕ ਏਕਾਧਾਰੀ ਅਨਾਜ ਹੈ, ਇਸ ਨੂੰ ਨਿਯੰਤਰਣ ਕਰਨ ਦਾ ਉਦੇਸ਼ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-the-control-of-fungal-disease-in-basmati?
+  examples: |
+    - ਬਾਸਮਤੀ ਵਿਚ ਫੰਗਲ ਬਿਮਾਰੀਆਂ ਦਾ ਨਿਯੰਤਰਣ?
+    - ਬਾਸਮਤੀ ਬਾਸਮਤੀ ਵਿਚ ਫੰਗਲ ਬਿਮਾਰੀ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਤਰੀਕਾ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-reddish-in-paddy?
+  examples: |
+    - ਅਸੀਂ ਝੋਨੇ ਵਿਚ ਲਾਲ ਰੰਗ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਾਂ?
+    - ਕੀ ਝੋਨੇ ਵਿਚ ਰੈਡਿਸ਼ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਕੋਈ ਜਾਣਕਾਰੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-for-the-control-of-anthrachnose-disease-in-rice-crop?
+  examples: |
+    - ਐਂਥਰਾਚਨੋਜ਼ ਬਿਮਾਰੀ ਨੂੰ ਚਾਵਲ ਦੀ ਫਸਲ ਵਿੱਚ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?
+    - ਮੈਂ ਚਾਵਲ ਦੀਆਂ ਫਸਲਾਂ ਵਿਚ ਐਂਥ੍ਰੈਕਨੋਜ਼ ਬਿਮਾਰੀ ਨੂੰ ਕਿਵੇਂ ਰੋਕ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b0-pun/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy?
+  examples: |
+    - ਝੋਨੇ 'ਤੇ ਰਸਾਇਣਾਂ ਦਾ ਛਿੜਕਾਅ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਕਿਹੜਾ ਹੈ?
+    - ਝੋਨੇ 'ਤੇ ਰਸਾਇਣ ਦਾ ਛਿੜਕਾਅ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-how-to-control-army-worm-in-paddy?
+  examples: |
+    - ਅਸੀਂ ਝੋਨੇ ਵਿਚ ਫੌਜ ਦੇ ਕੀੜੇ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਾਂ?
+    - ਮੈਂ ਝੋਨੇ ਵਿਚ ਫੌਜ ਦੇ ਕੀੜੇ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਾਂ?
+- intent: faq-agri-rice-b0/information-regarding-potassium-deficiency-in-paddy-crop
+  examples: |
+    - What is the phosphorus deficiency information regarding potassium deficiency in paddy?
+    - How do we control potassium deficiency diseases in rice crops?
+- intent: faq-agri-rice-b0/information-regarding-fungicide-for-paddy--root-rot
+  examples: |
+    - What are the best fungicides to prevent root rot and rot on rice roots?
+    - How can you make a fungicide to kill paddy root rot?
+- intent: faq-agri-rice-b0/information-regarding-how-to-control-stem-rot-in-paddy
+  examples: |
+    - help me out in controlling the stem rot in the rice
+    - How can we control stem rot?
+- intent: faq-agri-rice-b0/information-regarding-control-of-leaf-folder-in-basmati
+  examples: |
+    - What are the basic information regarding control of leaf folder in basmati roots?
+    - How is leaf folder controlled in basmati basmatis?
+- intent: faq-agri-rice-b0/information-regarding-control-of-leaf-folder-when-there-are-15-days-left-for-harvesting
+  examples: |
+    - How can I control leaf folder when there are 15 days to harvest?
+    - How can I control a leaf folder. If 15 days is left to harvesting what is the best way to make a leaf folder?
+- intent: faq-agri-rice-b0/information-regarding-the-spray-against-brown-leaf-spot
+  examples: |
+    - Do sprays against brown leaf spots work?
+    - How can a spray against brown leaf spot be applied?
+- intent: faq-agri-rice-b0/information--regarding-dying-of-plants-of-paddy
+  examples: |
+    - What are some useful information regarding dying of paddy plants?
+    - How should I avoid dying of paddy plants?
+- intent: faq-agri-rice-b0/dose-of-acephate-use-in-paddy-crop
+  examples: |
+    - How much acephate is used in a paddy crop?
+    - What do you think about acephate use in paddy crop?
+- intent: faq-agri-rice-b0/information-regarding-control-of-termite-in-rice-crop
+  examples: |
+    - What are termite control measures in basmati rice crop?
+    - Rice yield information regarding control of termites in rice crop production system.
+- intent: faq-agri-rice-b0/information-regarding-control-of-control-of-sheath-blight-in-rice
+  examples: |
+    - How do you control sheath blight in rice?
+    - information regarding control of control of sheath blight in rice?
+- intent: faq-agri-rice-b0/information-regarding-control-of-false-smut-in-rice
+  examples: |
+    - How can I reduce false smut in rice?
+    - Is there any information regarding control of false smuts in rice?
+- intent: faq-agri-rice-b0/information-regarding-control-kernel-smut-in-rice-crop
+  examples: |
+    - information regarding control kernel smut in rice crop?
+    - How do I control kernel smut of rice?
+- intent: faq-agri-rice-b0/information-regarding-for-the-control-fungus-in-basmati
+  examples: |
+    - information regarding for the control fungus in basmati ?
+    - What is info related to control fungus in basmati?
+- intent: faq-agri-rice-b0/information-regarding-the-control-of-fungal-disease-in-basmati
+  examples: |
+    - information regarding the control of fungal disease in basmati?
+    - What are the basic information on the control of fungal disease in basmati?
+- intent: faq-agri-rice-b0/information-regarding-control-of-reddish-in-paddy
+  examples: |
+    - How can we control the reddish in paddy?
+    - How can I control reddish in paddy?
+- intent: faq-agri-rice-b0/information-regarding-for-the-control-of-anthrachnose-disease-in-rice-crop
+  examples: |
+    - How do I control anthrachnose disease in rice crop?
+    - How can anthrachnose disease be controlled in rice crop?
+- intent: faq-agri-rice-b0/information-regarding-the-best-time-of-day-to-spray-any-chemical-on-paddy
+  examples: |
+    - What is the best time to spray chemical vapor on paddy?
+    - How early in the morning can we spray any chemical on paddy?
+- intent: faq-agri-rice-b0/information-regarding-how-to-control-sulphur-deficiency-in-paddy
+  examples: |
+    - tell me the way to control sulphur in paddy?
+    - How do I control sulphur deficiency in paddy?
+- intent: faq-agri-rice-b0/information-regarding-dose-of-urea-for-basmati-rice
+  examples: |
+    - Why is the dose of urea high in basmati rice?
+    - Do we really need urea in basmati rice?
+- intent: faq-agri-rice-b0/information-regrading-to-control-of-broadleaf-weeds-in-rice
+  examples: |
+    - How do I control the wideleaf weed in rice?
+    - What is the good management strategy to control broadleaf weeds in rice?
+- intent: faq-agri-rice-b0/how-to-control-steam-borer-in-paddy-crop
+  examples: |
+    - Information regrading to control of stem borer in rice?
+    - information regrading to control of stem borer in rice?
+- intent: faq-agri-rice-b0/information-regarding-which-spray--should-be-done-at-booting-stage-in-paddy
+  examples: |
+    - tell me about spray should be done in paddy?
+    - tell me which spray is best for booting stage in rice ?
+- intent: faq-agri-rice-b0/information-regarding-how-to-control-army-worm-in-paddy
+  examples: |
+    - how we can get rid of army worm in paddy?
+    - How can I remove army worm in my paddy?
+- intent: faq-agri-rice-b0/information-regarding-yellow-rust-in-paddy
+  examples: |
+    - How can I remove yellow rust in paddy?
+    - Are there any signs of yellow rust in paddy?
+- intent: faq-agri-rice-b0/how-to-control-bacterial-blight-disease-in-basmati-rice
+  examples: |
+    - Information regarding for the control of bacterial blight disease
+    - How do you control bacterial blight disease in basmati rice?
+- intent: faq-agri-rice-b1-pun/information-regarding-control-of-termite-in-paddy-?
+  examples: |
+    - ਝੋਨੇ ਵਿਚ ਪਾਰਟੀ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਸਭ ਤੋਂ ਵਧੀਆ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+    - ਝੋਨੇ ਵਿਚ ਦਮ ਘੁੱਟਣ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਤਰੀਕਾ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b1-pun/rice-leaves-turn-into-the-white-colour?
+  examples: |
+    - ਚਾਵਲ ਦੇ ਪੱਤੇ ਚਿੱਟੇ ਕਿਉਂ ਹੁੰਦੇ ਹਨ?
+    - ਚਾਵਲ ਦੇ ਪੱਤੇ ਪੀਲੇ ਰੰਗ ਦੇ ਕਿਉਂ ਹੁੰਦੇ ਹਨ?
+- intent: faq-agri-rice-b1/information-regarding-control-of-termite-in-paddy
+  examples: |
+    - How do I control termites in a paddy?
+    - What are the control measures for termites in paddy?
+- intent: faq-agri-rice-b1/information-regarding-drainage-problem-in-paddy-feild
+  examples: |
+    - What is the drainage problem in paddy feild?
+    - What are the drainage problems in paddyfield?
+- intent: faq-agri-rice-b1/information-regading-control-of-rats-in-paddy-feild
+  examples: |
+    - how to control rat in rice crop area
+    - How should I control mouse in paddy feild?
+- intent: faq-agri-rice-b1/information-regarding-bluegreen-algae-in-paddy
+  examples: |
+    - What are the recommended ways to remove blue-green algae?
+    - how to control algae in paddy crop
+- intent: faq-agri-rice-b1/information-regarding--application-of-water-after-broadcasting-urea-in-field
+  examples: |
+    - How do we know about the application of water after broadcasting urea in field?
+    - What is the application of water after broadcasting of urea in field?
+- intent: faq-agri-rice-b2-pun/number-of-rice-plant-require-in-one-one-square-meter?
+  examples: |
+    - ਇਕ ਵਰਗ ਮੀਟਰ ਵਿਚ ਚਾਵਲ ਦੇ ਪੌਦਿਆਂ ਦੀ ਗਿਣਤੀ ਕੀ ਹੈ?
+    - ਇੱਕ ਵਰਗ ਮੀਟਰ ਵਿੱਚ ਕਿੰਨੇ ਚਾਵਲ ਦੇ ਪੌਦਿਆਂ ਦੀ ਜ਼ਰੂਰਤ ਹੈ?
+- intent: faq-agri-rice-b2-pun/information-regarding-for-the-control-of-weeds-in-paddy(jhona)-crop?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ (ਜੋਨਾ) ਦੀ ਫਸਲ ਵਿਚ ਬੂਟੀ ਦੇ ਨਿਯੰਤਰਣ ਨਾਲ ਸੰਘਰਸ਼ ਕਰ ਰਿਹਾ ਹਾਂ. ਝੋਨੇ (ਜੋਨਾ) ਦੀ ਫਸਲ ਵਿਚ ਬੂਟੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਕਿਹੜੀ ਜਾਣਕਾਰੀ ਹੈ?
+    - ਕੀ ਝੋਨੇ (ਜਹੋਨਾ) ਦੀ ਫਸਲ ਵਿਚ ਕੋਈ ਨਿਯੰਤਰਣ ਬੂਟੀ ਹੈ?
+- intent: faq-agri-rice-b2-pun/information-regarding-control-of-weeds-in-paddy-?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ ਵਿੱਚ ਬੂਟੀ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਾਂ?
+    - ਝੋਨੇ ਵਿਚ ਬੂਟੀ ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਸਭ ਤੋਂ ਵਧੀਆ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b2-pun/information-regarding-spacing-in-direct-seeded-rice?
+  examples: |
+    - ਚਾਵਲ ਲਈ ਬੀਜ ਦਾ ਬੀਜ ਕਿਵੇਂ ਵੱਖਰਾ ਹੈ?
+    - ਮੈਂ ਸਿੱਧੇ ਬੀਜ ਵਾਲੇ ਚੌਲਾਂ ਦੀ ਦੂਰੀ ਨੂੰ ਕਿਵੇਂ ਨਿਰਧਾਰਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b2-pun/information-regarding-application-of--pre-emergence-weedicide?
+  examples: |
+    - ਪੂਰਵ-ਸੰਕਟ ਦੇ ਬੂਟੀ-ਹੱਤਿਆ ਦੀ ਵਰਤੋਂ ਸੰਬੰਧੀ ਕੁਝ ਮਹੱਤਵਪੂਰਣ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+    - ਮੈਂ ਪੌਦੇ ਲਗਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਬੂਟੀ ਦੀ ਵਰਤੋਂ ਕਿਵੇਂ ਕਰਾਂ?
+- intent: faq-agri-rice-b2/sowing-seaosn-of-basmati
+  examples: |
+    - in which month to sow basmati?
+    - in which season should i sow basmati rice
+- intent: faq-agri-rice-b2/information-regarding-the-detail-of-hybrid-paddy-cultivation
+  examples: |
+    - How is hybrid paddy cultivation performed?
+    - What is the detail of hybrid paddy cultivation?
+- intent: faq-agri-rice-b2/number-of-rice-plant-require-in-one-one-square-meter
+  examples: |
+    - number of rice plant require in one one square meter?
+    - What is the number of rice plants for a one square meter?
+- intent: faq-agri-rice-b2/information-regarding-for-the-control-of-weeds-in-paddyjhona-crop
+  examples: |
+    - What are the control strategies to control weeds in paddy crops?
+    - Is there any control weeds in paddy(jhona) crop?
+- intent: faq-agri-rice-b2/information-regarding-control-of-weeds-in-paddy
+  examples: |
+    - Is there any information regarding control of weeds in paddy?
+    - What is the best way to control weeds in paddy?
+- intent: faq-agri-rice-b2/information-regarding-spacing-in-direct-seeded-rice
+  examples: |
+    - What is the spacing in direct seeded rice?
+    - How do I estimate spacing of direct seeded rice grains?
+- intent: faq-agri-rice-b2/information-regarding-application-of--pre-emergence-weedicide
+  examples: |
+    - How much weedicide should be applied before emergence?
+    - How do I apply weedicide prior to planting?
+- intent: faq-agri-rice-b3-pun/information-regarding-the-best-method-of-puddling-in-paddy?
+  examples: |
+    - ਝੋਨੇ ਵਿਚ  ਪੁਡਿੰਗ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਤਰੀਕਾ ਕੀ ਹੈ?
+    - ਝੋਨੇ ਵਿੱਚ ਪੁਡਿੰਗ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਤਰੀਕਾ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b3-pun/information-regarding-storage-of-paddy-after-harvesting.
+  examples: |
+    - ਵਾਢੀ ਤੋਂ ਬਾਅਦ ਤੁਸੀਂ ਝੋਨੇ ਨੂੰ ਕਿਵੇਂ ਸਟੋਰ ਕਰਦੇ ਹੋ?
+    - ਵਾਢੀ ਤੋਂ ਬਾਅਦ ਮੈਂ ਝੋਨੇ ਨੂੰ ਕਿਵੇਂ ਸਟੋਰ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b3-pun/information-regarding-the-cultivation-of-paddy-in-alkali-soil-?
+  examples: |
+    - ਤੁਸੀਂ ਖਾਰੀ ਮਿੱਟੀ ਵਿਚ ਝੋਨੇ ਕਿਵੇਂ ਉਗਾ ਸਕਦੇ ਹੋ?
+    - ਖਾਰੀ ਮਿੱਟੀ ਵਿਚ ਝੋਨੇ ਦੀ ਕਾਸ਼ਤ ਬਾਰੇ ਸਭ ਤੋਂ ਵਧੀਆ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b3-pun/information-regarding-the-cultivation-of-paddy-in-poor-quality-water-?
+  examples: |
+    - ਮਾੜੇ ਕੁਆਲਟੀ ਵਾਲੇ ਪਾਣੀ ਵਿਚ ਝੋਨੇ ਦੀ ਕਾਸ਼ਤ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ?
+    - ਮੈਂ ਮਾੜੇ ਕੁਆਲਟੀ ਦੇ ਪਾਣੀ ਵਿਚ ਝੋਨੇ ਨੂੰ ਕਿਵੇਂ ਲਗਾ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b3-pun/information-regarding-application-of-booster-for-paddy-crop?
+  examples: |
+    - ਕੀ ਮੈਨੂੰ ਚਾਵਲ ਦੀ ਫਸਲ ਵਿਚ ਬੂਸਟਰ ਲਾਗੂ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ
+    - ਚਾਵਲ ਦੀ ਫਸਲ ਵਿਚ ਬੂਸਟਰ ਦੀ ਵਰਤੋਂ ਦੀ ਕੀ ਜ਼ਰੂਰਤ ਹੈ?
+- intent: faq-agri-rice-b3/information-regarding-the-best-method-of-puddling-in-paddy
+  examples: |
+    - What are the best ways to puddle rice?
+    - Which is the best method to puddle in paddy?
+- intent: faq-agri-rice-b3/information-regarding-storage-of-paddy-after-harvesting
+  examples: |
+    - How can I store rice or paddy after harvest?
+    - How do you store rice after harvest?
+- intent: faq-agri-rice-b3/information--regarding-straw-management-of-rice
+  examples: |
+    - What is straw management of paddy?
+    - How do you manage the straw in rice?
+- intent: faq-agri-rice-b3/information-regarding-can-seedling-of-paddy-can-be-sown-in-same-land-where-previous-year-it-has-sown
+  examples: |
+    - Is it possible that seedling of paddy can be sown in the same land where it has sown last year?
+    - Can seedling of paddy be sown in same land where previous year it has sown?
+- intent: faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-alkali-soil
+  examples: |
+    - How can I plant paddy in alkali soil?
+    - Information concerning the cultivation of paddy in alkali soil?
+- intent: faq-agri-rice-b3/information-regarding-the-cultivation-of-paddy-in-poor-quality-water
+  examples: |
+    - Are the cultivators of Rice growing in poor water?
+    - information regarding the cultivation of paddy in poor quality water ?
+- intent: faq-agri-rice-b3/how-to-increase-the-water-absorbing-capacity-of-soil
+  examples: |
+    - How to increase the water absorbing capacity of soil?
+    - how to increase the water absorbing capacity of soil ?
+- intent: faq-agri-rice-b3/information-regarding-application-of-booster-for-paddy-crop
+  examples: |
+    - How is a booster for rice crop application?
+    - What is the application of boosters for paddy crops?
+- intent: faq-agri-rice-b4-pun/information-regarding-how-to-manage-water-in-booting-stage--?
+  examples: |
+    - ਤੁਸੀਂ ਬੂਟ ਕਰਨ ਦੇ ਪੜਾਅ ਵਿਚ ਪਾਣੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਿਵੇਂ ਕਰਦੇ ਹੋ?
+    - ਬੂਟਿੰਗ ਪੜਾਅ ਵਿਚ ਪਾਣੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਿਵੇਂ ਕਰੀਏ?
+- intent: faq-agri-rice-b4-pun/information-regarding-preventing-the-paddy-field-from-cracks--?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ ਦੇ ਖੇਤ ਨੂੰ ਚੀਰਣ ਤੋਂ ਕਿਵੇਂ ਰੋਕ ਸਕਦਾ ਹਾਂ?
+    - ਅਸੀਂ ਝੋਨੇ ਦੇ ਖੇਤਾਂ ਨੂੰ ਚੀਰਣ ਤੋਂ ਕਿਵੇਂ ਰੋਕ ਸਕਦੇ ਹਾਂ?
+- intent: faq-agri-rice-b4-pun/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil-?
+  examples: |
+    - ਹਲਕੇ ਟੈਕਸਟ ਵਾਲੀ ਮਿੱਟੀ ਅਤੇ ਇਸ ਦੀ ਚੋਣ ਲਈ ਝੋਨੇ ਖਰੀਦਣ ਦੇ ਕੁਝ ਫਾਇਦੇ ਕੀ ਹਨ?
+    - ਹਲਕੇ ਟੈਕਸਟ ਵਾਲੀ ਮਿੱਟੀ ਲਈ ਝੋਨੇ ਦੀਆਂ ਕਿਸਮਾਂ ਕੀ ਹਨ?
+- intent: faq-agri-rice-b4/information-regarding-preventing-the-paddy-field-from-cracks
+  examples: |
+    - What is the best way to keep the paddy field from cracking?
+    - What are the best ways to prevent paddy fields from cracking?
+- intent: faq-agri-rice-b4/information-regarding-the-selection-of-variety-of-paddy-for-light-textured-soil
+  examples: |
+    - How do I select the appropriate variety of paddy for light textured soil?
+    - What are some advantages of buying a paddy for light textured soil and its selection?
+- intent: faq-agri-wheat-b0-pun/information-regarding-the-control-of-american-caterpillar-in-wheat
+  examples: |
+    - ਮੈਨੂੰ ਦੱਸੋ ਕਿ ਕਣਕ ਤੋਂ ਘਾਹ ਦੇ ਬੂਟੇ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਨਾ ਹੈ
+    - ਕਣਕ ਵਿੱਚ ਟਾਹਲੀ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-pest-control-in-wheat-crop
+  examples: |
+    - ਕਣਕ 'ਤੇ ਕੀੜੇ ਦੇ ਹਮਲੇ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਲਈ
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਕੀੜੇ-ਮਕੌੜੇ ਕਿਵੇਂ
+- intent: faq-agri-wheat-b0/information-regarding-control-of-leaf-curl-in-wheat
+  examples: |
+    - information regarding leaf curl in wheat crop
+    - Control of leaf curl in wheat grass.
+- intent: faq-agri-wheat-b0/information-regarding-control-of-caterpillar-in-wheat-crop
+  examples: |
+    - spray for caterpillar in wheat
+    - information regarding the control of caterpillar in wheat
+- intent: faq-agri-wheat-b0/information-regarding-control-of-fungus-in-wheat
+  examples: |
+    - information regarding the control of fungus in wheat
+    - asked about fungus attack on wheat
+- intent: faq-agri-wheat-b1-pun/information-regarding-how-to-control-the-phalaris-minor-in-the-wheat-crop-?
+  examples: |
+    - ਮੈਂ ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਫਲੇਰੀਸ ਮਾਈਨਰ ਨੂੰ ਕਿਵੇਂ ਕਾਬੂ ਕਰ ਸਕਦਾ ਹਾਂ?
+    - ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਗੁੱਲੀਡੰਡਾ (ਫਾਲਾਰਿਸ ਮਾਈਨਰ) ਦੀ ਰੋਕਥਾਮ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b1-pun/information-regarding-control-of-nematodes-affected-plant-in-wheat?
+  examples: |
+    - ਨੈਮੈਟੋਡਸ ਕਣਕ ਨੂੰ ਕਿਵੇਂ ਪ੍ਰਭਾਵਤ ਕਰ ਸਕਦੇ ਹਨ?
+    - ਮੈਨੂੰ ਨੈਮੈਟੋਡਜ਼ ਪ੍ਰਭਾਵਿਤ ਪੌਦਿਆਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ਦੱਸੋ ?
+- intent: faq-agri-wheat-b1-pun/information-regarding--control-of-chenopodium-album?
+  examples: |
+    - ਚੇਨੋਪੋਡਿਅਮ ਐਲਬਮ ਦਾ ਨਿਯੰਤਰਣ?
+    - ਕਣਕ ਦੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਬੂਟੀ (ਬਾਥੂ) ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਜਾਣਕਾਰੀ ?
+- intent: faq-agri-wheat-b1/information-regarding-nozzle-used-in-herbicide-in-wheat-crop
+  examples: |
+    - information regarding nozzle used in herbicide in wheat crop ?
+    - how nozzle used in herbicides for wheat
+- intent: faq-agri-wheat-b1/information-regarding-control-of-nematodes-affected-plant-in-wheat
+  examples: |
+    - information regarding control of nematodes affected plant in wheat?
+    - information regarding how we get rid of nematodes affected plants in wheat crop ?
+- intent: faq-agri-wheat-b2-pun/late-varieties-of-wheat?
+  examples: |
+    - ਕਿਰਪਾ ਕਰਕੇ ਮੈਨੂੰ ਦੇਰ ਨਾਲ ਕਣਕ ਦੀਆਂ ਕਿਸਮਾਂ ਬਾਰੇ ਦੱਸੋ?
+    - ਕੀ ਕਣਕ ਦੀਆਂ ਦੇਰ ਕਿਸਮਾਂ ਵੱਖਰੀਆਂ ਹਨ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application?
+  examples: |
+    - ਤੁਸੀਂ ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਸਪਰੇਅ ਅਤੇ ਯੂਰੀਆ ਵਿਚਕਾਰ ਸਮੇਂ ਦੇ ਅੰਤਰ ਦੀ ਗਣਨਾ ਕਿਵੇਂ ਕਰਦੇ ਹੋ?
+    - ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਸਪਰੇਅ ਅਤੇ ਯੂਰੀਆ ਦੀ ਵਰਤੋਂ ਵਿਚਕਾਰ ਅੰਤਰ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b3-pun/dose-of-urea-for-foliar-spray?
+  examples: |
+    - ਫੋਲੀਅਰ ਸਪਰੇਅ ਲਈ ਯੂਰੀਆ ਦੀ ਖੁਰਾਕ?
+    - ਕੀ ਮੈਨੂੰ ਫੋਲੀਅਰ ਸਪਰੇਅ ਲਈ ਯੂਰੀਆ ਦੀ ਲੋੜ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-biofertilizer-in-wheat-?
+  examples: |
+    - ਕਣਕ ਲਈ ਵਰਤੇ ਜਾਣ ਵਾਲੇ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ ਦੀਆਂ ਕੀ ਜ਼ਰੂਰਤਾਂ ਹਨ?
+    - ਕੀ ਕਣਕ ਵਿਚ ਬਾਇਓ ਖਾਦ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/application-of-single-super-phosphate-in-wheat?
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਇੱਕ ਸਿੰਗਲ ਸੁਪਰ ਫਾਸਫੇਟ ਲਾਗੂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ?
+    - ਕਣਕ ਵਿਚ ਇਕੋ ਸੁਪਰਫੋਸਫੇਟ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-batter-growth-?
+  examples: |
+    - ਤੁਹਾਨੂੰ ਬੱਲੇਬਾਜ਼ ਦੇ ਵਾਧੇ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਕਿੱਥੇ ਮਿਲਦੀ ਹੈ?
+    - ਕੁੱਟਮਾਰ ਦੇ ਵਾਧੇ ਦੀਆਂ ਵਿਸ਼ੇਸ਼ਤਾਵਾਂ ਕੀ ਹਨ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-dose-of-Deltamethrin?
+  examples: |
+    - ਡੈਲਟਾਮੇਥਰੀਨ ਦੀ ਖੁਰਾਕ?
+    - ਡੈਲਟਾਮੇਥਰੀਨ ਦੀ ਖੁਰਾਕ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-foliar-application-of-urea-?
+  examples: |
+    - ਕਣਕ ਤੋਂ ਯੂਰੀਆ ਪੱਤਿਆਂ ਨੂੰ ਹਟਾਉਣ ਦੀ ਵਿਧੀ ਕੀ ਹੈ?
+    - ਕੀ ਚਮੜੀ ਨੂੰ ਯੂਰੀਆ ਦੇ ਮਾਮਲੇ ਦੀ ਵਰਤੋਂ ਆਮ ਤੌਰ ਤੇ ਚਮੜੀ ਨੂੰ ਪ੍ਰਭਾਵਤ ਕਰਦੀ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-dose-of-leader-in-an-acre?
+  examples: |
+    - ਇੱਕ ਏਕੜ ਵਿੱਚ ਨੇਤਾ ਦੀ ਖੁਰਾਕ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਕੀ ਤੁਹਾਡੇ ਕੋਲ ਇੱਕ ਏਕੜ ਵਿੱਚ ਲੀਡਰ ਦੀ ਇੱਕ ਖੁਰਾਕ ਹੈ? ਏਕੜ ਦਾ ਸਭ ਤੋਂ ਸੁਰੱਖਿਅਤ ਆਕਾਰ ਕੀ ਹੈ?
+- intent: faq-agri-wheat-b3/information-regarding-wheat-seed-germination-after-rain
+  examples: |
+    - How can a wheat seed be germinated in the rain?
+    - What are the sources of wheat seed germination after rain?
+- intent: faq-agri-wheat-b3/information-reagarding-dose-of-urea-after-first-irrigation
+  examples: |
+    - know the dose of urea 1st first irrigation?
+    - information reagarding dose of urea after first irrigation ?
+- intent: faq-agri-wheat-b3/when-to-apply-urea-dose-if-irrigation-is-to-be-done-within-12-days
+  examples: |
+    - When to apply urea dose in wheat for irrigation is to be done within 12 days?
+    - When urea dose should be applied in irrigation?
+- intent: faq-agri-wheat-b3/information-regarding-fertilizer-dosage-before-1st-irrigation
+  examples: |
+    - Is there information regarding fertilizer dosage before 1st irrigation?
+    - How much fertilizer is recommended before initial irrigation?
+- intent: faq-agri-wheat-b3/deficiency-manganese-sulphate-in-wheat
+  examples: |
+    - manganese sulphate in wheat is deficient tell me how can i correct its quantity?
+    - Does manganese sulphate deficient in wheat recoverable?
+- intent: faq-agri-wheat-b3/urea-dose-at-sowing-time
+  examples: |
+    - How much urea dose at sowing time?
+    - How much urea dose required at sowing time wheat?
+- intent: faq-agri-wheat-b3/information-regarding-dose-of-delta-methrine
+  examples: |
+    - Deltamethrin dose for wheat crops?
+    - Dose of Deltamethrin used in wheat plants?
+- intent: faq-agri-wheat-b3/information-regarding-control-of-nitrogen-in-wheat
+  examples: |
+    - What are the controls for nitrogen in wheat?
+    - How can I control nitrogen in wheat?
+- intent: faq-agri-wheat-b3/information-regarding-poultry-manure-in-soil-before-wheat-sowing
+  examples: |
+    - before wheat sowing what amount of poultry manure should be applied to soil?
+    - How much manure in soil before wheat sowing is done?
+- intent: faq-agri-wheat-b3/information-regarding-the-application-of-urea-after-weedicides-in-wheat
+  examples: |
+    - information regarding the application of urea after weedicides in wheat?
+    - after weedicide is used how much should i wait in order to spray urea
+- intent: faq-hort-chilli-b0/information-regarding-red-beetle-control-in-chllies
+  examples: |
+    - What are some general tips to control red beetle in chllies?
+    - How do you control red beetle in Chllies?
+- intent: faq-hort-chilli-b0/information-regarding-how-to-control-stem-rot-in-chillies
+  examples: |
+    - How do you control stem rot in chillies?
+    - How do I control leaf rot in chillies?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-catrepiller-in-chilies
+  examples: |
+    - Is it possible to control catrepiller on chilies?
+    - How can we reduce catrepiller in chilies?
+- intent: faq-hort-chilli-b0/information-regarding-control-sundi-in-chillies
+  examples: |
+    - How do you remove sundi in chillies?
+    - what am i supposed to do to control sundi in chillies
+- intent: faq-hort-chilli-b0/information-regarding-growth-regulator-used-in-chilli-crop
+  examples: |
+    - What is the growth regulator used for chilli crop?
+    - What is the growth regulator used in chilli crop?
+- intent: faq-hort-chilli-b1/information-regarding-potash-requirement-in-chilli
+  examples: |
+    - what amount of potash is required in chilli
+    - What are the potash requirements of chilli?
+- intent: faq-hort-chilli-b1/information-regarding-caterpiler-attack-in-chillies
+  examples: |
+    - What is the prevention method of caterpiler attack
+    - caterpiler attack prevention in the chillies crop?
+- intent: faq-hort-chilli-b1/information-regarding-for-the-fert-dose-in-chilly-at-sowing-time
+  examples: |
+    - Can you help me with the dose amount of fertilizer in chillies around the sowing time
+    - does of fertilizer to be sprayed in chillies at the time of sowing
+- intent: faq-hort-chilli-b1/information-regarding-how-to-control-iron-deficiency-in-chilli
+  examples: |
+    - How can I reduce the iron deficiency in chilli?
+    - information regarding how to control iron deficiency in chilli?
+- intent: faq-hort-chilli-b1/how-to-control-thirips-in-chilli-crop
+  examples: |
+    - How can you control thirips in chilli crops?
+    - How to control thirips in chilli crop?
+- intent: faq-hort-chilli-b1/information-regarding-for-the-control-of-aphids-in-chilli-crop
+  examples: |
+    - How do I control aphids in chilli crop?
+    - In what ways is control of aphids on chilli crop best done?
+- intent: faq-hort-garlic-b0/information-regarding-how-to-control-fungal-disease-in-garlic
+  examples: |
+    - i need information regarding control measure of fungus in garlic
+    - How can you control fungal disease with garlic?
+- intent: faq-hort-garlic-b0/regarding-maggots-in-garlic
+  examples: |
+    - regarding maggots in garlic
+    - How do maggots in garlic taken care of?
+- intent: faq-hort-garlic-b0/information-regarding-how-to-control-jassids-in-garlic
+  examples: |
+    - How can I control Jassids in garlic?
+    - provide me with some detail on how to get rid of jassid in my garlic fields
+- intent: faq-hort-garlic-b0/information-regarding-how-to-improve-growth-in-garlic
+  examples: |
+    - How to improve growth of garlic?
+    - How can I increase garlic growth?
+- intent: faq-hort-garlic-b0/row-spacing-in-garlic
+  examples: |
+    - how much spacing should be there in garlic
+    - determine the row spacing of garlic cloves?
+- intent: faq-hort-garlic-b0/maturity-time-of-garlic
+  examples: |
+    - maturity time of garlic
+    - what's the maturity time of garlic crop
+- intent: faq-hort-garlic-b0/information-regarding-seed-treatment-of-garlic
+  examples: |
+    - what can be done to treat seeds of garlic
+    - How can I get the correct information about seed treatment of garlic?
+- intent: faq-hort-garlic-b0/information-regarding-last-irrigation-in-garlic
+  examples: |
+    - last irrigation in garlic should be done when
+    - when should the irrigation in garlic be stoped
+- intent: faq-hort-garlic-b0/information-regarding-the-application-of-urea-in-garlic
+  examples: |
+    - urea application time for garlic crop
+    - information regarding the application of urea in garlic ?
+- intent: faq-hort-garlic-b0/information-regarding-the-harvesting-of-garlic
+  examples: |
+    - tell me when should garlic be harvested
+    - harvesting of garlic
+- intent: faq-hort-garlic-b0/information-regarding-zinc-sulphate-doze-in-garlic
+  examples: |
+    - what should be the dose of zinc sulphate in garlic
+    - how to use zinc sulphate in garlic
+- intent: faq-hort-garlic-b0/information-regarding-control-of-thrips-in-thrips-and-other-sucking-pests-crop
+  examples: |
+    - information regarding control of thrips in garlic?
+    - Is there any control for thrips in garlic crop?
+- intent: faq-hort-garlic-b0/information-regarding-control-of-caterpillar-in-garlic
+  examples: |
+    - What are the methods to control caterpillar in garlic?
+    - What is the best way to control caterpillars in garlic?
+- intent: faq-hort-garlic-b0/tell-me-about-insect-control-in-garlic
+  examples: |
+    - What are insect control measures for garlic garlic?
+    - How can I keep insect resistant garlic?
+- intent: faq-hort-garlic-b0/information-regarding-for-control-of-root-rot-in-garlic
+  examples: |
+    - Can garlic have root rot in its garlic?
+    - How do you avoid root rot in garlic?
+- intent: faq-hort-pea-b0/information-regarding-for-the-control-of-pea-leaf-miner-attack-in-pea-crop
+  examples: |
+    - What are the the ways to control leaf miner attack in pea crop?
+    - control of pea leaf miner attack?
+- intent: faq-hort-pea-b0/information-regarding-fugal-problem-in-peas
+  examples: |
+    - What is the way to prevent fugal problem in peas?
+    - method to control pea fungal problem
+- intent: faq-hort-pea-b0/how-to-pest-control-in-pea-crop
+  examples: |
+    - How do I control pests in pea crop?
+    - How should we control a pest in a pea crop?
+- intent: faq-hort-pea-b0/information-regarding-the-yellow-rust-in-peas
+  examples: |
+    - Why does yellow rust grow in peas how can i control it?
+    - How do you get rid of yellow rusty peas?
+- intent: faq-hort-pea-b0/information-regarding-the-control-of-rats-in-pea
+  examples: |
+    - can I use any chemical to control rats in pea?
+    - Is there any control method for pea?
+- intent: faq-hort-pea-b0/information-regarding-the-control-of-insects-in-pea
+  examples: |
+    - How can I control insects in a pea if I live near or around some of them?
+    - What are the controls against insects in peas?
+- intent: faq-hort-pea-b0/information-regarding-the-control-of-aphids-in-peas
+  examples: |
+    - information regarding the control of aphids in peas?
+    - How can I control aphids in my pea vegi?
+- intent: faq-hort-pea-b0/information-regarding-for-control-of-root-rot-in-pea
+  examples: |
+    - How do I control root rot in peas?
+    - What are the precautions / advices for controlling root rot and wasting?
+- intent: faq-agri-rice-b0-pun/information-regarding-potassium-deficiency-in-paddy-crop
+  examples: |
+    - ਕੀ ਝੋਨੇ ਦੀਆਂ ਫਸਲਾਂ ਵਿਚ ਪੋਟਾਸ਼ੀਅਮ ਕਾਫ਼ੀ ਹੈ?
+    - ਝੋਨੇ ਦੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਪੋਟਾਸ਼ੀਅਮ ਦੀ ਘਾਟ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-weed-control-in-pady
+  examples: |
+    - ਅਸੀਂ ਬਾਸਮਤੀ ਚਾਵਲ ਵਿਚ ਬੂਟੀ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਾਂ?
+    - ਪੈਡੀ ਵਿਚ ਬੂਟੀ ਦਾ ਨਿਯੰਤਰਣ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/infprmation-regarding-control-blb-in-rice-crops-?
+  examples: |
+    - ਮੈਂ ਚਾਵਲ ਵਿਚ ਬਲਬ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਾਂ?
+    - ਚਾਵਲ ਦੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਨਿਯੰਤਰਣ ਬਲਬ ਦੇ ਸੰਬੰਧ ਵਿੱਚ ਇਨਫਪ੍ਰਮੇਸ਼ਨ ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-leaf-folder-in-basmati-?
+  examples: |
+    - ਤੁਸੀਂ ਬਾਸਮਤੀ ਵਿਚ ਪੱਤੇ ਫੋਲਡਰਾਂ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਦੇ ਹੋ?
+    - ਮੈਂ ਬਾਸਮਤੀ ਵਿਚ ਪੱਤੇ ਫੋਲਡਰਾਂ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-leaf-folder-when-there-are-15-days-left-for-harvesting-?
+  examples: |
+    - ਜਦੋਂ ਮੈਂ ਵਾ harvestੀ ਕਰਨ ਲਈ 15 ਦਿਨ ਹੁੰਦੇ ਹਾਂ ਤਾਂ ਮੈਂ ਪੱਤੇ ਫੋਲਡਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+    - ਜਦੋਂ ਅਸੀਂ ਵਾ harvestੀ ਲਈ 15 ਦਿਨ ਬਚੇ ਹੁੰਦੇ ਹਾਂ ਤਾਂ ਅਸੀਂ ਪੱਤੇ ਫੋਲਡਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਾਂ?
+    - ਜਦੋਂ ਅਸੀਂ ਵਾ harvestੀ ਲਈ 15 ਦਿਨ ਬਚੇ ਹੁੰਦੇ ਹਾਂ ਤਾਂ ਅਸੀਂ ਪੱਤੇ ਫੋਲਡਰਾਂ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਾਂ?
+- intent: faq-agri-rice-b0-pun/information-regarding-dose-furadan-in-rice?
+  examples: |
+    - ਫੁਰਦਾਨ ਕੀ ਕਰਦਾ ਹੈ? ਇਹ ਕੀ ਕਰਦਾ ਹੈ?
+    - ਅਸੀਂ ਚਾਵਲ ਵਿਚ ਫਰਦਾਨ ਦੀ ਖੁਰਾਕ ਨੂੰ ਕਿਵੇਂ ਮਾਪ ਸਕਦੇ ਹਾਂ?
+- intent: faq-agri-rice-b0-pun/information--regarding-dying-of-plants-of-paddy?
+  examples: |
+    - ਮੈਨੂੰ ਝੋਨੇ ਦੇ ਮਰਨ ਵਾਲੇ ਪੌਦਿਆਂ ਬਾਰੇ ਕੀ ਪਤਾ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ?
+    - ਤੁਸੀਂ ਝੋਨੇ ਦੀ ਮੌਤ ਬਾਰੇ ਕਿਵੇਂ ਜਾਣ ਸਕਦੇ ਹੋ?
+- intent: faq-agri-rice-b0-pun/information-regarding--paddy--damaged-in-flood-?
+  examples: |
+    - ਹੜ੍ਹ ਵਿੱਚ ਝੋਨੇ ਦੇ ਨੁਕਸਾਨ ਬਾਰੇ ਇਤਿਹਾਸ ਅਤੇ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+    - ਜੇ ਹੜ੍ਹ ਵਿਚ ਝੋਨੇ ਦੇ ਨੁਕਸਾਨ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/dose-of-acephate-use-in-paddy-crop-..?
+  examples: |
+    - ਕੀ ਐਸੀਫੇਟ ਅਤੇ ਝੋਨੇ ਦੇ ਬੀਜ ਇਕ ਦੂਜੇ ਨਾਲ ਗੱਲਬਾਤ ਕਰਦੇ ਹਨ?
+    - ਝੋਨੇ ਦੀ ਫਸਲ ਦੇ ਉਤਪਾਦਨ ਵਿਚ ਐਸੀਫੇਟ ਕਿਵੇਂ ਵਰਤੀ ਜਾਂਦੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-termite-in-rice-crop
+  examples: |
+    - ਧਰਤੀ ਦੇ ਚੱਕਰਾਂ ਨੂੰ ਚਾਵਲ ਤੋਂ ਕਿਵੇਂ ਖਤਮ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?
+    - ਚਾਵਲ ਦੇ ਪੌਦਿਆਂ ਵਿਚ ਪਦਾਰਥਾਂ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਤਰੀਕਾ ਹੈ. ਸ਼ਬਦ ਕੀ ਕਰਦੇ ਹਨ?
+    - ਚਾਵਲ ਦੀ ਫਸਲ ਵਿਚ ਟਰਮੀਟ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾਵੇ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-false-smut-in-rice?
+  examples: |
+    - ਕੀ ਚਾਵਲ ਵਿਚ ਝੂਠੇ ਧੂੰਆਂ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਕੋਈ ਜਾਣਕਾਰੀ ਹੈ?
+    - ਚਾਵਲ ਦੇ ਝੂਠੇ ਗੰਦਗੀ ਦੇ ਵਿਰੁੱਧ ਸਾਵਧਾਨੀਆਂ ਕੀ ਹਨ?
+- intent: faq-agri-rice-b0-pun/information-regarding-dose-of-urea-for-basmati-rice?
+  examples: |
+    - ਬਾਸਮਤੀ ਚੌਲਾਂ ਲਈ ਯੂਰੀਆ ਦੀ ਖੁਰਾਕ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਬਾਸਮਤੀ ਚੌਲਾਂ ਵਿੱਚ ਕਿੰਨੀ ਯੂਰੀਆ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-black-bug-in-paddy-?
+  examples: |
+    - ਝੋਨੇ ਵਿੱਚ ਕਾਲੇ ਬੱਗ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ?
+    - ਕੀ ਝੋਨੇ ਵਿਚ ਕਾਲੇ ਬੱਗ ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-nematode-in-basmati-rice?
+  examples: |
+    - ਬਾਸਮਤੀ ਚਾਵਲ ਵਿਚ ਨੈਮੇਟੌਡ ਕਿਵੇਂ ਹੈ?
+    - ਮੈਂ ਬਾਸਮਤੀ ਚਾਵਲ ਤੋਂ ਨੈਮੈਟੋਡਜ਼ ਨੂੰ ਕਿਵੇਂ ਹਟਾ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b0-pun/information-regarding-how-to-control-black-spots-on-grains-in-paddy-rice?
+  examples: |
+    - ਅਸੀਂ ਝੋਨੇ ਦੇ ਚਾਵਲ ਦੇ ਦਾਣੇ ਵਿਚ ਕਾਲੇ ਚਟਾਕ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਾਂ?
+    - ਝੋਨੇ ਦੇ ਚਾਵਲ ਵਿਚ ਅਨਾਜ 'ਤੇ ਕਾਲੇ ਚਟਾਕ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾਵੇ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਤੁਸੀਂ ਚਾਵਲ ਦੇ ਅਨਾਜ 'ਤੇ ਕਾਲੇ ਚਟਾਕ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹੋ?
+- intent: faq-agri-rice-b0-pun/information-regarding-yellow-rust-in-paddy?
+  examples: |
+    - ਝੋਨੇ ਵਿੱਚ ਪੀਲਾ ਜੰਗਾਲ ਕੀ ਹੈ?
+    - ਝੋਨੇ ਵਿੱਚ ਪੀਲੇ ਜੰਗਾਲ ਦਾ ਰੰਗ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b0-pun/information-regarding-for-the-control-of-mangenege-deficiency-?
+  examples: |
+    - ਤੁਸੀਂ ਆਪਣੀ ਮੈਂਗਨੀ ਦੀ ਘਾਟ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹੋ?
+    - ਮੈਂ ਮੈਗਨੀਜ ਘਾਟੇ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਾਂ?
+- intent: faq-agri-rice-b0-pun/information-regarding-for-the-control-of-white-fly-in-paddy-crop
+  examples: |
+    - ਚਿੱਟੇ ਫਲ ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ ਇਕ ਬਿਮਾਰੀ ਹਨ. ਕੀ ਇਸ ਬਿਮਾਰੀ ਦਾ ਨਿਯੰਤਰਣ ਜ਼ਰੂਰੀ ਹੈ?
+    - ਮੈਂ ਭਾਰਤ ਵਿੱਚ ਝੋਨੇ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਚਿੱਟੀ ਮੱਖੀ ਦੀ ਲਾਗ ਨੂੰ ਕਿਵੇਂ ਕੰਟਰੋਲ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b0/information-regarding-to-boron-deficiency-in-paddy
+  examples: |
+    - information regarding boron dificiency in rice?
+    - What is the best way to control boron deficiency in paddy crop?
+- intent: faq-agri-rice-b0/information-regarding-how-to-control-white-caterpillars-in-roots-of-paddy
+  examples: |
+    - How to control white caterpillars in rice?
+    - How do I control white caterpillars in rice?
+    - control caterpillars in rice?
+- intent: faq-agri-rice-b0/how-to-control-root-caterpilar-in-paddy-crop
+  examples: |
+    - How can you control the caterpilar in paddy crop?
+    - How to control caterpillar in paddy crop?
+- intent: faq-agri-rice-b0/information-regarding-control-of-larvae-in-paddy-roots
+  examples: |
+    - What are the basic information regarding control of larvae in paddy roots?
+    - What is the best treatment method for control of larvae in paddy roots?
+- intent: faq-agri-rice-b0/information-regarding-dose-furadan-in-rice
+  examples: |
+    - What is furadan to do in rice?
+    - tell me what is furadan in rice?
+- intent: faq-agri-rice-b0/information-regarding-control-of-dose-of-zice--in-rice
+  examples: |
+    - how much zinc to be sprayed in the rice field
+    - What is the dose of zinc in paddy crop?
+- intent: faq-agri-rice-b0/information-regarding--paddy--damaged-in-flood
+  examples: |
+    - How do I find out about the paddy damage that occurred as a result of a flood?
+    - What is the information regarding paddy damages in flood?
+    - information regarding  paddy  damaged in flood ?
+- intent: faq-agri-rice-b0/information-regarding-control-of-black-bug-in-paddy
+  examples: |
+    - Is there a method to control the black bug in paddy?
+    - How do I keep my paddy from bugs?
+- intent: faq-agri-rice-b0/information-regarding-control-of-nematode-in-basmati-rice
+  examples: |
+    - How do I remove nematodes from basmati rice?
+    - information regarding control of nematode in basmati rice?
+- intent: faq-agri-rice-b0/information-regarding-how-to-control-black-spots-on-grains-in-paddy-rice
+  examples: |
+    - can you ytell me how to control black spots on rice grains?
+    - How can we control black spots on grains in paddy rice?
+- intent: faq-agri-rice-b0/information-regarding-for-the-control-of-mangenege-deficiency
+  examples: |
+    - Is there any control or treatment for manganese deficiency?
+    - Where may I get information regarding for the control of manganese deficiency?
+- intent: faq-agri-rice-b0/information-regarding-for-the-control-of-white-fly-in-paddy-crop
+  examples: |
+    - How can we control white fly in paddy crop soil?
+    - What are the best ways to control the white fly in paddy crop
+    - information regarding for the control of white fly in paddy crop
+- intent: faq-agri-rice-b1-pun/information-regarding-time-or-date-of-transplanting-of-rice?
+  examples: |
+    - ਚਾਵਲ ਨੂੰ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਦਾ ਸਹੀ ਸਮਾਂ ਜਾਂ ਤਾਰੀਖ ਕੀ ਹੈ?
+    - ਚਾਵਲ ਦੇ ਬੀਜ ਕਿਉਂ ਨਹੀਂ ਹੁੰਦੇ?
+- intent: faq-agri-rice-b1-pun/In-what-form-should-fertilizer-dose-be-applied-in-rice-after-sowing?
+  examples: |
+    - ਕੀ ਇੱਥੇ ਖਾਦ ਹੈ ਜੋ ਤੁਸੀਂ ਬਿਜਾਈ ਤੋਂ ਬਾਅਦ ਚਾਵਲ ਨੂੰ ਦੇ ਸਕਦੇ ਹੋ?
+    - ਕੀ ਖਾਦ ਦੀਆਂ ਗੋਲੀਆਂ ਬਿਜਾਈ ਤੋਂ ਬਾਅਦ ਚਾਵਲ ਵਿਚ ਜ਼ਰੂਰੀ ਹਨ?
+- intent: faq-agri-rice-b1-pun/information-regarding-mycorrhiza-apply-in-paddy-field?
+  examples: |
+    - ਮੈਂ ਮਾਈਕੋਰਰਾਈਜ਼ਾ ਬਾਰੇ ਸਭ ਤੋਂ ਵਧੀਆ ਜਾਣਕਾਰੀ ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+    - ਮੈਂ ਝੋਨੇ ਦੇ ਖੇਤਰ ਲਈ ਮਾਈਕੋਰਰਾਈਜ਼ਾ ਨਿਯੰਤਰਣ ਜਾਣਕਾਰੀ ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਕਰਾਂ?
+- intent: faq-agri-rice-b1-pun/information-regarding-dose-of-poultary-yard-manure-in-paddy--?
+  examples: |
+    - ਝੋਨੇ ਵਿੱਚ ਕਿੰਨੇ ਵਿਹੜੇ ਦੀ ਖਾਦ ਦੀ ਜ਼ਰੂਰਤ ਹੈ?
+    - ਪੌਲਟਰੀ ਵਿਹੜੇ ਦੀ ਖਾਦ ਅਤੇ ਤੂੜੀ ਦੇ ਤੂੜੀ ਵਿਚ ਕੀ ਅੰਤਰ ਹੈ?
+- intent: faq-agri-rice-b1-pun/information-regarding-problem-of-water-stagnating-in-paddy-crop-?
+  examples: |
+    - ਪਾਕਿਸਤਾਨ ਵਿਚ, ਕੀ ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ ਪਾਣੀ ਦੇ ਖੜੋਤ ਦੀ ਕੋਈ ਸਮੱਸਿਆ ਹੈ?
+    - ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ ਖੜੋਤ ਵਾਲੇ ਪਾਣੀ ਦੀ ਸਮੱਸਿਆ ਕੀ ਹੈ?
+    - ਝੋਨੇ ਦੀ ਫਸਲ ਵਿਚ ਪਾਣੀ ਦੇ ਖੜੋਤ ਦੇ ਕਾਰਨ ਕੀ ਹਨ?
+- intent: faq-agri-rice-b1-pun/information-regarding-control-of-pest-in--paddy-?
+  examples: |
+    - ਮੈਨੂੰ ਝੋਨੇ ਵਿੱਚ ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਕੀੜੇ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ?
+    - ਮੈਂ ਝੋਨੇ ਵਿੱਚ ਕੀੜਿਆਂ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b1-pun/information-regarding-control-of-hispa-in-paddy-?
+  examples: |
+    - ਮੈਂ ਉਸਦੇਪਾ ਨਾਲ ਝੋਨੇ ਵਿੱਚ ਕਿਵੇਂ ਪੇਸ਼ ਆ ਸਕਦਾ ਹਾਂ?
+    - ਝੋਨੇ ਵਿਚ ਉਸ ਦੇਪਾ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਕੁਝ ਲਾਭਦਾਇਕ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b1-pun/information-regarding-blue-green-algae-in-paddy?
+  examples: |
+    - ਤੁਸੀਂ ਝੋਨੇ ਵਿਚ ਨੀਲੇ ਹਰੇ ਐਲਗੀ ਦੀ ਰਸਾਇਣ ਨੂੰ ਕਿਵੇਂ ਜਾਣਦੇ ਹੋ?
+    - ਮੈਂ ਝੋਨੇ ਵਿਚ ਨੀਲੀ-ਹਰੇ ਐਲਗੀ ਦੀ ਪਛਾਣ ਕਿਵੇਂ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b1-pun/information-regarding-dificency-of-npk-in-rice?
+  examples: |
+    - ਕੀ ਚਾਵਲ ਵਿੱਚ ਇਸ ਵਿੱਚ ਐਨਪੀਕੇ ਹੈ? ਕੀ ਚਾਵਲ ਵਿਚ ਐਨ ਪੀ ਕੇ ਚੰਗਾ ਹੈ ਜਾਂ ਬੁਰਾ?
+    - ਚਾਵਲ ਵਿਚ ਐਨ ਪੀ ਕੇ ਬਾਰੇ ਤੱਥ ਕੀ ਹਨ?
+- intent: faq-agri-rice-b1-pun/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result?
+  examples: |
+    - ਯੂਰੀਆ ਅਤੇ ਮੀਂਹ ਦੀ ਵਰਤੋਂ ਵਿਚ ਸਮਾਂ ਕਿੰਨਾ ਸਮਾਂ ਹੈ?
+    - ਮੀਂਹ ਵਿਚ ਯੂਰੀਆ ਦੀ ਪ੍ਰਕਿਰਿਆ ਕਰਨ ਵਿਚ ਕਿੰਨਾ ਸਮਾਂ ਲੱਗਦਾ ਹੈ ਜਦੋਂ ਐਪਲੀਕੇਸ਼ਨ ਦੇ ਵਿਚਕਾਰ ਦਾ ਸਮਾਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਠੀਕ ਹੋਣ ਵਾਲੇ ਪਿਸ਼ਾਬ ਦੇ ਹੱਲ ਲਈ ਸਮੇਂ ਦੇ ਬਰਾਬਰ ਹੁੰਦਾ ਹੈ?
+    - ਕੀ ਯੂਰੀਆ ਦੀ ਵਰਤੋਂ ਅਤੇ ਮੀਂਹ ਦੇ ਵਿਚਕਾਰ ਕਾਫ਼ੀ ਸਮਾਂ ਪਾੜਾ ਹੈ?
+- intent: faq-agri-rice-b1-pun/information-regarding-urea-dose-in-paddy-seedlings?
+  examples: |
+    - ਝੋਨੇ ਦੇ ਬੂਟੇ ਵਿੱਚ ਯੂਰੀਆ ਦੀ ਖੁਰਾਕ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਝੋਨੇ ਦੇ ਬੂਟੇ ਵਿਚ ਯੂਰੀਆ ਦਾ ਪ੍ਰਬੰਧਨ ਕਿਵੇਂ ਹੁੰਦਾ ਹੈ?
+- intent: faq-agri-rice-b1-pun/information-regarding-broadcast-dap-in-paddy-?
+  examples: |
+    - ਝੋਨੇ ਵਿੱਚ ਡਾਪ ਦਾ ਪ੍ਰਸਾਰਣ ਕੀ ਹੁੰਦਾ ਹੈ?
+    - ਝੋਨੇ ਕਾਰਡ ਵਿੱਚ ਡਾਪ ਸਿਸਟਮ ਕਿਵੇਂ ਪ੍ਰਸਾਰਿਤ ਕੀਤਾ ਜਾਂਦਾ ਹੈ?
+- intent: faq-agri-rice-b1/information-regarding-time-or-date-of-transplanting-of-rice
+  examples: |
+    - How can we know about time or date of transplant of rice?
+    - what is the date of transplantation of rice?
+- intent: faq-agri-rice-b1/fertilizer-dose-in-rice-after-sowing
+  examples: |
+    - Do fertilizer doses in rice after sowing?
+    - In what form should fertilizer dose be applied in rice after sowing?
+- intent: faq-agri-rice-b1/information-regarding-mycorrhiza-apply-in-paddy-field
+  examples: |
+    - How can I get more knowledge for mycorrhiza applied in paddy field?
+    - How do I learn mycorrhiza in paddy field?
+    - How can the information regarding mycorrhiza apply in paddy field?
+- intent: faq-agri-rice-b1/information-regarding-dose-of-poultary-yard-manure-in-paddy
+  examples: |
+    - Does poultary manure enter the compost?
+    - What is the difference between poultary yard manure and straw straw?
+- intent: faq-agri-rice-b1/information-regarding-problem-of-water-stagnating-in-paddy-crop
+  examples: |
+    - What is the cause of stagnant water in paddy crop?
+    - What's the problem of water stagnation in paddy crop?
+- intent: faq-agri-rice-b1/information-regarding-control-of-pest-in--paddy
+  examples: |
+    - What is the control of pests in paddy?
+    - How should I control herb pest in paddy?
+- intent: faq-agri-rice-b1/information-regarding-control-of-hispa-in-paddy
+  examples: |
+    - How do I treat hispa in paddy?
+    - How much do I control mypa infection in paddy?
+- intent: faq-agri-rice-b1/information-regarding-dificency-of-npk-in-rice
+  examples: |
+    - Is it possible to get specific information about the npk ratio of rice?
+    - Is there any evidence for npk in rice?
+    - What are the facts regarding the npk in rice?
+- intent: faq-agri-rice-b1/information-regarding-the-sufficient-time-gap-between-the-application-of-urea-and-rain-for-better-result
+  examples: |
+    - information regarding the sufficient time gap between the application of urea and rain for better result?
+    - How long does it take to process urea in the rain when the time between application is equal to the time for a well-reacted urine solution?
+- intent: faq-agri-rice-b1/information-regarding-urea-dose-in-paddy-seedlings
+  examples: |
+    - What are the details about the urea dose in paddy seedlings?
+    - Why is urea a problem in the seedlings?
+- intent: faq-agri-rice-b1/rice-leaves-turn-into-the-white-colour
+  examples: |
+    - How do rice leaves turn white?
+    - How can you make a rice leaf white?
+- intent: faq-agri-rice-b1/information-regarding-broadcast-dap-in-paddy
+  examples: |
+    - Why broadcast dap in paddy?
+    - What is the procedure of broadcast dap in paddy?
+- intent: faq-agri-rice-b2-pun/sowing-time-of-direct-seedling-of-basmati?
+  examples: |
+    - ਬਾਸਮਤੀ ਦੇ ਸਿੱਧੇ ਬੀਜ ਦਾ ਸਮਾਂ ਕਿੰਨਾ ਬੀਜਦਾ ਹੈ?
+    - ਬਾਸਮਤੀ ਦੇ ਸਿੱਧੇ ਬੂਟੇ ਨੂੰ ਕਿੰਨਾ ਚਿਰ ਬਿਜਾਈ ਦੀ ਜ਼ਰੂਰਤ ਹੈ?
+    - ਬਸਮਤੀ ਚਾਵਲ ਦਾ ਸਮਾਂ ਕਿੰਨਾ ਚਿਰ ਬੀਜ ਰਿਹਾ ਹੈ?
+- intent: faq-agri-rice-b2-pun/information-regarding-time-of-nursery-sowing?
+  examples: |
+    - ਮੈਂ ਨਰਸਰੀ ਬਿਜਾਈ ਦਾ ਸਹੀ ਸਮਾਂ ਕਿਵੇਂ ਲੱਭ ਸਕਦਾ ਹਾਂ?
+    - ਨਰਸਰੀ ਬਿਜਾਈ ਕਿਵੇਂ ਅਤੇ ਕਦੋਂ ਹੁੰਦੀ ਹੈ?
+- intent: faq-agri-rice-b2-pun/information-regarding-for-the-suitable-sowing-time-of-paddy(jonna)-?
+  examples: |
+    - ਝੋਨੇ (ਜੋਨਾ) ਲਈ sowingੁਕਵਾਂ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਕੀ ਹੈ?
+    - ਝੋਨੇ (ਜੋਨਾ) ਲਈ sowingੁਕਵੇਂ ਬਿਜਾਈ ਦੇ ਸਮੇਂ ਕੀ ਹਨ?
+- intent: faq-agri-rice-b2-pun/information-regarding-application-of-padan-in-paddy-nursery-?
+  examples: |
+    - ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਵਿਚ ਪਡਨ ਦੀ ਵਰਤੋਂ ਲਈ ਅਰਜ਼ੀ ਚੱਲ ਰਹੀ ਹੈ?
+    - ਪੈਡੀ ਨਰਸਰੀ ਵਿਚ ਪਡਨ ਦੀ ਵਰਤੋਂ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ?
+- intent: faq-agri-rice-b2-pun/information-regarding-seed-treatment-of-basmati-seedlings?
+  examples: |
+    - ਬਾਸਮਤੀ ਬੂਟੇ ਦੇ ਬੀਜ ਦੇ ਇਲਾਜ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ?
+    - ਤੁਸੀਂ ਬਾਸਮਤੀ ਬੂਟੇ ਦਾ ਬੀਜ ਦਾ ਇਲਾਜ ਕਿਵੇਂ ਤਿਆਰ ਕਰ ਸਕਦੇ ਹੋ?
+- intent: faq-agri-rice-b2-pun/information-regarding-for-the-seed-treatment-of-paddy(jhona)?
+  examples: |
+    - ਝੋਨੇ (ਜੋਨਾ) ਬੀਜ ਦਾ ਇਲਾਜ ਕਿਵੇਂ ਕੀਤਾ ਜਾਂਦਾ ਹੈ?
+    - ਝੋਨੇ (ਜਹੋਨਾ) ਦਾ ਬੀਜ ਦਾ ਇਲਾਜ ਕਿਵੇਂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?
+    - ਅਸੀਂ ਝੋਨੇ (ਜਹੋਨਾ) ਲਈ ਬੀਜ ਦਾ ਇਲਾਜ ਕਿਵੇਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦੇ ਹਾਂ?
+- intent: faq-agri-rice-b2-pun/information-regarding-planting-time-of-basmati-crop?
+  examples: |
+    - ਬਾਸਮਤੀ ਫਸਲ ਦੇ ਪੌਦੇ ਲਗਾਉਣ ਦੇ ਸਮੇਂ ਬਾਰੇ ਕੁਝ ਮਹੱਤਵਪੂਰਣ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+    - ਬਾਸਮਤੀ ਫਸਲਾਂ ਲਈ ਸਹੀ ਲਾਉਣਾ ਸਮਾਂ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b2-pun/information-regarding-plantation-of-basmati-rice?
+  examples: |
+    - ਬਾਸਮਤੀ ਚਾਵਲ ਦੇ ਬੂਟੇ ਲਗਾਉਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ?
+    - ਬਾਸਮਤੀ ਚਾਵਲ ਲਗਾਉਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b2-pun/information-regarding-the-sowing-time-of-rice-in-punjab.?
+  examples: |
+    - ਪੰਜਾਬ ਵਿਚ ਚੌਲਾਂ ਲਈ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਕੀ ਹੈ?
+    - ਮੈਂ ਪੰਜਾਬ ਵਿਚ ਚਾਵਲ ਦੇ ਬਿਜਾਈ ਸਮੇਂ ਨੂੰ ਕਿਵੇਂ ਜਾਣ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b2-pun/information-regarding-moisture-content-of-rice
+  examples: |
+    - ਚਾਵਲ ਦੀ ਪਾਣੀ ਦੀ ਮਾਤਰਾ ਨਮੀ ਦੀ ਮਾਤਰਾ ਨਾਲ ਵੱਖਰੀ ਹੈ. ਨਮੀ ਦੀ ਮਾਤਰਾ ਬਾਰੇ ਜਾਣਨਾ ਮਹੱਤਵਪੂਰਨ ਹੈ.
+    - ਚਾਵਲ ਵਿਚ ਚਾਵਲ ਦੀ ਨਮੀ ਦੀ ਮਾਤਰਾ ਕਿਵੇਂ ਨਿਰਧਾਰਤ ਕੀਤੀ ਜਾਂਦੀ ਹੈ ਇਹ ਬਹੁਤ ਘੱਟ ਹੈ. ਚਾਵਲ ਵਿੱਚ ਸਿਰਫ 1% ਨਮੀ ਹੁੰਦੀ ਹੈ. ਬਿਹਤਰ ਪੋਸ਼ਣ ਅਤੇ ਬਿਹਤਰ ਨਤੀਜਿਆਂ ਲਈ, ਸਾਰਣੀ 1 ਵੇਖੋ.
+- intent: faq-agri-rice-b2-pun/information-regarding-when-to-use-weedcide-just-after-transplantation-?
+  examples: |
+    - ਕੀ ਬੂਟੀਸਾਈਡ ਦੀ ਵਰਤੋਂ ਟ੍ਰਾਂਸਪਲਾਂਟੇਸ਼ਨ ਤੋਂ ਬਾਅਦ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ?
+    - ਟ੍ਰਾਂਸਪਲਾਂਟੇਸ਼ਨ ਤੋਂ ਬਾਅਦ ਬੂਟੀਸਾਈਡ ਦੀ ਵਰਤੋਂ ਕਦੋਂ ਕੀਤੀ ਜਾਵੇ ਬਾਰੇ ਜਾਣਕਾਰੀ ?
+    - ਟ੍ਰਾਂਸਪਲਾਂਟੇਸ਼ਨ ਤੋਂ ਬਾਅਦ ਬੂਟੀਸਾਈਡ ਦੀ ਵਰਤੋਂ ਕਦੋਂ ਕਰੀਏ?
+- intent: faq-agri-rice-b2-pun/telll-me-control-weeed-in-blank--field
+  examples: |
+    - ਮੈਨੂੰ ਦੱਸੋ ਖਾਲੀ ਫੀਲਡ ਫੀਲਡ ਵਿੱਚ ਵੀ. ਮੈਨੂੰ ਬਾਕਸ ਫੀਲਡ ਵਿੱਚ ਬੁਰੀ ਤਰ੍ਹਾਂ ਦੱਸੋ.
+    - ਮੈਂ ਮੈਨੂੰ ਨਿਯੰਤਰਣ ਦੀ ਵਰਤੋਂ ਨੂੰ ਵੇਖਣ ਲਈ ਖਾਲੀ ਖੇਤਰ ਵਿੱਚ ਦੱਸਣਾ ਚਾਹੁੰਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b2-pun/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-paddy-?
+  examples: |
+    - ਮੈਂ ਇੱਕ ਝੋਨੇ ਵਿੱਚ ਪ੍ਰੀਟਲੈਕਲੋਰ ਦੀ ਓਵਰਡੋਜ਼ ਕਿਵੇਂ ਕਰਾਂ?
+    - ਮੈਂ ਪੈਡੀ ਵਿਚ ਪ੍ਰੀਟਲਾਕਲੋਰ ਨਾਲ ਕਿਵੇਂ ਨਜਿੱਠ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b2/sowing-time-of-direct-seedling-of-basmati
+  examples: |
+    - How long is sowing time of Basmati rice?
+    - How much sowing time does direct seedling of basmati take?
+- intent: faq-agri-rice-b2/information-regarding-time-of-nursery-sowing
+  examples: |
+    - Is there any info concerning nursery sowing time?
+    - information regarding time of nursery sowing?
+- intent: faq-agri-rice-b2/information-regarding-for-the-suitable-sowing-time-of-paddyjhona
+  examples: |
+    - How much time should I start sowing paddy seed if I want to save in seeding?
+    - What is the suitable sowing time for paddy(jhona)?
+    - How should I set the suitable sowing time for paddy(jhona)?
+- intent: faq-agri-rice-b2/informtion-regarding-application-of-padan-in-paddy-nursery
+  examples: |
+    - How can we apply for a padan at Paddy's Nursery?
+    - How can I apply Padan in paddy nursery?
+- intent: faq-agri-rice-b2/information-regarding-seed-treatment-of-basmati-seedlings
+  examples: |
+    - What is the best seed treatment plant for basmati seedlings?
+    - What is the best method of seed treatment of basmati seedlings?
+- intent: faq-agri-rice-b2/information-regarding-for-the-seed-treatment-of-paddyjhona
+  examples: |
+    - How we can obtain information regarding for the seed treatment of paddy(jhona)?
+    - How do I start seed treatment of paddy(Jhona)?
+- intent: faq-agri-rice-b2/information-regarding-planting-time-of-basmati-crop
+  examples: |
+    - information regarding planting time of basmati crop?
+    - What are the information regarding planting time for basmati crop?
+- intent: faq-agri-rice-b2/information-regarding-plantation-of-basmati-rice
+  examples: |
+    - How can I know about plantation of basmati rice?
+    - Are there any available information regarding plantation of basmati rice?
+    - information regarding plantation of basmati rice?
+- intent: faq-agri-rice-b2/information-regarding-the-sowing-time-of-rice-in-punjab
+  examples: |
+    - How long till rice can be sown in punjab?
+    - How would you estimate the sowing time of rice in punjab?
+- intent: faq-agri-rice-b2/information-regarding-moisture-content-of-rice
+  examples: |
+    - How does rice have moisture content?
+    - What is the moisture content of rice?
+- intent: faq-agri-rice-b2/information-regarding-when-to-use-weedcide-just-after-transplantation
+  examples: |
+    - How do I use weedcide after transplantation?
+    - What is the best way to use weedcide just after transplant?
+- intent: faq-agri-rice-b2/telll-me-control-weeed-in-blank--field
+  examples: |
+    - Telll me control weeed blank field in blank field in blank field of "till us control weeed" blank field the field weeed.
+    - Telll me control weeed in blank field field Blank field in blank field telll me control weeed in blank field blank field blank field blank field.
+- intent: faq-agri-rice-b2/information-regarding-measures-to-tackle-overdose-usage-of-pretlachlor-in-paddy
+  examples: |
+    - How is pretlachlor used on paddy?
+    - What is the treatment for overdose of pretlachlor in paddy?
+    - How can I tackle pretlachlor in Paddy?
+- intent: faq-agri-rice-b3-pun/information-regarding-root-treatment-of-paddy-nusery-before-transplanting-?
+  examples: |
+    - ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਝੋਨੇ ਦੇ ਨੁਸਰੀ ਦੇ ਜੜ੍ਹਾਂ ਦੇ ਇਲਾਜ ਬਾਰੇ ਜਾਣਕਾਰੀ ?
+    - ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਟ੍ਰਾਂਸਪਲਾਂਟੇਸ਼ਨ ਲਈ ਸਭ ਤੋਂ ਵਧੀਆ ਰੂਟ ਟ੍ਰੀਟਮੈਂਟ ਤਕਨੀਕ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b3-pun/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application-in-paddy-?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ ਵਿਚ ਜੜੀ-ਬੂਟੀਆਂ ਦੇ ਸਪਰੇਅ ਅਤੇ ਯੂਰੀਆ ਐਪਲੀਕੇਸ਼ਨ ਦੇ ਪਾੜੇ ਦਾ ਅੰਦਾਜ਼ਾ ਕਿਵੇਂ ਲਗਾ ਸਕਦਾ ਹਾਂ?
+    - ਝੋਨੇ ਵਿਚ ਜੜੀ-ਬੂਟੀਆਂ ਅਤੇ ਯੂਰੀਆ ਦੀ ਵਰਤੋਂ ਵਿਚ ਕੀ ਅੰਤਰ ਹਨ?
+- intent: faq-agri-rice-b3/information-regarding-root-treatment-of-paddy-nusery-before-transplanting
+  examples: |
+    - How do I use root treatment in paddy nusery before transplanting?
+    - Is it necessary to treat rice root in nusery before transplanting?
+- intent: faq-agri-rice-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application-in-paddy
+  examples: |
+    - In rice plants how much time gap should be there in the herbicide spray and urea spray?
+    - what amount of time gap should be between herbicide spray and urea in rice
+- intent: faq-agri-rice-b4-pun/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didn't-sprout-?
+  examples: |
+    - ਝੋਨੇ ਦੇ ਬੀਜ ਬਾਰੇ ਜਾਣਕਾਰੀ 6 ਦਿਨਾਂ ਦੇ ਬੀਜ ਲਈ ਨਹੀਂ ਬੀਜੀ ਗਈ ?
+    - ਕੀ ਕੋਈ ਬੀਜ ਹੈ ਜੋ 6 ਦਿਨਾਂ ਤੋਂ ਬੀਜਿਆ ਗਿਆ ਹੈ ਪਰ ਇਹ ਨਹੀਂ ਵਧਿਆ?
+    - 5 ਦਿਨਾਂ ਬਾਅਦ ਮੈਨੂੰ ਝੋਨੇ ਦੇ ਬੀਜ ਕਿਵੇਂ ਉੱਗਣਗੇ?
+- intent: faq-agri-rice-b4-pun/information-regarding-paddy-(commom)-seed-storage-in-home-?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ, ਮੰਮੀ ਵਿਚ ਘਰ ਵਿਚ ਬੀਜ ਕਿਵੇਂ ਸਟੋਰ ਕਰਾਂ?
+    - ਝੋਨੇ ਦੇ ਬੀਜਾਂ ਲਈ ਕਿਹੜਾ ਬੀਜ ਭੰਡਾਰਨ ਸਹੂਲਤ ਸਭ ਤੋਂ ਵਧੀਆ ਹੈ?
+- intent: faq-agri-rice-b4-pun/information-regarding-standing-water-in-paddy-field?
+  examples: |
+    - ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਖੜ੍ਹੇ ਪਾਣੀ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਮੈਂ ਕਿਵੇਂ ਦੱਸ ਸਕਦਾ ਹਾਂ ਕਿ ਝੋਨੇ ਦੇ ਖੇਤ ਵਿੱਚ ਖੜਾ ਪਾਣੀ ਮੌਜੂਦ ਹੈ?
+- intent: faq-agri-rice-b4-pun/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water-?
+  examples: |
+    - ਇੱਕ ਝੋਨੇ ਦੀ ਫਸਲ ਪਾਣੀ ਤੋਂ ਬਿਨਾਂ ਕਿੰਨੇ ਦਿਨ ਬਚ ਸਕਦੀ ਹੈ?
+    - ਪਾਣੀ ਵਿਚ ਝੋਨੇ ਦੀਆਂ ਫਸਲਾਂ ਕਿੰਨੇ ਦਿਨ ਬਚ ਜਾਣਗੀਆਂ?
+- intent: faq-agri-rice-b4-pun/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field-?
+  examples: |
+    - ਮੈਂ ਕਣਕ ਦੇ ਤੂੜੀ ਨੂੰ ਝੋਨੇ ਦੀ ਨਰਸਰੀ ਦੇ ਖੇਤ ਤੋਂ ਕਿਵੇਂ ਹਟਾ ਸਕਦਾ ਹਾਂ?
+    - ਮੈਂ ਕਣਕ ਦੇ ਤੂੜੀ ਨੂੰ ਨਰਸਰੀ ਦੇ ਖੇਤ ਤੋਂ ਕਿਵੇਂ ਹਟਾ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-rice-b4/information-regarding-hydroponic-technique
+  examples: |
+    - What are some of the benefits of hydroponics?
+    - What are the details on hydroponic technique?
+    - What are some useful information regarding hydroponic techniques?
+- intent: faq-agri-rice-b4/information-regarding-how-to-manage-water-in-booting-stage
+  examples: |
+    - How do you manage water during booting stage?
+    - How can I manage water in booting stage?
+- intent: faq-agri-rice-b4/information-regarding-to-improve-the-drainage-of-water
+  examples: |
+    - What is necessary to improve drainage of water?
+    - information regarding to improve the drainage of water?
+- intent: faq-agri-rice-b4/information-regarding-technical-names-of-folicur-and-chloro
+  examples: |
+    - How can folicur and chloro be technical names?
+    - What are some of the technical names of folicur and chloro?
+- intent: faq-agri-rice-b4/information-regarding-best-time-for--fodder-crop
+  examples: |
+    - When is best time for fodder crop?
+    - How is the best time to crop fodder crops?
+- intent: faq-agri-rice-b4/information-regarding--paddy-seed-have-been-sown-for-6-days-seed-didnt-sprout
+  examples: |
+    - When paddy seed has been sown for 6 days seed didn't sprout?
+    - What information regarding paddy seed have been sown for 6 days seed didn't sprout?
+    - Are there any seeds that have been sown for 6 days but that didn't sprout?
+- intent: faq-agri-rice-b4/information-regarding-paddy-commom-seed-storage-in-home
+  examples: |
+    - information regarding paddy (commom) seed storage in home ?
+    - How does paddy seed store the seeds for home?
+- intent: faq-agri-rice-b4/information-regarding-standing-water-in-paddy-field
+  examples: |
+    - How do I find out the groundwater standing in paddy field?
+    - How can I tell if standing water in paddy field is present?
+- intent: faq-agri-rice-b4/information-regarding-that-how-many-days-paddy-crop-can-survive-in-the-water
+  examples: |
+    - information regarding that how many days paddy crop can survive in the water ?
+    - How many days paddy crop can survive in water?
+- intent: faq-agri-rice-b4/information-regarding-the-submission-of-farms-to-the-agricultural-office-if-you-do-not-burn-the-paddy-straw
+  examples: |
+    - information regarding the submission of farms to the agricultural office if you do not burn the paddy straw ?
+    - What are the best ways to submit a farm to the agriculture office if you don't burn paddy straw?
+- intent: faq-agri-rice-b4/information-regarding-how-to-remove-wheat-stubble-burning-ash-from-paddy-nursery-field
+  examples: |
+    - How to remove wheat stubble burning ash from paddy nursery field?
+    - How do you remove wheat stubble burning ash from paddy nursery field?
+    - How do I remove wheat stubble burning ash from paddy nursery field?
+- intent: faq-agri-wheat-b0/control-of-manganese-defy-in-wheat
+  examples: |
+    - in my wheat crop how can i cntrl the deficiency of manganese
+    - tell me infrmation regarding control of mangnese deficiency in wheat
+- intent: faq-agri-wheat-b0/information-regarding-control-of-flag-smut-or-leaf-smut-in-wheat
+  examples: |
+    - information regarding how to control flag smut in wheat
+    - tell me how to stop the flag smut from wheat
+- intent: faq-agri-wheat-b0/control-of-green-hopper-in-wheat-crop
+  examples: |
+    - how to solve the wheat green hopper problem.
+    - tell mehow to control the green hopper in wheat
+- intent: faq-agri-wheat-b0/control-of-leaf-folder-in-wheat-crop
+  examples: |
+    - leaf folder problem in wheat crop
+    - ways to control leaf folder wheat problem
+- intent: faq-agri-wheat-b0/information-regarding-control-of-black-rust-in-wheat
+  examples: |
+    - in wheat how to remove black rust.
+    - information regarding control of black rust in wheat.
+    - how to deal with blackrust problem in wheat
+- intent: faq-agri-wheat-b0/information-regarding-green-sundi-in-wheat
+  examples: |
+    - How do I get green sundi in wheat?
+    - Why does green sundi is used in wheat?
+- intent: faq-agri-wheat-b1-pun/broad-leaf-weed-control-of-wheat?
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ
+    - ਕਣਕ ਵਿੱਚ ਚੌੜੇ ਪੱਤੇ ਵਾਲੇ ਨਦੀਨਾਂ ਦੀ ਰੋਕਥਾਮ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b1/how-to-control-phalaris-minor-in-wheat-crop
+  examples: |
+    - information regarding control of phalaris minor in wheat crop ?
+    - information regarding how to control the phalaris minor in the wheat crop ?
+- intent: faq-agri-wheat-b2/late-varieties-of-wheat
+  examples: |
+    - What are the late varieties of wheat?
+    - What are the late wheat varieties?
+- intent: faq-agri-wheat-b3-pun/information-regarding-dose-of-fertilizers-in-wheat-crop-?
+  examples: |
+    - ਕਣਕ ਦੀ ਫ਼ਸਲ 'ਤੇ ਖਾਦਾਂ ਦਾ ਕੀ ਅਸਰ ਹੁੰਦਾ ਹੈ?
+    - ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਖਾਦ ਦੀ ਖੁਰਾਕ ਬਾਰੇ ਕੀ ਅੰਕੜੇ ਹਨ?
+    - ਕਣਕ ਦੀ ਫਸਲ ਲਈ ਖਾਦ ਦੀ ਖੁਰਾਕ ਕੀ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat-&-dose--per-acre-of-it?
+  examples: |
+    - ਤੁਸੀਂ ਕਣਕ ਦੇ ਖੇਤਾਂ ਵਿੱਚ ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ ਦਾ ਛਿੜਕਾਅ ਕਦੋਂ ਕਰਦੇ ਹੋ?
+    - ਕਣਕ ਵਿੱਚ ਮੈਂਗਨੀਜ਼ ਸਲਫੇਟ ਸਪਰੇਅ ਦੇ ਢੁਕਵੇਂ ਸਮੇਂ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b3-pun/information-reagarding-dose-of-urea-after-first-irrigation-?
+  examples: |
+    - ਕੀ ਪਹਿਲੀ ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ ਯੂਰੀਆ ਦੀ ਖੁਰਾਕ ਸਹੀ ਹੈ?
+    - ਸਿੰਚਾਈ ਤੋਂ ਬਾਅਦ ਪੇਟ ਵਿੱਚੋਂ ਕਿੰਨਾ ਯੂਰੀਆ ਕੱਢਿਆ ਜਾਂਦਾ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-control-of-potassium-deficiency-in-wheat-?
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਪੋਟਾਸ਼ੀਅਮ ਦੀ ਕਮੀ ਕੀ ਹੈ?
+    - ਕਣਕ ਵਿੱਚ ਪੋਟਾਸ਼ੀਅਮ ਦੀ ਕਮੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-dose-of-potash-in-wheat?
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਪੋਟਾਸ਼ ਦੀ ਖੁਰਾਕ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਕੀ ਤੁਸੀਂ ਕਣਕ ਵਿੱਚ ਪੋਟਾਸ਼ ਦੀ ਖੁਰਾਕ ਜਾਣਦੇ ਹੋ? ਪੋਟਾਸ਼ ਕੀ ਕਰਦਾ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-method-of-fertilizer-application-in-wheat-?
+  examples: |
+    - ਕਣਕ ਨੂੰ ਖਾਦ ਕਿਵੇਂ ਪਾਈ ਜਾਂਦੀ ਹੈ?
+    - ਮੈਂ ਕਣਕ ਨੂੰ ਖਾਦ ਕਿਵੇਂ ਪਾਵਾਂ?
+    - ਕਣਕ 'ਤੇ ਖਾਦ ਪਾਉਣ ਦਾ ਤਰੀਕਾ ਕੀ ਹੈ ਅਤੇ ਵਿਧੀ ਕਿਵੇਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-deficiency-of-zinc-sulphate-in-wheat-crops-?
+  examples: |
+    - ਕਣਕ ਵਿਚ ਜ਼ਿੰਕ ਦਾ ਕੀ ਪ੍ਰਭਾਵ ਹੈ?
+    - ਜ਼ਿੰਕ ਸਲਫੇਟ ਨਾਲ ਕਣਕ ਦੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਕੀ ਸਮੱਸਿਆ ਹੈ? ਇਹ ਕਿਵੇਂ ਨਿਰਧਾਰਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-control-of-phosphorous-deficiency-in-wheat-?
+  examples: |
+    - ਮੈਂ ਕਣਕ ਵਿੱਚ ਫਾਸਫੋਰਸ ਦੀ ਕਮੀ ਨੂੰ ਕਿਵੇਂ ਕਾਬੂ ਕਰ ਸਕਦਾ ਹਾਂ?
+    - ਕਣਕ ਵਿੱਚ ਫਾਸਫੋਰਸ ਦੀ ਕਮੀ ਨੂੰ ਕਿਵੇਂ ਕੰਟਰੋਲ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding--management-of-alkali-soil-?
+  examples: |
+    - ਅਲਕਾਲੀ ਮਿੱਟੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕੀ ਹੈ?
+    - ਮੈਂ ਖਾਰੀ ਮਿੱਟੀ ਦਾ ਪ੍ਰਬੰਧਨ ਕਿਵੇਂ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-fertilizer-requirement-in-wheat-sown-with-happy-seeder?
+  examples: |
+    - ਕਣਕ ਦੇ ਅਨਾਜ ਵਿਚ ਖਾਦ ਦੀਆਂ ਜ਼ਰੂਰਤਾਂ ਕਿਵੇਂ ਹਨ ਜੋ ਖੁਸ਼ ਬੀਜ ਨਾਲ ਬੀਜੀਆਂ ਜਾਂਦੀਆਂ ਹਨ?
+    - ਕਣਕ ਵਿੱਚ ਖਾਦ ਦੀ ਜ਼ਰੂਰਤ ਬਾਰੇ ਜਾਣਕਾਰੀ ਖੁਸ਼ ਸੀਡਰ ਨਾਲ ਬੀਜਦੀ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/urea-dose-at-sowing-time-?
+  examples: |
+    - ਤੁਸੀਂ ਬਿਜਾਈ ਦੇ ਸਮੇਂ ਯੂਰੀਆ ਦੀ ਮਾਤਰਾ ਨੂੰ ਕਿਵੇਂ ਮਾਪਦੇ ਹੋ?
+    - ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਵੇਲੇ ਮੈਂ ਯੂਰੀਆ ਕਿਵੇਂ ਲੈ ਸਕਦਾ ਹਾਂ?
+    - ਬਿਜਾਈ ਦੇ ਸਮੇਂ ਯੂਰੀਆ ਦੀ ਖੁਰਾਕ ਕਿਵੇਂ ਗਿਣੀ ਜਾਂਦੀ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-application-of-manures-?
+  examples: |
+    - ਮੈਨੂੰ ਖਾਦ ਦੀ ਵਰਤੋਂ ਦੀਆਂ ਜ਼ਰੂਰਤਾਂ ਦੱਸੋ?
+    - ਮੈਨਚਰਜ਼ ਦੀ ਵਰਤੋਂ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-fertilizer-application-?
+  examples: |
+    - ਖਾਦ ਲਈ ਅਰਜ਼ੀ ਫਾਰਮ ਕੀ ਹੈ?
+    - ਖਾਦ ਲਾਗੂ ਕਰਨ ਦੇ ਤਰੀਕੇ ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-suitable-time-of-1st-irrigation?
+  examples: |
+    - ਖੇਤ ਨੂੰ ਸਿੰਜਾਈ ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਕੀ ਹੈ?
+    - ਸਿੰਚਾਈ ਸ਼ੁਰੂ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਕਦੋਂ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-nutrient-management-on-wheat-?
+  examples: |
+    - ਕਣਕ ਉੱਤੇ ਪੌਸ਼ਟਿਕ ਪ੍ਰਬੰਧਨ ਸੰਬੰਧੀ ਪੌਸ਼ਟਿਕ ਜਾਣਕਾਰੀ ਕੀ ਹੈ?
+    - ਮੈਂ ਕਣਕ ਦੀਆਂ ਫਸਲਾਂ ਦੇ ਪੌਸ਼ਟਿਕ ਪ੍ਰਬੰਧਨ ਦੀ ਗਣਨਾ ਕਿਵੇਂ ਕਰ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-control-of-nitrogen-in-wheat-?
+  examples: |
+    - ਨਾਈਟ੍ਰੋਜਨ ਨੂੰ ਕਣਕ ਵਿਚ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?
+    - ਕਣਕ ਵਿਚ ਨਾਈਟ੍ਰੋਜਨ ਲਈ ਨਿਯੰਤਰਣ ਕੀ ਹਨ?
+    - ਕਣਕ ਵਿਚ ਨਾਈਟ੍ਰੋਜਨ ਕਿਉਂ ਪੈਦਾ ਹੁੰਦਾ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-poultry-manure-in-soil-before-wheat-sowing?
+  examples: |
+    - ਕਣਕ ਲਗਾਉਣ ਤੋਂ ਪਹਿਲਾਂ ਮੈਂ ਆਪਣੀ ਮਿੱਟੀ ਵਿੱਚ ਪੋਲਟਰੀ ਖਾਦ ਕਿਵੇਂ ਪਾ ਸਕਦਾ ਹਾਂ?
+    - ਕਣਕ ਦੀ ਬਿਜਾਈ ਤੋਂ ਪਹਿਲਾਂ ਮੈਂ ਮਿੱਟੀ ਵਿੱਚ ਪੋਲਟਰੀ ਖਾਦ ਬਾਰੇ ਸਭ ਤੋਂ ਵਧੀਆ ਜਾਣਕਾਰੀ ਕਿਵੇਂ ਲੈ ਸਕਦਾ ਹਾਂ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-application-of-urea-after-weedicides-in-wheat?
+  examples: |
+    - ਬੂਟੀ ਦੇ ਰਹਿੰਦ ਖੂੰਹਦ ਕਣਕ ਦੇ ਯੂਰੀਆ ਨਾਲ ਕਿਵੇਂ ਪ੍ਰਤੀਕ੍ਰਿਆ ਕਰਦੇ ਹਨ?
+    - ਕਣਕ ਵਿਚ ਬੂਟੀ ਦੇ ਬਾਅਦ ਯੂਰੀਆ ਦੀ ਵਰਤੋਂ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-wheat-sowing
+  examples: |
+    - What is the fertilizer. dose of wheat at showing time?
+    - Do you have any knowledge regarding the fertilizer dose at the time of wheat sowing?
+- intent: faq-agri-wheat-b3/information-regarding-dose-of-potash-in-wheat
+  examples: |
+    - What is the potash dosage in wheat?
+    - potash deficiency in wheat recovery method?
+- intent: faq-agri-wheat-b3/information-regarding-total-fertilizers-dose-in-wheat
+  examples: |
+    - How does total fertilizers dose in wheat differ from other crops?
+    - How do I know if wheat wheat is fertilized?
+    - What is total fertilizer dose for wheat?
+- intent: faq-agri-wheat-b3/information-regarding-the-gap-between-the-herbicide-spray-and-urea-application
+  examples: |
+    - What should be the time difference between herbicide spray and urea?
+    - tell me the time gap that should be between herbicide spray and urea application?
+- intent: faq-agri-wheat-b3/information-regarding-improving-the-quality-of-wheat-grains
+  examples: |
+    - How we improve the quality of wheat grains?
+    - How do I improve the quality of wheat grains?
+- intent: faq-agri-wheat-b3/information-regarding-biofertilizer-in-wheat
+  examples: |
+    - Is there information regarding biofertilizer in wheat?
+    - Which biofertilizers are used for wheat?
+- intent: faq-agri-wheat-b3/application-of-single-super-phosphate-in-wheat
+  examples: |
+    - application of single super phosphate in wheat?
+    - How can I use single superphosphate in Wheat?
+- intent: faq-agri-wheat-b3/information-regarding-application-of-manures
+  examples: |
+    - What are the details regarding application of manure?
+    - info for the application of manure in wheat?
+    - How manure applied in wheat?
+- intent: faq-agri-wheat-b3/information-regarding-the-fertilizers-to-be-used-after-spraying-weedicide
+  examples: |
+    - What fertilizer should I use after spraying weedicide?
+    - What fertilizers should be used after spraying weedicide?
+- intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-application
+  examples: |
+    - why do we use fertilizers
+    - what are fertilizers
+- intent: faq-agri-wheat-b3/information-regarding-the-fertilizer-dose-at-the-time-of-sowing-of-wheat
+  examples: |
+    - How much fertilizer do you use to sow wheat?
+    - What is the information regarding the fertilizer dose at the time of sowing wheat?
+- intent: faq-agri-wheat-b3/information-regarding-nutrient-management-on-wheat
+  examples: |
+    - information regarding nutrient management on wheat ?
+    - What is the nutritional management of wheat?
+- intent: faq-hort-chilli-b0/information-regarding-insectpest-in-chillies
+  examples: |
+    - What are insect pests in chillies?
+    - What is insect-pest in chillies?
+    - What are the insect pests in chillies?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-spider-mites-in-chiili
+  examples: |
+    - Where do I find control of spider mites in chiili?
+    - How do spider mites in Chiili eat spiders?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-diamondback-moth-in-chilll
+  examples: |
+    - How do I control diamond-back moth infestation in chilll?
+    - How can we control the disease in chilll?
+- intent: faq-hort-chilli-b0/information-regarding-to-control-of-root-rot-in-chilli
+  examples: |
+    - Can chilli root rot be treated in a healthy way?
+    - How can I control rot in chillies?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-birds-in-chillies
+  examples: |
+    - What is the information regarding control of birds in chillies?
+    - Is it a good idea to take bird protection in chillies?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-leaf-spot-in-chilli-crop
+  examples: |
+    - What are some options for controlling leaf spot in chilli crop?
+    - What is the best way to control leaf spot in chilli?
+    - How do I control leaf spot in chilli crop?
+- intent: faq-hort-chilli-b0/information-regarding-for-the-control-of-damping-off-disease-in-chillies--crop
+  examples: |
+    - How do damping off disease be controlled in chillies crop?
+    - What is information regarding control of damping off disease in chillies crop?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-chilli-anthracnose
+  examples: |
+    - How are chilli chilli anthracnose treated?
+    - What is the best way to monitor chilli anthracnose?
+- intent: faq-hort-chilli-b0/information-regarding-dose-of-urea-in-chilli
+  examples: |
+    - Dose of urea in chilli is important?
+    - What should I know regarding urea in chilli?
+- intent: faq-hort-chilli-b0/information-regarding-dryness-in-chilli-due-to-rainfall
+  examples: |
+    - Is there dryness in chilli due to rainfall?
+    - What are the causes of dryness in chilli due to rainfall?
+- intent: faq-hort-chilli-b0/information-regarding-the-recommendation-of-manganese-in-chilli
+  examples: |
+    - Is manganese a good ingredient in chilli?
+    - Is manganese a good substitute for hot sauce?
+    - What is the requirement of manganese in chilli?
+- intent: faq-hort-chilli-b0/information-regarding-deficiensy-of-macro-nutrients-in-chili
+  examples: |
+    - What is the source of deficiency of macro nutrients in chili?
+    - Is there any good information regarding deficiensy of macro nutrients in chili?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-mosaic-in-chilli-crop
+  examples: |
+    - How can we eliminate Mosaics in chilli crop?
+    - What is the information regarding control of mosaic in chilli crop?
+- intent: faq-hort-chilli-b0/information-regarding-for-the-control-of-shoot-borer-in-chillies-crop
+  examples: |
+    - How do I control shoot borer in chillies crop?
+    - How do we control shoot borer in chillies crops?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-jassid-in-chilli
+  examples: |
+    - Is there any kind of legalization for jassids in Chilli?
+    - What's the complete information concerning the jassid problem in chilli?
+- intent: faq-hort-chilli-b0/information-regarding-transplanting--time-of-chillies-crops
+  examples: |
+    - How can I get transplanting time of chillies plants?
+    - What is the exact time of transplanting of chillies crops?
+    - How long have chillies been transplanted? How many times?
+- intent: faq-hort-chilli-b1/information-regarding-dose-of-urea-in-an-acre-of-chillies
+  examples: |
+    - Tell me the urea does requirement of chilli
+    - information regarding dose of urea in an acre of chillies?
+- intent: faq-hort-chilli-b1/information-regarding-defloration-in-chilli
+  examples: |
+    - how can i control defloration in chilli?
+    - can I get some info regarding defloration in chilli?
+- intent: faq-hort-chilli-b1/information-regarding-burning-of-fruit-of-chilly
+  examples: |
+    - control measures to prevent chilli fruit from burning
+    - can I get information regarding the prevention of burning of chilly fruit?
+- intent: faq-hort-chilli-b1/information-regarding-manganese-deficiency-in-chillies
+  examples: |
+    - how can i fullfil the manganese deficiency in chilli crop
+    - how to fullfil the deficieny of manganese in chilli crop which has deficieny of it
+- intent: faq-hort-chilli-b1/information-regarding-to-method-of-plant-spacing-chillies
+  examples: |
+    - tell me the planting distance in chilli seeds?
+    - What should be the planting distance in chilli crop?
+    - What must be the planting distance for chilli?
+- intent: faq-hort-chilli-b1/information-regarding-growth-regulator-used-in-chilli-crop-after-sucking-pest-attack
+  examples: |
+    - growth regulator to be used for Chilli crop after sucking pest attack?
+    - tell me about the growth regulator used after the attack of sucking pest in chilli plants
+- intent: faq-hort-chilli-b1/information-ragarding-nutrient-management-in-chillies
+  examples: |
+    - How does it affect nutrient management in chillies?
+    - How can nutrient management in chillies be regulated?
+- intent: faq-hort-chilli-b1/information-regarding-for-the-control-of-flower-drop-in-chillimirch-crop
+  examples: |
+    - Is there any information regarding for control of flower drop in chilli(mirch) crop?
+    - How can I control flower drop in chilli crop?
+- intent: faq-hort-garlic-b0/information-regarding-storage-of-garlic
+  examples: |
+    - information regarding storage of garlic?
+    - garlic crop storage methods
+- intent: faq-hort-garlic-b0/information-regarding-burning-of-tips-in-garlic
+  examples: |
+    - is it possible to stop the tips of garlic from burning
+    - what methods are there to help in prevention of garlic tips from getting burns
+    - How do I prevent burning of garlic?
+- intent: faq-hort-garlic-b0/information-regarding--total--urea-dose-in-garlic
+  examples: |
+    - How much urea dose required in garlic?
+    - What is total urea dose of garlic.
+- intent: faq-hort-garlic-b0/information-regarding-method-of-sowing-of-garlic
+  examples: |
+    - How do you sow garlic?
+    - What is the method to sow garlic in India?
+- intent: faq-hort-garlic-b0/information-regarding-manures-and-fertilizer-application-in-garlic-crop
+  examples: |
+    - How do I use manure and fertilizer to grow garlic?
+    - manure and fertilizer application in garlic
+- intent: faq-hort-garlic-b0/information-regarding-application-of-biozyme-in-garlic
+  examples: |
+    - What is the use of Biozyme in Garlic?
+    - What's the best way to practice Biozyme in garlic?
+- intent: faq-hort-garlic-b0/information-regarding-dose-of-ssp-in-garlicacre
+  examples: |
+    - information regarding dose of ssp in garlic/acre?
+    - What is the dosage of SSP in garlic?
+    - Dose of ssp in garlic/acre?
+- intent: faq-hort-garlic-b0/tell-me--about-nutrient-management-in-garlic
+  examples: |
+    - What is nutrient management of garlic?
+    - What is nutrient management in garlic?
+- intent: faq-hort-garlic-b0/information-regarding-increasing-size-of-garlic
+  examples: |
+    - What is the information regarding increasing size of garlic?
+    - information regarding increasing size of garlic?
+- intent: faq-hort-garlic-b0/information-regarding-control-of-stem-boror-in-garlick
+  examples: |
+    - How can I control stem boror in garlic?
+    - information regarding control of stem boror in garlic?
+- intent: faq-hort-garlic-b0/how-to-pest-control-in-garlic-crop
+  examples: |
+    - How can pest control be done in garlic crop?
+    - How can I control garlic crops with pest control?
+- intent: faq-hort-pea-b0/information-regarding-the-control-of-damping-off-in-pea
+  examples: |
+    - What are the ways of controlling damping off peas?
+    - How are damping off pea contolled?
+    - Can we control the damping-off green pea?
+- intent: faq-hort-pea-b0/information-regarding-for-the-control-of-pea-stem-borer-attack-in-pea-crop
+  examples: |
+    - How to control stem borer from pea?
+    - What are some of the methods of control of stem borers in pea crop?
+- intent: faq-hort-pea-b0/how-to-control-of-flower-droping-in-pea-crop
+  examples: |
+    - How can I control flower dropping and growing in pea crop?
+    - What are the ways to control flower drop in pea crop?
+- intent: faq-hort-pea-b0/information-rgearding-for-the-control-of-grasshopper-in-pea
+  examples: |
+    - rgearding for the control of grasshopper in pea?
+    - information rgearding for the control of grasshopper in pea?
+- intent: faq-hort-pea-b0/information-regarding-for-the-sowing-time-of-pea
+  examples: |
+    - the sowing time of pea vegitable?
+    - information regarding for the sowing time of pea?
+- intent: faq-hort-pea-b0/information-regarding-seed-treatment-in-pea-crop
+  examples: |
+    - What is the information regarding seeds treatment for pea crop?
+    - How do I get the seed treatment for the pea crop?
+    - How is seed treatment related to pea crop?
+- intent: faq-hort-pea-b0/information-regarding-better-yeild-and-growth-in-pea
+  examples: |
+    - information regarding better yeild and growth in pea ?
+    - What are some good tips regarding yeild in pea?
+- intent: faq-hort-pea-b0/control-of-weeds-in-pea-after-40-days-of-sowing
+  examples: |
+    - How can I control weeds in pea after 40 days of sowing?
+    - How do I control weed in pea after 40 days of sowing?
+- intent: faq-hort-pea-b0/information-regarding-temperature-requirement-for-pea-germination
+  examples: |
+    - What is the exact temperature for pea germination in India?
+    - What are the requirements for pea germination?
+- intent: faq-hort-pea-b0/information-regarding-total-fertilizers-dose-in-pea
+  examples: |
+    - What's the total dose of total fertilizers on pea?
+    - What is the total fertilizers dose in pea?
+- intent: faq-hort-pea-b0/information-regarding-the-defficiency-of-sulphur-in-pea
+  examples: |
+    - can you let me know how can i correct the sulphur deficiency in peas
+    - information regarding the deficiency of sulphur in pea ?
+    - please tell me how to handle the deficiency of sulphur in pea
+- intent: faq-hort-pea-b0/information-regarding-nutrient-requirement-at-flowering-stage-in-pea
+  examples: |
+    - how to fullfil the nuterient requirement of pea at the flowering stage
+    - what is the nuterient requirement of pea at the flowering stage?
+- intent: faq-hort-pea-b0/information-regarding-defficiency-of-iron-in-pea
+  examples: |
+    - information regarding deficiency of iron in pea ?
+    - how iron deficincy can be corrected in pea
+- intent: faq-agri-rice-b0-pun/information-regarding-phosphorus-deficincy-in-paddy?
+  examples: |
+    - ਝੋਨੇ ਦੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਫਾਸਫੋਰਸ ਦੀ ਘਾਟ ਦੀਆਂ ਬਿਮਾਰੀਆਂ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾਵੇ?
+    - ਕੀ ਝੋਨੇ ਵਿਚ ਫਾਸਫੋਰਸ ਦੀ ਘਾਟ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਹੈ?
+- intent: faq-agri-rice-b0/infprmation-regarding-control-blb-in-rice-crops
+  examples: |
+    - What is the best plan to control blb in rice crops?
+    - Is there any system for controlling blb in rice crops?
+    - What is the control of BLB in paddy crop?
+- intent: faq-agri-rice-b0/information-regarding-control-of-farrous-deficiency-in-paddy
+  examples: |
+    - information regarding control of ferrous deficiency in paddy?
+    - Identify the problems of iron deficiency in basmati?
+- intent: faq-agri-rice-b0/how-to-control-thirips-in-paddy-crop
+  examples: |
+    - Information on how to fight thirips in rice?
+    - information regarding for the control of thirips?
+    - Where may I get information regarding for the control of thirips?
+- intent: faq-agri-rice-b0/how-to-control-of-plant-hoper-in-paddy-crop
+  examples: |
+    - How can you control your plant hoper?
+    - Information regarding for the control of plant hoper?
+- intent: faq-agri-rice-b2/information-regarding-sowing-time-of--basmati
+  examples: |
+    - What is the sowing time of basmati rice
+    - information regarding sowing time of  basmati?
+- intent: faq-agri-wheat-b0-pun/control-of-weeds-in-wheat
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਦਾ ਕੰਟਰੋਲ ਕਿਵੇਂ ਬਣਾਇਆ ਜਾਵੇ
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਨਦੀਨਾਂ ਨੂੰ ਕਿਵੇਂ ਕਾਬੂ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ
+    - ਕਣਕ ਵਿੱਚ ਬੂਟੀ ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-root-rot-of-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਜੜ
+    - ਕਣਕ ਵਿਚ ਰੂਟ ਸੜਨ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਨਾ ਹੈ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-nematode-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਨੈਮੇਟੌਡ ਬਾਰੇ
+    - ਨੇਮੈਟੋਡ ਕਣਕ ਦੀ ਫਸਲ ਦਾ ਨਿਯੰਤਰਣ
+    - ਨੇਮੈਟੋਡਜ਼ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0/how-to-control-of-powdery-mildew-in-wheat-crop
+  examples: |
+    - information regarding to powdery mildew in wheat crop
+    - How can we control the Powdery mildew infection in wheat crop?
+- intent: faq-agri-wheat-b0/information-regarding-control-of-tella-in-wheat
+  examples: |
+    - what is information regarding control of tella in wheat
+    - how tella can be controled in wheat
+- intent: faq-agri-wheat-b0/control-of-cutworm-in-wheat
+  examples: |
+    - Cutworm control in wheat
+    - treatment of cutworm in wheat crop.
+    - control of cutworm in wheat
+- intent: faq-agri-wheat-b0/information-regarding-pest-control-in-wheat-crop
+  examples: |
+    - information regarding pest control in wheat crop
+    - pest in wheat
+- intent: faq-agri-wheat-b1-pun/information-regarding-how-to-control-kandiali-palak-in-wheat?
+  examples: |
+    - ਅਸੀਂ ਕਣਕ ਵਿਚ ਕੰਡੀਆਲੀ ਪਾਲਕ ਨੂੰ ਕਿਵੇਂ ਰੋਕ ਸਕਦੇ ਹਾਂ
+    - ਕਣਕ ਵਿਚ ਕੰਡੀਆਲੀ ਪਾਲਕ ਤੋਂ ਛੁਟਕਾਰਾ ਪਾਉਣ ਲਈ ਕਿਹੜੇ ਕਦਮ ਚੁੱਕੇ ਜਾ ਸਕਦੇ ਹਨ
+    - ਕਣਕ ਦੀਆਂ ਫਸਲਾਂ ਵਿੱਚ ਕੰਡੀਆਲੀ ਪਾਲਕ ਦੀ ਜਾਣਕਾਰੀ ?
+- intent: faq-agri-wheat-b1/how-to-control-of-broad-leaf-weed-in-wheat-crop
+  examples: |
+    - information regarding the control of broad leaf weeds in wheat ?
+    - how to control of broad leaf weed in wheat crop?
+- intent: faq-agri-wheat-b1/kandiali-palak-in-wheat
+  examples: |
+    - how do we suppose to get rid of kandiali palak from our crop
+    - How does kandiali palak affect wheat?
+- intent: faq-agri-wheat-b3-pun/information-regarding-zinc-deficiency-in-wheat-crop?
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਜ਼ਿੰਕ ਦੀ ਕਮੀ ਨੂੰ ਕੰਟਰੋਲ ਕਰਨ ਦੇ ਯੋਗ ਤਰੀਕੇ?
+    - ਕੀ ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਜ਼ਿੰਕ ਦੀ ਕਮੀ ਬਾਰੇ ਕੋਈ ਜਾਣਕਾਰੀ ਹੈ?
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਜ਼ਿੰਕ ਦੀ ਕਮੀ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-agri-wheat-b3-pun/information-on-dose-of-dap-in-wheat-crop?
+  examples: |
+    - ਕੀ ਕਣਕ ਦੀ ਫਸਲ ਵਿੱਚ ਡੀਏਪੀ ਦੀ ਖੁਰਾਕ ਬਾਰੇ ਜਾਣਕਾਰੀ ਹੈ?
+    - ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਡੈਪ ਦੀ ਵਰਤੋਂ ਕਿਵੇਂ ਕੀਤੀ ਜਾਂਦੀ ਹੈ?
+- intent: faq-agri-wheat-b3/information-regarding-control-of-potassium-deficiency-in-wheat
+  examples: |
+    - Is it possible to control potassium deficiency in wheat?
+    - How can I control potassium in wheat?
+    - Is there any approch to correct potassium deficiency in wheat?
+- intent: faq-agri-wheat-b3/information-regarding-method-of-fertilizer-application-in-wheat
+  examples: |
+    - How is the fertilizer applied to wheat?
+    - What is the method of fertilizer application on wheat and how is the method performed?
+- intent: faq-agri-wheat-b3/information-regarding-deficiency-of-zinc-sulphate-in-wheat-crops
+  examples: |
+    - spray to use for correcting the level of zinc sulphate in wheat crop?
+    - What do you think about deficiency of zinc sulphate in wheat crops?
+- intent: faq-agri-wheat-b3/information-regarding-the-control-of-phosphorous-deficiency-in-wheat
+  examples: |
+    - How can the control of phosphorous deficiency in wheat be done?
+    - Is there any information regarding the control of phosphorous deficiency in wheat?
+    - information regarding the control of phosphorous deficiency in wheat ?
+- intent: faq-agri-wheat-b3/control-of-iron-deficiency-in-wheat
+  examples: |
+    - When wheat has iron deficiency how to recover it
+    - how can i control the iron deficiency in wheat
+- intent: faq-agri-wheat-b3/information-regarding--management-of-alkali-soil
+  examples: |
+    - What are some of the best methods for management of alkali soils?
+    - What methods are there to handle Alkali soil?
+    - How is alkali soil management done?
+- intent: faq-hort-chilli-b0/how-to-control-of-yellow-spots-in-chillies
+  examples: |
+    - How can the yellowing of chillies be prevented?
+    - How can you control yellow spots on chillies?
+- intent: faq-hort-garlic-b0/fertilizers-in-garlic
+  examples: |
+    - What is the total fertilizer dose that should be applied on garlic?
+    - what amount of fertilizers can be used in garlic
+- intent: faq-agri-rice-b0/information-regarding-phasphorus-deficincy-in-paddy
+  examples: |
+    - What is the phosphorus deficiency information regarding phosphorus deficiency in basmati rice?
+    - info regarding phosphorus defi in paddy/rice?
+    - What are the best ways to fix phosphorus deficiency in basmati rice?
+- intent: faq-agri-rice-b0/information-regarding-weed-control-in-pady
+  examples: |
+    - how can I control weeds in rice
+    - information regarding control of weed in basmati rice?
+    - information regarding weed control in paddy
+- intent: faq-agri-wheat-b0-pun/how-to-control-of-root-weevil-in-wheat-crop
+  examples: |
+    - ਅਸੀਂ ਕਣਕ ਵਿਚ ਰੂਟ ਵੀਵਿਲ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦੇ ਹਾਂ?
+    - ਮੈਂ ਕਣਕ ਦੇ ਪੌਦੇ ਵਿਚ ਕਣਕ ਦੀਆਂ ਜੜ੍ਹਾਂ ਦੇ ਗੜੇ ਦੀ ਬਿਮਾਰੀ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰਾਂ?
+- intent: faq-agri-wheat-b0-pun/control-of-stem-borer-in-wheat
+  examples: |
+    - ਮੈਂ ਕਣਕ ਵਿਚ ਸਟੈਮ ਬੋਰ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ
+    - ਕਣਕ ਵਿਚ ਸਟੈਮ ਬੋਰ
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਸਟੈਮ ਬੋਰਰ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-termite
+  examples: |
+    - ਕੀ ਦੂਸ਼ਿਤ ਕਣਕ ਤੋਂ ਹਟਾ ਦਿੱਤਾ ਜਾ ਸਕਦਾ ਹੈ?
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਟਰਮੀਟ ਦਾ ਨਿਯੰਤਰਣ
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-army-worm-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਫੌਜ ਦੇ ਕੀੜੇ ਦਾ ਨਿਯੰਤਰਣ
+    - ਕਣਕ ਵਿਚ ਫੌਜ ਦੇ ਕੀੜੇ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾਵੇ
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਫੌਜ ਦੇ ਕੀੜੇ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਕੀ ਕੀਤਾ ਜਾਣਾ ਚਾਹੀਦਾ ਹੈ?
+- intent: faq-agri-wheat-b0-pun/information-regarding-brown-leaf-in-wheat-crop
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਭੂਰੇ ਪੱਤੇ ਬਾਰੇ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਵਿੱਚ ਭੂਰੇ ਪੱਤੇ ਦੇ ਜੰਗਾਲ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਵਿੱਚ ਭੂਰੇ ਜੰਗਾਲ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?
+- intent: faq-agri-wheat-b0/control-of-black-hopper-in-crop
+  examples: |
+    - wheat black hopper control
+    - methods to control black hopper in wheat
+- intent: faq-agri-wheat-b2-pun/sowing-time-of-late-varieties-of-wheat-in-sandy-soils?
+  examples: |
+    - ਰੇਤਲੀ ਮਿੱਟੀ ਵਿੱਚ ਦੇਰ ਨਾਲ ਕਣਕ ਲਈ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਕਿਵੇਂ ਆ ਰਿਹਾ ਹੈ?
+    - ਰੇਤਲੀ ਮਿੱਟੀ ਵਿੱਚ ਦੇਰ ਨਾਲ ਕਣਕ ਦੀਆਂ ਦੇਰ ਨਾਲ ਕਿਉਂ ਬਿਜਾਈ ਕਰ ਰਹੀਆਂ ਹਨ?
+    - ਰੇਤਲੀ ਮਿੱਟੀ ਵਿੱਚ ਦੇਰ ਨਾਲ ਕਣਕ ਦੀਆਂ ਕਿਸਮਾਂ ਦਾ ਬਿਜਾਈ?
+- intent: faq-agri-wheat-b3/information-regarding-dose-of-fertilizers-in-wheat-crop
+  examples: |
+    - Is there any indication regarding dose of fertilizers in wheat crop?
+    - What are the effects of fertilizers on the wheat crop?
+- intent: faq-agri-wheat-b3/information-regarding-for-suitable-time-of-the-manganese-sulphate-spray-in-wheat--dose--per-acre-of-it
+  examples: |
+    - is there any suitable time for manganese sulphate spray for wheat
+    - When should we spray manganese sulphate on wheat field?
+    - When can I spray manganese sulphate on wheat fields?
+- intent: faq-hort-chilli-b0/information-regarding-control-of-thrips-in-chilles
+  examples: |
+    - How are thrips handled in chilli hath?
+    - information regarding the thrips problem in chilli?
+    - information regarding control of thrips in chilles?
+- intent: faq-hort-chilli-b0/information-regarding-white-fly-in-chilies
+  examples: |
+    - What is white fly in chilies?
+    - Is there any information regarding control of white fly in chilli?
+- intent: faq-hort-garlic-b0/information-regarding-sowing-time-of-garlic
+  examples: |
+    - What is the correct sowing time for garlic?
+    - What is the best time for garlic to sew?
+    - information regarding optimum sowing time of garlic ?
+- intent: faq-agri-rice-b0-pun/information-regarding-control-of-farrous-deficiency-in-paddy?
+  examples: |
+    - ਮੈਂ ਝੋਨੇ ਦੀ ਘਾਟ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕਰ ਸਕਦਾ ਹਾਂ?
+    - ਝੋਨੇ ਵਿੱਚ ਭਿਆਨਕ ਘਾਟ ਨੂੰ ਕਿਵੇਂ ਸੁਧਾਰਿਆ ਜਾ ਸਕਦਾ ਹੈ?
+    - ਝੋਨੇ ਵਿੱਚ ਦੂਰ ਦੀ ਘਾਟ ਨੂੰ ਕਿਵੇਂ ਨਿਯੰਤਰਿਤ ਕੀਤਾ ਜਾ ਸਕਦਾ ਹੈ?
+- intent: faq-agri-rice-b0/spray-for-the-control-of-grasshopper
+  examples: |
+    - tell me the spray to control grasshopper
+    - can i use inseticides to get rid of grasshoppers in my rice field
+- intent: faq-agri-wheat-b0/control-of-kernel-smut-in-wheat-crop
+  examples: |
+    - wheat kernel smut control methods
+    - Control of kernel smut in wheat crop by farmers.
+    - control of kernel smut in wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-root-rot-of-wheat
+  examples: |
+    - how to get rid of root rot issue of wheat
+    - tell m ethe way to get rid of root rot in wheat
+    - root rot problem in wheat crop
+- intent: faq-agri-wheat-b0/information-regarding-nematode-in-wheat-crop
+  examples: |
+    - info regarding the control of nematodes in wheat
+    - information regarding nematode in wheat
+    - information regarding the control of nematode in wheat
+- intent: faq-agri-wheat-b2-pun/sowing-time-for-early-sowing-varieties?
+  examples: |
+    - ਸ਼ੁਰੂਆਤੀ ਬਿਜਾਈ ਦੀਆਂ ਕਿਸਮਾਂ ਲਈ ਸਹੀ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਕੀ ਹੈ?
+    - ਜਲਦੀ ਬਿਜਾਈ ਦੀਆਂ ਕਿਸਮਾਂ ਲਈ ਬਿਜਾਈ ਦਾ ਸਮਾਂ?
+    - ਬਿਜਾਈ ਦੀਆਂ ਕਿਸਮਾਂ ਲਈ ਬੀਜ ਦਾ ਸਮਾਂ ਕੀ ਹੋਣਾ ਚਾਹੀਦਾ ਹੈ?
+- intent: faq-agri-wheat-b2-pun/information-regarding-suitable-varieties-of-wheat-&-its-seed-rate-?
+  examples: |
+    - ਮੈਂ ਕਿਵੇਂ ਜਾਣ ਸਕਦਾ ਹਾਂ ਕਿ ਕਣਕ ਦੀ ਇਕ ਖ਼ਾਸ ਕਿਸਮ ਕਵੀਂ ਹੈ ਅਤੇ ਇਸਦੀ ਬੀਜ ਦਰ?
+    - ਅਸੀਂ ਕਣਕ ਦੀਆਂ ਕਵੀਂ ਕਿਸਮਾਂ ਅਤੇ ਇਸ ਦੇ ਬੀਜ ਦੀਆਂ ਦਰਾਂ ਨੂੰ ਕਿਵੇਂ ਜਾਣਦੇ ਹਾਂ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-deficiency-of-manganese-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਮੈਂਗਨੀਜ਼ ਦੀ ਪੂਰਤੀ ਕਰਨ ਦੇ ਤਰੀਕੇ?
+    - ਮੈਨੂੰ ਕਣਕ ਵਿੱਚ ਮੈਂਗਨੀਜ਼ ਦੀ ਕਮੀ ਬਾਰੇ ਦੱਸੋ
+    - ਕਣਕ ਵਿੱਚ ਮੈਂਗਨੀਜ਼ ਨੂੰ ਸੰਭਾਲਣ ਦੇ ਤਰੀਕੇ?
+- intent: faq-agri-wheat-b3/information-on-dose-of-dap-in-wheat-crop
+  examples: |
+    - What is the use of dap in wheat crops?
+    - How do you dose dap in wheat crop?
+    - Do I need dose dose of dap for wheat crop?
+- intent: faq-hort-garlic-b0/regarding-yellowing-of-leaves-of-garlic
+  examples: |
+    - garlic leaves are becoming yellow
+    - regarding yellowing of leaves of garlic
+    - How can I control the yellowing in garlic crop?
+- intent: faq-hort-pea-b0/information-regarding-control-of-blight-in-pea
+  examples: |
+    - How can I control blight in pea?
+    - How can a plant control blight in a pea?
+    - Is it possible to control blight on pea?
+- intent: faq-agri-rice-b1/information-regarding-dose-of-fertilizers-in-rice
+  examples: |
+    - quantity of fertilizers to be used on rice paddy
+    - What is the dose of fertilizer used in Basmati rice?
+    - Dose of fertilizers on rice?
+- intent: faq-agri-wheat-b2/sowing-time-of-late-varieties-of-wheat-in-sandy-soils
+  examples: |
+    - How long does it take for sowing late wheat varieties in sandy soils?
+    - What is the sowing time of late varieties of wheat in sandy soils?
+    - sowing time of late varieties of wheat in sandy soils?
+- intent: faq-agri-wheat-b3/information-regarding-deficiency-of-manganese-in-wheat
+  examples: |
+    - how to control of manganese deficiency in wheat ?
+    - What are some of the major issues related to manganese in wheat?
+    - tell me about the manganese deficiency in wheat
+- intent: faq-hort-chilli-b0/information-regarding-control-of-leaf-caurl-in-chilli
+  examples: |
+    - How do you control leaf curl in chillies?
+    - What is the best way to remove leaf caurl in chilli crop?
+    - What is the control of leaf curls in chillies?
+- intent: faq-agri-rice-b3-pun/information-regarding-biofertilizer-treatment-of-paddy-nuresery-before-transplanting-?
+  examples: |
+    - ਟਰਾਂਸਪਲਾਂਟੇਸ਼ਨ ਦੌਰਾਨ ਵਰਤੇ ਜਾਂਦੇ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ?
+    - ਝੋਨੇ ਦੀ ਤਬਦੀਲੀ ਦੌਰਾਨ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ ਦੀ ਵਰਤੋਂ ਕੀ ਹੈ?
+    - ਕੀ ਟ੍ਰਾਂਸਪਲਾਂਟ ਕਰਨ ਤੋਂ ਪਹਿਲਾਂ ਝੋਨੇ ਦੇ ਨਰਸਰੀ ਦਾ ਬਾਇਓਫਰਟੀਲਾਈਜ਼ਰ ਇਲਾਜ ਕਰਨਾ ਜ਼ਰੂਰੀ ਹੈ?
+- intent: faq-agri-rice-b3-pun/information-regarding-spacing-between-plant-to-plant-in-basmati-?
+  examples: |
+    - ਬਾਸਮਤੀ ਵਿਚ ਸਪੇਸ ਕਰਨ ਦੀ ਕੀ ਮਹੱਤਤਾ ਹੈ?
+    - ਬਾਸਮਤੀ ਵਿਚ ਪੌਦੇ ਅਤੇ ਪੌਦੇ ਦੇ ਵਿਚਕਾਰ ਸਪੇਸਿੰਗ ਦੀਆਂ ਜ਼ਰੂਰਤਾਂ ਕੀ ਹਨ?
+    - ਬਾਸਮਤੀ ਚਾਵਲ ਦੀ ਦੂਰੀ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b4-pun/information-regarding-waste-decomposer-use-in-paddy-straw-?
+  examples: |
+    - ਕੀ ਝੋਨੇ ਦੇ ਤੂੜੀ ਵਿਚ ਕੂੜਾ ਕਰਕਟ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ?
+    - ਝੋਨੇ ਦੇ ਤੂੜੀ ਵਿਚ ਕੂੜੇ ਦੇ ਸੜਨ ਵਾਲੇ ਵਰਤੋਂ ਲਈ ਪ੍ਰਕਿਰਿਆਵਾਂ ਕੀ ਹਨ?
+    - ਕੂੜੇ ਦੇ ਸੜਨ ਵਾਲੇ ਨੂੰ ਪ੍ਰੋਸੈਸ ਕਰਨ ਦੇ ਸਭ ਤੋਂ ਵਧੀਆ ਤਰੀਕੇ ਕੀ ਹਨ?
+- intent: faq-agri-rice-b4/information-regarding-waste-decomposer-use-in-paddy-straw
+  examples: |
+    - information regarding processing of waste decomposer ?
+    - What are the requirements of processing waste decomposer?
+    - What are the information regarding processing of waste decomposer?
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-karnal-bunt-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿੱਚ ਕਰਨਲ ਬੰਟ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਦੇ ਕਾਰਪ ਵਿਚ ਕਰਨਲ ਬੰਟ ਦਾ ਨਿਯੰਤਰਣ ਕੀ ਹੈ?
+    - ਕਣਕ ਵਿਚ ਕਰਨਲ ਬੰਟ ਲਈ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਵਿੱਚ ਕਰਨਲ ਬੰਟ ਬਾਰੇ ਜਾਣਕਾਰੀ
+- intent: faq-agri-wheat-b0/how-to-control-of-root-weevil-in-wheat-crop
+  examples: |
+    - how to control of root weevil in wheat crop
+    - How do you control weevil root in wheat crop?
+    - how root weevil can be controled in wheatcrop.
+- intent: faq-agri-wheat-b0/information-regarding-brown-leaf-in-wheat-crop
+  examples: |
+    - How to control brown rust in wheat crop?
+    - there is brown leaf in wheat crop how to control it
+    - information regarding control of brown leaf in wheat crop
+- intent: faq-agri-wheat-b3/information-regarding-zinc-deficiency-in-wheat-crop
+  examples: |
+    - Is there information regarding zinc deficiency in wheat crop?
+    - What is the source of zinc deficiency in wheat crop?
+    - How can I fix a zinc deficiency in the wheat crop?
+- intent: faq-agri-rice-b1-pun/information-regarding-dose-of-fertilizers-in-rice-?
+  examples: |
+    - ਬਾਸਮਤੀ ਚਾਵਲ ਦੀ ਫਸਲ ਲਈ ਕਿਹੜਾ ਖਾਦ ਸਭ ਤੋਂ ਵਧੀਆ ਹੈ?
+    - ਕੀ ਖਾਦ ਚਾਵਲ ਦੀ ਮਾਤਰਾ ਨਾਲ ਵਧਦੀ ਹੈ?
+    - ਚਾਵਲ 'ਤੇ ਕਿੰਨੀ ਖਾਦ ਵਰਤੀ ਜਾ ਸਕਦੀ ਹੈ?
+    - ਬਾਸਮਤੀ ਚਾਵਲ ਲਈ ਖਾਦ ਦੀ ਸਹੀ ਖੁਰਾਕ ਕੀ ਹੈ?
+- intent: faq-agri-rice-b3/infroamtion-regarding-biofertilizer-treatment-of-paddy-nuresery-before-transplanting
+  examples: |
+    - In what way biofertilizer used in transplation?
+    - What are the biofertilizers used in transplation?
+    - Biofertilizer used before transplation of paddy?
+- intent: faq-agri-wheat-b0/information-regarding-control-of-army-worm-in-wheat-crop
+  examples: |
+    - What should be done regarding control of army worm in wheat crop?
+    - What is the best technique to control army worm in wheat?
+    - information regarding the army worm in wheat
+- intent: faq-agri-wheat-b2/sowing-time-for-early-sowing-varieties
+  examples: |
+    - What is the sowing time for wheat early varieties?
+    - What is the sowing time of the early wheat?
+    - what is the early wheat sowing time according to you?
+    - How would you predict sowing time of early wheat?
+- intent: faq-agri-wheat-b3-pun/information-regarding-total-dose-of-urea-in-wheat-?
+  examples: |
+    - 1 ਏਕੜ ਕਣਕ ਦੀ ਫ਼ਸਲ ਲਈ ਯੂਰੀਆ ਦੀ ਕਿਹੜੀ ਮਾਪ ਦੀ ਲੋੜ ਹੈ?
+    - 1 ਏਕੜ ਕਣਕ ਦੀ ਫ਼ਸਲ ਲਈ ਕਿੰਨੀ ਮਾਤਰਾ ਵਿੱਚ ਯੂਰੀਆ ਚਾਹੀਦਾ ਹੈ?
+    - ਇੱਕ ਏਕੜ ਕਣਕ ਦੀ ਫ਼ਸਲ ਵਿੱਚ ਕਿੰਨੀ ਮਾਤਰਾ ਵਿੱਚ ਯੂਰੀਆ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ?
+- intent: faq-hort-garlic-b0/regarding-weed-control-in-garlic
+  examples: |
+    - How can we prevent garlic from growing so many weeds?
+    - regarding weed control in garlic
+    - How can I control garlic weeds?
+    - What's the best way to control weeds in garlic?
+- intent: faq-hort-pea-b0/information-regarding-growth-of-peas
+  examples: |
+    - How can I increase the pea?
+    - How can I get information about the growth of peas?
+    - What are proper methods to grow pea?
+- intent: faq-agri-rice-b3/information-regarding-spacing-between-plant-to-plant-in-basmati
+  examples: |
+    - How do I know the spacing of a rice plants?
+    - How much spacing is required in basmati rice plants?
+    - What is the spacing in rice?
+    - What is the importance of spacing in basmati?
+- intent: faq-agri-wheat-b0-pun/control-of-rats-in-wheat-field
+  examples: |
+    - ਚੂਹਿਆਂ ਤੋਂ ਕਣਕ ਦੀ ਸੁਰੱਖਿਆ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਦੇ ਖੇਤ ਵਿੱਚ ਚੂਹੇ ਲਈ ਚੰਗਾ ਨਿਯੰਤਰਣ ਕੀ ਹੈ?
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਚੂਹੇ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਤਰੀਕਾ ਕੀ ਹੈ?
+- intent: faq-agri-wheat-b0/control-of-weeds-in-wheat
+  examples: |
+    - tell me some information regarding control of weeds in wheat
+    - Weed management in wheat
+    - how to weed control of wheat crop
+    - weed control in wheat crop.
+- intent: faq-agri-wheat-b0/nformation-regarding-control-of-karnal-bunt-in-wheat
+  examples: |
+    - what is the info regarding control of karnal bunt in wheat
+    - information regarding karnal bunt in wheat
+    - how to control of karnal bunt in wheat crop
+- intent: faq-agri-wheat-b2-pun/information-regarding-sowing-time-of-wheat?
+  examples: |
+    - ਕਣਕ ਦੀ ਬਿਜਾਈ
+    - ਮੈਨੂੰ ਕਣਕ ਦਾ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਕਿਵੇਂ ਮਿਲਦਾ ਹੈ?
+    - ਕਣਕ ਦਾ ਬਿਜਾਈ ਦਾ ਸਮਾਂ ਕੀ ਸੀ?
+    - ਕਣਕ ਦੇ ਬਿਜਾਈ ਸਮੇਂ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+- intent: faq-hort-pea-b0/information-regarding-caterpiler-in-peas
+  examples: |
+    - Can you help me with information concerning stopping leaf caterpillar attack in pea crop?
+    - information regarding caterpiler in peas?
+    - how to get rid of caterpillers from my pea vegetable crop
+    - what can be sprayed to control caterpiler in pea
+- intent: faq-agri-wheat-b0-pun/how-to-control-of-yellow-rust-in-wheat
+  examples: |
+    - ਕਣਕ ਦੀ ਫਸਲ ਵਿਚ ਪੀਲੇ ਜੰਗਾਲ ਦਾ ਨਿਯੰਤਰਣ
+    - ਕਣਕ ਵਿੱਚ ਪੀਲੇ ਰਸਟਾਂ ਦੇ ਨਿਯੰਤਰਣ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਦੀਆਂ ਫਸਲਾਂ ਵਿਚੋਂ ਪੀਲੇ ਧਾਰੀ ਨੂੰ ਕਿਵੇਂ ਬਾਹਰ ਰੱਖਣਾ ਹੈ
+- intent: faq-agri-wheat-b0/information-regarding-control-of-termite
+  examples: |
+    - information regarding control of termites in wheat
+    - how are termites controlled in wheat
+    - tell me the way to control the termites from wheat crop
+    - how to control termite in wheat crop
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-control-of-sulphur-deficiency-in-wheat-?
+  examples: |
+    - ਕਣਕ ਲਈ ਸਲਫਰ ਦੀ ਕਮੀ ਦੀ ਸਮੱਸਿਆ ਕਿਵੇਂ ਹੱਲ ਕੀਤੀ ਜਾਂਦੀ ਹੈ?
+    - ਕਣਕ ਵਿੱਚ ਸਲਫਰ ਸਿਫ਼ਾਰਸ਼ ਕੀਤੇ ਮੁੱਲ ਤੋਂ ਘੱਟ ਕਿਉਂ ਹੈ?
+    - ਜੇਕਰ ਕਣਕ ਵਿੱਚ ਸਲਫਰ ਦੀ ਇੰਨੀ ਕਮੀ ਹੈ ਤਾਂ ਇਹ ਦੂਸ਼ਿਤ ਕਿਵੇਂ ਹੋ ਸਕਦੀ ਹੈ?
+    - ਤੁਹਾਨੂੰ ਕਣਕ ਵਿੱਚ ਸਲਫਰ ਦੀ ਕਮੀ ਕਿੱਥੇ ਮਿਲਦੀ ਹੈ?
+- intent: faq-agri-wheat-b3/dose-of-urea-for-foliar-spray
+  examples: |
+    - Dose of urea in foliar spray?
+    - dose of urea for foliar spray?
+    - Are there any details relating to the foliar application of urea?
+    - tell me the dose of urea for foliar spray
+- intent: faq-hort-pea-b0/information-regarding-control-of-powdery-mildew-in-pea
+  examples: |
+    - Control of powdery mildew in grapes?
+    - What are some ways to control powdry mildew from pea crop?
+    - How do I control powdery mildew in pea?
+    - how to control powdry mildew in pea crop ?
+- intent: faq-hort-pea-b0/information-regarding-control-of-termite-in-pea
+  examples: |
+    - How do I control termite infestation in Pea plant?
+    - What is the best way to control termite from the pea crop?
+    - How can I control termite in pea?
+- intent: faq-hort-pea-b0/control-of-rotting-in-pea
+  examples: |
+    - What are some methods to reduce rotting of peas?
+    - control of rotting in pea?
+    - Information regarding control of rotting in pea
+    - What is the control of rotting in pea?
+- intent: faq-agri-wheat-b0-pun/information-regarding-control-of-aphid-in-wheat
+  examples: |
+    - ਕਣਕ ਵਿਚ ਐਫਿਡਜ਼ ਦੇ ਨਿਯੰਤਰਣ ਬਾਰੇ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਵਿਚ ਐਫੀਡ ਦਾ ਨਿਯੰਤਰਣ
+    - ਕਣਕ ਵਿੱਚ ਐਫਿਡ ਕੰਟਰੋਲ ਬਾਰੇ ਜਾਣਕਾਰੀ
+    - ਕਣਕ ਵਿੱਚ ਐਫਿਡ ਕੰਟਰੋਲ ਬਾਰੇ ਗਿਆਨ
+- intent: faq-agri-wheat-b0/control-of-stem-borer-in-wheat-crop
+  examples: |
+    - how to control of stem borer in wheat crop
+    - Is there any disease control for wheat stem borer?
+    - tell me the to cntrol the stem borer from wheat crop
+    - for control of stem borer in wheat
+- intent: faq-agri-wheat-b3/information-regarding-total-dose-of-urea-in-wheat
+  examples: |
+    - information regarding total dose of urea in wheat ?
+    - What is quantity requirement of urea for wheat crop?
+    - Is there any information concerning total dose of urea in wheat?
+    - How much is urea required in wheat?
+- intent: faq-hort-garlic-b0/information-regarding-how-to-control-purple-blotch-in-garlic
+  examples: |
+    - What should I do to control purple blotch in garlic?
+    - information regarding for the control of purple blotch disease in garlic crop?
+    - information regarding how to control purple blotch in garlic?
+    - How does purple bloch in garlic treated?
+- intent: faq-hort-pea-b0/information-regarding-control-of-borer-in-pea
+  examples: |
+    - Are there any hygienic solutions for controlling borer in pea?
+    - What is the effective treatment of borers in pea?
+    - How I can control of borer in peas?
+    - How can you control the borer in potatoes?
+- intent: faq-hort-pea-b0/information-regarding-yellowing-of-pea-plants
+  examples: |
+    - How do you prevent pea plants from yellowing?
+    - How to control yellowing in pea crop?
+    - how to control yellowing in pea crop ?
+    - What is the possible prevention of the yellowing of pea plants?
+- intent: faq-hort-pea-b0/information-regarding-control-of-leaf-curl-in-pea
+  examples: |
+    - What is the control of leaf curl in Pea?
+    - How do I control leaf curls on a pea?
+    - How is leaf curl disease treated in pea crop?
+    - How can I control leaf curl in pea?
+- intent: faq-agri-rice-b0-pun/spray-for-the-control-of-grasshopper
+  examples: |
+    - ਤੁਸੀਂ ਭੂਰੇ ਪੱਤੇ ਦੇ ਸਥਾਨ ਦੇ ਵਿਰੁੱਧ ਕਿਵੇਂ ਸਪਰੇਅ ਕਰਦੇ ਹੋ?
+    - ਲਾਨਾਂ ਵਿਚ ਟਾਹਲੀ ਦੇ ਨਿਯੰਤਰਣ ਲਈ ਟਾਹਲੀ ਨੂੰ ਨਿਯੰਤਰਿਤ ਕਰਨ ਲਈ ਸਪਰੇਅ ਕਰੋ.
+    - ਭੂਰੇ ਪੱਤੇ ਦੇ ਸਥਾਨ ਦੇ ਵਿਰੁੱਧ ਸਪਰੇਅ ਦਾ ਸਪਰੇਅ ਕੀ ਹੈ?
+    - ਤੁਸੀਂ ਭੂਰੇ ਪੱਤੇ ਦੇ ਸਥਾਨ ਨੂੰ ਕਿਵੇਂ ਰੋਕ ਸਕਦੇ ਹੋ?
+- intent: faq-agri-wheat-b2/information-regarding-sowing-time-of-wheat
+  examples: |
+    - What is the correct number of days to sow wheat?
+    - What was the sowing time of wheat?
+    - Is there any information regarding sowing time of wheat?
+    - sowing wheat period
+    - How long is the sowing time for wheat?
+- intent: faq-agri-wheat-b3-pun/information-regarding-the-fertilizer.-dose-at-the-time-of-wheat-sowing?
+  examples: |
+    - ਖਾਦ ਦੀ ਖੁਰਾਕ ਬਿਜਾਈ ਦੇ ਸਮੇਂ ਤੋਂ ਕਿੰਨੀ ਵੱਖਰੀ ਹੈ?
+    - ਕਣਕ ਦੀ ਬਿਜਾਈ ਵੇਲੇ ਖਾਦ ਦੀ ਖੁਰਾਕ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਕਣਕ ਬਿਜਾਈ ਦੇ ਸਮੇਂ ਮੈਂ ਖਾਦ ਦੀ ਖੁਰਾਕ ਕਿਵੇਂ ਨਿਰਧਾਰਤ ਕਰਾਂ?
+    - ਖਾਦ ਕਿਵੇਂ ਪਾਉਂਦੀ ਹੈ। ਸਮਾਂ ਦਿਖਾਉਣ 'ਤੇ ਕਣਕ ਦੀ ਆਸਾਨੀ ਨਾਲ ਫਸਲ ਲਈ ਖੁਰਾਕ?
+- intent: faq-agri-wheat-b3/information-regarding-the-control-of-sulphur-deficiency-in-wheat
+  examples: |
+    - what are the ways to kepp sulphur under control
+    - Is there a proper dose of sulphur in wheat?
+    - information regarding the control of sulphur deficiency in wheat ?
+    - If wheat is so deficient in sulphur how could it be contaminated?
+- intent: faq-hort-pea-b0/information-regarding-for-the-control-of-rust-disease-attack-in-pea-crop
+  examples: |
+    - Is there any information regarding for the control of rust disease attack in pea crop?
+    - How do I control rust on rice?
+    - What are the best ways to control rust in pea?
+    - information regarding for the control of rust disease attack in pea crop?
+- intent: faq-agri-wheat-b0/information-regarding-control-of-aphid-in-wheat
+  examples: |
+    - How can I control aphids in wheat crops?
+    - information on the management of aphids in wheat
+    - How can you control aphids in wheat?
+    - control of aphid in wheat
+    - how aphids are controlled in wheat
+- intent: faq-agri-wheat-b0/control-of-yellow-rust-in-wheat
+  examples: |
+    - information regarding control of yellow rusts in wheat
+    - ways to keep yellow stripe rust out of wheat crops
+    - yellow stripe rust control in wheat
+    - methods to control yellow stripe rust in wheat
+- intent: faq-agri-wheat-b0/control-of-rats-in-wheat-field
+  examples: |
+    - control of rats in wheat field
+    - information regarding how to control rat in wheat crop
+    - information regarding how to control rats in wheat
+    - How do I control rats in wheat crop?
+    - protection against rats in wheat field
+- intent: faq-agri-rice-b4-pun/information-regarding-hydroponic-technique-?
+  examples: |
+    - ਹਾਈਡ੍ਰੋਪੋਨਿਕਸ ਬਾਰੇ ਜਾਣਨ ਲਈ ਕੁਝ ਚੰਗੀਆਂ ਚੀਜ਼ਾਂ ਕੀ ਹਨ?
+    - ਕੀ ਤੁਸੀਂ ਮਿੱਟੀ ਵਿਚ ਝੋਨੇ ਦੀ ਤੂੜੀ ਨੂੰ ਸਾੜਦੇ ਹੋ?
+    - ਚਾਰੇ ਦੀ ਫਸਲ ਲਈ ਵਧੀਆ ਸਮਾਂ?
+    - ਜੇ ਤੁਸੀਂ ਝੋਨੇ ਦੀ ਤੂੜੀ ਨੂੰ ਨਹੀਂ ਸਾੜਦੇ, ਤਾਂ ਤੁਹਾਨੂੰ ਇੰਨਾ ਧੋਖਾ ਕਿਉਂ ਦਿੱਤਾ ਜਾਂਦਾ ਹੈ?
+    - ਜੇ ਤੁਸੀਂ ਆਪਣੇ ਝੋਨੇ ਦੀ ਤੂੜੀ ਨੂੰ ਸਾੜ ਦਿੰਦੇ ਹੋ ਤਾਂ ਕੀ ਇਹ ਸੜਦਾ ਹੈ?
+    - ਖੇਤੀਬਾੜੀ ਦਫਤਰ ਨੂੰ ਖੇਤਾਂ ਦੇ ਜਮ੍ਹਾਂ ਕਰਨ ਸੰਬੰਧੀ ਜਾਣਕਾਰੀ ਜੇ ਤੁਸੀਂ ਝੋਨੇ ਦੀ ਤੂੜੀ ਨੂੰ ਨਹੀਂ ਸਾੜਦੇ ?
+    - ਚਾਰੇ ਦੀਆਂ ਫਸਲਾਂ ਨੂੰ ਫਸਲਾਂ ਦਾ ਸਭ ਤੋਂ ਵਧੀਆ ਸਮਾਂ ਕਿਵੇਂ ਹੈ?
+- intent: faq-agri-wheat-b3-pun/information-regarding-wheat-seed-germination-after-rain-?
+  examples: |
+    - ਵਿਕਾਸ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਗਾਂ ਗੋਬਰ ਦੇ ਕੇਕ ਨਾਲ ਜੈਵਿਕ ਗਿਬਰੈਲਿਕ ਐਸਿਡ ਦੀ ਤਿਆਰੀ ਬਾਰੇ ਜਾਣਕਾਰੀ?
+    - ਕਣਕ ਵਿਚ ਖੜ੍ਹੇ ਪਾਣੀ ਦੀ ਕੀ ਸਮੱਸਿਆ ਹੈ?
+    - ਵਿਕਾਸ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਮੈਂ ਗਾਂ ਗੋਬਰ ਦੇ ਕੇਕ ਨਾਲ ਗਿਬਰੈਲਿਕ ਐਸਿਡ ਕਿਵੇਂ ਤਿਆਰ ਕਰ ਸਕਦਾ ਹਾਂ?
+    - ਮੀਂਹ ਤੋਂ ਬਾਅਦ ਕਣਕ ਦੇ ਬੀਜ ਉਗਣ ਦੇ ਸਰੋਤ ਕੀ ਹਨ?
+    - ਮੀਂਹ ਤੋਂ ਬਾਅਦ ਕਣਕ ਦੇ ਬੀਜ ਦਾ ਕਿੰਨਾ ਕੁ ਉਗਣਾ ਮੌਸਮ ਦੀ ਸਥਿਤੀ 'ਤੇ ਨਿਰਭਰ ਕਰਦਾ ਹੈ?
+    - ਬੂਟੀ ਦੇ ਛਿੜਕਾਅ ਤੋਂ ਬਾਅਦ ਕਿਹੜੀਆਂ ਖਾਦਾਂ ਦੀ ਵਰਤੋਂ ਕੀਤੀ ਜਾਣੀ ਚਾਹੀਦੀ ਹੈ?
+    - ਬੂਟੀ ਦੇ ਛਿੜਕਾਅ ਤੋਂ ਬਾਅਦ ਵਰਤੀਆਂ ਜਾਣ ਵਾਲੀਆਂ ਖਾਦਾਂ ਬਾਰੇ ਜਾਣਕਾਰੀ ?
+    - ਵਿਕਾਸ ਨੂੰ ਬਿਹਤਰ ਬਣਾਉਣ ਲਈ ਗਾਂ ਗੋਬਰ ਦੇ ਕੇਕ ਨਾਲ ਗਿਬਰੈਲਿਕ ਐਸਿਡ ਦੀ ਤਿਆਰੀ ਕਿਵੇਂ ਹੈ?
+- intent: goodbye
+  examples: |
+    - goodbye
+    - bye
+- intent: faq-hort-dummycrop-b0
+  examples: |
+    - 
+- intent: greet
+  examples: |
+    - good evening
+    - hi
+- intent: ok
+  examples: |
+    - its over form my side
+    - Done
+    - yeah
+    - yes its' over
+- intent: faq-agri-wheat-b4-pun
+  examples: |
+    - 
+- intent: faq-agri-wheat-b4
+  examples: |
+    - 
+- intent: faq-agri-wheat-b5-pun
+  examples: |
+    - 
+- intent: faq-agri-wheat-b5
+  examples: |
+    - 
+- intent: faq-agri-wheat-b2
+  examples: |
+    - 
+- intent: faq-agri-wheat-b2-pun
+  examples: |
+    - 
+- intent: faq-hort-chilli-b1
+  examples: |
+    - 
+- intent: faq-agri-rice-b4-pun
+  examples: |
+    - 
+- intent: faq-agri-rice-b4
+  examples: |
+    - 
+- intent: faq-agri-rice-b3-pun
+  examples: |
+    - 
+- intent: faq-agri-rice-b3
+  examples: |
+    - 
+- intent: faq-agri-wheat-b1-pun
+  examples: |
+    - 
+- intent: faq-agri-rice-b1-pun
+  examples: |
+    - 
+- intent: faq-agri-wheat-b1
+  examples: |
+    - 
+- intent: faq-agri-rice-b1
+  examples: |
+    - 
+- intent: faq-agri-rice-b2-pun
+  examples: |
+    - 
+- intent: faq-agri-rice-b2
+  examples: |
+    - 
+- intent: faq-hort-chilli-b0
+  examples: |
+    - 
+- intent: faq-hort-garlic-b0
+  examples: |
+    - 
+- intent: faq-agri-rice-b0-pun
+  examples: |
+    - 
+- intent: faq-hort-pea-b0
+  examples: |
+    - 
+- intent: faq-agri-rice-b0
+  examples: |
+    - 
+- intent: faq-agri-wheat-b0-pun
+  examples: |
+    - 
+- intent: faq-agri-wheat-b3
+  examples: |
+    - 
+- intent: faq-agri-wheat-b3-pun
+  examples: |
+    - 
+- intent: faq-agri-wheat-b0
+  examples: |
+    - 
